@@ -1,0 +1,160 @@
+{
+  "Date": "September 2017",
+  "Tournament": "UDS - Kissimmee Florida",
+  "DeckName": "Pendulum Magicians",
+  "DeckId": "6755",
+  "Duelist": "Jeremy Mitchell",
+  "Placed": "2nd Place",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/hPurm2uM_8Y",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Astrograph Sorcerer",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Double Iris Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 3
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Pendulum Sorcerer",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 3
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Star Pendulumgraph",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Pendulumgraph",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Clear Wing",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Starving Venom",
+      "Copies": 1
+    },
+    {
+      "Name": "Timestar Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Time Maiden",
+      "Copies": 2
+    },
+    {
+      "Name": "Zaphion, the Timelord",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 2
+    }
+  ]
+}

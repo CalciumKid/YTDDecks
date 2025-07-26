@@ -1,0 +1,139 @@
+{
+  "Date": "February 2007",
+  "Tournament": "2007 Kings Games Regional,",
+  "DeckName": "Control",
+  "DeckId": "2888",
+  "Duelist": "Rameal Roberson",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Control",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Dekoichi the Battlechanted Locomotive",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 3
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin-Headed Behemoth",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Last Will",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Des Wombat",
+      "Copies": 3
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 2
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ]
+}

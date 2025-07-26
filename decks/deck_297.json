@@ -1,0 +1,200 @@
+{
+  "Date": "May 2014",
+  "Tournament": "YGO Open Atlanta",
+  "DeckName": "Fire Fist Hands",
+  "DeckId": "297",
+  "Duelist": "Michael Patterson",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Fire King",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Brotherhood of the Fire Fist - Bear",
+      "Copies": 1
+    },
+    {
+      "Name": "Coach Soldier Wolfbark",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Hand",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire King Avatar Barong",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire King Avatar Garunix",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire King Avatar Yaksha",
+      "Copies": 3
+    },
+    {
+      "Name": "Ice Hand",
+      "Copies": 3
+    },
+    {
+      "Name": "Circle of the Fire Kings",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Onslaught of the Fire Kings",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Rank-Up-Magic - The Seventh One",
+      "Copies": 1
+    },
+    {
+      "Name": "Rekindling",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Generation Shift",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 2
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Dolkka",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C101: Silent Honor DARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 1
+    },
+    {
+      "Name": "DNA Surgery",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 1
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 1
+    },
+    {
+      "Name": "The Transmigration Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 1
+    }
+  ]
+}

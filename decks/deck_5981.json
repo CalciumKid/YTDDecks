@@ -1,0 +1,220 @@
+{
+  "Date": "February 2017",
+  "Tournament": "OTS Championships",
+  "DeckName": "Kozmo Zoodiac",
+  "DeckId": "5981",
+  "Duelist": "Ueslei Teixeira",
+  "Placed": "1st Place",
+  "Archetype": "Zoodiac",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Dark Eclipser",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Landwalker",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Dark Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Wickedwitch",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Strawman",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Tincan",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal King Bear",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Whiptail",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Barrage",
+      "Copies": 3
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmojo",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Boarbow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Broadbull",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Tigermortar",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

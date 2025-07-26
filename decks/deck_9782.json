@@ -1,0 +1,188 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Dortmund Germany",
+  "DeckName": "Floowandereeze",
+  "DeckId": "9782",
+  "Duelist": "Sven Rebmann",
+  "Placed": "Top 8",
+  "Archetype": "Floowandereeze",
+  "DeckProfile": "www.youtube.com/embed/FoVBjsmRnDo",
+  "MainDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Eglen",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Empen",
+      "Copies": 2
+    },
+    {
+      "Name": "Floowandereeze & Robina",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Stri",
+      "Copies": 2
+    },
+    {
+      "Name": "Floowandereeze & Toccan",
+      "Copies": 2
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiza the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Floowandereeze and the Advent of Adventure",
+      "Copies": 2
+    },
+    {
+      "Name": "Floowandereeze and the Magnificent Map",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze and the Unexplored Winds",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    },
+    {
+      "Name": "Floowandereeze and the Dreaming Town",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Storm",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Evil★Twin's Trouble Sunny",
+      "Copies": 1
+    },
+    {
+      "Name": "Expurrely Noir",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 1
+    },
+    {
+      "Name": "Kikinagashi Fucho",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Raging Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul Lord of Yama",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Storm",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Date": "February 2015",
+  "Tournament": "YCS - Charleston South Carolina",
+  "DeckName": "Qliphorts",
+  "DeckId": "4002",
+  "Duelist": "Brandon Rainey",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Qliphort",
+  "DeckProfile": "www.youtube.com/embed/sUE-IHSK7Xg",
+  "MainDeck": [
+    {
+      "Name": "Performapal Trampolynx",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Carrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Disk",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Helix",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Scout",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Stealth",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Saqlifice",
+      "Copies": 3
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Qlimate Change",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 2
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Apoqliphort Towers",
+      "Copies": 1
+    },
+    {
+      "Name": "Dynatherium",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 3
+    }
+  ]
+}

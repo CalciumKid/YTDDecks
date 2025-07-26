@@ -1,0 +1,192 @@
+{
+  "Date": "June 2019",
+  "Tournament": "WCQ - North America",
+  "DeckName": "Zombie Orcust",
+  "DeckId": "7862",
+  "Duelist": "Garrett Befera",
+  "Placed": "Top 64",
+  "Archetype": "Zombie",
+  "DeckProfile": "www.youtube.com/embed/xH9S39wOuls",
+  "MainDeck": [
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Chupacabra!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Thunderbird!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 3
+    },
+    {
+      "Name": "Doomking Balerdroch",
+      "Copies": 1
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 2
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Cymbal Skeleton",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Harp Horror",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Ancient Cloak",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 1
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 3
+    },
+    {
+      "Name": "World Legacy - \"World Wand\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcustrated Babel",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Crescendo",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Longirsu, the Orcust Orchestrator",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Riser Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "Date": "July 2006",
+  "Tournament": "2006 Shonen Jump: Philadelphia",
+  "DeckName": "3rd - 4th",
+  "DeckId": "2963",
+  "Duelist": "Michael Kohanim",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Warrior",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Asura Priest",
+      "Copies": 1
+    },
+    {
+      "Name": "Blade Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Dekoichi the Battlechanted Locomotive",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Merchant",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 2
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Metamorphosis",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Flame Ghost",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ancient Lamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 2
+    },
+    {
+      "Name": "Goldd, Wu-Lord of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Kuriboh",
+      "Copies": 3
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Swordsman LV2",
+      "Copies": 1
+    },
+    {
+      "Name": "Poison of the Old Man",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    }
+  ]
+}

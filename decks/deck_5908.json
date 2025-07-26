@@ -1,0 +1,180 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - Taylorsville Utah",
+  "DeckName": "Brethren Lightsworn",
+  "DeckId": "5908",
+  "Duelist": "Adam Ganson",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Lightsworn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Eclipse Wyvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Ehren, Lightsworn Monk",
+      "Copies": 1
+    },
+    {
+      "Name": "Electromagnetic Turtle",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 3
+    },
+    {
+      "Name": "Garoth, Lightsworn Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Jain, Lightsworn Paladin",
+      "Copies": 1
+    },
+    {
+      "Name": "Judgment Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightray Diabolos",
+      "Copies": 2
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 2
+    },
+    {
+      "Name": "Minerva, Lightsworn Maiden",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 3
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Left Arm Offering",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Ties of the Brethren",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Galaxy Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Mischief of the Gnomes",
+      "Copies": 1
+    }
+  ]
+}

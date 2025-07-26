@@ -1,0 +1,176 @@
+{
+  "Date": "June 2022",
+  "Tournament": "Regional - Newcastle England",
+  "DeckName": "Adventurer  Therion ABC",
+  "DeckId": "9188",
+  "Duelist": "Joshua Dickerson",
+  "Placed": "3rd Place",
+  "Archetype": "ABC-Dragon Buster",
+  "DeckProfile": "www.youtube.com/embed/0_2KK9ROQ_0",
+  "MainDeck": [
+    {
+      "Name": "A-Assault Core",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "B-Buster Drake",
+      "Copies": 3
+    },
+    {
+      "Name": "C-Crush Wyvern",
+      "Copies": 2
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 2
+    },
+    {
+      "Name": "Union Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "Wandering Gryphon Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 3
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion Discolosseum",
+      "Copies": 3
+    },
+    {
+      "Name": "Unauthorized Reactivation",
+      "Copies": 3
+    },
+    {
+      "Name": "Union Hangar",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 3
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Platinum Gadget",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

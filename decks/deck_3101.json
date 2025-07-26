@@ -1,0 +1,195 @@
+{
+  "Date": "October 2005",
+  "Tournament": "2005 SJC Chicago",
+  "DeckName": "L. Bellido SJC Chi",
+  "DeckId": "3101",
+  "Duelist": "Lazaro Bellido",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "D.D.",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blade Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Sorcerer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Assailant",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Survivor",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Don Zaloog",
+      "Copies": 1
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Merchant",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Swordsman LV2",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "D.D. Assailant",
+      "Copies": 1
+    },
+    {
+      "Name": "Drillroid",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 2
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "King Tiger Wanghu",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Jujitsu Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Mid Shield Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ]
+}

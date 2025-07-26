@@ -1,0 +1,168 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Tennessee",
+  "DeckName": "Des Frog OTK",
+  "DeckId": "64",
+  "Duelist": "Jeremy Hayes",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Frog",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Des Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Flip Flop Frog",
+      "Copies": 2
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Mother Grizzly",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 3
+    },
+    {
+      "Name": "Sea Lancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "T.A.D.P.O.L.E.",
+      "Copies": 1
+    },
+    {
+      "Name": "Des Croaking",
+      "Copies": 3
+    },
+    {
+      "Name": "Inferno Reckless Summon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 3
+    },
+    {
+      "Name": "Damage Condenser",
+      "Copies": 2
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adreus, Keeper of Armageddon",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Socuteboss",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Pure Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 12: Crimson Shadow Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 73: Abyss Splash",
+      "Copies": 1
+    },
+    {
+      "Name": "Shark Fortress",
+      "Copies": 1
+    },
+    {
+      "Name": "Tiras, Keeper of Genesis",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Sea Lancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Full House",
+      "Copies": 1
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Date": "May 2017",
+  "Tournament": "Regional - San Antonio Texas",
+  "DeckName": "Pure Zoodiacs",
+  "DeckId": "6376",
+  "Duelist": "Billy Brake",
+  "Placed": "Top 8",
+  "Archetype": "Zoodiac",
+  "DeckProfile": "www.youtube.com/embed/BTpK57IfAv0",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Black Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Ramram",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Thoroughblade",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Whiptail",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Substitute",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Barrage",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 3
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Boarbow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Broadbull",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Chakanine",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Hammerkong",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Tigermortar",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    }
+  ]
+}

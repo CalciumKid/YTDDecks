@@ -1,0 +1,160 @@
+{
+  "Date": "May 2018",
+  "Tournament": "French nationals",
+  "DeckName": "Pendulum Magicians",
+  "DeckId": "9041",
+  "Duelist": "Anthony Schroetter",
+  "Placed": "Top 32",
+  "Archetype": "Magician",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Astrograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Chronograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragonpulse Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 2
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 2
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Timegazer Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Zefra Metaltron",
+      "Copies": 1
+    },
+    {
+      "Name": "Duelist Alliance",
+      "Copies": 3
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Pendulumgraph",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Pendulumgraph",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Norito the Moral Leader",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Clear Wing",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Dark Rebellion",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Starving Venom",
+      "Copies": 1
+    },
+    {
+      "Name": "Timestar Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cosmic Compass",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Seal Eel",
+      "Copies": 3
+    },
+    {
+      "Name": "Zaphion, the Timelord",
+      "Copies": 3
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 3
+    }
+  ]
+}

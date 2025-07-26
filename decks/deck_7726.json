@@ -1,0 +1,180 @@
+{
+  "Date": "May 2019",
+  "Tournament": "Regional - Greenville South Carolina",
+  "DeckName": "Sky Striker",
+  "DeckId": "7726",
+  "Duelist": "Rodney Hartwell, Jr",
+  "Placed": "Top 16",
+  "Archetype": "Sky Striker",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Jamming Waves!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Eagle Booster",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mecharmory - Hercules Base",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Shark Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Hayate",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kaina",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 3
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 1
+    }
+  ]
+}

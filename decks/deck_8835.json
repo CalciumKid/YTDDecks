@@ -1,0 +1,147 @@
+{
+  "Date": "November 2017",
+  "Tournament": "2004 Columbus, OH Regional - Oct 17",
+  "DeckName": "Pendulum Magicians",
+  "DeckId": "8835",
+  "Duelist": "Shane Nye",
+  "Placed": "2nd Place",
+  "Archetype": "Magician",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Astrograph Sorcerer",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Double Iris Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Pendulum Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 3
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "White Wing Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Duelist Alliance (card)",
+      "Copies": 3
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Star Pendulumgraph",
+      "Copies": 2
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 2
+    },
+    {
+      "Name": "Time Pendulumgraph",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Dark Rebellion",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Starving Venom",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Z-ARC",
+      "Copies": 1
+    },
+    {
+      "Name": "Timestar Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

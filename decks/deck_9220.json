@@ -1,0 +1,188 @@
+{
+  "Date": "October 2022",
+  "Tournament": "YCS - Utrecht Netherlands",
+  "DeckName": "Danger! Scareclaw Tearlaments",
+  "DeckId": "9220",
+  "Duelist": "Daniele Stella",
+  "Placed": "Top 16",
+  "Archetype": "Tearlaments",
+  "DeckProfile": "www.youtube.com/embed/jifyxM0HGhU",
+  "MainDeck": [
+    {
+      "Name": "Albion the Shrouded Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 1
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Reichheart",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Havnis",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Merrli",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Reinoheart",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Scheiren",
+      "Copies": 3
+    },
+    {
+      "Name": "Visas Starfrost",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded in High Spirits",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 3
+    },
+    {
+      "Name": "Primitive Planet Reichphobia",
+      "Copies": 2
+    },
+    {
+      "Name": "Scareclaw Arrival",
+      "Copies": 2
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Sulliek",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "D.3.S. Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Light-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kaleido-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kitkallos",
+      "Copies": 2
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Skull-Mark Ladybug",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 1
+    }
+  ]
+}

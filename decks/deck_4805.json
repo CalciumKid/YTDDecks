@@ -1,0 +1,176 @@
+{
+  "Date": "February 2016",
+  "Tournament": "UDS Invitational - Los Angeles",
+  "DeckName": "Kozmos",
+  "DeckId": "4805",
+  "Duelist": "Ryan Murakami",
+  "Placed": "1st Place",
+  "Archetype": "Kozmo",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo DOG Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Goodwitch",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Wickedwitch",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Tincan",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmojo",
+      "Copies": 3
+    },
+    {
+      "Name": "Oasis of Dragon Souls",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Core",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Refpanel",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 1
+    }
+  ]
+}

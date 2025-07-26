@@ -1,0 +1,192 @@
+{
+  "Date": "April 2013",
+  "Tournament": "YCS - San Diego California",
+  "DeckName": "Genex Karakuri OTK",
+  "DeckId": "590",
+  "Duelist": "Mauricio Pavon Anzaldo",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Karakuri",
+  "DeckProfile": "www.youtube.com/embed/cmm0cBdlOik",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Genex Ally Remote",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Komachi mdl 224 \"Ninishi\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Merchant mdl 177 \"Inashichi\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Ninja mdl 7749 \"Nanashick\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Ninja mdl 919 \"Kuick\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Soldier mdl 236 \"Nisamu\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Strategist mdl 248 \"Nishipachi\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Solar Wind Jammer",
+      "Copies": 3
+    },
+    {
+      "Name": "De-Synchro",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Anatomy",
+      "Copies": 2
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Shogun mdl 00 \"Burei\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Landoise",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Saurus",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Saurus",
+      "Copies": 2
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Shogun mdl 00 \"Burei\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Landoise",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ]
+}

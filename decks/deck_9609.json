@@ -1,0 +1,152 @@
+{
+  "Date": "May 2023",
+  "Tournament": "YCS - Santiago Chile",
+  "DeckName": "Kashtira",
+  "DeckId": "9609",
+  "Duelist": "Jorge Bernal",
+  "Placed": "Top 32",
+  "Archetype": "Kashtira",
+  "DeckProfile": "www.youtube.com/embed/bEGsfZRiBT0",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Mourner & Moonlit Chill",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Riseheart",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Unicorn",
+      "Copies": 3
+    },
+    {
+      "Name": "Scareclaw Kashtira",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Birth",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtiratheosis",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Pressured Planet Wraitsoth",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Armed, the Dragon of Annihilation",
+      "Copies": 2
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Donner, Dagger Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Arise-Heart",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Shangri-Ira",
+      "Copies": 2
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 89: Diablosis the Mind Hacker",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 2
+    }
+  ]
+}

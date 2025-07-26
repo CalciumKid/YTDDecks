@@ -1,0 +1,168 @@
+{
+  "Date": "April 2024",
+  "Tournament": "YCS - Raleigh North Carolina",
+  "DeckName": "Voiceless Voice",
+  "DeckId": "9864",
+  "Duelist": "Thomas Veeramani",
+  "Placed": "Top 32",
+  "Archetype": "Voiceless Voice",
+  "DeckProfile": "www.youtube.com/embed/biVOzClheXw",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Diviner of the Herald",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Lo, the Prayers of the Voiceless Voice",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Saffira, Dragon Queen of the Voiceless Voice",
+      "Copies": 3
+    },
+    {
+      "Name": "Sauravis, Dragon Sage of the Voiceless Voice",
+      "Copies": 1
+    },
+    {
+      "Name": "Sauravis, the Ancient and Ascended",
+      "Copies": 2
+    },
+    {
+      "Name": "Skull Guardian, Protector of the Voiceless Voice",
+      "Copies": 2
+    },
+    {
+      "Name": "Trias Hierarchia",
+      "Copies": 1
+    },
+    {
+      "Name": "Barrier of the Voiceless Voice",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 2
+    },
+    {
+      "Name": "Prayers of the Voiceless Voice",
+      "Copies": 2
+    },
+    {
+      "Name": "Pre-Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Radiance of the Voiceless Voice",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Dyna Mondo",
+      "Copies": 2
+    },
+    {
+      "Name": "Earth Golem @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Starslayer TY-PHON - Sky Crisis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

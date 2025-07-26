@@ -1,0 +1,168 @@
+{
+  "Date": "September 2017",
+  "Tournament": "OTS - Bursville Minnesota",
+  "DeckName": "Pendulum Magicians",
+  "DeckId": "6777",
+  "Duelist": "David Robinson",
+  "Placed": "2nd Place",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/buNm2tljxbw",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Astrograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Double Iris Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Pendulum Sorcerer",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 3
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "White Wing Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Duelist Alliance",
+      "Copies": 3
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Pendulumgraph",
+      "Copies": 1
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 3
+    },
+    {
+      "Name": "Time Pendulumgraph",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Clear Wing",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Dark Rebellion",
+      "Copies": 1
+    },
+    {
+      "Name": "Timestar Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    }
+  ]
+}

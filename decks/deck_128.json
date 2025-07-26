@@ -1,0 +1,123 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Minnesota",
+  "DeckName": "Traptrix Artifacts",
+  "DeckId": "128",
+  "Duelist": "Brian Huro",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Artifact",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Beagalltach",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 3
+    },
+    {
+      "Name": "Kuribandit",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Dionaea",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Myrmeleo",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Ignition",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Double Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 2
+    },
+    {
+      "Name": "Deep Dark Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 3
+    }
+  ]
+}

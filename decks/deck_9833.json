@@ -1,0 +1,180 @@
+{
+  "Date": "July 2024",
+  "Tournament": "WCQ - North America",
+  "DeckName": "Ritual Beasts",
+  "DeckId": "9833",
+  "Duelist": "Jorje Kosho",
+  "Placed": "Top 64",
+  "Archetype": "Ritual",
+  "DeckProfile": "www.youtube.com/embed/90U_w2dN1gU",
+  "MainDeck": [
+    {
+      "Name": "Archnemeses Protos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Nemeses Flag",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Elder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Tamer Lara",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Wen",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Apelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Pettlephin",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Rampengu",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Tamer Lara",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Tamer Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Inheritance",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Steeds",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernal Flame Banshee",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Pitknight Earlie",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Apelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Cannahawk",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Gaiapelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Kimunfalcos",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Nochiudrago",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Reirautari",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Worldsea Dragon Zealantis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Mulcharmy Purulia",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 1
+    },
+    {
+      "Name": "Crossout Designator",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 1
+    }
+  ]
+}

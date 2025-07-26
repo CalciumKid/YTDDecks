@@ -1,0 +1,248 @@
+{
+  "Date": "February 2015",
+  "Tournament": "Regional - Toronto Ontario",
+  "DeckName": "Infernoids",
+  "DeckId": "4030",
+  "Duelist": "Jean Flores",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Infernoid",
+  "DeckProfile": "www.youtube.com/embed/Ya9Y2nRiv6o",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Antra",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Attondel",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Harmadik",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Onuncu",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Patrulea",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Seitsemas",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 2
+    },
+    {
+      "Name": "Burial from a Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 1
+    },
+    {
+      "Name": "Hidden Armory",
+      "Copies": 2
+    },
+    {
+      "Name": "Miracle Dig",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Seer",
+      "Copies": 2
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Needlebug Nest",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Strike Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Strike Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Knight, the Force of Earth",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Pearl",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dark Ruler Ha Des",
+      "Copies": 1
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "The End of Anubis",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Comedian",
+      "Copies": 2
+    },
+    {
+      "Name": "Mischief of the Gnomes",
+      "Copies": 2
+    },
+    {
+      "Name": "Mischief of the Yokai",
+      "Copies": 2
+    }
+  ]
+}

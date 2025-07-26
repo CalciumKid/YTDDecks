@@ -1,0 +1,188 @@
+{
+  "Date": "August 2018",
+  "Tournament": "World Championship - Chiba Japan",
+  "DeckName": "Gouki",
+  "DeckId": "8037",
+  "Duelist": "Jesse Kotton",
+  "Placed": "Top 8",
+  "Archetype": "Gouki",
+  "DeckProfile": "www.youtube.com/embed/vjDBb7yQwis",
+  "MainDeck": [
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Gilasaurus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gouki Headbatt",
+      "Copies": 1
+    },
+    {
+      "Name": "Gouki Octostretch",
+      "Copies": 2
+    },
+    {
+      "Name": "Gouki Riscorpio",
+      "Copies": 1
+    },
+    {
+      "Name": "Gouki Suprex",
+      "Copies": 3
+    },
+    {
+      "Name": "Gouki Twistcobra",
+      "Copies": 3
+    },
+    {
+      "Name": "Junk Forward",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Corruptor Iblee",
+      "Copies": 1
+    },
+    {
+      "Name": "Marauding Captain",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Fossil Dig",
+      "Copies": 2
+    },
+    {
+      "Name": "Gouki Re-Match",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Living Fossil",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Goblin",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Gumblar Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gouki Re-Match",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

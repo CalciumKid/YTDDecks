@@ -1,0 +1,160 @@
+{
+  "Date": "November 2022",
+  "Tournament": "OTS - Manhattan New York",
+  "DeckName": "Mystic Mine Burn",
+  "DeckId": "9363",
+  "Duelist": "Eugene Bazemore",
+  "Placed": "2nd Place",
+  "Archetype": "Mystic Mine",
+  "DeckProfile": "www.youtube.com/embed/5hHZViIl1lo",
+  "MainDeck": [
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 1
+    },
+    {
+      "Name": "Cauldron of the Old Man",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama Duo",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Clara & Rushka, the Ventriloduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 2
+    },
+    {
+      "Name": "Fossil Warrior Skull Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Balelynx",
+      "Copies": 1
+    },
+    {
+      "Name": "Secure Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Ferrijit the Barren Blossom",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind Pegasus @Ignister",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

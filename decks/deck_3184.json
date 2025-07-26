@@ -1,0 +1,256 @@
+{
+  "Date": "October 2005",
+  "Tournament": "2005 Minnesota Regionals",
+  "DeckName": "Zombie Chaos",
+  "DeckId": "3184",
+  "Duelist": "Jim Treptau",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Zombie",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Chiron the Mage",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Assailant",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Marauding Captain",
+      "Copies": 3
+    },
+    {
+      "Name": "Pyramid Turtle",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryu Kokki",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Life",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 1
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Karbonala Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 1
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin-Headed Thunder Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Airknight Parshath",
+      "Copies": 1
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Newdoria",
+      "Copies": 1
+    },
+    {
+      "Name": "Penguin Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Canceller",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Provisions",
+      "Copies": 1
+    },
+    {
+      "Name": "Hammer Shot",
+      "Copies": 1
+    },
+    {
+      "Name": "Mage Power",
+      "Copies": 1
+    },
+    {
+      "Name": "Metamorphosis",
+      "Copies": 1
+    },
+    {
+      "Name": "United We Stand",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    }
+  ]
+}

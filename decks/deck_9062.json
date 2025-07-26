@@ -1,0 +1,188 @@
+{
+  "Date": "May 2012",
+  "Tournament": "2012 YCS Philadelphia",
+  "DeckName": "Chaos Dragons",
+  "DeckId": "9062",
+  "Duelist": "Feng Chen",
+  "Placed": "1st Place",
+  "Archetype": "Chaos",
+  "DeckProfile": "www.youtube.com/embed/tnYqLKx7kHU",
+  "MainDeck": [
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Sorcerer",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Darkflare Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Eclipse Wyvern",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightpulsar Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 3
+    },
+    {
+      "Name": "Red-Eyes Darkness Metal Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Future Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Sacred Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Arcanite Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Five-Headed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Inzektor Exa-Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Victoria",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 3
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ]
+}

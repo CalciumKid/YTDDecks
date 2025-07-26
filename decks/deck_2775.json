@@ -1,0 +1,119 @@
+{
+  "Date": "February 2007",
+  "Tournament": "2007 SJ St. Louis",
+  "DeckName": "Diamond Dude Turbo",
+  "DeckId": "2775",
+  "Duelist": "Miguel Albarran",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Diamond Dude Turbo",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 3
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Stone Excavation",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Provisions",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystik Wok",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ]
+}

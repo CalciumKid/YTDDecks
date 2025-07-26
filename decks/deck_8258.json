@@ -1,0 +1,160 @@
+{
+  "Date": "February 2015",
+  "Tournament": "Regional - Aldershot England",
+  "DeckName": "Burning Abyss",
+  "DeckId": "8258",
+  "Duelist": "Andre Delury",
+  "Placed": "3rd Place",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "www.youtube.com/embed/Q8iPCCjZcTE",
+  "MainDeck": [
+    {
+      "Name": "Alich, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Cagna, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Farfa, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Libic, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Rubic, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask Change II",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked HERO Koga",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Canceller",
+      "Copies": 3
+    },
+    {
+      "Name": "Stellarknight Constellar Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Universe",
+      "Copies": 2
+    }
+  ]
+}

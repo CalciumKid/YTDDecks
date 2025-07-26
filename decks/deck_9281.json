@@ -1,0 +1,196 @@
+{
+  "Date": "June 2022",
+  "Tournament": "National Championship - Denmark",
+  "DeckName": "Libromancer",
+  "DeckId": "9281",
+  "Duelist": "Robin Kröner",
+  "Placed": "2nd Place",
+  "Archetype": "Libromancer",
+  "DeckProfile": "www.youtube.com/embed/fv2S0Ll24J4",
+  "MainDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Arboria",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Illusion of Chaos",
+      "Copies": 3
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Libromancer Agent",
+      "Copies": 1
+    },
+    {
+      "Name": "Libromancer Doombroker",
+      "Copies": 1
+    },
+    {
+      "Name": "Libromancer Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Libromancer Geek Boy",
+      "Copies": 3
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 3
+    },
+    {
+      "Name": "Wandering Gryphon Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Libromancer First Appearance",
+      "Copies": 3
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 3
+    },
+    {
+      "Name": "Libromancer Intervention",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Dagda",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Cherubini, Ebon Angel of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Wonder Magician",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Naturia Rosewhip",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Return",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

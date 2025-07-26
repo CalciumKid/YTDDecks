@@ -1,0 +1,180 @@
+{
+  "Date": "March 2012",
+  "Tournament": "YCS - Longbeach California",
+  "DeckName": "HERO Beat",
+  "DeckId": "6867",
+  "Duelist": "Joe Giorlando",
+  "Placed": "Top 4",
+  "Archetype": "HERO",
+  "DeckProfile": "www.youtube.com/embed/UfaQZOSLb7c",
+  "MainDeck": [
+    {
+      "Name": "Beast King Barbaros",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusader of Endymion",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Neos Alius",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Gemini Spark",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Miracle Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Hero Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 2
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Blade Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Absolute Zero",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Gaia",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Great Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Nova Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO The Shining",
+      "Copies": 3
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Snowman Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

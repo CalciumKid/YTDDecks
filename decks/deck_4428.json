@@ -1,0 +1,172 @@
+{
+  "Date": "September 2015",
+  "Tournament": "Regional - Los Angeles California",
+  "DeckName": "Masked Heroes",
+  "DeckId": "4428",
+  "Duelist": "Herman Cosie",
+  "Placed": "Top 8",
+  "Archetype": "HERO",
+  "DeckProfile": "www.youtube.com/embed/sUxew6FgyPs",
+  "MainDeck": [
+    {
+      "Name": "Elemental HERO Bubbleman",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 3
+    },
+    {
+      "Name": "Goblindbergh",
+      "Copies": 2
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Form Change",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Charge",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Blade Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Champion - Excalibur",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked HERO Anki",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked HERO Dian",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Koga",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Chivalry",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Command",
+      "Copies": 2
+    }
+  ]
+}

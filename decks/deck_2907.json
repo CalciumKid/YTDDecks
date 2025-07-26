@@ -1,0 +1,143 @@
+{
+  "Date": "July 2007",
+  "Tournament": "2007 European Championships",
+  "DeckName": "DDT",
+  "DeckId": "2907",
+  "Duelist": "Michael Marzoli",
+  "Placed": "5th - 8th Place",
+  "Archetype": "DDT",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Metamorphosis",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Widespread Ruin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "D.D. Survivor",
+      "Copies": 2
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Designator",
+      "Copies": 2
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 1
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "Date": "August 2008",
+  "Tournament": "2008 World Championships",
+  "DeckName": "DAD Worlds",
+  "DeckId": "2533",
+  "Duelist": "Chris Bowling",
+  "Placed": "9th - 16th Place",
+  "Archetype": "DAD",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Necro Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Crush Card Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Limit Reverse",
+      "Copies": 3
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Survivor",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Jujitsu Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Wrath",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 1
+    }
+  ]
+}

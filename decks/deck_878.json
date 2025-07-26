@@ -1,0 +1,152 @@
+{
+  "Date": "November 2014",
+  "Tournament": "Regional - Garden City Michigan",
+  "DeckName": "Qliphorts",
+  "DeckId": "878",
+  "Duelist": "Apollo Concepcion",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Qliphort",
+  "DeckProfile": "www.youtube.com/embed/fluQH1AOjfc",
+  "MainDeck": [
+    {
+      "Name": "Apoqliphort Towers",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Trampolynx",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Carrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Disk",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Helix",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Scout",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Shell",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Saqlifice",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

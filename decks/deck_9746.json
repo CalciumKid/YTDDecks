@@ -1,0 +1,192 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Vancouver",
+  "DeckName": "Branded Chimera",
+  "DeckId": "9746",
+  "Duelist": "Andrew Do",
+  "Placed": "Top 32",
+  "Archetype": "Branded",
+  "DeckProfile": "www.youtube.com/embed/g3GfYhP6n_s",
+  "MainDeck": [
+    {
+      "Name": "Aluber the Jester of Despia",
+      "Copies": 2
+    },
+    {
+      "Name": "Big-Winged Berfomet",
+      "Copies": 2
+    },
+    {
+      "Name": "Blazing Cartesia, the Virtuous",
+      "Copies": 2
+    },
+    {
+      "Name": "Cornfield Coatl",
+      "Copies": 2
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 3
+    },
+    {
+      "Name": "Gazelle the King of Mythical Claws",
+      "Copies": 1
+    },
+    {
+      "Name": "Guiding Quem, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Swordknight",
+      "Copies": 2
+    },
+    {
+      "Name": "Springans Kitt",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Mercourier",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded in Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Lost",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Opening",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimera Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Deployment",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Duplication",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Albion the Sanctifire Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimera the King of Phantom Beasts",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Granguignol the Dusk Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Lubellion the Searing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Masquerade the Blazing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Rindbrumm the Striking Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Titaniklad the Ash Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Marionette Mite",
+      "Copies": 3
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    }
+  ]
+}

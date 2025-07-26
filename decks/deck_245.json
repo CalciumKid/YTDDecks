@@ -1,0 +1,180 @@
+{
+  "Date": "May 2014",
+  "Tournament": "YGO Open Orlando",
+  "DeckName": "Mermails",
+  "DeckId": "245",
+  "Duelist": "Gustavo Patino",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Mermail",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aqua Spirit",
+      "Copies": 2
+    },
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 1
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 2
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 2
+    },
+    {
+      "Name": "Genex Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Genex Undine",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssturge",
+      "Copies": 1
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Salvage",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 2
+    },
+    {
+      "Name": "Abyss-sphere",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 2
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysstrite",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Fire Hand",
+      "Copies": 2
+    },
+    {
+      "Name": "Ice Hand",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 2
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "Date": "August 2016",
+  "Tournament": "ARGCS Providence Rhode Island",
+  "DeckName": "Quantum Hippo Domain Monarchs",
+  "DeckId": "5341",
+  "Duelist": "Joseph Bogli",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Monarch",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Kuraz the Light Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Mithra the Thunder Vassal",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Hip Hippo",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantum Red Layer",
+      "Copies": 3
+    },
+    {
+      "Name": "Thestalos the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Return of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Hippo Carnival",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Escalation of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Leeching the Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "January 2017",
+  "Tournament": "Regional - W. Allis Wisconsin",
+  "DeckName": "Demise Paleozoic Frogs",
+  "DeckId": "5859",
+  "Duelist": "Loukas Peterson",
+  "Placed": "Top 8",
+  "Archetype": "Paleozoic",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Debris Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 2
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Leanchoilia",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Marrella",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Olenoides",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Pikaia",
+      "Copies": 1
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Reborn",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cat Shark",
+      "Copies": 2
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 2
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Barrier Statue of the Torrent",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask Change II",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Leanchoilia",
+      "Copies": 1
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 1
+    }
+  ]
+}

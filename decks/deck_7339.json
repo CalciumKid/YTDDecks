@@ -1,0 +1,204 @@
+{
+  "Date": "May 2018",
+  "Tournament": "WCQ - Spain Nationals",
+  "DeckName": "Burning Abyss",
+  "DeckId": "7339",
+  "Duelist": "Ruben Lima",
+  "Placed": "Top 16",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Alich, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Barbar, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Calcab, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Crane Crane",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Farfa, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Libic, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Rubic, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tour Bus From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Pilgrim of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 2
+    }
+  ]
+}

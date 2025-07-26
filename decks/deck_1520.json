@@ -1,0 +1,188 @@
+{
+  "Date": "November 2013",
+  "Tournament": "Regional - Fargo North Dakota",
+  "DeckName": "Battlin' Boxers",
+  "DeckId": "1520",
+  "Duelist": "Tyler ???",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Battlin' Boxer",
+  "DeckProfile": "www.youtube.com/embed/Fg9TBDrJHBs",
+  "MainDeck": [
+    {
+      "Name": "Battlin' Boxer Glassjaw",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlin' Boxer Headgeared",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlin' Boxer Sparrer",
+      "Copies": 2
+    },
+    {
+      "Name": "Battlin' Boxer Switchitter",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Flamvell Firedog",
+      "Copies": 2
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 2
+    },
+    {
+      "Name": "Battlin' Boxing Spirits",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "The Warrior Returning Alive",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Pinpoint Guard",
+      "Copies": 1
+    },
+    {
+      "Name": "Safe Zone",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlin' Boxer Cheat Commissioner",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlin' Boxer Lead Yoke",
+      "Copies": 3
+    },
+    {
+      "Name": "Blade Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 2
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 105: Battlin' Boxer Star Cestus",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 2
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Drain",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 3
+    }
+  ]
+}

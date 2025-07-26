@@ -1,0 +1,168 @@
+{
+  "Date": "June 2013",
+  "Tournament": "WCQ - German Nationals",
+  "DeckName": "Des Frog",
+  "DeckId": "838",
+  "Duelist": "Michael Fridman",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Frog",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Des Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Mother Grizzly",
+      "Copies": 2
+    },
+    {
+      "Name": "Moulinglacia the Elemental Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 3
+    },
+    {
+      "Name": "Sea Lancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "T.A.D.P.O.L.E.",
+      "Copies": 1
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Inferno Reckless Summon",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 3
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 12: Crimson Shadow Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 96: Dark Mist",
+      "Copies": 2
+    },
+    {
+      "Name": "Tiras, Keeper of Genesis",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Flip Flop Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    }
+  ]
+}

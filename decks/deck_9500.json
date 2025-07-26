@@ -1,0 +1,176 @@
+{
+  "Date": "April 2023",
+  "Tournament": "YCS - London England",
+  "DeckName": "Labrynth",
+  "DeckId": "9500",
+  "Duelist": "Minjae Kim",
+  "Placed": "Top 64",
+  "Archetype": "Labrynth",
+  "DeckProfile": "www.youtube.com/embed/N6JE_QsY4Tk",
+  "MainDeck": [
+    {
+      "Name": "Arianna the Labrynth Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Chandraglier",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Cooclock",
+      "Copies": 2
+    },
+    {
+      "Name": "Labrynth Stovie Torbie",
+      "Copies": 3
+    },
+    {
+      "Name": "Lady Labrynth of the Silver Castle",
+      "Copies": 3
+    },
+    {
+      "Name": "Lovely Labrynth of the Silver Castle",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Labyrinth",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 1
+    },
+    {
+      "Name": "Big Welcome Labrynth",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Welcome Labrynth",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dispatchparazzi",
+      "Copies": 1
+    },
+    {
+      "Name": "Donner, Dagger Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 3
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mereologic Aggregator",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 22: Zombiestein",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Arms Bucephalus II",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Keldo the Sacred Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Lord of the Heavenly Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudora the Sword Oracle",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Full Force Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 4
+    }
+  ]
+}

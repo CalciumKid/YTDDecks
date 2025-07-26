@@ -1,0 +1,128 @@
+{
+  "Date": "August 2022",
+  "Tournament": "Yu-Gi-Oh! Championship Series Rio de Janeiro 2022",
+  "DeckName": "Mystic Mine Burn",
+  "DeckId": "9128",
+  "Duelist": "Joao Lima",
+  "Placed": "1st Place",
+  "Archetype": "Mystic Mine",
+  "DeckProfile": "www.youtube.com/embed/Djbm-xpSwko",
+  "MainDeck": [
+    {
+      "Name": "Card of Demise",
+      "Copies": 1
+    },
+    {
+      "Name": "Cauldron of the Old Man",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama Duo",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Arcana Extra Joker",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D/D Wave Oblivion King Caesar Ragnarok",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Nebula Neos",
+      "Copies": 3
+    },
+    {
+      "Name": "Koalo-Koala",
+      "Copies": 3
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 3
+    }
+  ]
+}

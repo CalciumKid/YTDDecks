@@ -1,0 +1,204 @@
+{
+  "Date": "November 2018",
+  "Tournament": "YCS - Sao Paulo Brazil",
+  "DeckName": "Burning Abyss",
+  "DeckId": "7619",
+  "Duelist": "Hugo Fukuda",
+  "Placed": "Top 32",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "www.youtube.com/embed/BA5c4XuemWo",
+  "MainDeck": [
+    {
+      "Name": "Alich, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Barbar, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Calcab, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Dragon Levianeer",
+      "Copies": 2
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Fabled Soulkius",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Farfa, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Libic, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Orbital Hydralander",
+      "Copies": 2
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Sekka's Light",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Pilgrim of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Trisbaena",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

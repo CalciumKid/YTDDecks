@@ -1,0 +1,208 @@
+{
+  "Date": "June 2007",
+  "Tournament": "2007 US Nationals",
+  "DeckName": "Aggro Bomb",
+  "DeckId": "2750",
+  "Duelist": "Justin Womack",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Aggro Bomb",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Goldd, Wu-Lord of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Injection Fairy Lily",
+      "Copies": 3
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Lightning",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Extermination",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Thestalos the Firestorm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 3
+    }
+  ]
+}

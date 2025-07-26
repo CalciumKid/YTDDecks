@@ -1,0 +1,244 @@
+{
+  "Date": "July 2007",
+  "Tournament": "2007 SJ Detroit",
+  "DeckName": "Perfect Circle",
+  "DeckId": "2855",
+  "Duelist": "Andre Borges",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Perfect Circle",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Thestalos the Firestorm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Metamorphosis",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 2
+    },
+    {
+      "Name": "Widespread Ruin",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Vehicroid Jumbo Drill",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Aqua Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Flame Ghost",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Steam Gyroid",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Vehicroid Jumbo Drill",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ]
+}

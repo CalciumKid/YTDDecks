@@ -1,0 +1,164 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Vancouver",
+  "DeckName": "Unchained",
+  "DeckId": "9760",
+  "Duelist": "David Flores",
+  "Placed": "Top 8",
+  "Archetype": "Unchained",
+  "DeckProfile": "www.youtube.com/embed/ZA_j83PuDZk",
+  "MainDeck": [
+    {
+      "Name": "Abominable Unchained Soul",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Disaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul of Sharvara",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Shyama",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Aruha",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Twins - Rakea",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Twins - Sarama",
+      "Copies": 2
+    },
+    {
+      "Name": "Abomination's Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Abominable Chamber of the Unchained",
+      "Copies": 2
+    },
+    {
+      "Name": "Escape of the Unchained",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Deviser King Deus Machinex",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Stone King Darius",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Wave High King Caesar",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul Lord of Yama",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Anguish",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul of Rage",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Ice Dragon's Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Tracks",
+      "Copies": 1
+    }
+  ]
+}

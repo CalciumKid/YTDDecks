@@ -1,0 +1,188 @@
+{
+  "Date": "June 2017",
+  "Tournament": "UDS Qualifier - San Pedro Sula",
+  "DeckName": "Demise True Draco",
+  "DeckId": "6438",
+  "Duelist": "Abraham Adolfo Milla Reyes",
+  "Placed": "1st Place",
+  "Archetype": "True Draco",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dinomight Knight, the True Dracofighter",
+      "Copies": 3
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Mariamne, the True Dracophoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Master Peace, the True Dracoslaying King",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 3
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Full Armor Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gauntlet Launcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Strike Bounzer",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 2
+    }
+  ]
+}

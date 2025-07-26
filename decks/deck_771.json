@@ -1,0 +1,172 @@
+{
+  "Date": "July 2013",
+  "Tournament": "WCQ - North American Championship",
+  "DeckName": "Dragon Rulers",
+  "DeckId": "771",
+  "Duelist": "Nicholas Testa",
+  "Placed": "33rd - 64th Place",
+  "Archetype": "Dragon",
+  "DeckProfile": "www.youtube.com/embed/ZBzUnoCDOz0",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 3
+    },
+    {
+      "Name": "Burner, Dragon Ruler of Sparks",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragunity Corsesca",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning, Dragon Ruler of Drafts",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Reactan, Dragon Ruler of Pebbles",
+      "Copies": 2
+    },
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 3
+    },
+    {
+      "Name": "Stream, Dragon Ruler of Droplets",
+      "Copies": 2
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 3
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Sacred Sword of Seven Stars",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Rejuvenation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Sacred Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Shogun mdl 00 \"Burei\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Horus the Black Flame Dragon LV6",
+      "Copies": 1
+    },
+    {
+      "Name": "Horus the Black Flame Dragon LV8",
+      "Copies": 1
+    },
+    {
+      "Name": "Psi-Blocker",
+      "Copies": 2
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Last Day of Witch",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ]
+}

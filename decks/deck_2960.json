@@ -1,0 +1,272 @@
+{
+  "Date": "November 2006",
+  "Tournament": "2006 SJ Anaheim",
+  "DeckName": "Toolbox Warrior",
+  "DeckId": "2960",
+  "Duelist": "Kirk Leonhardt",
+  "Placed": "5th - 8th Place",
+  "Archetype": "D.D.",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 3
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Necrofear",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Assailant",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Scout Plane",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Survivor",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "The Immortal of Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Big Bang Shot",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 2
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Level Limit - Area B",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Ultimate Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber-Stein",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Necrofear",
+      "Copies": 1
+    },
+    {
+      "Name": "Don Zaloog",
+      "Copies": 1
+    },
+    {
+      "Name": "Granadora",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "The Immortal of Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravity Bind",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ]
+}

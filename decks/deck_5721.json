@@ -1,0 +1,143 @@
+{
+  "Date": "October 2016",
+  "Tournament": "Ycs Minneapolis 2016 - Generation Duels",
+  "DeckName": "Exodia",
+  "DeckId": "5721",
+  "Duelist": "John Hammond",
+  "Placed": "2nd Place",
+  "Archetype": "Exodia",
+  "DeckProfile": "www.youtube.com/embed/vfzcCKO0QpY",
+  "MainDeck": [
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Exodia the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Left Arm of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Left Leg of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Makyura the Destructor",
+      "Copies": 1
+    },
+    {
+      "Name": "Right Arm of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Right Leg of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Science Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Chicken Game",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Factory of Mass Production",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Choice",
+      "Copies": 1
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "White Elephant's Gift",
+      "Copies": 3
+    },
+    {
+      "Name": "Legacy of Yata-Garasu",
+      "Copies": 1
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Jinzo",
+      "Copies": 3
+    },
+    {
+      "Name": "Mechanicalchaser",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimension Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 3
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 3
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Sixth Sense",
+      "Copies": 1
+    }
+  ]
+}

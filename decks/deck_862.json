@@ -1,0 +1,184 @@
+{
+  "Date": "December 2014",
+  "Tournament": "Regional - Ottawa Ontario",
+  "DeckName": "Burning Abyss w/ Crane Crane",
+  "DeckId": "862",
+  "Duelist": "Daniel Nguyen",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Alich, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Calcab, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Crane Crane",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Rubic, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Astral Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 2
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Edge Levia",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Command",
+      "Copies": 3
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Universe",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Date": "May 2018",
+  "Tournament": "National Championship - Austria",
+  "DeckName": "Sky Strikers",
+  "DeckId": "7269",
+  "Duelist": "Jakob Heher",
+  "Placed": "Top 8",
+  "Archetype": "Sky Striker",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Jamming Waves!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Eagle Booster",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecharmory - Hercules Base",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    }
+  ]
+}

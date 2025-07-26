@@ -1,0 +1,184 @@
+{
+  "Date": "October 2014",
+  "Tournament": "Regional - Garden City Michigan",
+  "DeckName": "Teleport Karakuri",
+  "DeckId": "932",
+  "Duelist": "Robert Moore",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Karakuri",
+  "DeckProfile": "www.youtube.com/embed/Es3NhsClycU",
+  "MainDeck": [
+    {
+      "Name": "Genex Neutron",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Komachi mdl 224 \"Ninishi\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Merchant mdl 177 \"Inashichi\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Ninja mdl 7749 \"Nanashick\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Ninja mdl 919 \"Kuick\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Soldier mdl 236 \"Nisamu\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Strategist mdl 248 \"Nishipachi\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Watchdog mdl 313 \"Saizan\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic Commander",
+      "Copies": 2
+    },
+    {
+      "Name": "Solar Wind Jammer",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Iron Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Shogun mdl 00 \"Burei\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Panzer Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ally of Justice Cycle Reader",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Mischief of the Yokai",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

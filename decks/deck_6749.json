@@ -1,0 +1,148 @@
+{
+  "Date": "September 2017",
+  "Tournament": "Regional - Munich Germany",
+  "DeckName": "Frog Paleozoics",
+  "DeckId": "6749",
+  "Duelist": "Joshua Schmidt",
+  "Placed": "1st Place",
+  "Archetype": "Paleozoic",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 2
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Leanchoilia",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Marrella",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Olenoides",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cat Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 45: Crumble Logos the Prophet of Demolition",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Cursed Javelin",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    }
+  ]
+}

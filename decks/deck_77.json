@@ -1,0 +1,232 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Ohio",
+  "DeckName": "Spirits",
+  "DeckId": "77",
+  "Duelist": "Michael Edrial",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Spirit",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aratama",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Gyakutenno Megami",
+      "Copies": 2
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Perfection",
+      "Copies": 3
+    },
+    {
+      "Name": "Izanami",
+      "Copies": 2
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Nikitama",
+      "Copies": 3
+    },
+    {
+      "Name": "Rasetsu",
+      "Copies": 2
+    },
+    {
+      "Name": "Yaksha",
+      "Copies": 1
+    },
+    {
+      "Name": "Yamato-no-Kami",
+      "Copies": 2
+    },
+    {
+      "Name": "Advanced Ritual Art",
+      "Copies": 2
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 3
+    },
+    {
+      "Name": "Dawn of the Herald",
+      "Copies": 1
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujinki Amaterasu",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Cheer Girl",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 25: Force Focus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Strike Bounzer",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujinki Amaterasu",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Cheer Girl",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Pearl",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 25: Force Focus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Strike Bounzer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

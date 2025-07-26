@@ -1,0 +1,180 @@
+{
+  "Date": "April 2015",
+  "Tournament": "Regional - Nanuet New York",
+  "DeckName": "Burning Abyss",
+  "DeckId": "4093",
+  "Duelist": "Mike Krusinowski",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Alich, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Crane Crane",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Farfa, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Libic, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Rubic, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask Change II",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Wrath",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki Break",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Spell Canceller",
+      "Copies": 2
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror of the Ice Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ]
+}

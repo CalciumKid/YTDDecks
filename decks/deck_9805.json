@@ -1,0 +1,192 @@
+{
+  "Date": "March 2023",
+  "Tournament": "OTS Championship Tirana",
+  "DeckName": "Phantom Knights",
+  "DeckId": "9805",
+  "Duelist": "Landi Miri",
+  "Placed": "4th Place",
+  "Archetype": "Phantom Knight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Kagemucha Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Psychic Tracker",
+      "Copies": 2
+    },
+    {
+      "Name": "Psychic Wheeleder",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Ancient Cloak",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Ragged Gloves",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Stained Greaves",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Torn Scales",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights' Rank-Up-Magic Launch",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Wing",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Arc Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cherubini, Ebon Angel of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Requiem Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Raider's Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Date": "February 2020",
+  "Tournament": "Regional - Barranquilla Colombia",
+  "DeckName": "@Ignister",
+  "DeckId": "8533",
+  "Duelist": "Andres Torres",
+  "Placed": "1st Place",
+  "Archetype": "@Ignister",
+  "DeckProfile": "www.youtube.com/embed/0sNGcwUgBqc",
+  "MainDeck": [
+    {
+      "Name": "Achichi @Ignister",
+      "Copies": 3
+    },
+    {
+      "Name": "Balancer Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Bururu @Ignister",
+      "Copies": 2
+    },
+    {
+      "Name": "Doyon @Ignister",
+      "Copies": 2
+    },
+    {
+      "Name": "Lady Debug",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Pikari @Ignister",
+      "Copies": 3
+    },
+    {
+      "Name": "A.I.dle Reborn",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Ignister A.I.Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyberse Wicckid",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Templar @Ignister",
+      "Copies": 2
+    },
+    {
+      "Name": "Firewall Dragon Darkfluid",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Light Dragon @Ignister",
+      "Copies": 2
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Zeroboros",
+      "Copies": 1
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Update Jammer",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind Pegasus @Ignister",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gizmek Kaku, the Supreme Shining Sky Stag",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    }
+  ]
+}

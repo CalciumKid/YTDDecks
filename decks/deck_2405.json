@@ -1,0 +1,180 @@
+{
+  "Date": "June 2010",
+  "Tournament": "2010 Championship Series - Chicago",
+  "DeckName": "Herald of Perfection",
+  "DeckId": "2405",
+  "Duelist": "Jeff Jones",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Herald of Perfection",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 3
+    },
+    {
+      "Name": "Freya, Spirit of Victory",
+      "Copies": 1
+    },
+    {
+      "Name": "Gyakutenno Megami",
+      "Copies": 1
+    },
+    {
+      "Name": "Happy Lover",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Perfection",
+      "Copies": 3
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Mokey Mokey",
+      "Copies": 3
+    },
+    {
+      "Name": "Ruin, Queen of Oblivion",
+      "Copies": 1
+    },
+    {
+      "Name": "Sonic Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Advanced Ritual Art",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Factory of Mass Production",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Sacred Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Avenging Knight Parshath",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Consecrated Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Hanewata",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    }
+  ]
+}

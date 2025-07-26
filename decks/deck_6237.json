@@ -1,0 +1,220 @@
+{
+  "Date": "April 2017",
+  "Tournament": "Regional - Madison Wisconsin",
+  "DeckName": "Burning Infernoids",
+  "DeckId": "6237",
+  "Duelist": "Tristan Aman",
+  "Placed": "Top 8",
+  "Archetype": "Infernoid",
+  "DeckProfile": "www.youtube.com/embed/zXUVGIkA1c8",
+  "MainDeck": [
+    {
+      "Name": "Alich, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Barbar, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Calcab, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 3
+    },
+    {
+      "Name": "Farfa, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Antra",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Attondel",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Decatron",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Devyaty",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Harmadik",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Onuncu",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Patrulea",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Seitsemas",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Sjette",
+      "Copies": 1
+    },
+    {
+      "Name": "Libic, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "That Grass Looks Greener",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Imagination",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Vanishment",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Feast",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Pilgrim of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Tierra",
+      "Copies": 2
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "Date": "October 2019",
+  "Tournament": "Regional - Detroit Michigan",
+  "DeckName": "Endymion",
+  "DeckId": "8286",
+  "Duelist": "Nathan Lahman",
+  "Placed": "10th Place",
+  "Archetype": "Endymion",
+  "DeckProfile": "www.youtube.com/embed/AUXCeVXtA1M",
+  "MainDeck": [
+    {
+      "Name": "Chronograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Endymion, the Mighty Master of Magic",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Magister of Endymion",
+      "Copies": 2
+    },
+    {
+      "Name": "Mythical Beast Garuda",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Jackal",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Jackal King",
+      "Copies": 2
+    },
+    {
+      "Name": "Mythical Beast Master Cerberus",
+      "Copies": 3
+    },
+    {
+      "Name": "Reflection of Endymion",
+      "Copies": 1
+    },
+    {
+      "Name": "Servant of Endymion",
+      "Copies": 3
+    },
+    {
+      "Name": "Timegazer Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Citadel of Endymion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Institution",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Power Mastery",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Beat Cop from the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Day-Breaker the Shining Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Norito the Moral Leader",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefra Metaltron",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Crimsonite",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Mythical Bestiary",
+      "Copies": 2
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

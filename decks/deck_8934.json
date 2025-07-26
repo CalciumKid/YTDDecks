@@ -1,0 +1,172 @@
+{
+  "Date": "May 2018",
+  "Tournament": "Destiny Duelmen Series Germany",
+  "DeckName": "44-Card Mekk Knight Invoked",
+  "DeckId": "8934",
+  "Duelist": "Robert Assing",
+  "Placed": "12th Place",
+  "Archetype": "Invoked Windwitch",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Blue Sky",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Indigo Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Mekk-Knight Purple Nightfall",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Red Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Magellanica",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Jinzo",
+      "Copies": 3
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

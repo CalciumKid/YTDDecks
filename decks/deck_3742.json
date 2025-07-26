@@ -1,0 +1,160 @@
+{
+  "Date": "January 2015",
+  "Tournament": "ARG Circuit Series Orlando",
+  "DeckName": "Burning Abyss",
+  "DeckId": "3742",
+  "Duelist": "Jackie Bernal",
+  "Placed": "1st   16th Place",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Alich, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Calcab, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Rubic, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Night Beam",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Karma Cut",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 1
+    },
+    {
+      "Name": "Muzurhythm the String Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 2
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 2
+    },
+    {
+      "Name": "De-Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 2
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    }
+  ]
+}

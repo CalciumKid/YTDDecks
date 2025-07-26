@@ -1,0 +1,160 @@
+{
+  "Date": "May 2015",
+  "Tournament": "Regional - Garden City Michigan",
+  "DeckName": "Star Seraph Volcanics",
+  "DeckId": "4183",
+  "Duelist": "Kevin Beers",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Ritual",
+  "DeckProfile": "www.youtube.com/embed/fTEa1Hxb2b0",
+  "MainDeck": [
+    {
+      "Name": "Royal Firestorm Guards",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Seraph Scepter",
+      "Copies": 3
+    },
+    {
+      "Name": "Star Seraph Sovereignty",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Volcanic Rocket",
+      "Copies": 3
+    },
+    {
+      "Name": "Volcanic Scattershot",
+      "Copies": 3
+    },
+    {
+      "Name": "Volcanic Shell",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Planter",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Blaze Accelerator Reload",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Digvorzhak, King of Heavy Industry",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Ouroboros",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Constellar Diamond",
+      "Copies": 2
+    },
+    {
+      "Name": "Stellarknight Delteros",
+      "Copies": 1
+    },
+    {
+      "Name": "Tellarknight Ptolemaeus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Lose 1 Turn",
+      "Copies": 3
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Date": "November 2016",
+  "Tournament": "YCS - Liverpool England",
+  "DeckName": "Galaxy ABC-Dragon Buster",
+  "DeckId": "5696",
+  "Duelist": "Kenny De Detter",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "ABC-Dragon Buster",
+  "DeckProfile": "www.youtube.com/embed/4JJoL4swO-4",
+  "MainDeck": [
+    {
+      "Name": "A-Assault Core",
+      "Copies": 3
+    },
+    {
+      "Name": "B-Buster Drake",
+      "Copies": 3
+    },
+    {
+      "Name": "C-Crush Wyvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Galaxy Soldier",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Gadget",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Photon Thrasher",
+      "Copies": 2
+    },
+    {
+      "Name": "Silver Gadget",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Transmodify",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Union Hangar",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Full House",
+      "Copies": 2
+    },
+    {
+      "Name": "Grisaille Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Union Scramble",
+      "Copies": 1
+    }
+  ]
+}

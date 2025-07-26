@@ -1,0 +1,176 @@
+{
+  "Date": "February 2018",
+  "Tournament": "ARG 2018 Yugioh Winter NJ State Championship",
+  "DeckName": "Demise True Draco",
+  "DeckId": "7063",
+  "Duelist": "Daniel Isidro",
+  "Placed": "4th Place",
+  "Archetype": "True Draco",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 3
+    },
+    {
+      "Name": "Master Peace, the True Dracoslaying King",
+      "Copies": 2
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 3
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 1
+    },
+    {
+      "Name": "Minerva, the Exalted Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Norito the Moral Leader",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Eater of Millions",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    }
+  ]
+}

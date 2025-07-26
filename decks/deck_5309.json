@@ -1,0 +1,192 @@
+{
+  "Date": "August 2016",
+  "Tournament": "ARGCS 25K - Oaks Pennsylvania",
+  "DeckName": "Majespecter Pendulum Magicians",
+  "DeckId": "5309",
+  "Duelist": "Johnny Li",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Magician",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonpit Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Raccoon - Bunbuku",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Unicorn - Kirin",
+      "Copies": 3
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 1
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Lizardraw",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Monkeyboard",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Odd-Eyes Light Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Odd-Eyes Unicorn",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Pendulum Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Igknight Reload",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Odd-Eyes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Iris",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Majester Paladin, the Ascending Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Rebellion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "Date": "August 2019",
+  "Tournament": "World Championship - Berlin",
+  "DeckName": "Trickstar",
+  "DeckId": "8033",
+  "Duelist": "Kohei Tsukimitsu",
+  "Placed": "Top 8",
+  "Archetype": "Trickstar",
+  "DeckProfile": "www.youtube.com/embed/r8ieCKevIL4",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Corobane",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Lycoris",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Live Stage",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Crackdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Reincarnation",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Diplexer Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Security Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Holly Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "Date": "September 2014",
+  "Tournament": "YGO Open Chicago",
+  "DeckName": "Burning Abyss",
+  "DeckId": "261",
+  "Duelist": "Rafael Mendonza",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Rank-Up-Magic Astral Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Karma Cut",
+      "Copies": 1
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki Break",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 2
+    },
+    {
+      "Name": "Crimson Knight Vampire Bram",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 2
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 49: Fortune Tune",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Tiras, Keeper of Genesis",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Neo-Spacian Grand Mole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chain Disappearance",
+      "Copies": 3
+    },
+    {
+      "Name": "Deep Dark Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 3
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    }
+  ]
+}

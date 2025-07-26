@@ -1,0 +1,176 @@
+{
+  "Date": "April 2023",
+  "Tournament": "YCS - London England",
+  "DeckName": "Melffy Spright",
+  "DeckId": "9495",
+  "Duelist": "Marvin Kammerer",
+  "Placed": "Top 16",
+  "Archetype": "Spright",
+  "DeckProfile": "www.youtube.com/embed/SbxqgZBhMPM",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Deep Sea Diva",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Melffy Catty",
+      "Copies": 1
+    },
+    {
+      "Name": "Melffy Pinny",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Nimble Angler",
+      "Copies": 2
+    },
+    {
+      "Name": "Nimble Beaver",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Scissors",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Carrot",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Jet",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 4
+    },
+    {
+      "Name": "Spright Gamma Burst",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Smashers",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Starter",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Double Cross",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Melffy of the Forest",
+      "Copies": 1
+    },
+    {
+      "Name": "Merry Melffys",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 2: Ninja Shadow Mosquito",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Corruptor Iblee",
+      "Copies": 1
+    },
+    {
+      "Name": "Volcanic Scattershot",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

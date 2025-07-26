@@ -1,0 +1,196 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Nevada",
+  "DeckName": "Noble Knights",
+  "DeckId": "100",
+  "Duelist": "Will Leo",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Noble Knight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Gwenhwyfar, Queen of Noble Arms",
+      "Copies": 2
+    },
+    {
+      "Name": "Ignoble Knight of Black Laundsallyn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lady of the Lake",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Artorigus",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Borz",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Brothers",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Drystan",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Eachtar",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Gawayn",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Gwalchavad",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Medraut",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Arms - Arfeudutyr",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Caliburn",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Excaliburn",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Arms - Gallatin",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms of Destiny",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knights of the Round Table",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Artorigus, King of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujintei Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignoble Knight of High Laundsallyn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Sacred Noble Knight of King Artorigus",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 2
+    },
+    {
+      "Name": "DNA Surgery",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Date": "September 2018",
+  "Tournament": "Regional - San Jose California",
+  "DeckName": "Sky Strikers",
+  "DeckId": "7387",
+  "Duelist": "Kenny Nguyen",
+  "Placed": "4th Place",
+  "Archetype": "Sky Striker",
+  "DeckProfile": "www.youtube.com/embed/eo8QJ1QT874",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Jamming Waves!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Mecharmory - Hercules Base",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Date": "August 2020",
+  "Tournament": "Yu-Gi-Oh! Remote Duel - TCG Invitational",
+  "DeckName": "Synchron Dogmatika Eldlich",
+  "DeckId": "8671",
+  "Duelist": "Ryan Levine",
+  "Placed": "Top 8",
+  "Archetype": "Synchro",
+  "DeckProfile": "www.youtube.com/embed/LHHyzO49E0s",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Ecclesia, the Virtuous",
+      "Copies": 2
+    },
+    {
+      "Name": "Dogmatika Fleurdelis, the Knighted",
+      "Copies": 2
+    },
+    {
+      "Name": "Eldlich the Golden Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 3
+    },
+    {
+      "Name": "Mecha Phantom Beast O-Lion",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cursed Eldland",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Nadir Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Tuning",
+      "Copies": 3
+    },
+    {
+      "Name": "Conquistador of the Golden Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 1
+    },
+    {
+      "Name": "Eldlixir of Scarlet Sanguine",
+      "Copies": 3
+    },
+    {
+      "Name": "Huaquero of the Golden Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Barricadeborg Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Ruler, the Chaotic Magical Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Quandax",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkross",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Martial Metal Marcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Auroradon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Titaniklad the Ash Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    }
+  ]
+}

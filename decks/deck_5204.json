@@ -1,0 +1,200 @@
+{
+  "Date": "June 2016",
+  "Tournament": "State Championship - Kansas",
+  "DeckName": "Kozmos",
+  "DeckId": "5204",
+  "Duelist": "Hunter Giffin",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Kozmo",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Dark Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Wickedwitch",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Soartroopers",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Strawman",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Tincan",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmojo",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 77: The Seven Sins",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 84: Pain Gainer",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Magnaliger",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kozmo Dark Eclipser",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

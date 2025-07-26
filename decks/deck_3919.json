@@ -1,0 +1,168 @@
+{
+  "Date": "August 2014",
+  "Tournament": "ARGCS Providence",
+  "DeckName": "Laval Artifacts",
+  "DeckId": "3919",
+  "Duelist": "James Chow",
+  "Placed": "1st   15th Place",
+  "Archetype": "Artifact",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 3
+    },
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuribandit",
+      "Copies": 2
+    },
+    {
+      "Name": "Laval Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Laval Lakeside Lady",
+      "Copies": 2
+    },
+    {
+      "Name": "Laval Volcano Handmaiden",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Ignition",
+      "Copies": 3
+    },
+    {
+      "Name": "Double Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Molten Conduction Field",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Rekindling",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Call Of The Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Dustflame Blast",
+      "Copies": 1
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Tiras, Keeper of Genesis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 3
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 1
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ]
+}

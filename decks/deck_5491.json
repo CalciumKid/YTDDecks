@@ -1,0 +1,188 @@
+{
+  "Date": "September 2016",
+  "Tournament": "YCS - Mexico City",
+  "DeckName": "Galaxy Blue-Eyes White Dragon",
+  "DeckId": "5491",
+  "Duelist": "Lintu Sotomayor",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Blue-Eyes",
+  "DeckProfile": "www.youtube.com/embed/DIK-uh4ePRQ",
+  "MainDeck": [
+    {
+      "Name": "Blue-Eyes Alternative White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Spirit of White",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Galaxy Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Master with Eyes of Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Sage with Eyes of Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Ancients",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Legend",
+      "Copies": 1
+    },
+    {
+      "Name": "Cards of Consonance",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Return of the Dragon Lords",
+      "Copies": 3
+    },
+    {
+      "Name": "Silver's Cry",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Concealing Light",
+      "Copies": 2
+    },
+    {
+      "Name": "The Melody of Awakening Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Alsei, the Sylvan High Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Azure-Eyes Silver Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Spirit Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Full Armor Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 107: Galaxy-Eyes Tachyon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

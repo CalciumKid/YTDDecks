@@ -1,0 +1,192 @@
+{
+  "Date": "December 2021",
+  "Tournament": "Regional - Newport Wales",
+  "DeckName": "Phantom Knights",
+  "DeckId": "9321",
+  "Duelist": "Tom Austin",
+  "Placed": "2nd Place",
+  "Archetype": "Phantom Knight",
+  "DeckProfile": "www.youtube.com/embed/k7Tbtzk7QT8",
+  "MainDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Junk Forward",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Psychic Tracker",
+      "Copies": 2
+    },
+    {
+      "Name": "Psychic Wheeleder",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Ancient Cloak",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Ragged Gloves",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Stained Greaves",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Torn Scales",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Dagda",
+      "Copies": 1
+    },
+    {
+      "Name": "Cherubini, Ebon Angel of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Verte Anaconda",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ]
+}

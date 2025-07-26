@@ -1,0 +1,228 @@
+{
+  "Date": "March 2017",
+  "Tournament": "YCS - Prague Czech Republic",
+  "DeckName": "60-Card Zoodiac Infernoids",
+  "DeckId": "6468",
+  "Duelist": "Zuccato Fabio",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Zoodiac",
+  "DeckProfile": "www.youtube.com/embed/1VYYi_kpNSo",
+  "MainDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Antra",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Attondel",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Decatron",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Devyaty",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Harmadik",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Onuncu",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Patrulea",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Seitsemas",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Sjette",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Black Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Whiptail",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Substitute",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Left Arm Offering",
+      "Copies": 2
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "That Grass Looks Greener",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Void Imagination",
+      "Copies": 2
+    },
+    {
+      "Name": "Void Vanishment",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Barrage",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Feast",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Combo",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bujintei Kagutsuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Tierra",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Boarbow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Broadbull",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Tigermortar",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "El Shaddoll Grysta",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Hedgehog",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "Date": "August 2019",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Orcust",
+  "DeckId": "8067",
+  "Duelist": "Courtney Hostler",
+  "Placed": "6th Place",
+  "Archetype": "Orcust",
+  "DeckProfile": "www.youtube.com/embed/G-5mMzi5HQ8",
+  "MainDeck": [
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Thunderbird!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Exodius the Ultimate Forbidden Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Farfa, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Gizmek Orochi, the Serpentron Sky Slasher",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 2
+    },
+    {
+      "Name": "Mecha Phantom Beast O-Lion",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcust Cymbal Skeleton",
+      "Copies": 2
+    },
+    {
+      "Name": "Orcust Harp Horror",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Sauravis, the Ancient and Ascended",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Recycler",
+      "Copies": 3
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy - \"World Wand\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcustrated Babel",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    },
+    {
+      "Name": "Orcust Crescendo",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 2
+    },
+    {
+      "Name": "Zero-Day Blaster",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cherubini, Ebon Angel of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 2
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Longirsu, the Orcust Orchestrator",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

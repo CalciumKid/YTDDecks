@@ -1,0 +1,168 @@
+{
+  "Date": "December 2016",
+  "Tournament": "Regional - Bismarck North Dakota",
+  "DeckName": "Phantom Knightsworn",
+  "DeckId": "5738",
+  "Duelist": "Andrew Harrison",
+  "Placed": "5th Place",
+  "Archetype": "Phantom Knight",
+  "DeckProfile": "www.youtube.com/embed/_9QFV5vZiCw",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 3
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Minerva, Lightsworn Maiden",
+      "Copies": 2
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Ancient Cloak",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Ragged Gloves",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Angel of Zera",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 3
+    }
+  ]
+}

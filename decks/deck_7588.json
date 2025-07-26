@@ -1,0 +1,168 @@
+{
+  "Date": "January 2019",
+  "Tournament": "WCQ - Santiago Chile",
+  "DeckName": "Danger! Thunder Dragon",
+  "DeckId": "7588",
+  "Duelist": "Juan Presas",
+  "Placed": "3rd Place",
+  "Archetype": "Thunder",
+  "DeckProfile": "www.youtube.com/embed/cIJeXBWm5X8",
+  "MainDeck": [
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 3
+    },
+    {
+      "Name": "Dotscaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Amber",
+      "Copies": 1
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Grinder Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragondark",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragonhawk",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonmatrix",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonroar",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Titan",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

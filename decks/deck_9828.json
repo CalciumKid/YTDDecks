@@ -1,0 +1,164 @@
+{
+  "Date": "May 2024",
+  "Tournament": "OTS Championchip Reken",
+  "DeckName": "Runick Stun",
+  "DeckId": "9828",
+  "Duelist": "Phillip Rospenda",
+  "Placed": "4th Place",
+  "Archetype": "Runick",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card of Demise",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Dispelling",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Flashing Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Fountain",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Freezing Curses",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Golden Droplet",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Smiting Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Tip",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Time-Tearing Morganite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Synchro Zone",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 1
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Freki the Runick Fangs",
+      "Copies": 2
+    },
+    {
+      "Name": "Geri the Runick Fangs",
+      "Copies": 3
+    },
+    {
+      "Name": "Hugin the Runick Wings",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Munin the Runick Wings",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Hayate",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 2
+    },
+    {
+      "Name": "Sleipnir the Runick Mane",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 1
+    },
+    {
+      "Name": "Grave of the Super Ancient Organism",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

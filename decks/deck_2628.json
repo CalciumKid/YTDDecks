@@ -1,0 +1,159 @@
+{
+  "Date": "April 2008",
+  "Tournament": "2008 SJ Minneapolis",
+  "DeckName": "Dark Armed Return",
+  "DeckId": "2628",
+  "Duelist": "Daniel Cisneros",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Dark Armed Return",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Valley",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Zerato",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Prometheus, King of the Shadows",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Fires of Doomsday",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Crush Card Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 2
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Survivor",
+      "Copies": 2
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Canceller",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

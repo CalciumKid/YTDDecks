@@ -1,0 +1,188 @@
+{
+  "Date": "March 2017",
+  "Tournament": "YCS - Prague Czech Republic",
+  "DeckName": "60-Card Paleozoic Frogs",
+  "DeckId": "6469",
+  "Duelist": "Guaragna Pasquale",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Paleozoic",
+  "DeckProfile": "www.youtube.com/embed/bPyIngKPWiY",
+  "MainDeck": [
+    {
+      "Name": "Absolute King Back Jack",
+      "Copies": 3
+    },
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 2
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "That Grass Looks Greener",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Disappearance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Griefing",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Apocrypha",
+      "Copies": 2
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Marrella",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Olenoides",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Universe",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cat Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 45: Crumble Logos the Prophet of Demolition",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 2
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Forced Back",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

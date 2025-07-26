@@ -1,0 +1,172 @@
+{
+  "Date": "April 2018",
+  "Tournament": "Regional - LA California",
+  "DeckName": "Pendulum Magician FTK",
+  "DeckId": "7231",
+  "Duelist": "Noah Terpening",
+  "Placed": "11th Place",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/hPuW-scJTqA",
+  "MainDeck": [
+    {
+      "Name": "Astrograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Chronograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Mythical Beast Jackal King",
+      "Copies": 2
+    },
+    {
+      "Name": "Mythical Beast Master Cerberus",
+      "Copies": 3
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Stargazer Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Darkwurm",
+      "Copies": 3
+    },
+    {
+      "Name": "Supreme King Gate Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Gate Zero",
+      "Copies": 2
+    },
+    {
+      "Name": "Timegazer Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Xiangke Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 2
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Independent Nightingale",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Starving Venom",
+      "Copies": 2
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefra Metaltron",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

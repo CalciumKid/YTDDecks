@@ -1,0 +1,172 @@
+{
+  "Date": "February 2013",
+  "Tournament": "2013 YCS Miami",
+  "DeckName": "Virus Dark World",
+  "DeckId": "1903",
+  "Duelist": "Edward Toussaint",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Dark World",
+  "DeckProfile": "www.youtube.com/embed/zTYiwQ7ttq8",
+  "MainDeck": [
+    {
+      "Name": "Broww, Huntsman of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Goldd, Wu-Lord of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Grapha, Dragon Lord of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Sillva, Warlord of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Snoww, Unlight of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 2
+    },
+    {
+      "Name": "Trance Archfiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragged Down into the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gateway to Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "The Gates of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Deck Devastation Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adreus, Keeper of Armageddon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 2
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Neo Galaxy-Eyes Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 12: Crimson Shadow Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Smog",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    }
+  ]
+}

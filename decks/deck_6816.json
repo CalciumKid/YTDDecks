@@ -1,0 +1,172 @@
+{
+  "Date": "October 2017",
+  "Tournament": "YCS - London England",
+  "DeckName": "Invoked",
+  "DeckId": "6816",
+  "Duelist": "Mario Argiro",
+  "Placed": "Top 8",
+  "Archetype": "Invoked Windwitch",
+  "DeckProfile": "www.youtube.com/embed/DjGYgNzlRNM",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gofu the Vague Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Ib the World Chalice Priestess",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 3
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Magellanica",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

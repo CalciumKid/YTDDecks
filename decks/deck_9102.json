@@ -1,0 +1,176 @@
+{
+  "Date": "January 2022",
+  "Tournament": "Remote Duel Yu-Gi-Oh! Championship Series North America 2022",
+  "DeckName": "Tri-Brigade Lyrilusc",
+  "DeckId": "9102",
+  "Duelist": "Kamal Crooks-valdez",
+  "Placed": "Top 64",
+  "Archetype": "Lyrilusc",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Beryl Canary",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyrilusc - Celestine Wagtail",
+      "Copies": 2
+    },
+    {
+      "Name": "Lyrilusc - Cobalt Sparrow",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyrilusc - Sapphire Swallow",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyrilusc - Turquoise Warbler",
+      "Copies": 3
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Fraktall",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-Brigade Kerass",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Kitt",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Nervall",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyrilusc - Bird Call",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Warriors Oath - Double Dragon Lords",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Ensemblue Robin",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Recital Starling",
+      "Copies": 2
+    },
+    {
+      "Name": "Number F0: Utopic Draco Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Simorgh, Bird of Sovereignty",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Ferrijit the Barren Blossom",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Rugal the Silver Sheller",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Shuraig the Ominous Omen",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

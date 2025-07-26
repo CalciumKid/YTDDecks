@@ -1,0 +1,216 @@
+{
+  "Date": "November 2013",
+  "Tournament": "Regional - Guyaquil Ecuador",
+  "DeckName": "Evilswarm",
+  "DeckId": "1517",
+  "Duelist": "Jonatan Oviedo",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Evilswarm",
+  "DeckProfile": "www.youtube.com/embed/H_6lNyIoNXo",
+  "MainDeck": [
+    {
+      "Name": "Evilswarm Azzathoth",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Castor",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Heliotrope",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Kerykeion",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Ketos",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Mandragora",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm O'lantern",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Thunderbird",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Dress",
+      "Copies": 2
+    },
+    {
+      "Name": "Infestation Pandemic",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Infestation Infection",
+      "Copies": 1
+    },
+    {
+      "Name": "Safe Zone",
+      "Copies": 2
+    },
+    {
+      "Name": "Sixth Sense",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Bahamut",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Ophion",
+      "Copies": 3
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Bahamut",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Ophion",
+      "Copies": 3
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Pearl",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Electric Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Refpanel",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

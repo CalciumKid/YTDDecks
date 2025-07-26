@@ -1,0 +1,46 @@
+{
+  "Date": "July 2014",
+  "Tournament": "ARG Circuit Series Championship",
+  "DeckName": "Fire Kings",
+  "DeckId": "3936",
+  "Duelist": "Scott Sheahan",
+  "Placed": "1st   16th Place",
+  "Archetype": "Fire King",
+  "DeckProfile": "",
+  "MainDeck": [],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Skull Meister",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Acid Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Deep Dark Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    }
+  ]
+}

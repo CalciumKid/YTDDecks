@@ -1,0 +1,164 @@
+{
+  "Date": "January 2015",
+  "Tournament": "ARGCS Orlando Florida",
+  "DeckName": "Burning Abyss",
+  "DeckId": "3313",
+  "Duelist": "Gusteph Patigo",
+  "Placed": "1st Place",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 3
+    },
+    {
+      "Name": "Rubic, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Night Beam",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Karma Cut",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 1
+    },
+    {
+      "Name": "Muzurhythm the String Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 49: Fortune Tune",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 1
+    },
+    {
+      "Name": "Twister",
+      "Copies": 3
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ]
+}

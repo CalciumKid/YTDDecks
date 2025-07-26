@@ -1,0 +1,140 @@
+{
+  "Date": "March 2023",
+  "Tournament": "YCS - Lima Peru",
+  "DeckName": "Labrynth",
+  "DeckId": "9453",
+  "Duelist": "Arnold Nadaban",
+  "Placed": "Top 8",
+  "Archetype": "Labrynth",
+  "DeckProfile": "www.youtube.com/embed/XRDuEpobSMg",
+  "MainDeck": [
+    {
+      "Name": "Dark Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Lady Labrynth of the Silver Castle",
+      "Copies": 3
+    },
+    {
+      "Name": "Lovely Labrynth of the Silver Castle",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Black Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Red-Eyes Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Big Welcome Labrynth",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Terrors of the Overroot",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 2
+    },
+    {
+      "Name": "Welcome Labrynth",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 3
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Dark Dragoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-Brigade Arms Bucephalus II",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Lord of the Heavenly Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    }
+  ]
+}

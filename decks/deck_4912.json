@@ -1,0 +1,127 @@
+{
+  "Date": "March 2016",
+  "Tournament": "Regional - Toronto Canada",
+  "DeckName": "Quantum Monarchs",
+  "DeckId": "4912",
+  "Duelist": "Ngoc Tran",
+  "Placed": "Top 8",
+  "Archetype": "Monarch",
+  "DeckProfile": "www.youtube.com/embed/Waw_r3BQzyk",
+  "MainDeck": [
+    {
+      "Name": "Caius the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Edea the Heavenly Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Eidos the Underworld Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Kuraz the Light Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Quantum Red Layer",
+      "Copies": 3
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Return of the Monarchs",
+      "Copies": 2
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Eater",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "March of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Deck Devastation Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 1
+    }
+  ]
+}

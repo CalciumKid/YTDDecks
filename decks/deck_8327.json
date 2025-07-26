@@ -1,0 +1,276 @@
+{
+  "Date": "November 2019",
+  "Tournament": "Regional - Fort Worth Texas",
+  "DeckName": "Vendread Orcust",
+  "DeckId": "8327",
+  "Duelist": "Kobe Short",
+  "Placed": "27th Place",
+  "Archetype": "Orcust",
+  "DeckProfile": "www.youtube.com/embed/bWv7eBPWZzA",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Doomking Balerdroch",
+      "Copies": 1
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Gizmek Orochi, the Serpentron Sky Slasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Cymbal Skeleton",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Harp Horror",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Revendread Slayer",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenyi Spirit - Vishuda",
+      "Copies": 3
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 1
+    },
+    {
+      "Name": "Vendread Battlelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Vendread Core",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy - \"World Wand\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcustrated Babel",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcustrated Return",
+      "Copies": 1
+    },
+    {
+      "Name": "Pre-Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Revendread Evolution",
+      "Copies": 1
+    },
+    {
+      "Name": "Revendread Origin",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Crescendo",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Avendread Savior",
+      "Copies": 1
+    },
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 2
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Sucker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Avendread Savior",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 2
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Monk of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Sucker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

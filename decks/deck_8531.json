@@ -1,0 +1,264 @@
+{
+  "Date": "December 2019",
+  "Tournament": "Regional - Toronto",
+  "DeckName": "60 Card Pendulums",
+  "DeckId": "8531",
+  "Duelist": "Ishaan Hans",
+  "Placed": "Top 128",
+  "Archetype": "Pendulum",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Chronograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharma-Eye Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Endymion, the Mighty Master of Magic",
+      "Copies": 3
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Mythical Beast Bashilisk",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Garuda",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Jackal",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Jackal King",
+      "Copies": 2
+    },
+    {
+      "Name": "Mythical Beast Master Cerberus",
+      "Copies": 3
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Reflection of Endymion",
+      "Copies": 2
+    },
+    {
+      "Name": "Servant of Endymion",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 2
+    },
+    {
+      "Name": "Supreme King Dragon Darkwurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Gate Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Timegazer Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Citadel of Endymion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Institution",
+      "Copies": 3
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 2
+    },
+    {
+      "Name": "Spell Power Mastery",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crowley, the First Propheseer",
+      "Copies": 1
+    },
+    {
+      "Name": "F.A. Dawn Dragster",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crowley, the First Propheseer",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "LANphorhynchus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Barricadeborg Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    }
+  ]
+}

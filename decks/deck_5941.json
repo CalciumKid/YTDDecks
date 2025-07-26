@@ -1,0 +1,252 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - İzmir Turkey",
+  "DeckName": "Barian Warrior Rank 4",
+  "DeckId": "5941",
+  "Duelist": "Sercan Tepeler",
+  "Placed": "Top 8",
+  "Archetype": "Warrior",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Angel Trumpeter",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlin' Boxer Veil",
+      "Copies": 2
+    },
+    {
+      "Name": "Doggy Diver",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Goblindbergh",
+      "Copies": 3
+    },
+    {
+      "Name": "Heroic Challenger - Assault Halberd",
+      "Copies": 3
+    },
+    {
+      "Name": "Heroic Challenger - Extra Sword",
+      "Copies": 2
+    },
+    {
+      "Name": "Heroic Challenger - Swordshield",
+      "Copies": 3
+    },
+    {
+      "Name": "Heroic Challenger - Thousand Blades",
+      "Copies": 2
+    },
+    {
+      "Name": "Heroic Challenger - War Hammer",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Hat Tricker",
+      "Copies": 2
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 1
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 1
+    },
+    {
+      "Name": "Tasuke Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Zap Mustung",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Chance",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Night Beam",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Limited Barian's Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Quick Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "United We Stand",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Grand Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Blade Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Champion - Excalibur",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 32: Shark Drake",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 86: Heroic Champion - Rhongomyniad",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C101: Silent Honor DARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C103: Ragnafinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C69: Heraldry Crest of Horror",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Electric Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Marionette Mite",
+      "Copies": 2
+    },
+    {
+      "Name": "Moon Mirror Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Apocrypha",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    }
+  ]
+}

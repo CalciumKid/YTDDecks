@@ -1,0 +1,160 @@
+{
+  "Date": "September 2018",
+  "Tournament": "LLDS - Rome",
+  "DeckName": "Altergeist",
+  "DeckId": "7406",
+  "Duelist": "Massimiliano Lucci",
+  "Placed": "1st Place",
+  "Archetype": "Altergeist",
+  "DeckProfile": "www.youtube.com/embed/4Nc4uGGUFx4",
+  "MainDeck": [
+    {
+      "Name": "Altergeist Kunquery",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Marionetter",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Meluseek",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Multifaker",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Silquitous",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Altergeist Manifestation",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Protocol",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    },
+    {
+      "Name": "Personal Spoofing",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Hexstia",
+      "Copies": 3
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Clara & Rushka, the Ventriloduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 3
+    }
+  ]
+}

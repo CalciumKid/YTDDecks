@@ -1,0 +1,172 @@
+{
+  "Date": "February 2018",
+  "Tournament": "Regional - Mendenhall Mississippi",
+  "DeckName": "Spellbook Invoked",
+  "DeckId": "7145",
+  "Duelist": "Daniel Savage",
+  "Placed": "Top 8",
+  "Archetype": "Invoked Windwitch",
+  "DeckProfile": "www.youtube.com/embed/mRmam25ZQLA",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 3
+    },
+    {
+      "Name": "Eater of Millions",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Clara & Rushka, the Ventriloduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Ib the World Chalice Priestess",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Elysium",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 2
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ]
+}

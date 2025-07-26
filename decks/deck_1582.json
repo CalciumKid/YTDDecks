@@ -1,0 +1,232 @@
+{
+  "Date": "October 2013",
+  "Tournament": "Regional - Mendoza Argentina",
+  "DeckName": "Dark World",
+  "DeckId": "1582",
+  "Duelist": "Francisco Contreras",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Dark World",
+  "DeckProfile": "www.youtube.com/embed/yfvwDk9yuw4",
+  "MainDeck": [
+    {
+      "Name": "Beiige, Vanguard of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Broww, Huntsman of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Goldd, Wu-Lord of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Grapha, Dragon Lord of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Sillva, Warlord of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Snoww, Unlight of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 2
+    },
+    {
+      "Name": "Trance Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragged Down into the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "The Gates of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Smog",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Pearl",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Deck Devastation Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 1
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

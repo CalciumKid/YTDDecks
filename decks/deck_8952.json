@@ -1,0 +1,98 @@
+{
+  "Date": "July 2019",
+  "Tournament": "WCQ - Croatia Nationals",
+  "DeckName": "Domain Monarchs",
+  "DeckId": "8952",
+  "Duelist": "Xd",
+  "Placed": "1st Place",
+  "Archetype": "Monarch",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Edea the Heavenly Squire",
+      "Copies": 3
+    },
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Eidos the Underworld Squire",
+      "Copies": 3
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Mithra the Thunder Vassal",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Thestalos the Firestorm Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "March of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Return of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Escalation of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "The Monarchs Erupt",
+      "Copies": 1
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

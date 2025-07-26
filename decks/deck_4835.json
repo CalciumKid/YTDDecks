@@ -1,0 +1,115 @@
+{
+  "Date": "March 2016",
+  "Tournament": "YCS - Prague",
+  "DeckName": "No-Teleport Quantum Monarchs",
+  "DeckId": "4835",
+  "Duelist": "Jake Quinsee",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Monarch",
+  "DeckProfile": "www.youtube.com/embed/3WUP1uebojg",
+  "MainDeck": [
+    {
+      "Name": "Edea the Heavenly Squire",
+      "Copies": 3
+    },
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Eidos the Underworld Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Kuraz the Light Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Quantum Red Layer",
+      "Copies": 3
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Return of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Escalation of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 2
+    },
+    {
+      "Name": "Caius the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "March of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 2
+    }
+  ]
+}

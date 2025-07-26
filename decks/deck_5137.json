@@ -1,0 +1,188 @@
+{
+  "Date": "June 2016",
+  "Tournament": "YCS - Providence Rhode Island",
+  "DeckName": "Fire King Kozmos",
+  "DeckId": "5137",
+  "Duelist": "Malik Dancy",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Kozmo",
+  "DeckProfile": "www.youtube.com/embed/ZwsBgOkZrdQ",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire King Avatar Garunix",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Delta Shuttle",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Landwalker",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmoll Dark Lady",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Soartroopers",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Strawman",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Tincan",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire King Island",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmojo",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Digital Bug Corebage",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Pure Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

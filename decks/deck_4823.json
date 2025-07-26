@@ -1,0 +1,123 @@
+{
+  "Date": "February 2016",
+  "Tournament": "Regional - Worcester England",
+  "DeckName": "Monarchs",
+  "DeckId": "4823",
+  "Duelist": "Luke Delaney",
+  "Placed": "Top 8",
+  "Archetype": "Monarch",
+  "DeckProfile": "www.youtube.com/embed/JSZom-MFlaY",
+  "MainDeck": [
+    {
+      "Name": "Edea the Heavenly Squire",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Eidos the Underworld Squire",
+      "Copies": 3
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Thestalos the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Return of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Escalation of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Landrobe the Rock Vassal",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

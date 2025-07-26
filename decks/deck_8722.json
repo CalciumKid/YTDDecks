@@ -1,0 +1,204 @@
+{
+  "Date": "November 2020",
+  "Tournament": "Team Net Phantom Rage Case Tournament",
+  "DeckName": "Heroes",
+  "DeckId": "8722",
+  "Duelist": "Jose Martin",
+  "Placed": "5th - 8th Place",
+  "Archetype": "HERO",
+  "DeckProfile": "www.youtube.com/embed/NKJBagNCv8o",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny HERO - Decider",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dynatag",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Honest Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Liquid Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Vision HERO Faris",
+      "Copies": 3
+    },
+    {
+      "Name": "Vision HERO Increase",
+      "Copies": 2
+    },
+    {
+      "Name": "Vision HERO Vyon",
+      "Copies": 2
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Miracle Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dangerous",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dystopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Absolute Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Escuridao",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Sunrise",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Blast",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Vision HERO Trinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Xtra HERO Cross Crusader",
+      "Copies": 2
+    },
+    {
+      "Name": "Xtra HERO Dread Decimator",
+      "Copies": 1
+    },
+    {
+      "Name": "Xtra HERO Wonder Driver",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny HERO - Plasma",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

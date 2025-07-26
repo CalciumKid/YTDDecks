@@ -1,0 +1,139 @@
+{
+  "Date": "June 2008",
+  "Tournament": "2008 CA Nationals",
+  "DeckName": "DAD",
+  "DeckId": "2737",
+  "Duelist": "Richard Dicastri",
+  "Placed": "5th - 8th Place",
+  "Archetype": "DAD",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Zerato",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Nephthys",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Fires of Doomsday",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Crush Card Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 2
+    },
+    {
+      "Name": "Legendary Jujitsu Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Thestalos the Firestorm Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Exchange",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

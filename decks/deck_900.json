@@ -1,0 +1,156 @@
+{
+  "Date": "November 2014",
+  "Tournament": "Regional - Fargo North Dakota",
+  "DeckName": "Saffira Burning Abyss",
+  "DeckId": "900",
+  "Duelist": "Derrick Mugwaneza",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "www.youtube.com/embed/6rDTkhWSs0E",
+  "MainDeck": [
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Sorcerer",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Djinn Demolisher of Rituals",
+      "Copies": 1
+    },
+    {
+      "Name": "Djinn Releaser of Rituals",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 2
+    },
+    {
+      "Name": "Saffira, Queen of Dragons",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Tragoedia",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Hymn of Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 3
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 2
+    }
+  ]
+}

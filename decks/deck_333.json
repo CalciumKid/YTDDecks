@@ -1,0 +1,144 @@
+{
+  "Date": "December 2014",
+  "Tournament": "YCS - Milan Italy",
+  "DeckName": "Qliphorts",
+  "DeckId": "333",
+  "Duelist": "Oleksandr Atamanenko",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Qliphort",
+  "DeckProfile": "www.youtube.com/embed/Nl9q8aIQMBY",
+  "MainDeck": [
+    {
+      "Name": "Apoqliphort Towers",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Trampolynx",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Carrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Disk",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Helix",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Scout",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Shell",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Night Beam",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Saqlifice",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Qlimate Change",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Shark Fortress",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Consecrated Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 2
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Xing Zhen Hu",
+      "Copies": 3
+    }
+  ]
+}

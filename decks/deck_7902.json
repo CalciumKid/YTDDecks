@@ -1,0 +1,172 @@
+{
+  "Date": "June 2019",
+  "Tournament": "WCQ - North America",
+  "DeckName": "Danger! Crusadia Thunder Dragon",
+  "DeckId": "7902",
+  "Duelist": "Wei Li",
+  "Placed": "3rd Place",
+  "Archetype": "Danger",
+  "DeckProfile": "www.youtube.com/embed/c9gjnM9gJ4o",
+  "MainDeck": [
+    {
+      "Name": "Batteryman Solar",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Dragon Collapserpent",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Dragon Levianeer",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Emperor, the Dragon of Armageddon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Draco",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Reclusia",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 3
+    },
+    {
+      "Name": "Darkest Diabolos, Lord of the Lair",
+      "Copies": 1
+    },
+    {
+      "Name": "Eclipse Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Omni Dragon Brotaur",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragondark",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragonhawk",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonroar",
+      "Copies": 1
+    },
+    {
+      "Name": "White Dragon Wyverburster",
+      "Copies": 3
+    },
+    {
+      "Name": "Sekka's Light",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beat Cop from the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Magius",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Agarpain",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Pisty",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Seal of the Heavenly Spheres",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Gnomaterial",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "Date": "May 2014",
+  "Tournament": "Regional - Menomonee Falls Wisconsin",
+  "DeckName": "Fire Kings",
+  "DeckId": "1045",
+  "Duelist": "Scott Sheahan",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Fire King",
+  "DeckProfile": "www.youtube.com/embed/PFy2k5-c7a8",
+  "MainDeck": [
+    {
+      "Name": "Brotherhood of the Fire Fist - Bear",
+      "Copies": 1
+    },
+    {
+      "Name": "Coach Soldier Wolfbark",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire King Avatar Barong",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire King Avatar Garunix",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire King Avatar Yaksha",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire King High Avatar Garunix",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Myrmeleo",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Circle of the Fire Kings",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Onslaught of the Fire Kings",
+      "Copies": 3
+    },
+    {
+      "Name": "Rekindling",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Memory of an Adversary",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujintei Kagutsuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Ouroboros",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ally of Justice Cycle Reader",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "And the Band Played On",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    }
+  ]
+}

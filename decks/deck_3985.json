@@ -1,0 +1,151 @@
+{
+  "Date": "January 2014",
+  "Tournament": "ARGCS Nashville",
+  "DeckName": "JJ's Harpie Deck",
+  "DeckId": "3985",
+  "Duelist": "Player: Billy Brake",
+  "Placed": "1st   11th Place",
+  "Archetype": "Harpie",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Harpie Lady",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie Channeler",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie Dancer",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie Queen",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Pet Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Elegant Egotist",
+      "Copies": 1
+    },
+    {
+      "Name": "Hysteric Sign",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Hero's Rule 2",
+      "Copies": 1
+    },
+    {
+      "Name": "Hysteric Party",
+      "Copies": 3
+    },
+    {
+      "Name": "Icarus Attack",
+      "Copies": 1
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 3
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 74: Master of Blades",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

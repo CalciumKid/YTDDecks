@@ -1,0 +1,168 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Cancun Mexico",
+  "DeckName": "Unchained",
+  "DeckId": "9769",
+  "Duelist": "Jesse Kotton",
+  "Placed": "Top 8",
+  "Archetype": "Unchained",
+  "DeckProfile": "www.youtube.com/embed/7QA9IoKsHgk",
+  "MainDeck": [
+    {
+      "Name": "Abominable Unchained Soul",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Vice King Requiem",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Sharvara",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Shyama",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Aruha",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Twins - Rakea",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Sarama",
+      "Copies": 1
+    },
+    {
+      "Name": "Abomination's Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Contract with the Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 3
+    },
+    {
+      "Name": "Wailing of the Unchained Souls",
+      "Copies": 1
+    },
+    {
+      "Name": "Abominable Chamber of the Unchained",
+      "Copies": 2
+    },
+    {
+      "Name": "Escape of the Unchained",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "D/D/D Deviser King Deus Machinex",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Stone King Darius",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Wave High King Caesar",
+      "Copies": 2
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul Lord of Yama",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Anguish",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul of Rage",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Destructive Daruma Karma Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    }
+  ]
+}

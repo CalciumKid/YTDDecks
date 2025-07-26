@@ -1,0 +1,188 @@
+{
+  "Date": "September 2013",
+  "Tournament": "YCS - Toronto Canada",
+  "DeckName": "Dragon Ruler Plants",
+  "DeckId": "687",
+  "Duelist": "Galo Guillermo Orbea Davila",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Dragon",
+  "DeckProfile": "www.youtube.com/embed/GmD6rMm0l2Y",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 3
+    },
+    {
+      "Name": "Dandylion",
+      "Copies": 1
+    },
+    {
+      "Name": "Debris Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragunity Corsesca",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Flamvell Guard",
+      "Copies": 1
+    },
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 3
+    },
+    {
+      "Name": "Spore",
+      "Copies": 1
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 3
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragon Ravine",
+      "Copies": 3
+    },
+    {
+      "Name": "Sacred Sword of Seven Stars",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Electric Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "Date": "June 2016",
+  "Tournament": "State Championship - Kentucky",
+  "DeckName": "Deskbots",
+  "DeckId": "5200",
+  "Duelist": "William Warren",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Deskbot",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Deskbot 001",
+      "Copies": 1
+    },
+    {
+      "Name": "Deskbot 002",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 003",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 004",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 005",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 006",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 007",
+      "Copies": 1
+    },
+    {
+      "Name": "Deskbot 008",
+      "Copies": 1
+    },
+    {
+      "Name": "Deskbot 009",
+      "Copies": 2
+    },
+    {
+      "Name": "Genex Ally Birdman",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Menko",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot Base",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Deskbot Jet",
+      "Copies": 1
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Barkion",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Deskbot 007",
+      "Copies": 1
+    },
+    {
+      "Name": "Deskbot 008",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Deskbot Base",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

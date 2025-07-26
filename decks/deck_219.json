@@ -1,0 +1,204 @@
+{
+  "Date": "August 2014",
+  "Tournament": "YGO State Championship New Mexico",
+  "DeckName": "Hand Artifacts",
+  "DeckId": "219",
+  "Duelist": "Roman Pohl",
+  "Placed": "2nd Place",
+  "Archetype": "Artifact",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Aegis",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Beagalltach",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Caduceus",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Failnaught",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Hand",
+      "Copies": 3
+    },
+    {
+      "Name": "Ice Hand",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Skull Meister",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Ignition",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Double Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Dichotomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Shark Fortress",
+      "Copies": 1
+    },
+    {
+      "Name": "Tiras, Keeper of Genesis",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Crevice Into the Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 2
+    }
+  ]
+}

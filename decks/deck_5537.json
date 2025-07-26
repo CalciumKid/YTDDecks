@@ -1,0 +1,180 @@
+{
+  "Date": "September 2016",
+  "Tournament": "Local Legend Duelist Series September 2016",
+  "DeckName": "Genex Mermails",
+  "DeckId": "5537",
+  "Duelist": "Robbin Van Wilgen",
+  "Placed": "2nd Place",
+  "Archetype": "Mermail",
+  "DeckProfile": "www.youtube.com/embed/D8KUATvN6X4",
+  "MainDeck": [
+    {
+      "Name": "Aqua Spirit",
+      "Copies": 1
+    },
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 2
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 2
+    },
+    {
+      "Name": "Deep Sea Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Genex Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Genex Undine",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 2
+    },
+    {
+      "Name": "Neptabyss, the Atlantean Prince",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-scale of the Mizuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Moray of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Pure Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "Tatsunoko",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "G.B. Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

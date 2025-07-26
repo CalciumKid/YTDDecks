@@ -1,0 +1,164 @@
+{
+  "Date": "July 2017",
+  "Tournament": "WCQ - North America",
+  "DeckName": "Zoodiac Demise True Dracos",
+  "DeckId": "6652",
+  "Duelist": "Ed Acepcion",
+  "Placed": "33rd - 64th Place",
+  "Archetype": "True Draco",
+  "DeckProfile": "www.youtube.com/embed/lf0fmSfA2Io",
+  "MainDeck": [
+    {
+      "Name": "Dinomight Knight, the True Dracofighter",
+      "Copies": 3
+    },
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 3
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Master Peace, the True Dracoslaying King",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Ramram",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Whiptail",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Barrage",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 2
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Boarbow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Broadbull",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Chakanine",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Hammerkong",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Tigermortar",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Apocrypha",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 1
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 2
+    }
+  ]
+}

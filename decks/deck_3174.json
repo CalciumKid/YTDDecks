@@ -1,0 +1,280 @@
+{
+  "Date": "June 2005",
+  "Tournament": "2005 Shonen Jump Charlotte",
+  "DeckName": "Chaos",
+  "DeckId": "3174",
+  "Duelist": "Jimmy Bueno",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Chaos",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Airknight Parshath",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Dust Spirit",
+      "Copies": 1
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Nimble Momonga",
+      "Copies": 3
+    },
+    {
+      "Name": "Peten the Dark Clown",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Sinister Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Tribe-Infecting Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 2
+    },
+    {
+      "Name": "Delinquent Duo",
+      "Copies": 1
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Metamorphosis",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 3
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 3
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Charubin the Fire Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Saurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Empress Judge",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Flame Ghost",
+      "Copies": 1
+    },
+    {
+      "Name": "Flame Swordsman",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Roaring Ocean Snake",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 3
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 3
+    },
+    {
+      "Name": "Skull Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "St. Joan",
+      "Copies": 2
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Swarm of Locusts",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "Offerings to the Doomed",
+      "Copies": 2
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki Break",
+      "Copies": 1
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Seven Tools of the Bandit",
+      "Copies": 1
+    }
+  ]
+}

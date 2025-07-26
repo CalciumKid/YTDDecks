@@ -1,0 +1,204 @@
+{
+  "Date": "December 2016",
+  "Tournament": "YCS - Bochum Germany",
+  "DeckName": "Awesome Performage Lightsworn",
+  "DeckId": "5769",
+  "Duelist": "Marvin Weber",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Lightsworn",
+  "DeckProfile": "www.youtube.com/embed/VdpBEBXLlwU",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 3
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Goblindbergh",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Challenger - Thousand Blades",
+      "Copies": 1
+    },
+    {
+      "Name": "Jigabyte",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Hat Tricker",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 3
+    },
+    {
+      "Name": "Photon Thrasher",
+      "Copies": 2
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 3
+    },
+    {
+      "Name": "Tin Goldfish",
+      "Copies": 2
+    },
+    {
+      "Name": "Wulf, Lightsworn Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujinki Amaterasu",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Minerva, the Exalted Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    }
+  ]
+}

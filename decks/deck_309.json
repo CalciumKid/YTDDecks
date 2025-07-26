@@ -1,0 +1,172 @@
+{
+  "Date": "August 2014",
+  "Tournament": "YGO Open - Orlando Florida",
+  "DeckName": "Yang Zings",
+  "DeckId": "309",
+  "Duelist": "Michael Sanders",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Yang Zing",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Bixi, Water of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Masked Chameleon",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulao, Wind of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Suanni, Fire of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Yang Zing Path",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Time-Space Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Yang Zing Creation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Bird Clausolas",
+      "Copies": 1
+    },
+    {
+      "Name": "Samsara, Dragon of Rebirth",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 3
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

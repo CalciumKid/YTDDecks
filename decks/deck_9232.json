@@ -1,0 +1,152 @@
+{
+  "Date": "June 2022",
+  "Tournament": "Regional - Altoona Iowa",
+  "DeckName": "Salamangreat",
+  "DeckId": "9232",
+  "Duelist": "Kailyn Cooksey",
+  "Placed": "2nd Place",
+  "Archetype": "Salamangreat",
+  "DeckProfile": "www.youtube.com/embed/lNetNkA7oE0",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Corruptor Iblee",
+      "Copies": 3
+    },
+    {
+      "Name": "Micro Coder",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Parallel eXceed",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Fowl",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Foxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Gazelle",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Jack Jaguar",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Spinny",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Circle",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Sanctuary",
+      "Copies": 1
+    },
+    {
+      "Name": "Will of the Salamangreat",
+      "Copies": 2
+    },
+    {
+      "Name": "Cynet Conflict",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Rage",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Roar",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker Heatsoul",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Balelynx",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Miragestallio",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Sunlight Wolf",
+      "Copies": 3
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 2
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 2
+    },
+    {
+      "Name": "Update Jammer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Token Collector",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    }
+  ]
+}

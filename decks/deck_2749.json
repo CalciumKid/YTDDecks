@@ -1,0 +1,188 @@
+{
+  "Date": "June 2007",
+  "Tournament": "2007 US Nationals",
+  "DeckName": "Machine Aggro",
+  "DeckId": "2749",
+  "Duelist": "Michael Bueno",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Machine",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Dekoichi the Battlechanted Locomotive",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 3
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Steam Gyroid",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 3
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 3
+    }
+  ]
+}

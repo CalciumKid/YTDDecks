@@ -1,0 +1,139 @@
+{
+  "Date": "October 2018",
+  "Tournament": "YCS - London England",
+  "DeckName": "True Draco Ancient Gear",
+  "DeckId": "7515",
+  "Duelist": "Cassie Nibrud",
+  "Placed": "Top 128",
+  "Archetype": "True Draco",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ancient Gear Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Gadget",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Hunting Hound",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Gear Reactor Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Wyvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomight Knight, the True Dracofighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaltron XII, the True Dracombatant",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Catapult",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Gear Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Geartown",
+      "Copies": 3
+    },
+    {
+      "Name": "Overload Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 2
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 3
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Gear Howitzer",
+      "Copies": 2
+    },
+    {
+      "Name": "Ancient Gear Megaton Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Ancient Gear Giant",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimate Ancient Gear Golem",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": []
+}

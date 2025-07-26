@@ -1,0 +1,180 @@
+{
+  "Date": "November 2022",
+  "Tournament": "YCS - Pasadena California",
+  "DeckName": "Ishizu Tearlaments",
+  "DeckId": "9328",
+  "Duelist": "Zonghan Li",
+  "Placed": "Top 16",
+  "Archetype": "Tearlaments",
+  "DeckProfile": "www.youtube.com/embed/B35Snoy6lzc",
+  "MainDeck": [
+    {
+      "Name": "Agido the Ancient Sentinel",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 2
+    },
+    {
+      "Name": "Diviner of the Herald",
+      "Copies": 2
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Kelbek the Ancient Vanguard",
+      "Copies": 3
+    },
+    {
+      "Name": "Keldo the Sacred Protector",
+      "Copies": 3
+    },
+    {
+      "Name": "Mudora the Sword Oracle",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Havnis",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Merrli",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Reinoheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Scheiren",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Scream",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Gravekeeper's Trap",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Sulliek",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kaleido-Heart",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Kitkallos",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Rulkallos",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 2
+    },
+    {
+      "Name": "Volcanic Scattershot",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Cryme",
+      "Copies": 1
+    }
+  ]
+}

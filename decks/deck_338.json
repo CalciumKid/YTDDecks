@@ -1,0 +1,168 @@
+{
+  "Date": "December 2014",
+  "Tournament": "YCS - Sydney Australia",
+  "DeckName": "Artifact Shaddolls",
+  "DeckId": "338",
+  "Duelist": "Peter Mitro",
+  "Placed": "1st Place",
+  "Archetype": "Shaddoll",
+  "DeckProfile": "www.youtube.com/embed/8u9Rj8BokQY",
+  "MainDeck": [
+    {
+      "Name": "Artifact Beagalltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Felis, Lightsworn Archer",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Falco",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Hedgehog",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Squamata",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Ignition",
+      "Copies": 3
+    },
+    {
+      "Name": "El Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Core",
+      "Copies": 1
+    },
+    {
+      "Name": "Sinister Shadow Games",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Sacred Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Arcanite Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Construct",
+      "Copies": 3
+    },
+    {
+      "Name": "El Shaddoll Shekhinaga",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 2
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    }
+  ]
+}

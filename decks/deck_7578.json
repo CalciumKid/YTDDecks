@@ -1,0 +1,151 @@
+{
+  "Date": "January 2019",
+  "Tournament": "Regional - Bogota Colombia",
+  "DeckName": "Brilliant Thunder Dragon",
+  "DeckId": "7578",
+  "Duelist": "Andres Torres",
+  "Placed": "1st Place",
+  "Archetype": "Thunder",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Batteryman Solar",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Dragon Collapserpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Darkest Diabolos, Lord of the Lair",
+      "Copies": 1
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Amber",
+      "Copies": 1
+    },
+    {
+      "Name": "Mare Mare",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Skyblaster",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragondark",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragonhawk",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonmatrix",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonroar",
+      "Copies": 2
+    },
+    {
+      "Name": "White Dragon Wyverburster",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Some Summer Summoner",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Titan",
+      "Copies": 2
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

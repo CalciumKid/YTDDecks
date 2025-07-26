@@ -1,0 +1,172 @@
+{
+  "Date": "June 2017",
+  "Tournament": "2017 World Championship - Dragon Duel",
+  "DeckName": "Zexal Yuma",
+  "DeckId": "9074",
+  "Duelist": "Luke Zaki",
+  "Placed": "2nd Place",
+  "Archetype": "Gagaga",
+  "DeckProfile": "www.youtube.com/embed/nUVzkboMo-I",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Clerk",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Girl",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Goblindbergh",
+      "Copies": 1
+    },
+    {
+      "Name": "Kagetokage",
+      "Copies": 1
+    },
+    {
+      "Name": "Utopic Onomatopoeia",
+      "Copies": 3
+    },
+    {
+      "Name": "ZS - Armed Sage",
+      "Copies": 1
+    },
+    {
+      "Name": "ZW - Eagle Claw",
+      "Copies": 2
+    },
+    {
+      "Name": "ZW - Lightning Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "ZW - Sylphid Wing",
+      "Copies": 2
+    },
+    {
+      "Name": "ZW - Tornado Bringer",
+      "Copies": 1
+    },
+    {
+      "Name": "Double or Nothing!",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagagarevenge",
+      "Copies": 1
+    },
+    {
+      "Name": "Light Wing Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Utopia Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Change Tactics",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Shift",
+      "Copies": 2
+    },
+    {
+      "Name": "Zexal Construction",
+      "Copies": 1
+    },
+    {
+      "Name": "Bye Bye Damage",
+      "Copies": 2
+    },
+    {
+      "Name": "Half Unbreak",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Mail",
+      "Copies": 1
+    },
+    {
+      "Name": "Numbers Overlay Boost",
+      "Copies": 1
+    },
+    {
+      "Name": "Utopian Aura",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Block",
+      "Copies": 2
+    },
+    {
+      "Name": "Zexal Alliance",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 99: Utopic Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 2
+    },
+    {
+      "Name": "Number C39: Utopia Ray V",
+      "Copies": 2
+    },
+    {
+      "Name": "Number C39: Utopia Ray Victory",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S0: Utopic ZEXAL",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimate Leo Utopia Ray",
+      "Copies": 1
+    },
+    {
+      "Name": "ZW - Dragonic Halberd",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Number 70: Malevolent Sin",
+      "Copies": 3
+    }
+  ]
+}

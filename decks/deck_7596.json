@@ -1,0 +1,192 @@
+{
+  "Date": "February 2019",
+  "Tournament": "YCS - Chicago Illinois",
+  "DeckName": "Danger! Lunalight",
+  "DeckId": "7596",
+  "Duelist": "Raphael Neven",
+  "Placed": "1st Place",
+  "Archetype": "Lunalight",
+  "DeckProfile": "www.youtube.com/embed/1xsO1Y6_ui8",
+  "MainDeck": [
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Black Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Emerald Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Kaleido Chick",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Purple Butterfly",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Tiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Yellow Marten",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Luna Light Perfume",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights' Rank-Up-Magic Launch",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Serenade Dance",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Fighting Daruma Doll",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Leo Dancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Panther Dancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Azathot",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Nyarla",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

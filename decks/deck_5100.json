@@ -1,0 +1,168 @@
+{
+  "Date": "May 2016",
+  "Tournament": "Regional - Huddersfield England",
+  "DeckName": "Brilliant Tuning Monarchs",
+  "DeckId": "5100",
+  "Duelist": "Jared Stone",
+  "Placed": "Top 8",
+  "Archetype": "Monarch",
+  "DeckProfile": "www.youtube.com/embed/mLPhj84lXTo",
+  "MainDeck": [
+    {
+      "Name": "Edea the Heavenly Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Eidos the Underworld Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 2
+    },
+    {
+      "Name": "Jack's Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuraz the Light Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Quickdraw Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Frost Blast of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Return of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Tuning",
+      "Copies": 2
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Alsei, the Sylvan High Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Stygian Dirge",
+      "Copies": 3
+    }
+  ]
+}

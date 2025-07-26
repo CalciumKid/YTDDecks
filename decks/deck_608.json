@@ -1,0 +1,172 @@
+{
+  "Date": "March 2013",
+  "Tournament": "YCS - Austin Texas",
+  "DeckName": "Atlantean Mermail",
+  "DeckId": "608",
+  "Duelist": "Alexander Reynolds",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Mermail",
+  "DeckProfile": "www.youtube.com/embed/noUZm2oYyR8",
+  "MainDeck": [
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 3
+    },
+    {
+      "Name": "Deep Sea Diva",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssleed",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysslinde",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss-sphere",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-squall",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dewloren, Tiger King of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Gungnir, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Overworked",
+      "Copies": 2
+    }
+  ]
+}

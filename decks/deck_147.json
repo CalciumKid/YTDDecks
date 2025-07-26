@@ -1,0 +1,200 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Idaho",
+  "DeckName": "Mermail Artifacts",
+  "DeckId": "147",
+  "Duelist": "Levi Hartman",
+  "Placed": "2nd Place",
+  "Archetype": "Mermail",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 1
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 2
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Ice",
+      "Copies": 1
+    },
+    {
+      "Name": "Genex Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Genex Undine",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysslinde",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssturge",
+      "Copies": 1
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Salvage",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss-sphere",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gungnir, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysstrite",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "DNA Surgery",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 2
+    }
+  ]
+}

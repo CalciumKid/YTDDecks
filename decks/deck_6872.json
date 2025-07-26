@@ -1,0 +1,94 @@
+{
+  "Date": "July 2016",
+  "Tournament": "YCS - Toronto Canada",
+  "DeckName": "Odd Eyes Performance",
+  "DeckId": "6872",
+  "Duelist": "Shun",
+  "Placed": "14th Place",
+  "Archetype": "Performapal",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Hip Hippo",
+      "Copies": 4
+    },
+    {
+      "Name": "Performapal Lizardraw",
+      "Copies": 4
+    },
+    {
+      "Name": "Performapal Odd-Eyes Light Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Odd-Eyes Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Sword Fish",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Whip Snake",
+      "Copies": 4
+    },
+    {
+      "Name": "Stargazer Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Timegazer Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reincarnation",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 4
+    },
+    {
+      "Name": "Performance Hurricane",
+      "Copies": 4
+    },
+    {
+      "Name": "Performapal Recasting",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Hippo Carnival",
+      "Copies": 4
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Revival",
+      "Copies": 4
+    },
+    {
+      "Name": "Punch-in-the-Box",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

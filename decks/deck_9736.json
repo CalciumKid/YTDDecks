@@ -1,0 +1,152 @@
+{
+  "Date": "August 2023",
+  "Tournament": "WCQ Regional Lima Peru DUNE",
+  "DeckName": "Branded Anti-Meta",
+  "DeckId": "9736",
+  "Duelist": "Rodrigo Abanto",
+  "Placed": "33rd Place",
+  "Archetype": "Branded",
+  "DeckProfile": "www.youtube.com/embed/gx7QINBaX30",
+  "MainDeck": [
+    {
+      "Name": "Barrier Statue of the Heavens",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogmatika Ecclesia, the Virtuous",
+      "Copies": 2
+    },
+    {
+      "Name": "Dogmatika Fleurdelis, the Knighted",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 2
+    },
+    {
+      "Name": "Jowgen the Spiritualist",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Nadir Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Crackdown",
+      "Copies": 2
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Alba-Lenatus the Abyss Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Albion the Sanctifire Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 2
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Golden Cloud Beast - Malong",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Titaniklad the Ash Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Tri-Brigade Arms Bucephalus II",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Decisive Battle of Golgonda",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "Date": "February 2018",
+  "Tournament": "YCS - Bochum Germany",
+  "DeckName": "Boarder True Dracos",
+  "DeckId": "7137",
+  "Duelist": "Lars Junginger",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "True Draco",
+  "DeckProfile": "www.youtube.com/embed/r12w_CL8PJ8",
+  "MainDeck": [
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 3
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Master Peace, the True Dracoslaying King",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 3
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Clara & Rushka, the Ventriloduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Amano-Iwato",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Zaphion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    }
+  ]
+}

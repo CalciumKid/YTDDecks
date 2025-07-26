@@ -1,0 +1,176 @@
+{
+  "Date": "July 2023",
+  "Tournament": "WCQ - North America",
+  "DeckName": "Labrynth",
+  "DeckId": "9727",
+  "Duelist": "Ryan Yu",
+  "Placed": "Top 32",
+  "Archetype": "Labrynth",
+  "DeckProfile": "www.youtube.com/embed/iE8o_dLZcIQ",
+  "MainDeck": [
+    {
+      "Name": "Arianna the Labrynth Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Cooclock",
+      "Copies": 1
+    },
+    {
+      "Name": "Lady Labrynth of the Silver Castle",
+      "Copies": 2
+    },
+    {
+      "Name": "Lord of the Heavenly Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Lovely Labrynth of the Silver Castle",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Big Welcome Labrynth",
+      "Copies": 3
+    },
+    {
+      "Name": "Destructive Daruma Karma Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Terrors of the Overroot",
+      "Copies": 2
+    },
+    {
+      "Name": "Welcome Labrynth",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Furious Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Curse of Dragon, the Magical Knight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Proskenion",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Earth Golem @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Granguignol the Dusk Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Triphyoverutum",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "World Chalice Guardragon Almarduke",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Chandraglier",
+      "Copies": 1
+    },
+    {
+      "Name": "Labrynth Stovie Torbie",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Full Force Virus",
+      "Copies": 1
+    }
+  ]
+}

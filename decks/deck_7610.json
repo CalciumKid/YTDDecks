@@ -1,0 +1,115 @@
+{
+  "Date": "February 2019",
+  "Tournament": "Regional - Atlanta Georgia",
+  "DeckName": "Pure Sky Strikers",
+  "DeckId": "7610",
+  "Duelist": "Mark Anthony Bondoc",
+  "Placed": "Top 16",
+  "Archetype": "Sky Striker",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Eagle Booster",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mecha - Shark Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "Date": "May 2013",
+  "Tournament": "Regional - Kissimmee Florida",
+  "DeckName": "Lightsworn Gem-Knights",
+  "DeckId": "1381",
+  "Duelist": "Ricky Hernandez",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Lightsworn",
+  "DeckProfile": "www.youtube.com/embed/JF6ABw7N1ac",
+  "MainDeck": [
+    {
+      "Name": "Gem-Armadillo",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Amber",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Garnet",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Obsidian",
+      "Copies": 3
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Citrine",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Citrine",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Zirconia",
+      "Copies": 3
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Pearl",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    }
+  ]
+}

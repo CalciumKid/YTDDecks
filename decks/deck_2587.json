@@ -1,0 +1,151 @@
+{
+  "Date": "May 2008",
+  "Tournament": "2008 SJ St Louis",
+  "DeckName": "Dark Armed Dragon",
+  "DeckId": "2587",
+  "Duelist": "Jose Arocho Jr.",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Dragon",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Cyber Valley",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Strike Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Limit Reverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Darklord Zerato",
+      "Copies": 1
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 3
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "The Transmigration Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 2
+    }
+  ]
+}

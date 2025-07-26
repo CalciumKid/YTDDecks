@@ -1,0 +1,160 @@
+{
+  "Date": "May 2019",
+  "Tournament": "Regional - Lenexa Kansas",
+  "DeckName": "Trickstar",
+  "DeckId": "7771",
+  "Duelist": "Dylan Link",
+  "Placed": "4th Place",
+  "Archetype": "Trickstar",
+  "DeckProfile": "www.youtube.com/embed/6-TqDrN08qM",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Corobane",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Lycoris",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Reincarnation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Security Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Trisbaena",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Foxglove Witch",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Holly Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 2
+    }
+  ]
+}

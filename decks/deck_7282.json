@@ -1,0 +1,188 @@
+{
+  "Date": "June 2018",
+  "Tournament": "YCS - Secaucus New Jersey",
+  "DeckName": "Gouki",
+  "DeckId": "7282",
+  "Duelist": "Aaron Furman",
+  "Placed": "Top 32",
+  "Archetype": "Gouki",
+  "DeckProfile": "www.youtube.com/embed/-ftUGynK6IA",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "Gouki Bearhug",
+      "Copies": 1
+    },
+    {
+      "Name": "Gouki Headbatt",
+      "Copies": 2
+    },
+    {
+      "Name": "Gouki Octostretch",
+      "Copies": 2
+    },
+    {
+      "Name": "Gouki Riscorpio",
+      "Copies": 1
+    },
+    {
+      "Name": "Gouki Suprex",
+      "Copies": 3
+    },
+    {
+      "Name": "Gouki Twistcobra",
+      "Copies": 2
+    },
+    {
+      "Name": "Junk Forward",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Corruptor Iblee",
+      "Copies": 1
+    },
+    {
+      "Name": "Marauding Captain",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "Gouki Re-Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Arfeudutyr",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Goblin",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Succession",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 2
+    }
+  ]
+}

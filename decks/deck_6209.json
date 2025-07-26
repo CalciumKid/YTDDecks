@@ -1,0 +1,192 @@
+{
+  "Date": "March 2017",
+  "Tournament": "Regional - Pearl Mississippi",
+  "DeckName": "Invoked Blue-Eyes White Dragon",
+  "DeckId": "6209",
+  "Duelist": "David Thigpen",
+  "Placed": "Top 8",
+  "Archetype": "Blue-Eyes",
+  "DeckProfile": "www.youtube.com/embed/7W5iHYZ1wWk",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes Alternative White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Spirit of White",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Sage with Eyes of Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Ancients",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Legend",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Acquisitiveness",
+      "Copies": 2
+    },
+    {
+      "Name": "Return of the Dragon Lords",
+      "Copies": 3
+    },
+    {
+      "Name": "Silver's Cry",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "The Melody of Awakening Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Azure-Eyes Silver Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Spirit Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Full Armor Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Magellanica",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Chain Disappearance",
+      "Copies": 3
+    }
+  ]
+}

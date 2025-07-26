@@ -1,0 +1,176 @@
+{
+  "Date": "December 2017",
+  "Tournament": "San Diego’s regional",
+  "DeckName": "Slifer/cyber dragon OTK",
+  "DeckId": "8790",
+  "Duelist": "Andrew Melton",
+  "Placed": "None Place",
+  "Archetype": "Chimeratech",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Cyber Dinosaur",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Core",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Drei",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Eltanin",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Slifer the Sky Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Repair Plant",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolution Burst",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Night Beam",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Single Purchase",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Chain Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Shadow Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Rampage Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Valley",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    }
+  ]
+}

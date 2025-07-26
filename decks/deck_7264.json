@@ -1,0 +1,176 @@
+{
+  "Date": "May 2018",
+  "Tournament": "Regional - Kissimmee Florida",
+  "DeckName": "Gouki Knightmare",
+  "DeckId": "7264",
+  "Duelist": "Matthew Rivera",
+  "Placed": "Top 32",
+  "Archetype": "Knightmare",
+  "DeckProfile": "www.youtube.com/embed/eMRy7NZ7U-0",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Gouki Headbatt",
+      "Copies": 3
+    },
+    {
+      "Name": "Gouki Octostretch",
+      "Copies": 2
+    },
+    {
+      "Name": "Gouki Riscorpio",
+      "Copies": 1
+    },
+    {
+      "Name": "Gouki Suprex",
+      "Copies": 3
+    },
+    {
+      "Name": "Gouki Twistcobra",
+      "Copies": 3
+    },
+    {
+      "Name": "Junk Forward",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Corruptor Iblee",
+      "Copies": 1
+    },
+    {
+      "Name": "Marauding Captain",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Gouki Re-Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Moon Mirror Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Binary Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

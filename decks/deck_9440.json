@@ -1,0 +1,124 @@
+{
+  "Date": "February 2023",
+  "Tournament": "YCS - Lyon France",
+  "DeckName": "Runick Stun",
+  "DeckId": "9440",
+  "Duelist": "Raphael Duriez",
+  "Placed": "Top 64",
+  "Archetype": "Runick",
+  "DeckProfile": "www.youtube.com/embed/oK4Ehz5AOcQ",
+  "MainDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Flashing Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Fountain",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Freezing Curses",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Golden Droplet",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Smiting Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Tip",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Freki the Runick Fangs",
+      "Copies": 3
+    },
+    {
+      "Name": "Geri the Runick Fangs",
+      "Copies": 3
+    },
+    {
+      "Name": "Hugin the Runick Wings",
+      "Copies": 3
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Munin the Runick Wings",
+      "Copies": 3
+    },
+    {
+      "Name": "Space Insulator",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 3
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Paradox Fusion",
+      "Copies": 3
+    }
+  ]
+}

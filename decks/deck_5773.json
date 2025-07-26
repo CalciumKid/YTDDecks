@@ -1,0 +1,168 @@
+{
+  "Date": "November 2016",
+  "Tournament": "WCQ - Salzburg",
+  "DeckName": "Awesome Heroes",
+  "DeckId": "5773",
+  "Duelist": "Benjamin Kumschier",
+  "Placed": "4th Place",
+  "Archetype": "HERO",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Elemental HERO Bubbleman",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Tin Goldfish",
+      "Copies": 3
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Floodgate Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 2
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Anki",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    }
+  ]
+}

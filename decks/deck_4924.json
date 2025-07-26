@@ -1,0 +1,144 @@
+{
+  "Date": "March 2016",
+  "Tournament": "Regional - Knoxville Tennessee",
+  "DeckName": "Kozmos",
+  "DeckId": "4924",
+  "Duelist": "Michael Keller",
+  "Placed": "Top 8",
+  "Archetype": "Kozmo",
+  "DeckProfile": "www.youtube.com/embed/lxn0TyLR360",
+  "MainDeck": [
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Dark Eclipser",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo DOG Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Wickedwitch",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Strawman",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Tincan",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmojo",
+      "Copies": 3
+    },
+    {
+      "Name": "Powersink Stone",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Dolkka",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    }
+  ]
+}

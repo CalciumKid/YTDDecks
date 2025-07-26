@@ -1,0 +1,188 @@
+{
+  "Date": "March 2018",
+  "Tournament": "Regional - Timonium Maryland",
+  "DeckName": "ABC-Dragon Buster",
+  "DeckId": "7200",
+  "Duelist": "Samuel Soon",
+  "Placed": "20th Place",
+  "Archetype": "ABC-Dragon Buster",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "A-Assault Core",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "B-Buster Drake",
+      "Copies": 3
+    },
+    {
+      "Name": "C-Crush Wyvern",
+      "Copies": 2
+    },
+    {
+      "Name": "Cockadoodledoo",
+      "Copies": 2
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Supreme King Dragon Darkwurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Ravine",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Union Hangar",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Clara & Rushka, the Ventriloduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Genius",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ]
+}

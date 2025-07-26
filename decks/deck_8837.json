@@ -1,0 +1,192 @@
+{
+  "Date": "April 2017",
+  "Tournament": "4. Istanbul Regionals",
+  "DeckName": "Abyss Actor Metalfoes",
+  "DeckId": "8837",
+  "Duelist": "Michael Cem Halicioglu- Kadir Utku Topal",
+  "Placed": "2nd Place",
+  "Archetype": "Metalfoe",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Abyss Actor - Leading Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss Actor - Sassy Rookie",
+      "Copies": 2
+    },
+    {
+      "Name": "Abyss Actor - Superstar",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss Actor - Wild Hope",
+      "Copies": 3
+    },
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Goldriver",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Silverd",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Steelen",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Volflame",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Monolith",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Scout",
+      "Copies": 1
+    },
+    {
+      "Name": "Raremetalfoes Bismugear",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss Script - Fire Dragon's Lair",
+      "Copies": 1
+    },
+    {
+      "Name": "Fullmetalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 2
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Combination",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Counter",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinoster Power, the Mighty Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Fullmetalfoes Alkahest",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Mithrilium",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Orichalc",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Jinzo",
+      "Copies": 2
+    },
+    {
+      "Name": "Jowgen the Spiritualist",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

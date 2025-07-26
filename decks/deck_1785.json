@@ -1,0 +1,168 @@
+{
+  "Date": "November 2014",
+  "Tournament": "ARGCS Raleigh North Carolina",
+  "DeckName": "Qliphorts",
+  "DeckId": "1785",
+  "Duelist": "Jerome Porter",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Qliphort",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Trampolynx",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Carrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Disk",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Helix",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Scout",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Saqlifice",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Qlimate Change",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Shark Fortress",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 3
+    }
+  ]
+}

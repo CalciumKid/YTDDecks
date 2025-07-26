@@ -1,0 +1,168 @@
+{
+  "Date": "April 2023",
+  "Tournament": "YCS - London England",
+  "DeckName": "Springans",
+  "DeckId": "9497",
+  "Duelist": "Filippo Pura",
+  "Placed": "Top 64",
+  "Archetype": "Springans",
+  "DeckProfile": "www.youtube.com/embed/U9m3F_RA8xc",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber-Stein",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Jet",
+      "Copies": 1
+    },
+    {
+      "Name": "Springans Branga",
+      "Copies": 1
+    },
+    {
+      "Name": "Springans Brothers",
+      "Copies": 2
+    },
+    {
+      "Name": "Springans Captain Sargas",
+      "Copies": 1
+    },
+    {
+      "Name": "Springans Kitt",
+      "Copies": 2
+    },
+    {
+      "Name": "Springans Rockey",
+      "Copies": 3
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 1
+    },
+    {
+      "Name": "Great Sand Sea - Gold Golgonda",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Smashers",
+      "Copies": 2
+    },
+    {
+      "Name": "Springans Booty",
+      "Copies": 3
+    },
+    {
+      "Name": "Springans Watch",
+      "Copies": 3
+    },
+    {
+      "Name": "Tally-ho! Springans",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic \"Champion\" Sargas",
+      "Copies": 2
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Exterio",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 65: Djinn Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Platinum Gadget",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Sprind the Irondash Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Springans Merrymaker",
+      "Copies": 2
+    },
+    {
+      "Name": "Springans Ship - Exblowrer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    }
+  ]
+}

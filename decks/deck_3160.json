@@ -1,0 +1,192 @@
+{
+  "Date": "February 2005",
+  "Tournament": "2005 Shonen Jump Columbus",
+  "DeckName": "Chaos Hybrid",
+  "DeckId": "3160",
+  "Duelist": "Pat Smith",
+  "Placed": "1st Place",
+  "Archetype": "Chaos",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Blade Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Assailant",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiber Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Scientist",
+      "Copies": 1
+    },
+    {
+      "Name": "Sinister Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Tribe-Infecting Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Provisions",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirage of Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Choice",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 3
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Empress Judge",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 2
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "The Forceful Sentry",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 3
+    },
+    {
+      "Name": "Hallowed Life Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Pikeru's Circle of Enchantment",
+      "Copies": 1
+    }
+  ]
+}

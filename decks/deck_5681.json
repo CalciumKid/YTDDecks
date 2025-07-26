@@ -1,0 +1,180 @@
+{
+  "Date": "November 2016",
+  "Tournament": "YCS - Rio de Janeiro Brazil",
+  "DeckName": "ABC-Dragon Buster",
+  "DeckId": "5681",
+  "Duelist": "Carlos Henrique Freitas",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "ABC-Dragon Buster",
+  "DeckProfile": "www.youtube.com/embed/O6lvvI2H88U",
+  "MainDeck": [
+    {
+      "Name": "A-Assault Core",
+      "Copies": 3
+    },
+    {
+      "Name": "B-Buster Drake",
+      "Copies": 3
+    },
+    {
+      "Name": "C-Crush Wyvern",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Gadget",
+      "Copies": 2
+    },
+    {
+      "Name": "Machina Fortress",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Photon Thrasher",
+      "Copies": 2
+    },
+    {
+      "Name": "Silver Gadget",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Union Hangar",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Time-Space Trap Hole",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Acquisitiveness",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Union Scramble",
+      "Copies": 2
+    }
+  ]
+}

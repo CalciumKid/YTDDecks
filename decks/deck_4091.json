@@ -1,0 +1,200 @@
+{
+  "Date": "April 2015",
+  "Tournament": "Regional - Nanuet New York",
+  "DeckName": "Masked Heroes",
+  "DeckId": "4091",
+  "Duelist": "Charles Hall Kip",
+  "Placed": "5th - 8th Place",
+  "Archetype": "HERO",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Elemental HERO Bubbleman",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Neos Alius",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 3
+    },
+    {
+      "Name": "Goblindbergh",
+      "Copies": 2
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Miracle Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 3
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Blade Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Absolute Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Escuridao",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO The Shining",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Champion - Excalibur",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked HERO Koga",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "De-Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 2
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    }
+  ]
+}

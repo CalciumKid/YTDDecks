@@ -1,0 +1,176 @@
+{
+  "Date": "May 2015",
+  "Tournament": "YCS - Columbus Ohio",
+  "DeckName": "Nekroz Volcanics",
+  "DeckId": "4245",
+  "Duelist": "Brain McBride",
+  "Placed": "33rd - 64th Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "www.youtube.com/embed/ow4vcJWnoCs",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Djinn Releaser of Rituals",
+      "Copies": 1
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Brionac",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Clausolas",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Trishula",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Unicore",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Valkyrus",
+      "Copies": 1
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Shurit, Strategist of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Volcanic Rocket",
+      "Copies": 3
+    },
+    {
+      "Name": "Volcanic Scattershot",
+      "Copies": 3
+    },
+    {
+      "Name": "Volcanic Shell",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz Cycle",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Kaleidoscope",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz Mirror",
+      "Copies": 1
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 3
+    },
+    {
+      "Name": "Blaze Accelerator Reload",
+      "Copies": 3
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Curse of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Non-Fusion Area",
+      "Copies": 2
+    }
+  ]
+}

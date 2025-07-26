@@ -1,0 +1,148 @@
+{
+  "Date": "September 2019",
+  "Tournament": "Pro-Play Tour Orlando",
+  "DeckName": "Mystic Mine",
+  "DeckId": "8128",
+  "Duelist": "Jeff Leonard",
+  "Placed": "Top 16",
+  "Archetype": "Mystic Mine",
+  "DeckProfile": "www.youtube.com/embed/mdLnRzcmouk",
+  "MainDeck": [
+    {
+      "Name": "D.D. Guide",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Field Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Final Countdown",
+      "Copies": 1
+    },
+    {
+      "Name": "Goddess Skuld's Oracle",
+      "Copies": 3
+    },
+    {
+      "Name": "Left Arm Offering",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 3
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 3
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 3
+    },
+    {
+      "Name": "Secure Gardna",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "LANphorhynchus",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 3
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 3
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 3
+    },
+    {
+      "Name": "Secure Gardna",
+      "Copies": 3
+    },
+    {
+      "Name": "Traffic Ghost",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 3
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 3
+    }
+  ]
+}

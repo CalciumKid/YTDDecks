@@ -1,0 +1,172 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Connecticut",
+  "DeckName": "Sylvans",
+  "DeckId": "168",
+  "Duelist": "Michael Yang",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Sylvan",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuribandit",
+      "Copies": 3
+    },
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Spore",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Cherubsprout",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Hermitree",
+      "Copies": 3
+    },
+    {
+      "Name": "Sylvan Komushroomo",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Marshalleaf",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Princessprout",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Sagequoia",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Miracle Fertilizer",
+      "Copies": 3
+    },
+    {
+      "Name": "Mount Sylvania",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Sylvan Charity",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Alsei, the Sylvan High Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 2
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 15: Gimmick Puppet Giant Grinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Orea, the Sylvan High Arbiter",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

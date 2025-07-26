@@ -1,0 +1,172 @@
+{
+  "Date": "March 2013",
+  "Tournament": "Regional - Garden City Michigan",
+  "DeckName": "Lancer Frogs",
+  "DeckId": "1443",
+  "Duelist": "Tony Salazar",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Frog",
+  "DeckProfile": "www.youtube.com/embed/JJ69HaPthQo",
+  "MainDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Dust Spirit",
+      "Copies": 1
+    },
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Light and Darkness Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Poison Draw Frog",
+      "Copies": 2
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 2
+    },
+    {
+      "Name": "Sea Lancer",
+      "Copies": 3
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 2
+    },
+    {
+      "Name": "Tragoedia",
+      "Copies": 2
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Treacherous Trap Hole",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 3
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Muzurhythm the String Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 96: Dark Mist",
+      "Copies": 2
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Spell Canceller",
+      "Copies": 2
+    },
+    {
+      "Name": "The End of Anubis",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Overworked",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

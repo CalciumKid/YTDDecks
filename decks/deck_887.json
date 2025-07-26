@@ -1,0 +1,212 @@
+{
+  "Date": "November 2014",
+  "Tournament": "Regional - Tallahassee Florida",
+  "DeckName": "Dragon Shaddolls",
+  "DeckId": "887",
+  "Duelist": "Jean Paul Sallant",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Shaddoll",
+  "DeckProfile": "www.youtube.com/embed/Rzu6_2bIkFQ",
+  "MainDeck": [
+    {
+      "Name": "Black Dragon Collapserpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Sorcerer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Eclipse Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 2
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Falco",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Hedgehog",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Squamata",
+      "Copies": 1
+    },
+    {
+      "Name": "White Dragon Wyverburster",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Core",
+      "Copies": 1
+    },
+    {
+      "Name": "Sinister Shadow Games",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Construct",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Grysta",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Shekhinaga",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 3
+    }
+  ]
+}

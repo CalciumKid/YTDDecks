@@ -1,0 +1,132 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - Miami Florida",
+  "DeckName": "Cubic 40 Card",
+  "DeckId": "5989",
+  "Duelist": "Jason Smith",
+  "Placed": "1st Place",
+  "Archetype": "Cubic",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blade Garoodia the Cubic Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Buster Gundil the Cubic Behemoth",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Nova the Dark Cubic Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Duza the Meteor Cubic Vessel",
+      "Copies": 3
+    },
+    {
+      "Name": "Geira Guile the Cubic King",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Vijam the Cubic Seed",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Trader",
+      "Copies": 3
+    },
+    {
+      "Name": "Cubic Karma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cubic Wave",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Cubic Rebirth",
+      "Copies": 3
+    },
+    {
+      "Name": "Unification of the Cubic Lords",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Azure-Eyes Silver Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Spirit Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Nova Trinity the Dark Cubic Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Paladin",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Cubic Mandala",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

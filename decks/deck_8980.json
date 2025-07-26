@@ -1,0 +1,176 @@
+{
+  "Date": "January 2021",
+  "Tournament": "RD Extravaganza - North America",
+  "DeckName": "Numeron OTK",
+  "DeckId": "8980",
+  "Duelist": "Emmanuel Lilly",
+  "Placed": "Top 4",
+  "Archetype": "Numeron",
+  "DeckProfile": "www.youtube.com/embed/5n0LBvUSNR0",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Numeron Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Planet Pathfinder",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Skull Meister",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Memories of Hope",
+      "Copies": 2
+    },
+    {
+      "Name": "Numeron Calling",
+      "Copies": 2
+    },
+    {
+      "Name": "Numeron Network",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Fortress Megaclops",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 1: Numeron Gate Ekam",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 2: Numeron Gate Dve",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 3: Numeron Gate Trini",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 4: Numeron Gate Catvari",
+      "Copies": 2
+    },
+    {
+      "Name": "Number S0: Utopic ZEXAL",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ally of Justice Cycle Reader",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    }
+  ]
+}

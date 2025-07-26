@@ -1,0 +1,188 @@
+{
+  "Date": "October 2016",
+  "Tournament": "UDS Summer 2016",
+  "DeckName": "Yosenju Demise",
+  "DeckId": "5938",
+  "Duelist": "Filipe França",
+  "Placed": "2nd Place",
+  "Archetype": "Yosenju",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Yosenju Kama 1",
+      "Copies": 3
+    },
+    {
+      "Name": "Yosenju Kama 2",
+      "Copies": 2
+    },
+    {
+      "Name": "Yosenju Kama 3",
+      "Copies": 3
+    },
+    {
+      "Name": "Yosenju Shinchu L",
+      "Copies": 1
+    },
+    {
+      "Name": "Yosenju Tsujik",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 2
+    },
+    {
+      "Name": "Galaxy Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Into the Void",
+      "Copies": 3
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Pet Phantasmal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    }
+  ]
+}

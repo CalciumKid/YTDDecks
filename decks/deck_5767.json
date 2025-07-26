@@ -1,0 +1,184 @@
+{
+  "Date": "December 2016",
+  "Tournament": "YCS - Bochum Germany",
+  "DeckName": "Zombie Synchron Hand Loop",
+  "DeckId": "5767",
+  "Duelist": "Torben Wahl",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Synchro",
+  "DeckProfile": "www.youtube.com/embed/2cnFFXFr3uA",
+  "MainDeck": [
+    {
+      "Name": "Beast of the Pharaoh",
+      "Copies": 3
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 2
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 3
+    },
+    {
+      "Name": "Re-Cover",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapeghost",
+      "Copies": 1
+    },
+    {
+      "Name": "Shiranui Solitaire",
+      "Copies": 2
+    },
+    {
+      "Name": "Synkron Resonator",
+      "Copies": 2
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 3
+    },
+    {
+      "Name": "Zombie Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Burial from a Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Resonator Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quandax",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 3
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Vermillion Dragon Mech",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Treacherous Trap Hole",
+      "Copies": 1
+    }
+  ]
+}

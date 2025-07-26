@@ -1,0 +1,176 @@
+{
+  "Date": "December 2019",
+  "Tournament": "Regional - Kissimmee Florida",
+  "DeckName": "Cyber Dragon Orcust",
+  "DeckId": "8387",
+  "Duelist": "Illya Higdon",
+  "Placed": "6th Place",
+  "Archetype": "Orcust",
+  "DeckProfile": "www.youtube.com/embed/UCW54vBjCWA",
+  "MainDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Core",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Herz",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Nachster",
+      "Copies": 2
+    },
+    {
+      "Name": "Galaxy Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Orcust Cymbal Skeleton",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Harp Horror",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Recycler",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy - \"World Wand\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Emergency",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Repair Plant",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Revsystem",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Into the Void",
+      "Copies": 3
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcustrated Babel",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcustrated Return",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Cybernetic Overflow",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Crescendo",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Barricadeborg Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Rampage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinitrack River Stormer",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Platinum Gadget",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

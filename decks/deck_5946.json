@@ -1,0 +1,176 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - Atlanta Georgia",
+  "DeckName": "Darklords",
+  "DeckId": "5946",
+  "Duelist": "Richard Plummer",
+  "Placed": "22nd Place",
+  "Archetype": "Darklord",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Darklord Ixchel",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Nasten",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Superbia",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Zerato",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 2
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Banishment of the Darklords",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Contact",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Enchantment",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Rebellion",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Full Armor Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 15: Gimmick Puppet Giant Grinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 22: Zombiestein",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 35: Ravenous Tarantula",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 77: The Seven Sins",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 84: Pain Gainer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Full Force Virus",
+      "Copies": 2
+    }
+  ]
+}

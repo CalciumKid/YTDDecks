@@ -1,0 +1,244 @@
+{
+  "Date": "May 2017",
+  "Tournament": "Regional - Netherlands",
+  "DeckName": "Predaplant Kaiju Yang Zing Buster Blader",
+  "DeckId": "6317",
+  "Duelist": "Wail Aalouch",
+  "Placed": "Top 8",
+  "Archetype": "Yang Zing",
+  "DeckProfile": "www.youtube.com/embed/JJljR8KbFUE",
+  "MainDeck": [
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Buster Blader, the Destruction Swordmaster",
+      "Copies": 3
+    },
+    {
+      "Name": "Buster Whelp of the Destruction Swordsman",
+      "Copies": 3
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragon Buster Destruction Sword",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lapis",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Darlingtonia Cobra",
+      "Copies": 2
+    },
+    {
+      "Name": "Predaplant Ophrys Scorpio",
+      "Copies": 3
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Sage with Eyes of Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Sauravis, the Ancient and Ascended",
+      "Copies": 1
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 2
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Where Arf Thou?",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Destruction Sword Flash",
+      "Copies": 1
+    },
+    {
+      "Name": "Destruction Sword Memories",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Nine Pillars of Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Prologue of the Destruction Swordsman",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Buster Blader, the Dragon Destroyer Swordsman",
+      "Copies": 2
+    },
+    {
+      "Name": "Buster Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Ogre Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    }
+  ]
+}

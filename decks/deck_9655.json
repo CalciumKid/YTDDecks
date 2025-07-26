@@ -1,0 +1,148 @@
+{
+  "Date": "June 2023",
+  "Tournament": "Regional - Houston Texas",
+  "DeckName": "Kashtira",
+  "DeckId": "9655",
+  "Duelist": "Cameron Neal",
+  "Placed": "Top 4",
+  "Archetype": "Kashtira",
+  "DeckProfile": "www.youtube.com/embed/u5wX2uU09sg",
+  "MainDeck": [
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Riseheart",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Unicorn",
+      "Copies": 2
+    },
+    {
+      "Name": "Scareclaw Kashtira",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Birth",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtiratheosis",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Pressured Planet Wraitsoth",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Big Bang",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dark Armed, the Dragon of Annihilation",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Donner, Dagger Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Fossil Warrior Skull Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Goliath",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Arise-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Shangri-Ira",
+      "Copies": 2
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    }
+  ]
+}

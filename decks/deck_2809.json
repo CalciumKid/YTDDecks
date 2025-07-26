@@ -1,0 +1,148 @@
+{
+  "Date": "January 2007",
+  "Tournament": "2007 SJ Orlando",
+  "DeckName": "Rampage Chimeratech",
+  "DeckId": "2809",
+  "Duelist": "Jonathan LaBounty",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Rampage Chimeratech",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Dekoichi the Battlechanted Locomotive",
+      "Copies": 3
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Canceller",
+      "Copies": 1
+    },
+    {
+      "Name": "UFO Turtle",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Future Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 2
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Overload Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Jar of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Des Wombat",
+      "Copies": 3
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravity Bind",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ]
+}

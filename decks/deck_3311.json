@@ -1,0 +1,168 @@
+{
+  "Date": "January 2015",
+  "Tournament": "Regional - Sydney Australia",
+  "DeckName": "Batterymen",
+  "DeckId": "3311",
+  "Duelist": "Marcus Wheeler",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Batteryman",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Batteryman 9-Volt",
+      "Copies": 3
+    },
+    {
+      "Name": "Batteryman Charger",
+      "Copies": 3
+    },
+    {
+      "Name": "Batteryman Fuel Cell",
+      "Copies": 3
+    },
+    {
+      "Name": "Batteryman Micro-Cell",
+      "Copies": 3
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Battery Charger",
+      "Copies": 2
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "United We Stand",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Oasis of Dragon Souls",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Gauntlet Launcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

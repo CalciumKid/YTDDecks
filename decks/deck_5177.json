@@ -1,0 +1,176 @@
+{
+  "Date": "June 2016",
+  "Tournament": "State Championship - Wyoming",
+  "DeckName": "Tzolkin Monarchs",
+  "DeckId": "5177",
+  "Duelist": "Cody Muniz",
+  "Placed": "1st Place",
+  "Archetype": "Monarch",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Edea the Heavenly Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Eidos the Underworld Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Kuraz the Light Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Quickdraw Synchron",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Quantum Red Layer",
+      "Copies": 3
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Return of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Tuning",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adreus, Keeper of Armageddon",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Shark Fortress",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tiras, Keeper of Genesis",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ]
+}

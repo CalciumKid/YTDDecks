@@ -1,0 +1,200 @@
+{
+  "Date": "March 2011",
+  "Tournament": "2011 YCS Charlotte",
+  "DeckName": "Flamvellsworn",
+  "DeckId": "2236",
+  "Duelist": "Jonathan Barber",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Flamvell",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Flamvell Archer",
+      "Copies": 2
+    },
+    {
+      "Name": "Flamvell Firedog",
+      "Copies": 3
+    },
+    {
+      "Name": "Flamvell Grunika",
+      "Copies": 1
+    },
+    {
+      "Name": "Flamvell Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Flamvell Poun",
+      "Copies": 1
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Rekindling",
+      "Copies": 3
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Arcanite Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Reign-Beaux, Overlord of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Corridor of Agony",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Gottoms' Emergency Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 1
+    }
+  ]
+}

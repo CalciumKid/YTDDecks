@@ -1,0 +1,188 @@
+{
+  "Date": "November 2023",
+  "Tournament": "OTS Championship Tirana",
+  "DeckName": "Infernoble",
+  "DeckId": "9813",
+  "Duelist": "Lorin Kraja",
+  "Placed": "2nd Place",
+  "Archetype": "Infernoble",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Flint Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Immortal Phoenix Gearfried",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoble Knight Maugis",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoble Knight Ogier",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoble Knight Oliver",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoble Knight Ricciardetto",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoble Knight - Roland",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoble Knight Turpin",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Riseheart",
+      "Copies": 1
+    },
+    {
+      "Name": "Neo Space Connector",
+      "Copies": 3
+    },
+    {
+      "Name": "Neo-Spacian Aqua Dolphin",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantum Red Layer",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "Heritage of the Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Arms Museum",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Angelica, Princess of Noble Arms",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Artorigus, King of the Noble Knights",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlin' Boxer King Dempsey",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujinki Ahashima",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Emperor Charles the Great",
+      "Copies": 2
+    },
+    {
+      "Name": "Gouki The Powerload Ogre",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoble Knight Captain Roland",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoble Knight Emperor Charles",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Ra'ten, the Heavenly General",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Baldrake",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

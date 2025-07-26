@@ -1,0 +1,196 @@
+{
+  "Date": "January 2014",
+  "Tournament": "ARG K in Day Indy",
+  "DeckName": "Six Samurai",
+  "DeckId": "3849",
+  "Duelist": "Phillip Parris",
+  "Placed": "Top 8",
+  "Archetype": "Six Samurai",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Elder of the Six Samurai",
+      "Copies": 2
+    },
+    {
+      "Name": "Hand of the Six Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Kagemusha of the Six Samurai",
+      "Copies": 3
+    },
+    {
+      "Name": "Shien's Squire",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit of the Six Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "The Six Samurai - Irou",
+      "Copies": 1
+    },
+    {
+      "Name": "The Six Samurai - Zanji",
+      "Copies": 1
+    },
+    {
+      "Name": "Asceticism of the Six Samurai",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Shien's Dojo",
+      "Copies": 2
+    },
+    {
+      "Name": "Shien's Smoke Signal",
+      "Copies": 3
+    },
+    {
+      "Name": "Six Samurai United",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Musakani Magatama",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Comics Hero King Arthur",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravity Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Champion - Excalibur",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Six Samurai - Shi En",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Barkion",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Orient Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 2
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "DNA Surgery",
+      "Copies": 2
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Musakani Magatama",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

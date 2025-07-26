@@ -1,0 +1,164 @@
+{
+  "Date": "June 2023",
+  "Tournament": "National Championship - Germany",
+  "DeckName": "Mannadium",
+  "DeckId": "9675",
+  "Duelist": "Kian Mac",
+  "Placed": "Top 32",
+  "Archetype": "Mannadium",
+  "DeckProfile": "www.youtube.com/embed/Af3UR0fu6bk",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Fearless",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Meek",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Riumheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Scareclaw Reichheart",
+      "Copies": 2
+    },
+    {
+      "Name": "Visas Starfrost",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Mannadium Abscission",
+      "Copies": 3
+    },
+    {
+      "Name": "Peaceful Planet Calarium",
+      "Copies": 3
+    },
+    {
+      "Name": "Primitive Planet Reichphobia",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Arrival",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Reframing",
+      "Copies": 1
+    },
+    {
+      "Name": "Trivikarma",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchro Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Dis Pater",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Protector of The Agents - Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Light-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Vicious Astraloud",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

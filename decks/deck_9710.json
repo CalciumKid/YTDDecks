@@ -1,0 +1,152 @@
+{
+  "Date": "July 2023",
+  "Tournament": "WCQ - North America",
+  "DeckName": "Purrely",
+  "DeckId": "9710",
+  "Duelist": "Nicholas Ma",
+  "Placed": "Top 32",
+  "Archetype": "Purrely",
+  "DeckProfile": "www.youtube.com/embed/b4N1f8q2RVI",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrely",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrelyly",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "My Friend Purrely",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrely Delicious Memory",
+      "Copies": 1
+    },
+    {
+      "Name": "Purrely Happy Memory",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrely Pretty Memory",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrely Sleepy Memory",
+      "Copies": 3
+    },
+    {
+      "Name": "Stray Purrely Street",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrelyeap!?",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Epurrely Beauty",
+      "Copies": 2
+    },
+    {
+      "Name": "Epurrely Happiness",
+      "Copies": 2
+    },
+    {
+      "Name": "Epurrely Plump",
+      "Copies": 2
+    },
+    {
+      "Name": "Expurrely Noir",
+      "Copies": 2
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Azalea",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Princessprite",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Grave of the Super Ancient Organism",
+      "Copies": 3
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 2
+    }
+  ]
+}

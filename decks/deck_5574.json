@@ -1,0 +1,184 @@
+{
+  "Date": "October 2016",
+  "Tournament": "Regional Secaucus New Jersey",
+  "DeckName": "Majespecter Pendulum Magicians",
+  "DeckId": "5574",
+  "Duelist": "Henry Williams",
+  "Placed": "Top 8",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/9D_VkNNZRTs",
+  "MainDeck": [
+    {
+      "Name": "Dragonpit Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragonpulse Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Fox - Kyubi",
+      "Copies": 2
+    },
+    {
+      "Name": "Majespecter Raccoon - Bunbuku",
+      "Copies": 4
+    },
+    {
+      "Name": "Majespecter Toad - Ogama",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 3
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Odd-Eyes Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Pegasus",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Iris",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Majespecter Tempest",
+      "Copies": 1
+    },
+    {
+      "Name": "Majespecter Tornado",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Rebellion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    }
+  ]
+}

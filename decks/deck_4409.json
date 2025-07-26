@@ -1,0 +1,168 @@
+{
+  "Date": "September 2015",
+  "Tournament": "YCS - Rimini Italy",
+  "DeckName": "Ritual Beasts",
+  "DeckId": "4409",
+  "Duelist": "Gabriele Possetto",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Beast",
+  "DeckProfile": "www.youtube.com/embed/1BTWvost_U4",
+  "MainDeck": [
+    {
+      "Name": "Ritual Beast Tamer Elder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Tamer Lara",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Wen",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Tamer Zeframpilica",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Apelio",
+      "Copies": 2
+    },
+    {
+      "Name": "Spiritual Beast Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Pettlephin",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Rampengu",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast's Bond",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ambush",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Steeds",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Apelio",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Ulti-Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Ulti-Gaiapelio",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Pettlephin",
+      "Copies": 2
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

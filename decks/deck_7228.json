@@ -1,0 +1,272 @@
+{
+  "Date": "April 2018",
+  "Tournament": "Regional - Atlanta Georgia",
+  "DeckName": "60-Card Kitchen Sink",
+  "DeckId": "7228",
+  "Duelist": "Avery Lewis",
+  "Placed": "5th Place",
+  "Archetype": "Saryuja",
+  "DeckProfile": "www.youtube.com/embed/VvJDzc-duDA",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Baobaboon",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Garnet",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Mare Mare",
+      "Copies": 1
+    },
+    {
+      "Name": "Master Peace, the True Dracoslaying King",
+      "Copies": 1
+    },
+    {
+      "Name": "Overtex Qoatlus",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Darlingtonia Cobra",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Ophrys Scorpio",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Souleating Oviraptor",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Darkwurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimate Conductor Tyranno",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Vyon",
+      "Copies": 2
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Double Evolution Pill",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Ravine",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dangerous",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Eater",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    }
+  ]
+}

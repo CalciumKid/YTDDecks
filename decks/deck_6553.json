@@ -1,0 +1,208 @@
+{
+  "Date": "June 2017",
+  "Tournament": "Nationals - Australia",
+  "DeckName": "Dark Synchro",
+  "DeckId": "6553",
+  "Duelist": "Ian Carroll",
+  "Placed": "Top 8",
+  "Archetype": "Synchro",
+  "DeckProfile": "www.youtube.com/embed/VKu6-gnfneU",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Gofu the Vague Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Level Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 1
+    },
+    {
+      "Name": "Quickdraw Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Re-Cover",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Synkron Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Tuning",
+      "Copies": 3
+    },
+    {
+      "Name": "Where Arf Thou?",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Blackwing - Sohaya the Rain Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Drill Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Jet Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Quasar Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Sifr Divine Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Sea Monster of Theseus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Shekhinaga",
+      "Copies": 1
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Hedgehog",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    }
+  ]
+}

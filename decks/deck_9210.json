@@ -1,0 +1,148 @@
+{
+  "Date": "September 2022",
+  "Tournament": "Regional - Philadelphia Pennsylvania",
+  "DeckName": "Mystic Mine Burn",
+  "DeckId": "9210",
+  "Duelist": "Saul Zayas",
+  "Placed": "Top 4",
+  "Archetype": "Burn",
+  "DeckProfile": "www.youtube.com/embed/7Hfs285Zz9U",
+  "MainDeck": [
+    {
+      "Name": "Amano-Iwato",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Cauldron of the Old Man",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 3
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 3
+    },
+    {
+      "Name": "Fossil Warrior Skull Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Ultimate Falcon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ]
+}

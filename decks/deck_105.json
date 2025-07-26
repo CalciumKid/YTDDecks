@@ -1,0 +1,172 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Nevada",
+  "DeckName": "Infernities",
+  "DeckId": "105",
+  "Duelist": "Zachary Kane",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Infernity",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Heiress",
+      "Copies": 1
+    },
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 2
+    },
+    {
+      "Name": "Dynatherium",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernity Archfiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernity Necromancer",
+      "Copies": 2
+    },
+    {
+      "Name": "Stygian Street Patrol",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Archfiend Palabyrinth",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernity Launcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernity Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernity Break",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Flame Ghost",
+      "Copies": 1
+    },
+    {
+      "Name": "Kamionwizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 2
+    }
+  ]
+}

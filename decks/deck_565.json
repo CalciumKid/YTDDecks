@@ -1,0 +1,188 @@
+{
+  "Date": "May 2013",
+  "Tournament": "YCS - Meadowlands New Jersey",
+  "DeckName": "Atlantean Mermails",
+  "DeckId": "565",
+  "Duelist": "Thomas Balaban",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Mermail",
+  "DeckProfile": "www.youtube.com/embed/DXHqivvtjRU",
+  "MainDeck": [
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 2
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 3
+    },
+    {
+      "Name": "Deep Sea Diva",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssleed",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysslinde",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Moulinglacia the Elemental Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss-sphere",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-squall",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Dewloren, Tiger King of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 1
+    },
+    {
+      "Name": "Gungnir, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abysstrite",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Airorca",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Snowman Eater",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    }
+  ]
+}

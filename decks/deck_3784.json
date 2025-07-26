@@ -1,0 +1,156 @@
+{
+  "Date": "November 2014",
+  "Tournament": "ARG Raleigh",
+  "DeckName": "Qliphorts",
+  "DeckId": "3784",
+  "Duelist": "Michael Casey Barbee",
+  "Placed": "1st   16th Place",
+  "Archetype": "Qliphort",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Trampolynx",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Disk",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Helix",
+      "Copies": 3
+    },
+    {
+      "Name": "Qliphort Scout",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Saqlifice",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Qlimate Change",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Shark Fortress",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Re-Cover",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

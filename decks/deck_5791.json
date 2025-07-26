@@ -1,0 +1,135 @@
+{
+  "Date": "December 2016",
+  "Tournament": "Regional - Anaheim California",
+  "DeckName": "Lightsworn FireFist",
+  "DeckId": "5791",
+  "Duelist": "Mt93",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Fire Fist",
+  "DeckProfile": "www.youtube.com/embed/mKxeex-8o4E",
+  "MainDeck": [
+    {
+      "Name": "Brotherhood of the Fire Fist - Bear",
+      "Copies": 2
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Gorilla",
+      "Copies": 2
+    },
+    {
+      "Name": "Coach Soldier Wolfbark",
+      "Copies": 3
+    },
+    {
+      "Name": "Dawn Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Felis, Lightsworn Archer",
+      "Copies": 3
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 3
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 3
+    },
+    {
+      "Name": "Rainbow Kuriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Wulf, Lightsworn Beast",
+      "Copies": 2
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Formation - Tensu",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Prisoner",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackfeather Darkrage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Kagutsuchi",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujintei Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

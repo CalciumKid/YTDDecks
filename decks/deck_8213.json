@@ -1,0 +1,172 @@
+{
+  "Date": "October 2019",
+  "Tournament": "YCS - Fort Worth Texas",
+  "DeckName": "Sky Striker True Draco",
+  "DeckId": "8213",
+  "Duelist": "Noah Beygelman",
+  "Placed": "Top 8",
+  "Archetype": "True Draco",
+  "DeckProfile": "www.youtube.com/embed/8ApsQuSlWqI",
+  "MainDeck": [
+    {
+      "Name": "Dinomight Knight, the True Dracofighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Shark Cannon",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 3
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Barricadeborg Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Clara & Rushka, the Ventriloduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Hayate",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kaina",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 3
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Gnomaterial",
+      "Copies": 3
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Mecha - Eagle Booster",
+      "Copies": 1
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    }
+  ]
+}

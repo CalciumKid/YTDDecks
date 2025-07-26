@@ -1,0 +1,172 @@
+{
+  "Date": "October 2019",
+  "Tournament": "YCS - London England",
+  "DeckName": "Shaddoll Dinosaurs",
+  "DeckId": "8272",
+  "Duelist": "Ruben Vicente",
+  "Placed": "Top 64",
+  "Archetype": "Shaddoll",
+  "DeckProfile": "www.youtube.com/embed/sfFbtJqz5h8",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Rex",
+      "Copies": 1
+    },
+    {
+      "Name": "Gizmek Orochi, the Serpentron Sky Slasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Miscellaneousaurus",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Overtex Qoatlus",
+      "Copies": 1
+    },
+    {
+      "Name": "Petiteranodon",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Souleating Oviraptor",
+      "Copies": 3
+    },
+    {
+      "Name": "Ultimate Conductor Tyranno",
+      "Copies": 3
+    },
+    {
+      "Name": "Double Evolution Pill",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Fossil Dig",
+      "Copies": 3
+    },
+    {
+      "Name": "Lost World",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Grysta",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Shekhinaga",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 2
+    },
+    {
+      "Name": "Evolzar Dolkka",
+      "Copies": 2
+    },
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 60: Dugares the Timeless",
+      "Copies": 1
+    },
+    {
+      "Name": "Pentestag",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

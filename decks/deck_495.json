@@ -1,0 +1,188 @@
+{
+  "Date": "March 2014",
+  "Tournament": "YCS - Sao Paulo Brazil",
+  "DeckName": "Bujins",
+  "DeckId": "495",
+  "Duelist": "Evandro Cassio Cruz",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Bujin",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Bujingi Centipede",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujingi Crane",
+      "Copies": 3
+    },
+    {
+      "Name": "Bujingi Hare",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujingi Quilin",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujingi Turtle",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujin Mikazuchi",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujin Yamato",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Kaiser Colosseum",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Kagutsuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Susanowo",
+      "Copies": 2
+    },
+    {
+      "Name": "Constellar Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Starliege Paladynamo",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Closed Forest",
+      "Copies": 2
+    },
+    {
+      "Name": "DNA Surgery",
+      "Copies": 2
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 2
+    },
+    {
+      "Name": "Overworked",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ]
+}

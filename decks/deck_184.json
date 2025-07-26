@@ -1,0 +1,176 @@
+{
+  "Date": "August 2014",
+  "Tournament": "YGO State Championship Virginia",
+  "DeckName": "Sylvans",
+  "DeckId": "184",
+  "Duelist": "Trevor Barnes",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Sylvan",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuribandit",
+      "Copies": 3
+    },
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Rose Archer",
+      "Copies": 3
+    },
+    {
+      "Name": "Spore",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Cherubsprout",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Hermitree",
+      "Copies": 3
+    },
+    {
+      "Name": "Sylvan Komushroomo",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Marshalleaf",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Princessprout",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Sagequoia",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Miracle Fertilizer",
+      "Copies": 3
+    },
+    {
+      "Name": "Mount Sylvania",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Sylvan Charity",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Alsei, the Sylvan High Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 2
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 15: Gimmick Puppet Giant Grinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Orea, the Sylvan High Arbiter",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Komushroomo",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Marshalleaf",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    }
+  ]
+}

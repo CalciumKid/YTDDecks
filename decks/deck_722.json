@@ -1,0 +1,200 @@
+{
+  "Date": "July 2014",
+  "Tournament": "WCQ - North America",
+  "DeckName": "Lightsworn",
+  "DeckId": "722",
+  "Duelist": "Alexander Muts",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Lightsworn",
+  "DeckProfile": "www.youtube.com/embed/xosdP6mSQoQ",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "Eclipse Wyvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Ehren, Lightsworn Monk",
+      "Copies": 1
+    },
+    {
+      "Name": "Garoth, Lightsworn Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Jain, Lightsworn Paladin",
+      "Copies": 1
+    },
+    {
+      "Name": "Judgment Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightray Diabolos",
+      "Copies": 1
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Necro Gardna",
+      "Copies": 3
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 2
+    },
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 1
+    },
+    {
+      "Name": "Wulf, Lightsworn Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Needlebug Nest",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Decisive Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ally of Justice Cycle Reader",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Comedian",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Universe",
+      "Copies": 2
+    }
+  ]
+}

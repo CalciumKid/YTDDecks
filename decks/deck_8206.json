@@ -1,0 +1,180 @@
+{
+  "Date": "September 2019",
+  "Tournament": "OTS Championship - Crestwood MO",
+  "DeckName": "Blind 2nd Sky Strikers",
+  "DeckId": "8206",
+  "Duelist": "Kreigh Hollingsworth",
+  "Placed": "4th Place",
+  "Archetype": "Sky Striker",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Jamming Waves!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Eagle Booster",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecharmory - Hercules Base",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Shark Cannon",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Hayate",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kaina",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 3
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ]
+}

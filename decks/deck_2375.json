@@ -1,0 +1,196 @@
+{
+  "Date": "May 2010",
+  "Tournament": "2010 Championship Series - DC",
+  "DeckName": "Herald",
+  "DeckId": "2375",
+  "Duelist": "Russel LaParre",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Herald",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Arcana Force 0 - The Fool",
+      "Copies": 1
+    },
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 1
+    },
+    {
+      "Name": "Consecrated Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Alchemist",
+      "Copies": 2
+    },
+    {
+      "Name": "Herald of Green Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Perfection",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Purple Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Nova Summoner",
+      "Copies": 2
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 2
+    },
+    {
+      "Name": "Shining Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Skelengel",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul of Purity and Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Tethys, Goddess of Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Dawn of the Herald",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Sacred Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Light End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "X-Saber Urbellum",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Consecrated Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Swallow Flip",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

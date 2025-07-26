@@ -1,0 +1,184 @@
+{
+  "Date": "October 2012",
+  "Tournament": "2012 YCS Providence",
+  "DeckName": "Agents",
+  "DeckId": "1990",
+  "Duelist": "Daniel Vrabel",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Agent",
+  "DeckProfile": "www.youtube.com/embed/QJO_WtA0bbI",
+  "MainDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Master Hyperion",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Shine Ball",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "The Agent of Creation - Venus",
+      "Copies": 3
+    },
+    {
+      "Name": "The Agent of Mystery - Earth",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Sacred Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 2
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 96: Dark Mist",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Snowman Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Taker",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

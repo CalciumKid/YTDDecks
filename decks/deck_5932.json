@@ -1,0 +1,180 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - S. Portland Maine",
+  "DeckName": "Six Samurai",
+  "DeckId": "5932",
+  "Duelist": "Matt Lopez",
+  "Placed": "Top 8",
+  "Archetype": "Six Samurai",
+  "DeckProfile": "www.youtube.com/embed/KrHPnZPdREY",
+  "MainDeck": [
+    {
+      "Name": "Elder of the Six Samurai",
+      "Copies": 2
+    },
+    {
+      "Name": "Grandmaster of the Six Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Kagemusha of the Six Samurai",
+      "Copies": 3
+    },
+    {
+      "Name": "Legendary Six Samurai - Enishi",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Six Samurai - Kageki",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Six Samurai - Kizan",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Spirit of the Six Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "The Six Samurai - Irou",
+      "Copies": 1
+    },
+    {
+      "Name": "The Six Samurai - Zanji",
+      "Copies": 1
+    },
+    {
+      "Name": "Asceticism of the Six Samurai",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Shien's Dojo",
+      "Copies": 3
+    },
+    {
+      "Name": "Shien's Smoke Signal",
+      "Copies": 3
+    },
+    {
+      "Name": "Six Samurai United",
+      "Copies": 3
+    },
+    {
+      "Name": "Double-Edged Sword Technique",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Musakani Magatama",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Champion - Excalibur",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Six Samurai - Shi En",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Barkion",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Shadow of the Six Samurai - Shien",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Musakani Magatama",
+      "Copies": 1
+    }
+  ]
+}

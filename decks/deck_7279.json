@@ -1,0 +1,172 @@
+{
+  "Date": "June 2018",
+  "Tournament": "YCS - Secaucus New Jersey",
+  "DeckName": "Sky Strikers",
+  "DeckId": "7279",
+  "Duelist": "Manav Dawar",
+  "Placed": "2nd Place",
+  "Archetype": "Sky Striker",
+  "DeckProfile": "www.youtube.com/embed/OgZt-KqH2PY",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Darkest Diabolos, Lord of the Lair",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Jamming Waves!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Mecha - Shark Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Trisbaena",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 2
+    }
+  ]
+}

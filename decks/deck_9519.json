@@ -1,0 +1,168 @@
+{
+  "Date": "April 2023",
+  "Tournament": "YCS - London England",
+  "DeckName": "Trickstar Melffy Spright",
+  "DeckId": "9519",
+  "Duelist": "Lukas Harsche",
+  "Placed": "Top 32",
+  "Archetype": "Spright",
+  "DeckProfile": "www.youtube.com/embed/D0PJgqpKQF0",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 2
+    },
+    {
+      "Name": "Melffy Catty",
+      "Copies": 1
+    },
+    {
+      "Name": "Melffy Pinny",
+      "Copies": 1
+    },
+    {
+      "Name": "Nimble Angler",
+      "Copies": 2
+    },
+    {
+      "Name": "Nimble Beaver",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Scissors",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Carrot",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Jet",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Gamma Burst",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Smashers",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Starter",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Melffy of the Forest",
+      "Copies": 1
+    },
+    {
+      "Name": "Merry Melffys",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 2: Ninja Shadow Mosquito",
+      "Copies": 1
+    },
+    {
+      "Name": "Onibimaru Soul Sweeper",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

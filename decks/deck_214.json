@@ -1,0 +1,204 @@
+{
+  "Date": "August 2014",
+  "Tournament": "YGO State Championship North Carolina",
+  "DeckName": "Traptrix Hand Artifacts",
+  "DeckId": "214",
+  "Duelist": "Carlos Thomas",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Artifact",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Beagalltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 3
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Bear",
+      "Copies": 2
+    },
+    {
+      "Name": "Coach Soldier Wolfbark",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Hand",
+      "Copies": 2
+    },
+    {
+      "Name": "Ice Hand",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Myrmeleo",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Ignition",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Dichotomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Kagutsuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Tiras, Keeper of Genesis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ally of Justice Cycle Reader",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Exchange",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Deep Dark Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "December 2016",
+  "Tournament": "YCS - Anaheim California",
+  "DeckName": "Darklords",
+  "DeckId": "5677",
+  "Duelist": "Steven Silverman",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Darklord",
+  "DeckProfile": "www.youtube.com/embed/o5lXat4_plk",
+  "MainDeck": [
+    {
+      "Name": "Darklord Amdusc",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Ixchel",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Nasten",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Superbia",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Zerato",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Banishment of the Darklords",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Contact",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Enchantment",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Rebellion",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Alsei, the Sylvan High Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Full Armor Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 15: Gimmick Puppet Giant Grinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 22: Zombiestein",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 77: The Seven Sins",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 84: Pain Gainer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    }
+  ]
+}

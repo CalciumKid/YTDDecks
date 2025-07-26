@@ -1,0 +1,180 @@
+{
+  "Date": "December 2017",
+  "Tournament": "Regional - Seattle Washington",
+  "DeckName": "Trickstars",
+  "DeckId": "6932",
+  "Duelist": "Jorge Garcia",
+  "Placed": "Top 16",
+  "Archetype": "Trickstar",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gofu the Vague Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Lycoris",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Reincarnation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ib the World Chalice Priestess",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Holly Angel",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    }
+  ]
+}

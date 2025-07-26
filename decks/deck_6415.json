@@ -1,0 +1,180 @@
+{
+  "Date": "June 2017",
+  "Tournament": "Regional - Tuscaloosa Alabama",
+  "DeckName": "True Draco Zoodiacs",
+  "DeckId": "6415",
+  "Duelist": "Danish Ali",
+  "Placed": "Top 8",
+  "Archetype": "True Draco",
+  "DeckProfile": "www.youtube.com/embed/9yfVl8ZKh9A",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Black Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Master Peace, the True Dracoslaying King",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Ramram",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Thoroughblade",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Whiptail",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Fusion Substitute",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Barrage",
+      "Copies": 3
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Combo",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Boarbow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Broadbull",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Chakanine",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Hammerkong",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Tigermortar",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 2
+    }
+  ]
+}

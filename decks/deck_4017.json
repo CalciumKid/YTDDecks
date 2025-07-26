@@ -1,0 +1,180 @@
+{
+  "Date": "February 2015",
+  "Tournament": "Regional - Hamburg Germany",
+  "DeckName": "Ritual Beasts",
+  "DeckId": "4017",
+  "Duelist": "Kai H. (?)",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Beast",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ritual Beast Tamer Elder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Tamer Lara",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Tamer Wen",
+      "Copies": 2
+    },
+    {
+      "Name": "Spiritual Beast Apelio",
+      "Copies": 2
+    },
+    {
+      "Name": "Spiritual Beast Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Pettlephin",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Rampengu",
+      "Copies": 3
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast's Bond",
+      "Copies": 1
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 2
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ambush",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Steeds",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Apelio",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Ulti-Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Ulti-Pettlephin",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 1
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 3
+    }
+  ]
+}

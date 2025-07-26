@@ -1,0 +1,196 @@
+{
+  "Date": "May 2016",
+  "Tournament": "Regional - Seattle Washington",
+  "DeckName": "Qliphorts",
+  "DeckId": "5089",
+  "Duelist": "Patrick Warren",
+  "Placed": "Top 8",
+  "Archetype": "Qliphort",
+  "DeckProfile": "www.youtube.com/embed/p5wGNBALIBM",
+  "MainDeck": [
+    {
+      "Name": "Gravekeeper's Commandant",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Carrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Helix",
+      "Copies": 2
+    },
+    {
+      "Name": "Qliphort Monolith",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Scout",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Shell",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Stealth",
+      "Copies": 2
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Saqlifice",
+      "Copies": 1
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 1
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Lose 1 Turn",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "The Huge Revolution is Over",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Neos Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Drake, the Universal Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Essedarii",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 25: Force Focus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    }
+  ]
+}

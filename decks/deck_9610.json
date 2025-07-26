@@ -1,0 +1,164 @@
+{
+  "Date": "May 2023",
+  "Tournament": "YCS - Santiago Chile",
+  "DeckName": "Anti-Meta",
+  "DeckId": "9610",
+  "Duelist": "Alex Panozo",
+  "Placed": "Top 32",
+  "Archetype": "Anti-Metum",
+  "DeckProfile": "www.youtube.com/embed/sXPmpg7EwtU",
+  "MainDeck": [
+    {
+      "Name": "Dogmatika Ecclesia, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 2
+    },
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Jowgen the Spiritualist",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Nadir Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 3
+    },
+    {
+      "Name": "Crackdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchro Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Albion the Sanctifire Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Knight Draco-Equiste",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 2
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Bystial Baldrake",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Five-Rainbow Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    }
+  ]
+}

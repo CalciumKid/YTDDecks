@@ -1,0 +1,184 @@
+{
+  "Date": "June 2017",
+  "Tournament": "ARGCS - Atlanta Georgia",
+  "DeckName": "Pure Zoodiacs",
+  "DeckId": "6575",
+  "Duelist": "Andrew Fredella",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Zoodiac",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "M-Warrior 1",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Thoroughblade",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Whiptail",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Barrage",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Universe",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Combo",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 2
+    },
+    {
+      "Name": "D/D/D Duo-Dawn King Kali Yuga",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Boarbow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Broadbull",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Chakanine",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Hammerkong",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Tigermortar",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 1
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 1
+    }
+  ]
+}

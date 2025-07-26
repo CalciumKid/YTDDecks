@@ -1,0 +1,184 @@
+{
+  "Date": "May 2010",
+  "Tournament": "2010 Championship Series - DC",
+  "DeckName": "Frog Monarchs",
+  "DeckId": "2383",
+  "Duelist": "Devin Djuricin",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Monarch",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Arcana Force XIV - Temperance",
+      "Copies": 1
+    },
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Light and Darkness Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Substitoad",
+      "Copies": 3
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Thestalos the Firestorm Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Tragoedia",
+      "Copies": 1
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Extermination",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Exchange",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Ogre 2",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "X-Saber Urbellum",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Arcana Force XIV - Temperance",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Crevice Into the Different Dimension",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    }
+  ]
+}

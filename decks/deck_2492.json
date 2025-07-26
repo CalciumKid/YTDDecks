@@ -1,0 +1,244 @@
+{
+  "Date": "November 2009",
+  "Tournament": "2009 SJ Columbus",
+  "DeckName": "Lightsworn Columbus",
+  "DeckId": "2492",
+  "Duelist": "Peter Cheng",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Lightsworn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aurkus, Lightsworn Druid",
+      "Copies": 1
+    },
+    {
+      "Name": "Celestia, Lightsworn Angel",
+      "Copies": 3
+    },
+    {
+      "Name": "Garoth, Lightsworn Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Honest",
+      "Copies": 3
+    },
+    {
+      "Name": "Judgment Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 2
+    },
+    {
+      "Name": "Necro Gardna",
+      "Copies": 3
+    },
+    {
+      "Name": "Plaguespreader Zombie",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Wulf, Lightsworn Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Beckoning Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Knight, the Force of Earth",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Jujitsu Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Prime Material Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

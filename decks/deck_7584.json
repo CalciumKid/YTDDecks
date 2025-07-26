@@ -1,0 +1,152 @@
+{
+  "Date": "January 2019",
+  "Tournament": "Regional - Altoona Iowa",
+  "DeckName": "Brilliant Thunder Dragon",
+  "DeckId": "7584",
+  "Duelist": "Vicente Garcia",
+  "Placed": "2nd Place",
+  "Archetype": "Thunder",
+  "DeckProfile": "www.youtube.com/embed/YcdNsA7NB3M",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Batteryman Solar",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Amber",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragondark",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragonhawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragonmatrix",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragonroar",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Some Summer Summoner",
+      "Copies": 2
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Titan",
+      "Copies": 3
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 1
+    },
+    {
+      "Name": "Kaminari Attack",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Titan",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ]
+}

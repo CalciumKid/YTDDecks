@@ -1,0 +1,184 @@
+{
+  "Date": "June 2016",
+  "Tournament": "State Championship - West Virginia",
+  "DeckName": "Lightsworn Phantom Knights",
+  "DeckId": "5183",
+  "Duelist": "Nathan Zy-Ling Hsueh",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Phantom Knight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Necroface",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Ancient Cloak",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Cloven Helm",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Fragile Armor",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Ragged Gloves",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Burial from a Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Sword",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Wing",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Ouroboros",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Thanatos",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 86: Heroic Champion - Rhongomyniad",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Fog King",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Necroface",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Mischief of the Gnomes",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    }
+  ]
+}

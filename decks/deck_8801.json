@@ -1,0 +1,200 @@
+{
+  "Date": "June 2017",
+  "Tournament": "ARG Circuit Series Championship",
+  "DeckName": "Z-arc Magicians",
+  "DeckId": "8801",
+  "Duelist": "Rashiem Barnes",
+  "Placed": "5th Place",
+  "Archetype": "Magician",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Astrograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Double Iris Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragonpit Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Luna",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 2
+    },
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 3
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "White Wing Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazing Pendulum",
+      "Copies": 1
+    },
+    {
+      "Name": "Duelist Alliance (card)",
+      "Copies": 3
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Star Pendulumgraph",
+      "Copies": 2
+    },
+    {
+      "Name": "Time Pendulumgraph",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Fast Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Z-ARC",
+      "Copies": 1
+    },
+    {
+      "Name": "Timestar Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Apocrypha",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 1
+    }
+  ]
+}

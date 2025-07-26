@@ -1,0 +1,168 @@
+{
+  "Date": "January 2019",
+  "Tournament": "Regional - Fort Worth Texas",
+  "DeckName": "Danger!",
+  "DeckId": "7563",
+  "Duelist": "Mark Myatt",
+  "Placed": "7th Place",
+  "Archetype": "Danger",
+  "DeckProfile": "www.youtube.com/embed/fefZs1QHyfo",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Steam the Cloak",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Broww, Huntsman of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Chupacabra!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Dogman!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Thunderbird!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Skyblaster",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "The Beginning of the End",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 42: Galaxy Tomahawk",
+      "Copies": 1
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 1
+    },
+    {
+      "Name": "Space Insulator",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ]
+}

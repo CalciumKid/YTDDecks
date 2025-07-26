@@ -1,0 +1,228 @@
+{
+  "Date": "October 2016",
+  "Tournament": "Regional Brooklyn New York",
+  "DeckName": "Pure Speedroids",
+  "DeckId": "5567",
+  "Duelist": "Jordan Mason",
+  "Placed": "Top 8",
+  "Archetype": "Speedroid",
+  "DeckProfile": "www.youtube.com/embed/VFVdT7kcD3M",
+  "MainDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Pilica, Descendant of Gusto",
+      "Copies": 1
+    },
+    {
+      "Name": "Reborn Tengu",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Den-Den Daiko Duke",
+      "Copies": 2
+    },
+    {
+      "Name": "Speedroid Double Yoyo",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Menko",
+      "Copies": 2
+    },
+    {
+      "Name": "Speedroid Red-Eyed Dice",
+      "Copies": 2
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 3
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Speedroid Tri-Eyed Dice",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Return of the Dragon Lords",
+      "Copies": 1
+    },
+    {
+      "Name": "Shock Surprise",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Speed Recovery",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Hagoita",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Puzzle",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Hagoita",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Puzzle",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    }
+  ]
+}

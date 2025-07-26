@@ -1,0 +1,180 @@
+{
+  "Date": "October 2022",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Dracoslayer",
+  "DeckId": "9308",
+  "Duelist": "Eucar Ortiz",
+  "Placed": "8th Place",
+  "Archetype": "Dracoslayer",
+  "DeckProfile": "www.youtube.com/embed/1CSsKQ-aM2E",
+  "MainDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Astrograph Sorcerer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinomight Powerload, the Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Ignis Phoenix, the Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 2
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Raccoon - Bunbuku",
+      "Copies": 3
+    },
+    {
+      "Name": "Majesty Pegasus, the Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Master Pendulum, the Dracoslayer",
+      "Copies": 2
+    },
+    {
+      "Name": "Odd-Eyes Revolution Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 2
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomist Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Iris",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Dagda",
+      "Copies": 1
+    },
+    {
+      "Name": "Beyond the Pendulum",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinoster Power, the Mighty Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 2
+    },
+    {
+      "Name": "Majester Paladin, the Ascending Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "Worldsea Dragon Zealantis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "Date": "April 2014",
+  "Tournament": "YCS - Las Vegas",
+  "DeckName": "Mermails",
+  "DeckId": "454",
+  "Duelist": "Manav Dawar",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Mermail",
+  "DeckProfile": "www.youtube.com/embed/mx6xGqNXStE",
+  "MainDeck": [
+    {
+      "Name": "Aqua Spirit",
+      "Copies": 1
+    },
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 1
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 1
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 3
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 1
+    },
+    {
+      "Name": "Genex Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Genex Undine",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysslinde",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Salvage",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss-sphere",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-squall",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Wrath",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mechquipped Angineer",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysstrite",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 1
+    }
+  ]
+}

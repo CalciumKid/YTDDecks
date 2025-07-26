@@ -1,0 +1,140 @@
+{
+  "Date": "January 2020",
+  "Tournament": "Regional - Rosemont Illinois",
+  "DeckName": "Pure Thunder Dragons",
+  "DeckId": "8397",
+  "Duelist": "Marek Jellen",
+  "Placed": "9th Place",
+  "Archetype": "Thunder",
+  "DeckProfile": "www.youtube.com/embed/wWmsBEXUepo",
+  "MainDeck": [
+    {
+      "Name": "Aloof Lupine",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Skull Meister",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragondark",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragonduo",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonhawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragonmatrix",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragonroar",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragon Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Some Summer Summoner",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Titan",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ]
+}

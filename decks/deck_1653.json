@@ -1,0 +1,196 @@
+{
+  "Date": "June 2013",
+  "Tournament": "Regional - Seattle Washington",
+  "DeckName": "Dragon Rulers w/ Gladiator Beasts",
+  "DeckId": "1653",
+  "Duelist": "???",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Beast",
+  "DeckProfile": "www.youtube.com/embed/Ha3Yajv759Y",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 3
+    },
+    {
+      "Name": "Burner, Dragon Ruler of Sparks",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Bestiari",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Darius",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Laquari",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Murmillo",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning, Dragon Ruler of Drafts",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Reactan, Dragon Ruler of Pebbles",
+      "Copies": 2
+    },
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 3
+    },
+    {
+      "Name": "Stream, Dragon Ruler of Droplets",
+      "Copies": 2
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 3
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Rejuvenation",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    }
+  ]
+}

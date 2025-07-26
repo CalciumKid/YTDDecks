@@ -1,0 +1,180 @@
+{
+  "Date": "October 2018",
+  "Tournament": "Regional - San Antonio Texas",
+  "DeckName": "Mermail",
+  "DeckId": "7429",
+  "Duelist": "Miguel Soto",
+  "Placed": "Top 4",
+  "Archetype": "Mermail",
+  "DeckProfile": "www.youtube.com/embed/7A3u3TsKgGA",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Rosenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Thystvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Deep Sea Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Genex Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Genex Undine",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Corruptor Iblee",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Moulinglacia the Elemental Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Neptabyss, the Atlantean Prince",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 1
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Sekka's Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-sphere",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 42: Galaxy Tomahawk",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Gumblar Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 2
+    },
+    {
+      "Name": "True King Bahrastos, the Fathomer",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ]
+}

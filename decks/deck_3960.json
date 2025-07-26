@@ -1,0 +1,184 @@
+{
+  "Date": "June 2014",
+  "Tournament": "ARG Circuit Series Philadelphia",
+  "DeckName": "Evilswarm",
+  "DeckId": "3960",
+  "Duelist": "Nicholas Gulnick",
+  "Placed": "1st   15th Place",
+  "Archetype": "Evilswarm",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Evilswarm Castor",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Heliotrope",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Kerykeion",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Mandragora",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Thunderbird",
+      "Copies": 2
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Infestation Pandemic",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Infestation Infection",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Bahamut",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Ophion",
+      "Copies": 3
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Universe",
+      "Copies": 2
+    }
+  ]
+}

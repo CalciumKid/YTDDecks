@@ -1,0 +1,180 @@
+{
+  "Date": "August 2017",
+  "Tournament": "2017 World Championship - Dragon Duel",
+  "DeckName": "Chain Burn",
+  "DeckId": "6637",
+  "Duelist": "Ryan Yu",
+  "Placed": "1st Place",
+  "Archetype": "Chain Burn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Absolute King Back Jack",
+      "Copies": 2
+    },
+    {
+      "Name": "Dice Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Lazion, the Timelord",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 2
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Balance of Judgment",
+      "Copies": 2
+    },
+    {
+      "Name": "Blazing Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimension Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Dullahan",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 13: Embodiment of Crime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 63: Shamoji Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Princessprite",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D/D/D Rebel King Leonidas",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Tail - Luna",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Rella",
+      "Copies": 1
+    },
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaphion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Aegis of Gaia",
+      "Copies": 2
+    },
+    {
+      "Name": "Psychic Shockwave",
+      "Copies": 1
+    }
+  ]
+}

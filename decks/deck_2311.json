@@ -1,0 +1,220 @@
+{
+  "Date": "April 2010",
+  "Tournament": "2010 SJ Edison",
+  "DeckName": "Gladiator Beasts",
+  "DeckId": "2311",
+  "Duelist": "Ira D. Jones",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Gladiator",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Bestiari",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Darius",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Equeste",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Hoplomus",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Laquari",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Murmillo",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Samnite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Secutor",
+      "Copies": 1
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Phantom Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Rescue Cat",
+      "Copies": 1
+    },
+    {
+      "Name": "Test Tiger",
+      "Copies": 2
+    },
+    {
+      "Name": "X-Saber Airbellum",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast War Chariot",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Doomcaliber Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Jujitsu Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Burden of the Mighty",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

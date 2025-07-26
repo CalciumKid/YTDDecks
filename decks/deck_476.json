@@ -1,0 +1,152 @@
+{
+  "Date": "March 2014",
+  "Tournament": "YCS - Chicago Illinois",
+  "DeckName": "Spellbooks",
+  "DeckId": "476",
+  "Duelist": "Jordan Stempel",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Spellbook",
+  "DeckProfile": "www.youtube.com/embed/tIBn9hB8Zrc",
+  "MainDeck": [
+    {
+      "Name": "High Priestess of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Justice of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook Library of the Crescent",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Eternity",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Fate",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Power",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of the Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Wisdom",
+      "Copies": 1
+    },
+    {
+      "Name": "The Grand Spellbook Tower",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Pure Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Hierophant of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Shining Elf",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Jowgen the Spiritualist",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Twister",
+      "Copies": 1
+    },
+    {
+      "Name": "Overworked",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

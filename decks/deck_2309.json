@@ -1,0 +1,200 @@
+{
+  "Date": "April 2010",
+  "Tournament": "2010 SJ Edison",
+  "DeckName": "Flamvell Synchros",
+  "DeckId": "2309",
+  "Duelist": "Edwin Ortiz",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Synchro",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Gale the Whirlwind",
+      "Copies": 1
+    },
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Sorcerer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Flamvell Firedog",
+      "Copies": 3
+    },
+    {
+      "Name": "Flamvell Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravekeeper's Descendant",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Super-Nimble Mega Hamster",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Rekindling",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Arcanite Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing Armor Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 2
+    },
+    {
+      "Name": "Flamvell Uruquizas",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 2
+    },
+    {
+      "Name": "Consecrated Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Jujitsu Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

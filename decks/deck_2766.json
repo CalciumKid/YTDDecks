@@ -1,0 +1,139 @@
+{
+  "Date": "September 2007",
+  "Tournament": "2007 SJ Washington DC",
+  "DeckName": "DDT",
+  "DeckId": "2766",
+  "Duelist": "Kris Perovic",
+  "Placed": "5th - 8th Place",
+  "Archetype": "DDT",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Stone Excavation",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Exiled Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Twister",
+      "Copies": 1
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ]
+}

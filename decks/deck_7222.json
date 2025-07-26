@@ -1,0 +1,192 @@
+{
+  "Date": "April 2018",
+  "Tournament": "Regional - Istanbul",
+  "DeckName": "Pendulum Magicians",
+  "DeckId": "7222",
+  "Duelist": "Celil Eren Kalkan",
+  "Placed": "2nd Place",
+  "Archetype": "Magician",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Abyss Actor - Curtain Raiser",
+      "Copies": 2
+    },
+    {
+      "Name": "Astrograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Chronograph Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Harmonizing Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Purple Poison Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Stargazer Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Darkwurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Supreme King Gate Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Timegazer Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Xiangke Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Pendulum Paradox",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 2
+    },
+    {
+      "Name": "Star Pendulumgraph",
+      "Copies": 1
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 2
+    },
+    {
+      "Name": "Time Pendulumgraph",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 2
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Norito the Moral Leader",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Clear Wing",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Starving Venom",
+      "Copies": 2
+    },
+    {
+      "Name": "Timestar Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefra Metaltron",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

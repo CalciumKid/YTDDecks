@@ -1,0 +1,176 @@
+{
+  "Date": "October 2017",
+  "Tournament": "YCS - Guadalajara Mexico",
+  "DeckName": "Windwitch Trickstars",
+  "DeckId": "6791",
+  "Duelist": "Renee Villalobos",
+  "Placed": "Top 8",
+  "Archetype": "Invoked Windwitch",
+  "DeckProfile": "www.youtube.com/embed/sb6RRYA10SE",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Lycoris",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Glass Bell",
+      "Copies": 2
+    },
+    {
+      "Name": "Windwitch - Ice Bell",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Snow Bell",
+      "Copies": 1
+    },
+    {
+      "Name": "Chain Summoning",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Reincarnation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bujintei Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Holly Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Windwitch - Winter Bell",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Time Maiden",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaphion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    }
+  ]
+}

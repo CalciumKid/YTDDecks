@@ -1,0 +1,164 @@
+{
+  "Date": "November 2021",
+  "Tournament": "Regional - OneUpTCG",
+  "DeckName": "Sky Striker Destiny",
+  "DeckId": "9034",
+  "Duelist": "Daniel Castillo",
+  "Placed": "4th Place",
+  "Archetype": "Striker",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Roze",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Jamming Waves!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Eagle Booster",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Shark Cannon",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Verte Anaconda",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Hayate",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Kaina",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Zeke",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

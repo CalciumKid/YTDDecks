@@ -1,0 +1,127 @@
+{
+  "Date": "September 2017",
+  "Tournament": "Regional - Las Vegas Nevada",
+  "DeckName": "Monarch True Dracos",
+  "DeckId": "6736",
+  "Duelist": "Dillon Cohen",
+  "Placed": "Top 8",
+  "Archetype": "True Draco",
+  "DeckProfile": "www.youtube.com/embed/889aqfhkDLw",
+  "MainDeck": [
+    {
+      "Name": "Dinomight Knight, the True Dracofighter",
+      "Copies": 3
+    },
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 3
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Master Peace, the True Dracoslaying King",
+      "Copies": 2
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "The Monarchs Erupt",
+      "Copies": 3
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 3
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaphion, the Timelord",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Gateway to Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 3
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 1
+    }
+  ]
+}

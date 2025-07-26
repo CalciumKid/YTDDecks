@@ -1,0 +1,196 @@
+{
+  "Date": "June 2016",
+  "Tournament": "WCQ - South America",
+  "DeckName": "Fire King Kozmos",
+  "DeckId": "5228",
+  "Duelist": "Carlos Eduardo Lopez Rangel",
+  "Placed": "2nd Place",
+  "Archetype": "Kozmo",
+  "DeckProfile": "www.youtube.com/embed/t56PBxQdYZU",
+  "MainDeck": [
+    {
+      "Name": "Fire King Avatar Garunix",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire King Avatar Yaksha",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Dark Eclipser",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Dark Planet",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Delta Shuttle",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Landwalker",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Dark Lady",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Soartroopers",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Strawman",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Tincan",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire King Island",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmojo",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Pure Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 107: Galaxy-Eyes Tachyon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Tennessee",
+  "DeckName": "Scraps",
+  "DeckId": "65",
+  "Duelist": "Michael Turner",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Scrap",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Beast",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Chimera",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Orthros",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Shark",
+      "Copies": 3
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Factory",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrapstorm",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrapyard",
+      "Copies": 2
+    },
+    {
+      "Name": "Supply Squad",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 3
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Evigishki Merrowgeist",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

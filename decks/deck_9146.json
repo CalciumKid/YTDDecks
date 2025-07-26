@@ -1,0 +1,156 @@
+{
+  "Date": "October 2022",
+  "Tournament": "YCS - Utrecht Netherlands",
+  "DeckName": "Exosister",
+  "DeckId": "9146",
+  "Duelist": "Joshua Ostmann",
+  "Placed": "Top 8",
+  "Archetype": "Exosister",
+  "DeckProfile": "www.youtube.com/embed/gW_73eADdZg",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Elis",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Irene",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Martha",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Sophia",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Stella",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoroa, the Magistus of Flame",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Carpedivem",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Pax",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Returnia",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Vadis",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Artemis, the Magistus Moon Maiden",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Asophiel",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Gibrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Kaspitell",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Mikailis",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosisters Magnifica",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 1
+    },
+    {
+      "Name": "Ninaruru, the Magistus Glass Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kitkallos",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

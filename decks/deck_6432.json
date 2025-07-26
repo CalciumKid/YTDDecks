@@ -1,0 +1,184 @@
+{
+  "Date": "June 2017",
+  "Tournament": "National Championship - Germany",
+  "DeckName": "Invoked Windwitch",
+  "DeckId": "6432",
+  "Duelist": "Joel Ramershoven",
+  "Placed": "1st Place",
+  "Archetype": "Invoked Windwitch",
+  "DeckProfile": "www.youtube.com/embed/qzYMMMc4RVM",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Windwitch - Glass Bell",
+      "Copies": 2
+    },
+    {
+      "Name": "Windwitch - Ice Bell",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Snow Bell",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Wonder Wand",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 3
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Windwitch - Winter Bell",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Magellanica",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 2
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 2
+    }
+  ]
+}

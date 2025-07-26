@@ -1,0 +1,95 @@
+{
+  "Date": "June 2016",
+  "Tournament": "crystron invasion",
+  "DeckName": "crystron invasion",
+  "DeckId": "8839",
+  "Duelist": "Shun",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Crystron",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Crystron Citree",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Prasiortle",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quan",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Rion",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Rosenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Smiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Thystvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystolic Potential",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reincarnation",
+      "Copies": 3
+    },
+    {
+      "Name": "Moray of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Entry",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Impact",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Crystron Ametrix",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quandax",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quariongandrax",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

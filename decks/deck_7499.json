@@ -1,0 +1,156 @@
+{
+  "Date": "November 2018",
+  "Tournament": "Regional - Houston Texas",
+  "DeckName": "Altergeist",
+  "DeckId": "7499",
+  "Duelist": "Marc St. Romain",
+  "Placed": "1st Place",
+  "Archetype": "Altergeist",
+  "DeckProfile": "www.youtube.com/embed/-L2f0x18bKA",
+  "MainDeck": [
+    {
+      "Name": "Altergeist Marionetter",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Meluseek",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Multifaker",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Silquitous",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Manifestation",
+      "Copies": 2
+    },
+    {
+      "Name": "Altergeist Protocol",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Personal Spoofing",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Hexstia",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Primebanshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Gumblar Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Trisbaena",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Trap Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 3
+    }
+  ]
+}

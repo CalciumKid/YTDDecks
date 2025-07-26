@@ -1,0 +1,188 @@
+{
+  "Date": "March 2018",
+  "Tournament": "Regional - Phoenix Arizona",
+  "DeckName": "Gem-Knight FTK",
+  "DeckId": "7202",
+  "Duelist": "Derek C. Mead",
+  "Placed": "20th Place",
+  "Archetype": "Gem-Knight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Block Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Rose",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Armadillo",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Garnet",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Lapis",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Obsidian",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Tourmaline",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragged Down into the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Phantom Quartz",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Ruby",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Topaz",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "True King of All Calamities",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Ruby",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Topaz",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Zirconia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

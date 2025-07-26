@@ -1,0 +1,168 @@
+{
+  "Date": "March 2013",
+  "Tournament": "YGOverdose Tournament 5",
+  "DeckName": "Chain Burn",
+  "DeckId": "15",
+  "Duelist": "Bryant Tran",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Chain Burn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Accumulated Fortune",
+      "Copies": 3
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Jar of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Legacy of Yata-Garasu",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Field Marshal",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Flamvell Deity",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chronomaly Crystal Chrononaut",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Knight Draco-Equiste",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Genex Ally Triforce",
+      "Copies": 1
+    },
+    {
+      "Name": "Jurrac Meteor",
+      "Copies": 1
+    },
+    {
+      "Name": "Laval the Greater",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Life Stream Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gemini Imps",
+      "Copies": 3
+    },
+    {
+      "Name": "Injection Fairy Lily",
+      "Copies": 2
+    },
+    {
+      "Name": "Marshmallon",
+      "Copies": 3
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 1
+    }
+  ]
+}

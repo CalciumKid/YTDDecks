@@ -1,0 +1,168 @@
+{
+  "Date": "August 2008",
+  "Tournament": "2008 World Championships",
+  "DeckName": "Lightsworn",
+  "DeckId": "2530",
+  "Duelist": "Lazaro Bellido",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Lightsworn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 1
+    },
+    {
+      "Name": "Celestia, Lightsworn Angel",
+      "Copies": 3
+    },
+    {
+      "Name": "Garoth, Lightsworn Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Jain, Lightsworn Paladin",
+      "Copies": 2
+    },
+    {
+      "Name": "Judgment Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 2
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 3
+    },
+    {
+      "Name": "Necro Gardna",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Wulf, Lightsworn Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Cold Wave",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Beckoning Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 2
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 2
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Phantom of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Exchange",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

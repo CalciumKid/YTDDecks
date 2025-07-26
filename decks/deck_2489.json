@@ -1,0 +1,192 @@
+{
+  "Date": "November 2009",
+  "Tournament": "2009 SJ Columbus",
+  "DeckName": "Lightsworn",
+  "DeckId": "2489",
+  "Duelist": "Jason Holloway",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Lightsworn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aurkus, Lightsworn Druid",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 1
+    },
+    {
+      "Name": "Celestia, Lightsworn Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Sorcerer",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Garoth, Lightsworn Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 3
+    },
+    {
+      "Name": "Judgment Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 2
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 2
+    },
+    {
+      "Name": "Necro Gardna",
+      "Copies": 3
+    },
+    {
+      "Name": "Plaguespreader Zombie",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Wulf, Lightsworn Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Beckoning Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 2
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Avenging Knight Parshath",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tempest Magician",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Legendary Jujitsu Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Twister",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 3
+    }
+  ]
+}

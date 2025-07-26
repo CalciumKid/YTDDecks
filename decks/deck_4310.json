@@ -1,0 +1,184 @@
+{
+  "Date": "March 2015",
+  "Tournament": "OTS Championships",
+  "DeckName": "Masked HERO",
+  "DeckId": "4310",
+  "Duelist": "Humberto Linares",
+  "Placed": "1st Place",
+  "Archetype": "HERO",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Bubbleman",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Neos Alius",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 3
+    },
+    {
+      "Name": "Goblindbergh",
+      "Copies": 2
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask Change II",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Charge",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 3
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Blade Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Champion - Excalibur",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 3
+    },
+    {
+      "Name": "Masked HERO Koga",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 3
+    },
+    {
+      "Name": "And the Band Played On",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Date": "February 2018",
+  "Tournament": "Regional - Lenexa Kansas",
+  "DeckName": "Spellbook Paleozoic Frogs",
+  "DeckId": "7155",
+  "Duelist": "Elijah Sturek",
+  "Placed": "3rd Place",
+  "Archetype": "Paleozoic",
+  "DeckProfile": "www.youtube.com/embed/J8jhqyjal_s",
+  "MainDeck": [
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Leanchoilia",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Olenoides",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Mistar Boy",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 45: Crumble Logos the Prophet of Demolition",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 2
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 3
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ]
+}

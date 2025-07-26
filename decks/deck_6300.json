@@ -1,0 +1,196 @@
+{
+  "Date": "May 2017",
+  "Tournament": "Regional - West Allis Wisconsin",
+  "DeckName": "Subterror Zoodiac",
+  "DeckId": "6300",
+  "Duelist": "Carter Pahl",
+  "Placed": "20th Place",
+  "Archetype": "Zoodiac",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Black Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Behemoth Phospheroglacier",
+      "Copies": 1
+    },
+    {
+      "Name": "Subterror Behemoth Stalagmo",
+      "Copies": 2
+    },
+    {
+      "Name": "Subterror Behemoth Umastryx",
+      "Copies": 2
+    },
+    {
+      "Name": "Subterror Fiendess",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Nemesis Archer",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Nemesis Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "True King Lithosagym, the Disaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Whiptail",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Substitute",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "The Hidden City",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Barrage",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Subterror Final Battle",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Boarbow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Broadbull",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Chakanine",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Tigermortar",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    }
+  ]
+}

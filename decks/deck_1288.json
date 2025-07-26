@@ -1,0 +1,172 @@
+{
+  "Date": "January 2014",
+  "Tournament": "Regional - Garden City Michigan",
+  "DeckName": "Atlantean Mermails",
+  "DeckId": "1288",
+  "Duelist": "Justin Roby",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Mermail",
+  "DeckProfile": "www.youtube.com/embed/-1vTn4NKYw4",
+  "MainDeck": [
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 1
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 3
+    },
+    {
+      "Name": "Deep Sea Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssleed",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysslinde",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssturge",
+      "Copies": 1
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-sphere",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-squall",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armored Kappa",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Dewloren, Tiger King of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abysstrite",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Snowman Eater",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    }
+  ]
+}

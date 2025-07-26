@@ -1,0 +1,188 @@
+{
+  "Date": "June 2016",
+  "Tournament": "WCQ - Central America",
+  "DeckName": "Tzolkin Monarchs",
+  "DeckId": "5248",
+  "Duelist": "Rishi Nishant Doodhnath Tripathi",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Monarch",
+  "DeckProfile": "www.youtube.com/embed/C2IhmXrZkPI",
+  "MainDeck": [
+    {
+      "Name": "Edea the Heavenly Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Eidos the Underworld Squire",
+      "Copies": 2
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 2
+    },
+    {
+      "Name": "Jack's Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuraz the Light Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Quickdraw Synchron",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Quantum Red Layer",
+      "Copies": 2
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 2
+    },
+    {
+      "Name": "Frost Blast of the Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Return of the Monarchs",
+      "Copies": 2
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Tuning",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "The Prime Monarch",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adreus, Keeper of Armageddon",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 2
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Shark Fortress",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Magnaliger",
+      "Copies": 1
+    },
+    {
+      "Name": "Tiras, Keeper of Genesis",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

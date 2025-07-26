@@ -1,0 +1,188 @@
+{
+  "Date": "March 2011",
+  "Tournament": "2011 YCS Charlotte",
+  "DeckName": "Fish",
+  "DeckId": "2239",
+  "Duelist": "Calvin Tahan",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Fish",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Fishborg Blaster",
+      "Copies": 3
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Oyster Meister",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 1
+    },
+    {
+      "Name": "Snowman Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Superancient Deepsea King Coelacanth",
+      "Copies": 3
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Moray of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Nova Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sea Dragon Lord Gishilnodon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 2
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Burial from a Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "Date": "November 2014",
+  "Tournament": "Regional - Tallahassee Florida",
+  "DeckName": "Yang Zing",
+  "DeckId": "888",
+  "Duelist": "Todd Tolbart",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Yang Zing",
+  "DeckProfile": "www.youtube.com/embed/MUVd5YVI34g",
+  "MainDeck": [
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Bixi, Water of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked Chameleon",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulao, Wind of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Suanni, Fire of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Taotie, Shadow of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Yang Zing Path",
+      "Copies": 2
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 3
+    },
+    {
+      "Name": "Yang Zing Brutality",
+      "Copies": 2
+    },
+    {
+      "Name": "Yang Zing Creation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Giganticastle",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Samsara, Dragon of Rebirth",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Fighter Balmung",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Giganticastle",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Samsara, Dragon of Rebirth",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Fighter Balmung",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 2
+    }
+  ]
+}

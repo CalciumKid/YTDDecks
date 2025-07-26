@@ -1,0 +1,155 @@
+{
+  "Date": "April 2007",
+  "Tournament": "2007 SJ Anaheim",
+  "DeckName": "Hybrid Beats",
+  "DeckId": "2880",
+  "Duelist": "West Tran",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Hybrid Beat",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Asura Priest",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Giant Rat",
+      "Copies": 2
+    },
+    {
+      "Name": "Hydrogeddon",
+      "Copies": 3
+    },
+    {
+      "Name": "Injection Fairy Lily",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 2
+    },
+    {
+      "Name": "Neo-Spacian Grand Mole",
+      "Copies": 1
+    },
+    {
+      "Name": "Newdoria",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Rush Recklessly",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Chiron the Mage",
+      "Copies": 2
+    },
+    {
+      "Name": "Des Wombat",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

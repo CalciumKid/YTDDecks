@@ -1,0 +1,188 @@
+{
+  "Date": "April 2017",
+  "Tournament": "YCS - Denver Colorado",
+  "DeckName": "Metalfoes Zoo",
+  "DeckId": "6262",
+  "Duelist": "Kamal Crooks",
+  "Placed": "Top 16",
+  "Archetype": "Zoodiac",
+  "DeckProfile": "www.youtube.com/embed/Yx_2-h1f8Sw",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Baobaboon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragoons of Draconia",
+      "Copies": 1
+    },
+    {
+      "Name": "Guiding Ariadne",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Black Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Goldriver",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Silverd",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Steelen",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Volflame",
+      "Copies": 3
+    },
+    {
+      "Name": "Raremetalfoes Bismugear",
+      "Copies": 2
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Whiptail",
+      "Copies": 1
+    },
+    {
+      "Name": "Fullmetalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Substitute",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Combination",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Counter",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Fullmetalfoes Alkahest",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Mithrilium",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Orichalc",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Boarbow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Broadbull",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 2
+    },
+    {
+      "Name": "Zoodiac Tigermortar",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Holding Legs",
+      "Copies": 2
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ]
+}

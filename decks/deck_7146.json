@@ -1,0 +1,256 @@
+{
+  "Date": "February 2018",
+  "Tournament": "Regional - Danbury Connecticut",
+  "DeckName": "60-Card Magnet Warriors",
+  "DeckId": "7146",
+  "Duelist": "Grant Williams",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Warrior",
+  "DeckProfile": "www.youtube.com/embed/-fxjGioUCko",
+  "MainDeck": [
+    {
+      "Name": "Alpha The Electromagnet Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Berserkion the Electromagna Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Beta The Electromagnet Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Block Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 1
+    },
+    {
+      "Name": "Doki Doki",
+      "Copies": 2
+    },
+    {
+      "Name": "Dotscaper",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 2
+    },
+    {
+      "Name": "Gamma The Electromagnet Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Lapis",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Giant Rex",
+      "Copies": 3
+    },
+    {
+      "Name": "Gigantes",
+      "Copies": 2
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Challenger - Thousand Blades",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 2
+    },
+    {
+      "Name": "Orbital Hydralander",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Darlingtonia Cobra",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Ophrys Scorpio",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Ratpier",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Thoroughblade",
+      "Copies": 1
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "That Grass Looks Greener",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 2
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Zirconia",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Saber, the Lightning Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 2
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D/D Rebel King Leonidas",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaphion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Magic Arrows",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    }
+  ]
+}

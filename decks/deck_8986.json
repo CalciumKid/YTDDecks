@@ -1,0 +1,99 @@
+{
+  "Date": "February 2021",
+  "Tournament": "2021 winter championship KSA",
+  "DeckName": "Valkyrie",
+  "DeckId": "8986",
+  "Duelist": "Faisal Khalid",
+  "Placed": "1st Place",
+  "Archetype": "Valkyrie",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Hecatrice",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Brunhilde",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Dritte",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Erda",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Erste",
+      "Copies": 2
+    },
+    {
+      "Name": "Valkyrie Sechste",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Sigrun",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Vierte",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Zweite",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Mischief of the Time Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Ride of the Valkyries",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Valhalla, Hall of the Fallen",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 3
+    },
+    {
+      "Name": "Avenging Knight Parshath",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Quariongandrax",
+      "Copies": 3
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 3
+    },
+    {
+      "Name": "Trishula, the Dragon of Icy Imprisonment",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": []
+}

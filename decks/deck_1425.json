@@ -1,0 +1,240 @@
+{
+  "Date": "March 2013",
+  "Tournament": "Regional - Jenks Oklahoma",
+  "DeckName": "Watts",
+  "DeckId": "1425",
+  "Duelist": "Will Freeze",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Watt",
+  "DeckProfile": "www.youtube.com/embed/zHdKdMkUhlQ",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Sea Horse",
+      "Copies": 3
+    },
+    {
+      "Name": "Wattcobra",
+      "Copies": 3
+    },
+    {
+      "Name": "Wattdragonfly",
+      "Copies": 3
+    },
+    {
+      "Name": "Wattgiraffe",
+      "Copies": 3
+    },
+    {
+      "Name": "Wattpheasant",
+      "Copies": 2
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Lead",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Ultimate Offering",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 2
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 16: Shock Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Pearl",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 16: Shock Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama Yellow",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 1
+    },
+    {
+      "Name": "The Transmigration Prophecy",
+      "Copies": 1
+    }
+  ]
+}

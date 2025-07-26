@@ -1,0 +1,188 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Cancun Mexico",
+  "DeckName": "Branded Chimera",
+  "DeckId": "9762",
+  "Duelist": "Andres Torres",
+  "Placed": "Top 16",
+  "Archetype": "Branded",
+  "DeckProfile": "www.youtube.com/embed/VPvnf_gKSas",
+  "MainDeck": [
+    {
+      "Name": "Aluber the Jester of Despia",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Big-Winged Berfomet",
+      "Copies": 2
+    },
+    {
+      "Name": "Cornfield Coatl",
+      "Copies": 3
+    },
+    {
+      "Name": "Edge Imp Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 2
+    },
+    {
+      "Name": "Gazelle the King of Mythical Claws",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Swordknight",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Opening",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimera Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Frightfur Patchwork",
+      "Copies": 2
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Alba-Lenatus the Abyss Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimera the Illusion Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimera the King of Phantom Beasts",
+      "Copies": 2
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 2
+    },
+    {
+      "Name": "Lubellion the Searing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Magnum the Reliever",
+      "Copies": 1
+    },
+    {
+      "Name": "Masquerade the Blazing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Rindbrumm the Striking Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 2
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 2
+    },
+    {
+      "Name": "Marionette Mite",
+      "Copies": 3
+    },
+    {
+      "Name": "Crossout Designator",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    }
+  ]
+}

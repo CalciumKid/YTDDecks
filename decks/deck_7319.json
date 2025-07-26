@@ -1,0 +1,180 @@
+{
+  "Date": "July 2018",
+  "Tournament": "WCQ - Berlin",
+  "DeckName": "Gem-Knight",
+  "DeckId": "7319",
+  "Duelist": "La Rosa Giovanni",
+  "Placed": "Top 32",
+  "Archetype": "Gem-Knight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Block Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystal Rose",
+      "Copies": 2
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Alexandrite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lapis",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Obsidian",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Phantom Quartz",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Tourmaline",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragged Down into the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Magnet Reverse",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Zirconia",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 3
+    }
+  ]
+}

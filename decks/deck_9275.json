@@ -1,0 +1,176 @@
+{
+  "Date": "October 2022",
+  "Tournament": "YCS - Minneapolis Minnesota",
+  "DeckName": "Scareclaw Tearlaments",
+  "DeckId": "9275",
+  "Duelist": "Vladis Baranovskis",
+  "Placed": "Top 32",
+  "Archetype": "Tearlaments",
+  "DeckProfile": "www.youtube.com/embed/JWcfW-Le6DY",
+  "MainDeck": [
+    {
+      "Name": "Crystal Beast Emerald Tortoise",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Reichheart",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Havnis",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Merrli",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Reinoheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Scheiren",
+      "Copies": 3
+    },
+    {
+      "Name": "Visas Starfrost",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 3
+    },
+    {
+      "Name": "Primitive Planet Reichphobia",
+      "Copies": 2
+    },
+    {
+      "Name": "Scareclaw Arrival",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Grief",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Scream",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Rainbow Bridge of Salvation",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Cryme",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Sulliek",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Light-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kaleido-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kitkallos",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Rulkallos",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Skull-Mark Ladybug",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ]
+}

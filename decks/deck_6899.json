@@ -1,0 +1,184 @@
+{
+  "Date": "November 2017",
+  "Tournament": "ARGCS - St. Louis Missouri",
+  "DeckName": "Trickstars",
+  "DeckId": "6899",
+  "Duelist": "Benjamin Deeter",
+  "Placed": "Top 8",
+  "Archetype": "Trickstar",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Gem-Knight Garnet",
+      "Copies": 1
+    },
+    {
+      "Name": "Honest",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Lycoris",
+      "Copies": 3
+    },
+    {
+      "Name": "Arrivalrivals",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Summoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Reincarnation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 2
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Holly Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Saber, the Lightning Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 2
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Holly Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    }
+  ]
+}

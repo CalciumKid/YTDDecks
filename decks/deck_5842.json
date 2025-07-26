@@ -1,0 +1,156 @@
+{
+  "Date": "January 2017",
+  "Tournament": "Regional - Houston Texas",
+  "DeckName": "Paleozoic Frogs",
+  "DeckId": "5842",
+  "Duelist": "Taylor Huynh",
+  "Placed": "Top 8",
+  "Archetype": "Paleozoic",
+  "DeckProfile": "www.youtube.com/embed/GdWpGswptDk",
+  "MainDeck": [
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 2
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Leanchoilia",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Marrella",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Olenoides",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Pikaia",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Spirit Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cat Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 45: Crumble Logos the Prophet of Demolition",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

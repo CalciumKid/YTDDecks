@@ -1,0 +1,168 @@
+{
+  "Date": "October 2022",
+  "Tournament": "YCS - Utrecht Netherlands",
+  "DeckName": "Runick Spright",
+  "DeckId": "9143",
+  "Duelist": "Dinh-kha Bui",
+  "Placed": "2nd Place",
+  "Archetype": "Spright",
+  "DeckProfile": "www.youtube.com/embed/CHfwT_jcFe4",
+  "MainDeck": [
+    {
+      "Name": "Capshell",
+      "Copies": 1
+    },
+    {
+      "Name": "Ipiria",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Blue",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Carrot",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Jet",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Kitten",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Dispelling",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Flashing Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Fountain",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Freezing Curses",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Smiting Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Tip",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Smashers",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Starter",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Geri the Runick Fangs",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 2
+    },
+    {
+      "Name": "Hugin the Runick Wings",
+      "Copies": 3
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 65: Djinn Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Onibimaru Soul Sweeper",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "Date": "February 2020",
+  "Tournament": "Regional - Jacksonville Florida",
+  "DeckName": "Salamangreat",
+  "DeckId": "8503",
+  "Duelist": "Nick Jadusingh",
+  "Placed": "6th Place",
+  "Archetype": "Salamangreat",
+  "DeckProfile": "www.youtube.com/embed/tb1bKiKmQIw",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Flame Bufferlo",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Falco",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Fowl",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Foxy",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Gazelle",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Jack Jaguar",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Spinny",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Circle",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Sanctuary",
+      "Copies": 1
+    },
+    {
+      "Name": "Will of the Salamangreat",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Rage",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Roar",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Lion Emperor",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Balelynx",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Heatleo",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Pyro Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Sunlight Wolf",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

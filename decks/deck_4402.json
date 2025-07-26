@@ -1,0 +1,200 @@
+{
+  "Date": "September 2015",
+  "Tournament": "YCS - Rimini Italy",
+  "DeckName": "Performage Shaddolls",
+  "DeckId": "4402",
+  "Duelist": "Kristoffer Nielsen",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Shaddoll",
+  "DeckProfile": "www.youtube.com/embed/GxU78iCS8zk",
+  "MainDeck": [
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Jigabyte",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Damage Juggler",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Hat Tricker",
+      "Copies": 2
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Falco",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Hedgehog",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Squamata",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Core",
+      "Copies": 1
+    },
+    {
+      "Name": "Sinister Shadow Games",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Arcanite Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Anoyatyllis",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Construct",
+      "Copies": 3
+    },
+    {
+      "Name": "El Shaddoll Shekhinaga",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Crush Card Virus",
+      "Copies": 1
+    }
+  ]
+}

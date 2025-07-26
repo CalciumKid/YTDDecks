@@ -1,0 +1,188 @@
+{
+  "Date": "May 2016",
+  "Tournament": "Regional - Lubbock Texas",
+  "DeckName": "Kozmos",
+  "DeckId": "5287",
+  "Duelist": "Garret Friemel",
+  "Placed": "Top 8",
+  "Archetype": "Kozmo",
+  "DeckProfile": "www.youtube.com/embed/JMbDtmgFYhw",
+  "MainDeck": [
+    {
+      "Name": "D-Boyz",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Dark Eclipser",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Landwalker",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmoll Dark Lady",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmoll Wickedwitch",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Soartroopers",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Strawman",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Tincan",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmojo",
+      "Copies": 3
+    },
+    {
+      "Name": "Oasis of Dragon Souls",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Magnaliger",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Stygian Dirge",
+      "Copies": 3
+    }
+  ]
+}

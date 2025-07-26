@@ -1,0 +1,132 @@
+{
+  "Date": "October 2008",
+  "Tournament": "2008 SJ Charlotte",
+  "DeckName": "Lightsworn",
+  "DeckId": "2700",
+  "Duelist": "Arthur Rogers",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Lightsworn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Celestia, Lightsworn Angel",
+      "Copies": 3
+    },
+    {
+      "Name": "Ehren, Lightsworn Monk",
+      "Copies": 1
+    },
+    {
+      "Name": "Garoth, Lightsworn Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 3
+    },
+    {
+      "Name": "Jain, Lightsworn Paladin",
+      "Copies": 1
+    },
+    {
+      "Name": "Judgment Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Lumina, Lightsworn Summoner",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 3
+    },
+    {
+      "Name": "Necro Gardna",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Wulf, Lightsworn Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Safe Return",
+      "Copies": 2
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Solar Recharge",
+      "Copies": 3
+    },
+    {
+      "Name": "Beckoning Light",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Phantom of Chaos",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reincarnation",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

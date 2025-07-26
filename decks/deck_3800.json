@@ -1,0 +1,144 @@
+{
+  "Date": "October 2014",
+  "Tournament": "ARG Circuit Series Des Moines",
+  "DeckName": "Burning Abyss",
+  "DeckId": "3800",
+  "Duelist": "Desmond Johnson",
+  "Placed": "1st   15th Place",
+  "Archetype": "Shaddoll",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Sorcerer",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 2
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "The Beginning of the End",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Karma Cut",
+      "Copies": 3
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "El Shaddoll Construct",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    }
+  ]
+}

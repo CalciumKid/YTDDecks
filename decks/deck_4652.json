@@ -1,0 +1,204 @@
+{
+  "Date": "December 2015",
+  "Tournament": "Regional - Birmingham England",
+  "DeckName": "Burning Abyss",
+  "DeckId": "4652",
+  "Duelist": "Jason Imasogie",
+  "Placed": "Top 8",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "www.youtube.com/embed/DOBgJbmsx-s",
+  "MainDeck": [
+    {
+      "Name": "Barbar, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Cagna, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Calcab, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Cir, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Crane Crane",
+      "Copies": 1
+    },
+    {
+      "Name": "Draghig, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Farfa, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Libic, Malebranche of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 1
+    },
+    {
+      "Name": "Rubic, Malebranche of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Good & Evil in the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Blazing Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Divine Wrath",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Lake of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Painful Escape",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "The Traveler and the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Muzurhythm the String Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Time-Space Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 2
+    }
+  ]
+}

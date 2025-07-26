@@ -1,0 +1,176 @@
+{
+  "Date": "October 2017",
+  "Tournament": "Regional - Tuscaloosa Alabama",
+  "DeckName": "World Chalice",
+  "DeckId": "6785",
+  "Duelist": "Eric Mickal Gjertsen",
+  "Placed": "6th Place",
+  "Archetype": "World",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gofu the Vague Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Chosen by the World Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Exodius the Ultimate Forbidden Lord",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Lee the World Chalice Fairy",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Shine Ball",
+      "Copies": 3
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "The Agent of Creation - Venus",
+      "Copies": 3
+    },
+    {
+      "Name": "World Chalice Guardragon",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy - \"World Chalice\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Kyoutou Waterfront",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Transmodify",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Auram the World Chalice Blademaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Ib the World Chalice Priestess",
+      "Copies": 2
+    },
+    {
+      "Name": "Imduk the World Chalice Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

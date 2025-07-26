@@ -1,0 +1,156 @@
+{
+  "Date": "February 2023",
+  "Tournament": "YCS - Lyon France",
+  "DeckName": "Labrynth",
+  "DeckId": "9443",
+  "Duelist": "Herman Hansson",
+  "Placed": "Top 32",
+  "Archetype": "Labrynth",
+  "DeckProfile": "www.youtube.com/embed/bfE_hDyS35A",
+  "MainDeck": [
+    {
+      "Name": "Arianna the Labrynth Servant",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Lady Labrynth of the Silver Castle",
+      "Copies": 3
+    },
+    {
+      "Name": "Lovely Labrynth of the Silver Castle",
+      "Copies": 1
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Big Welcome Labrynth",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Terrors of the Overroot",
+      "Copies": 2
+    },
+    {
+      "Name": "Welcome Labrynth",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Aussa the Earth Charmer, Immovable",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Donner, Dagger Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Arise-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Madolche Fresh Sistart",
+      "Copies": 1
+    },
+    {
+      "Name": "Madolche Puddingcess Chocolat-a-la-Mode",
+      "Copies": 1
+    },
+    {
+      "Name": "Madolche Queen Tiaramisu",
+      "Copies": 2
+    },
+    {
+      "Name": "Madolche Teacher Glassouffle",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kitkallos",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Lord of the Heavenly Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

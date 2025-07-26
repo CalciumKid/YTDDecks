@@ -1,0 +1,164 @@
+{
+  "Date": "September 2017",
+  "Tournament": "Regional - Lubbock Texas",
+  "DeckName": "Blue-Eyes Chaos MAX",
+  "DeckId": "6767",
+  "Duelist": "Brandt Colborg",
+  "Placed": "Top 8",
+  "Archetype": "Blue-Eyes",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blue-Eyes Alternative White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes Chaos MAX Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Spirit of White",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Master with Eyes of Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Sage with Eyes of Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Ancients",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 2
+    },
+    {
+      "Name": "Advanced Ritual Art",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Form",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Return of the Dragon Lords",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "The Melody of Awakening Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Azure-Eyes Silver Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Spirit Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 77: The Seven Sins",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 84: Pain Gainer",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 2
+    }
+  ]
+}

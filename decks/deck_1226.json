@@ -1,0 +1,200 @@
+{
+  "Date": "February 2014",
+  "Tournament": "Regional - Dartmouth Canada",
+  "DeckName": "Hieratic Rulers",
+  "DeckId": "1226",
+  "Duelist": "Justin ???",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Hieratic",
+  "DeckProfile": "www.youtube.com/embed/_rW2IZgBDxo",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 1
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 2
+    },
+    {
+      "Name": "Debris Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragard",
+      "Copies": 1
+    },
+    {
+      "Name": "Flamvell Guard",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Dragon of Eset",
+      "Copies": 3
+    },
+    {
+      "Name": "Hieratic Dragon of Su",
+      "Copies": 3
+    },
+    {
+      "Name": "Hieratic Dragon of Tefnuit",
+      "Copies": 3
+    },
+    {
+      "Name": "Labradorite Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Darkness Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 1
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 1
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 1
+    },
+    {
+      "Name": "Wattaildragon",
+      "Copies": 1
+    },
+    {
+      "Name": "A Wingbeat of Giant Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Hieratic Seal of Convocation",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 2
+    },
+    {
+      "Name": "Gauntlet Launcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Dragon King of Atum",
+      "Copies": 2
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Strike Bounzer",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Trident Dragion",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Electric Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Fencing Fire Ferret",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "DNA Surgery",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Overworked",
+      "Copies": 3
+    }
+  ]
+}

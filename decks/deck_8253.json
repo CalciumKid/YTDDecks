@@ -1,0 +1,168 @@
+{
+  "Date": "October 2019",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Danger! Gren Maju",
+  "DeckId": "8253",
+  "Duelist": "Lane Frazier",
+  "Placed": "1st Place",
+  "Archetype": "Gren Maju",
+  "DeckProfile": "www.youtube.com/embed/FfQcHWQJS2E",
+  "MainDeck": [
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Chupacabra!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Ogopogo!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Thunderbird!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 2
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Gizmek Orochi, the Serpentron Sky Slasher",
+      "Copies": 3
+    },
+    {
+      "Name": "Gren Maju Da Eiza",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Response Team",
+      "Copies": 2
+    },
+    {
+      "Name": "Hey, Trunade!",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 68: Sanaphond the Sky Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Wee Witch's Apprentice",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Gnomaterial",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Zone",
+      "Copies": 3
+    }
+  ]
+}

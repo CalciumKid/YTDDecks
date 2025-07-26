@@ -1,0 +1,196 @@
+{
+  "Date": "October 2019",
+  "Tournament": "YCS - London England",
+  "DeckName": "Danger! Thunder Dragon Guardragon",
+  "DeckId": "8262",
+  "Duelist": "Herman Hanson",
+  "Placed": "Top 16",
+  "Archetype": "Thunder",
+  "DeckProfile": "www.youtube.com/embed/0ZDMvArbrTc",
+  "MainDeck": [
+    {
+      "Name": "Black Dragon Collapserpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Dragon Levianeer",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Thunderbird!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 2
+    },
+    {
+      "Name": "Darkest Diabolos, Lord of the Lair",
+      "Copies": 1
+    },
+    {
+      "Name": "Draconnet",
+      "Copies": 3
+    },
+    {
+      "Name": "Galaxy Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Omni Dragon Brotaur",
+      "Copies": 1
+    },
+    {
+      "Name": "Starliege Seyfert",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragondark",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragonhawk",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonroar",
+      "Copies": 3
+    },
+    {
+      "Name": "White Dragon Wyverburster",
+      "Copies": 1
+    },
+    {
+      "Name": "World Chalice Guardragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Ravine",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "The Melody of Awakening Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "World Legacy Guardragon",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragunity Knight - Romulus",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Pisty",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Seal of the Heavenly Spheres",
+      "Copies": 1
+    },
+    {
+      "Name": "Ib the World Chalice Justiciar",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ]
+}

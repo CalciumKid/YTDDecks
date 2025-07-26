@@ -1,0 +1,204 @@
+{
+  "Date": "April 2018",
+  "Tournament": "Regional - Toronto Ontario",
+  "DeckName": "True Draco Invoked",
+  "DeckId": "7235",
+  "Duelist": "David Bui",
+  "Placed": "5th Place",
+  "Archetype": "True Draco",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 2
+    },
+    {
+      "Name": "Master Peace, the True Dracoslaying King",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 3
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 3
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Millennium-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Magellanica",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 3
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "Millennium-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Time Maiden",
+      "Copies": 2
+    },
+    {
+      "Name": "Zaphion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    }
+  ]
+}

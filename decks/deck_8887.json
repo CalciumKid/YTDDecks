@@ -1,0 +1,136 @@
+{
+  "Date": "April 2019",
+  "Tournament": "no tournament",
+  "DeckName": "Trickstar Not Pro",
+  "DeckId": "8887",
+  "Duelist": "Joseph Welbourne",
+  "Placed": "No Place",
+  "Archetype": "Trickstar",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Corobane",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Lycoris",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Narkissus",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Nightshade",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Room of Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Absorption",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Live Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Magical Laurel",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Reincarnation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Bloom",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Crimson Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Divaridis",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Foxglove Witch",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Holly Angel",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Lilybell",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Rhodode",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "Date": "February 2021",
+  "Tournament": "Champions of Camelot RT10",
+  "DeckName": "Myutant",
+  "DeckId": "8789",
+  "Duelist": "Alex C.",
+  "Placed": "1st Place",
+  "Archetype": "Myutant",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Myutant Arsenal",
+      "Copies": 2
+    },
+    {
+      "Name": "Myutant Beast",
+      "Copies": 2
+    },
+    {
+      "Name": "Myutant GB-88",
+      "Copies": 1
+    },
+    {
+      "Name": "Myutant M-05",
+      "Copies": 3
+    },
+    {
+      "Name": "Myutant Mist",
+      "Copies": 1
+    },
+    {
+      "Name": "Myutant ST-46",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Myutant Evolution Lab",
+      "Copies": 3
+    },
+    {
+      "Name": "Myutant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Myutant Clash",
+      "Copies": 1
+    },
+    {
+      "Name": "Myutant Cry",
+      "Copies": 2
+    },
+    {
+      "Name": "Myutant Expansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 3
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Myutant Synthesis",
+      "Copies": 3
+    },
+    {
+      "Name": "Myutant Ultimus",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Myutant Blast",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ]
+}

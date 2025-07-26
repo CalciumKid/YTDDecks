@@ -1,0 +1,115 @@
+{
+  "Date": "June 2016",
+  "Tournament": "State Championship - Illinois",
+  "DeckName": "Chain Strike Burn",
+  "DeckId": "5207",
+  "Duelist": "Ben Lodise",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Chain Burn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Accumulated Fortune",
+      "Copies": 3
+    },
+    {
+      "Name": "Blazing Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 3
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Anti-Kaiju War Machine Mecha-Dogoran",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    }
+  ]
+}

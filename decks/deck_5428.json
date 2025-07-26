@@ -1,0 +1,188 @@
+{
+  "Date": "September 2016",
+  "Tournament": "Columbus Ohio",
+  "DeckName": "Heroes",
+  "DeckId": "5428",
+  "Duelist": "DaJuan Scott",
+  "Placed": "Top 8",
+  "Archetype": "HERO",
+  "DeckProfile": "www.youtube.com/embed/kD1y2wJMzDI",
+  "MainDeck": [
+    {
+      "Name": "Elemental HERO Bubbleman",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 3
+    },
+    {
+      "Name": "Goblindbergh",
+      "Copies": 1
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 1
+    },
+    {
+      "Name": "Tin Goldfish",
+      "Copies": 3
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 3
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Floodgate Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Phantom Knights' Sword",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Treacherous Trap Hole",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Anki",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 37: Hope Woven Dragon Spider Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 2
+    }
+  ]
+}

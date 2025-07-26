@@ -1,0 +1,144 @@
+{
+  "Date": "April 2019",
+  "Tournament": "Regional - Altoona Iowa",
+  "DeckName": "Subterror Guru Control",
+  "DeckId": "7985",
+  "Duelist": "Ryan Gaskins",
+  "Placed": "6th Place",
+  "Archetype": "Subterror",
+  "DeckProfile": "www.youtube.com/embed/eBXjwNRtsco",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Subterror Behemoth Umastryx",
+      "Copies": 1
+    },
+    {
+      "Name": "Subterror Fiendess",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Guru",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Nemesis Archer",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Cave Clash",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "The Hidden City",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Final Battle",
+      "Copies": 2
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Rocket Ride",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 3
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragon Titan",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    },
+    {
+      "Name": "Lose 1 Turn",
+      "Copies": 3
+    }
+  ]
+}

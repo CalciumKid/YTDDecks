@@ -1,0 +1,156 @@
+{
+  "Date": "May 2023",
+  "Tournament": "National Championship - UK",
+  "DeckName": "Labrynth",
+  "DeckId": "9663",
+  "Duelist": "Matt Chen",
+  "Placed": "Top 8",
+  "Archetype": "Labrynth",
+  "DeckProfile": "www.youtube.com/embed/4Cg47ftu-O4",
+  "MainDeck": [
+    {
+      "Name": "Arianna the Labrynth Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Chandraglier",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Cooclock",
+      "Copies": 1
+    },
+    {
+      "Name": "Labrynth Stovie Torbie",
+      "Copies": 3
+    },
+    {
+      "Name": "Lady Labrynth of the Silver Castle",
+      "Copies": 2
+    },
+    {
+      "Name": "Lovely Labrynth of the Silver Castle",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 1
+    },
+    {
+      "Name": "Big Welcome Labrynth",
+      "Copies": 3
+    },
+    {
+      "Name": "Destructive Daruma Karma Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Welcome Labrynth",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchro Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 2
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 2
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Arms Bucephalus II",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Baldrake",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Five-Rainbow Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 1
+    },
+    {
+      "Name": "Deck Devastation Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    }
+  ]
+}

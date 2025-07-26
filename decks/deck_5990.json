@@ -1,0 +1,192 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Burnsville, Minnesota OTS Tournament",
+  "DeckName": "Wind Witch Invoked Artifact",
+  "DeckId": "5990",
+  "Duelist": "Thomas Diskin",
+  "Placed": "1st Place",
+  "Archetype": "Artifact",
+  "DeckProfile": "www.youtube.com/embed/l2CWHwLG6Z8",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Beagalltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Windwitch - Glass Bell",
+      "Copies": 2
+    },
+    {
+      "Name": "Windwitch - Ice Bell",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Snow Bell",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Ignition",
+      "Copies": 2
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Wonder Wand",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    },
+    {
+      "Name": "Windwitch - Winter Bell",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Magellanica",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Disappearance",
+      "Copies": 2
+    }
+  ]
+}

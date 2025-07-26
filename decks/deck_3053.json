@@ -1,0 +1,176 @@
+{
+  "Date": "June 2006",
+  "Tournament": "2006 Shonen Jump: Atlanta",
+  "DeckName": "3rd - 4th",
+  "DeckId": "3053",
+  "Duelist": "Zach Johnson",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "3rd - 4th",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Cyber-Stein",
+      "Copies": 3
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 1
+    },
+    {
+      "Name": "Nimble Momonga",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 3
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Level Limit - Area B",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Megamorph",
+      "Copies": 3
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Poison of the Old Man",
+      "Copies": 3
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "United We Stand",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravity Bind",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Des Koala",
+      "Copies": 2
+    },
+    {
+      "Name": "Stealth Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 2
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    }
+  ]
+}

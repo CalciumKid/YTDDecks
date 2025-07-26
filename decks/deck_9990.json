@@ -1,0 +1,152 @@
+{
+  "Date": "June 2024",
+  "Tournament": "National Championship - Germany",
+  "DeckName": "Melodious",
+  "DeckId": "9990",
+  "Duelist": "Joshua Schmidt",
+  "Placed": "Top 32",
+  "Archetype": "Melodious",
+  "DeckProfile": "www.youtube.com/embed/OJqe6SXU2Nk",
+  "MainDeck": [
+    {
+      "Name": "Aria the Melodious Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Couplet the Melodious Songstress",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Mourner & Moonlit Chill",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Refrain the Melodious Songstress",
+      "Copies": 3
+    },
+    {
+      "Name": "Shopina the Melodious Maestra",
+      "Copies": 1
+    },
+    {
+      "Name": "Sonata the Melodious Diva",
+      "Copies": 3
+    },
+    {
+      "Name": "Soprano the Melodious Songstress",
+      "Copies": 3
+    },
+    {
+      "Name": "1st Movement Solo",
+      "Copies": 3
+    },
+    {
+      "Name": "Melodious Concerto",
+      "Copies": 2
+    },
+    {
+      "Name": "Ostinato",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bacha the Melodious Maestra",
+      "Copies": 3
+    },
+    {
+      "Name": "Bloom Diva the Melodious Choir",
+      "Copies": 1
+    },
+    {
+      "Name": "Bloom Harmonist the Melodious Composer",
+      "Copies": 1
+    },
+    {
+      "Name": "Flowering Etoile the Melodious Magnificat",
+      "Copies": 2
+    },
+    {
+      "Name": "Gravity Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Haggard Lizardose",
+      "Copies": 1
+    },
+    {
+      "Name": "Protector of The Agents - Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Schuberta the Melodious Maestra",
+      "Copies": 2
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Starslayer TY-PHON - Sky Crisis",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Tamtam the Melodious Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    }
+  ]
+}

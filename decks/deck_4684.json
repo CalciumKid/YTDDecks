@@ -1,0 +1,172 @@
+{
+  "Date": "December 2015",
+  "Tournament": "Regional - UK",
+  "DeckName": "Kozmos",
+  "DeckId": "4684",
+  "Duelist": "Jason Ngan",
+  "Placed": "Top 8",
+  "Archetype": "Kozmo",
+  "DeckProfile": "www.youtube.com/embed/GYPT4rOHd8c",
+  "MainDeck": [
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Juragedo",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Goodwitch",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Wickedwitch",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Strawman",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 3
+    },
+    {
+      "Name": "Offerings to the Doomed",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Constellar Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Tellarknight Ptolemaeus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Stormforth",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

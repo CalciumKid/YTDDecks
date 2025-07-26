@@ -1,0 +1,228 @@
+{
+  "Date": "July 2011",
+  "Tournament": "2011 YCS Providence",
+  "DeckName": "Herald/Hyperion",
+  "DeckId": "2150",
+  "Duelist": "Luke Mattingly",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Herald",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 2
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Perfection",
+      "Copies": 3
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Master Hyperion",
+      "Copies": 3
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 2
+    },
+    {
+      "Name": "Sonic Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul of Purity and Light",
+      "Copies": 2
+    },
+    {
+      "Name": "The Agent of Miracles - Jupiter",
+      "Copies": 3
+    },
+    {
+      "Name": "The Agent of Mystery - Earth",
+      "Copies": 3
+    },
+    {
+      "Name": "Dawn of the Herald",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Safe Zone",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Avenging Knight Parshath",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Flamvell Uruquizas",
+      "Copies": 1
+    },
+    {
+      "Name": "Light End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Avenging Knight Parshath",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Flamvell Uruquizas",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Knight, the Force of Earth",
+      "Copies": 1
+    },
+    {
+      "Name": "Light End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

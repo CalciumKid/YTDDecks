@@ -1,0 +1,208 @@
+{
+  "Date": "October 2012",
+  "Tournament": "Regional - Fort Worth Texas",
+  "DeckName": "Frog Monarch",
+  "DeckId": "7757",
+  "Duelist": "Aaron Coker",
+  "Placed": "Top 8",
+  "Archetype": "Frog",
+  "DeckProfile": "www.youtube.com/embed/b2hCDBMQ2lc",
+  "MainDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Dust Spirit",
+      "Copies": 1
+    },
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Light and Darkness Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Tragoedia",
+      "Copies": 2
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Exchange",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 3
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Inzektor Exa-Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Strike Bounzer",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sword Breaker",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Knight, the Force of Earth",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Electric Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Gemini Imps",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Extermination",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    }
+  ]
+}

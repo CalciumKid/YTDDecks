@@ -1,0 +1,204 @@
+{
+  "Date": "September 2017",
+  "Tournament": "Regional - St. Louis Missouri",
+  "DeckName": "Blue-Eyes White Dragon",
+  "DeckId": "6742",
+  "Duelist": "Allen Nails",
+  "Placed": "Top 8",
+  "Archetype": "Blue-Eyes",
+  "DeckProfile": "www.youtube.com/embed/zmvqFNfJfd8",
+  "MainDeck": [
+    {
+      "Name": "Amorphage Goliath",
+      "Copies": 1
+    },
+    {
+      "Name": "Arkbrave Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Alternative White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Spirit of White",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Sage with Eyes of Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Ancients",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Legend",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Rules",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Return of the Dragon Lords",
+      "Copies": 3
+    },
+    {
+      "Name": "Silver's Cry",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "The Melody of Awakening Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Azure-Eyes Silver Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Spirit Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Blade Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Michael, the Arch-Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 68: Sanaphond the Sky Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Saber, the Lightning Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    }
+  ]
+}

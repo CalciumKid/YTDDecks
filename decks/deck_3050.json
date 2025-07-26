@@ -1,0 +1,106 @@
+{
+  "Date": "April 2006",
+  "Tournament": "2006 Shonen Jump: Baltimore",
+  "DeckName": "Magical Explosion OTK",
+  "DeckId": "3050",
+  "Duelist": "Jose Barreros",
+  "Placed": "None Place",
+  "Archetype": "Magical",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Toon Cannon Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "A Feather of the Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Different Dimension Capsule",
+      "Copies": 3
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Hammer Shot",
+      "Copies": 2
+    },
+    {
+      "Name": "Level Limit - Area B",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Mallet",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Reflector",
+      "Copies": 3
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Nightmare's Steelcage",
+      "Copies": 3
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Reload",
+      "Copies": 3
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Reproduction",
+      "Copies": 3
+    },
+    {
+      "Name": "Stray Lambs",
+      "Copies": 3
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Toon Table of Contents",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Explosion",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

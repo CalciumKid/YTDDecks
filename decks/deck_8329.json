@@ -1,0 +1,188 @@
+{
+  "Date": "November 2019",
+  "Tournament": "Regional - Denver",
+  "DeckName": "Crusadia Guardragon",
+  "DeckId": "8329",
+  "Duelist": "Charles \"team Cog\"",
+  "Placed": "16th Place",
+  "Archetype": "Crusadia",
+  "DeckProfile": "www.youtube.com/embed/qRhmsdhIIEM",
+  "MainDeck": [
+    {
+      "Name": "Black Dragon Collapserpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Arboria",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Draco",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Leonis",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Maximus",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Reclusia",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Inari Fire",
+      "Copies": 1
+    },
+    {
+      "Name": "Jigabyte",
+      "Copies": 2
+    },
+    {
+      "Name": "Nefarious Archfiend Eater of Nefariousness",
+      "Copies": 1
+    },
+    {
+      "Name": "Ranryu",
+      "Copies": 3
+    },
+    {
+      "Name": "Red-Eyes Darkness Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Rokket Tracer",
+      "Copies": 2
+    },
+    {
+      "Name": "White Dragon Wyverburster",
+      "Copies": 1
+    },
+    {
+      "Name": "Kyoutou Waterfront",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Quick Launch",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Guardragon",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Succession",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Krawler",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Crusadia Equimax",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Magius",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusadia Regulex",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Spatha",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Berserker of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "F.A. Dawn Dragster",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Pisty",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Seal of the Heavenly Spheres",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Azathot",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Nyarla",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Revival",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 2
+    }
+  ]
+}

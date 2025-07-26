@@ -1,0 +1,264 @@
+{
+  "Date": "January 2023",
+  "Tournament": "Regional - Portsmouth England",
+  "DeckName": "60-Card Adventurer Libromancer Mikanko Warrior",
+  "DeckId": "9432",
+  "Duelist": "Gabriel Netz",
+  "Placed": "Top 4",
+  "Archetype": "Libromancer",
+  "DeckProfile": "www.youtube.com/embed/EYSVG2mHOLU",
+  "MainDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Angel Benten",
+      "Copies": 1
+    },
+    {
+      "Name": "Diviner of the Herald",
+      "Copies": 2
+    },
+    {
+      "Name": "Gale Dogra",
+      "Copies": 1
+    },
+    {
+      "Name": "Ha-Re the Sword Mikanko",
+      "Copies": 1
+    },
+    {
+      "Name": "Illusion of Chaos",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoble Knight - Renaud",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Libromancer Agent",
+      "Copies": 2
+    },
+    {
+      "Name": "Libromancer Doombroker",
+      "Copies": 1
+    },
+    {
+      "Name": "Libromancer Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Libromancer Geek Boy",
+      "Copies": 3
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 1
+    },
+    {
+      "Name": "Magicore Warrior of the Relics",
+      "Copies": 1
+    },
+    {
+      "Name": "Ni-Ni the Mirror Mikanko",
+      "Copies": 1
+    },
+    {
+      "Name": "Ohime the Manifested Mikanko",
+      "Copies": 3
+    },
+    {
+      "Name": "Wandering Gryphon Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 3
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Libromancer First Appearance",
+      "Copies": 2
+    },
+    {
+      "Name": "Mikanko Fire Dance",
+      "Copies": 1
+    },
+    {
+      "Name": "Mikanko Reflection Rondo",
+      "Copies": 1
+    },
+    {
+      "Name": "Mikanko Water Arabesque",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 3
+    },
+    {
+      "Name": "Small World",
+      "Copies": 3
+    },
+    {
+      "Name": "The Great Mikanko Ceremony",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 1
+    },
+    {
+      "Name": "Libromancer Intervention",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cherubini, Ebon Angel of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Cupid Pitch",
+      "Copies": 1
+    },
+    {
+      "Name": "Donner, Dagger Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Ferocious Flame Swordsman",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 2
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravekeeper's Commandant",
+      "Copies": 1
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Mikanko Water Arabesque",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 2
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    }
+  ]
+}

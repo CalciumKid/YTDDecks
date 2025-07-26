@@ -1,0 +1,188 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Indianapolis Indiana",
+  "DeckName": "Rescue-ACE",
+  "DeckId": "9844",
+  "Duelist": "Logan Johnson",
+  "Placed": "2nd Place",
+  "Archetype": "Rescue-ACE",
+  "DeckProfile": "www.youtube.com/embed/6we5KboCdNk",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Diabellstar the Black Witch",
+      "Copies": 3
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Rescue-ACE Air Lifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue-ACE Hydrant",
+      "Copies": 2
+    },
+    {
+      "Name": "Rescue-ACE Impulse",
+      "Copies": 1
+    },
+    {
+      "Name": "Rescue-ACE Preventer",
+      "Copies": 2
+    },
+    {
+      "Name": "Rescue-ACE Turbulence",
+      "Copies": 2
+    },
+    {
+      "Name": "ALERT!",
+      "Copies": 1
+    },
+    {
+      "Name": "EMERGENCY!",
+      "Copies": 3
+    },
+    {
+      "Name": "Original Sinful Spoils - Snake-Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "RESCUE!",
+      "Copies": 1
+    },
+    {
+      "Name": "Rescue-ACE HQ",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "WANTED: Seeker of Sinful Spoils",
+      "Copies": 3
+    },
+    {
+      "Name": "CONTAIN!",
+      "Copies": 1
+    },
+    {
+      "Name": "EXTINGUISH!",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Knight Draco-Equiste",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Gilti-Gearfried the Magical Steel Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy F Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbound",
+      "Copies": 3
+    },
+    {
+      "Name": "REINFORCE!",
+      "Copies": 1
+    }
+  ]
+}

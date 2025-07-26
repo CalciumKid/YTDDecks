@@ -1,0 +1,172 @@
+{
+  "Date": "February 2015",
+  "Tournament": "Regional - Toronto Ontario",
+  "DeckName": "Yang Zing",
+  "DeckId": "4036",
+  "Duelist": "Duelist Unknown",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Yang Zing",
+  "DeckProfile": "www.youtube.com/embed/DYmPISFuXLE",
+  "MainDeck": [
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Bixi, Water of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Masked Chameleon",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Pulao, Wind of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Suanni, Fire of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Taotie, Shadow of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Yang Zing Path",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Yang Zing Creation",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Creature Swap",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Chain Disappearance",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Non-Fusion Area",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Prisoner",
+      "Copies": 2
+    }
+  ]
+}

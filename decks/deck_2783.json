@@ -1,0 +1,131 @@
+{
+  "Date": "December 2007",
+  "Tournament": "2007 SJ San Mateo",
+  "DeckName": "Cosmos",
+  "DeckId": "2783",
+  "Duelist": "John Umali",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Cosmo",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Scout Plane",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Survivor",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravekeeper's Guard",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 3
+    },
+    {
+      "Name": "Marshmallon",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiza the Storm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Thestalos the Firestorm Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Jinzo",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 3
+    }
+  ]
+}

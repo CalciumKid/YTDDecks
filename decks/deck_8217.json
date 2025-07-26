@@ -1,0 +1,164 @@
+{
+  "Date": "October 2019",
+  "Tournament": "Regional - Indianapolis Indiana",
+  "DeckName": "Jam1TCG's Marincess & The Frogs",
+  "DeckId": "8217",
+  "Duelist": "Jamone \"jam1\" Lewis (jam1tcg Frog Master)",
+  "Placed": "34th Place",
+  "Archetype": "Frog",
+  "DeckProfile": "www.youtube.com/embed/LdqrQI4u0Bo",
+  "MainDeck": [
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Sea Horse",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 2
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 2
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Battle Ocean",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Wave",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Olenoides",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Blue Slug",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Coral Anemone",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Marbled Rock",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Sea Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Wonder Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Mistar Boy",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 2
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Zeroboros",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    }
+  ]
+}

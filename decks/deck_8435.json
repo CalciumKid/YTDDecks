@@ -1,0 +1,188 @@
+{
+  "Date": "January 2020",
+  "Tournament": "Regional - Lock Haven Pennsylvania",
+  "DeckName": "Dark Magician",
+  "DeckId": "8435",
+  "Duelist": "Teamsamuraix1",
+  "Placed": "35th Place",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/30Nm1hyJ3Bc",
+  "MainDeck": [
+    {
+      "Name": "Dark Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magician Girl",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician's Rod",
+      "Copies": 3
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 3
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Bond Between Teacher and Student",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Burning Magic",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magical Circle",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magic Inheritance",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 2
+    },
+    {
+      "Name": "Illusion Magic",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Secrets of Dark Magic",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Crackdown",
+      "Copies": 2
+    },
+    {
+      "Name": "Eternal Soul",
+      "Copies": 2
+    },
+    {
+      "Name": "Magician Navigation",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Ultimate Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Dark Magicians",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Magic Attack",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Waking the Dragon",
+      "Copies": 2
+    }
+  ]
+}

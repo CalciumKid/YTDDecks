@@ -1,0 +1,180 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - İzmir Turkey",
+  "DeckName": "Metalfoes Yang Zing",
+  "DeckId": "5944",
+  "Duelist": "Berkin Yeginoğlu",
+  "Placed": "4th Place",
+  "Archetype": "Metalfoe",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Bixi, Water of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Goldriver",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Silverd",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Steelen",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Volflame",
+      "Copies": 1
+    },
+    {
+      "Name": "Suanni, Fire of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Zefraniu, Secret of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Zefraxi, Treasure of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Yang Zing Path",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Combination",
+      "Copies": 2
+    },
+    {
+      "Name": "Nine Pillars of Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Yang Zing Creation",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Orichalc",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaphys Horus",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Ogre Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulao, Wind of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Taotie, Shadow of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Chain Dispel",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Slump",
+      "Copies": 1
+    },
+    {
+      "Name": "Pendulum Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    }
+  ]
+}

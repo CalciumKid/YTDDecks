@@ -1,0 +1,132 @@
+{
+  "Date": "January 2017",
+  "Tournament": "Game Day",
+  "DeckName": "T.G. Stun",
+  "DeckId": "8794",
+  "Duelist": "Hunter Collins",
+  "Placed": "3rd Place",
+  "Archetype": "T.G.",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 3
+    },
+    {
+      "Name": "T.G. Rush Rhino",
+      "Copies": 3
+    },
+    {
+      "Name": "T.G. Warwolf",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Moon Mirror Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Escape Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Horn of the Phantom Beast",
+      "Copies": 2
+    },
+    {
+      "Name": "Lose 1 Turn",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "TG1-EM1",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Graydle Eagle",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Dian Keto the Cure Master",
+      "Copies": 3
+    },
+    {
+      "Name": "Swords of Concealing Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 1
+    },
+    {
+      "Name": "Over Capacity",
+      "Copies": 1
+    }
+  ]
+}

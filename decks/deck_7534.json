@@ -1,0 +1,180 @@
+{
+  "Date": "November 2018",
+  "Tournament": "Regional - Montreal Canada",
+  "DeckName": "Danger FTK",
+  "DeckId": "7534",
+  "Duelist": "Charles-Étienne Ruel",
+  "Placed": "8th Place",
+  "Archetype": "Danger",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Broww, Huntsman of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Cannon Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Chupacabra!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Dogman!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Thunderbird!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 3
+    },
+    {
+      "Name": "Grapha, Dragon Lord of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Snoww, Unlight of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "The Beginning of the End",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 42: Galaxy Tomahawk",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Azathot",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Nyarla",
+      "Copies": 1
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 1
+    },
+    {
+      "Name": "Space Insulator",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 1
+    }
+  ]
+}

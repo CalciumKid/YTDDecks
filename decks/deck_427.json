@@ -1,0 +1,200 @@
+{
+  "Date": "September 2014",
+  "Tournament": "YCS - Madrid Spain",
+  "DeckName": "Infernities",
+  "DeckId": "427",
+  "Duelist": "Piran Asci",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Infernity",
+  "DeckProfile": "www.youtube.com/embed/q1HRzgwadNs",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Heiress",
+      "Copies": 1
+    },
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernity Archfiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernity Necromancer",
+      "Copies": 2
+    },
+    {
+      "Name": "Photon Thrasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Stygian Street Patrol",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Archfiend Palabyrinth",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernity Launcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Night Beam",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernity Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernity Break",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusionist",
+      "Copies": 1
+    },
+    {
+      "Name": "Kamionwizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dynatherium",
+      "Copies": 1
+    },
+    {
+      "Name": "De-Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Full House",
+      "Copies": 1
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Stygian Dirge",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

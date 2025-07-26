@@ -1,0 +1,184 @@
+{
+  "Date": "August 2019",
+  "Tournament": "Pro-Play Tour Philadelphia",
+  "DeckName": "Danger! Crusadia Thunder Dragon",
+  "DeckId": "8062",
+  "Duelist": "Aditya Dharap",
+  "Placed": "Top 16",
+  "Archetype": "Thunder",
+  "DeckProfile": "www.youtube.com/embed/xw7_vo0On6M",
+  "MainDeck": [
+    {
+      "Name": "Black Dragon Collapserpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Dragon Levianeer",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Arboria",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusadia Draco",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusadia Maximus",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusadia Reclusia",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Chupacabra!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Thunderbird!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 2
+    },
+    {
+      "Name": "Defrag Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Omni Dragon Brotaur",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Darkness Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragondark",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragonduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragonhawk",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragonroar",
+      "Copies": 2
+    },
+    {
+      "Name": "White Dragon Wyverburster",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Magius",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Agarpain",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Pisty",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Seal of the Heavenly Spheres",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 68: Sanaphond the Sky Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

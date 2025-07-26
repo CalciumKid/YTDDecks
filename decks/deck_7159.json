@@ -1,0 +1,188 @@
+{
+  "Date": "March 2018",
+  "Tournament": "Regional - CDMX Mexico",
+  "DeckName": "Invoked",
+  "DeckId": "7159",
+  "Duelist": "Dario Rayo",
+  "Placed": "Top 8",
+  "Archetype": "Invoked Windwitch",
+  "DeckProfile": "www.youtube.com/embed/LVjTtVsy56Q",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Glass Bell",
+      "Copies": 2
+    },
+    {
+      "Name": "Windwitch - Ice Bell",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Snow Bell",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Elysium",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 2
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Cocytus",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Elysium",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Magellanica",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 1
+    }
+  ]
+}

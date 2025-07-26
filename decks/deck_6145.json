@@ -1,0 +1,168 @@
+{
+  "Date": "March 2017",
+  "Tournament": "Regional - Istanbul",
+  "DeckName": "Flower Cardians",
+  "DeckId": "6145",
+  "Duelist": "Michael Cem Halıcıoğlu",
+  "Placed": "3rd Place",
+  "Archetype": "Flower Cardian",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Flower Cardian Cherry Blossom with Curtain",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Clover with Boar",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Maple with Deer",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Paulownia",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Peony with Butterfly",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Pine",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Pine with Crane",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Willow",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Willow with Calligrapher",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Zebra Grass",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Zebra Grass with Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Gathering",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Stacking",
+      "Copies": 2
+    },
+    {
+      "Name": "Recardination",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Koi Koi",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Boardefly",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Lightflare",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Lightshower",
+      "Copies": 3
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Ogre Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 1
+    }
+  ]
+}

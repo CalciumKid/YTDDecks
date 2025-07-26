@@ -1,0 +1,192 @@
+{
+  "Date": "June 2016",
+  "Tournament": "State Championship - West Virginia",
+  "DeckName": "Draco Performapals",
+  "DeckId": "5182",
+  "Duelist": "Shawn Szonyi",
+  "Placed": "2nd Place",
+  "Archetype": "Performapal",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Guiding Ariadne",
+      "Copies": 3
+    },
+    {
+      "Name": "Lector Pendulum, the Dracoverlord",
+      "Copies": 1
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Unicorn - Kirin",
+      "Copies": 3
+    },
+    {
+      "Name": "Master Pendulum, the Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Guitartle",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Lizardraw",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Monkeyboard",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Odd-Eyes Light Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Odd-Eyes Unicorn",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Pendulum Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 1
+    },
+    {
+      "Name": "Vector Pendulum, the Dracoverlord",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Face-Off",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Iris",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinoster Power, the Mighty Dracoslayer",
+      "Copies": 2
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Majester Paladin, the Ascending Dracoslayer",
+      "Copies": 2
+    },
+    {
+      "Name": "Norito the Moral Leader",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Rebellion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Pendulum Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Full House",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    }
+  ]
+}

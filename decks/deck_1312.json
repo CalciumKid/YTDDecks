@@ -1,0 +1,200 @@
+{
+  "Date": "June 2013",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Dragon Rulers",
+  "DeckId": "1312",
+  "Duelist": "Terry Kellum",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Dragon",
+  "DeckProfile": "www.youtube.com/embed/VwPxA-q7IjE",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 3
+    },
+    {
+      "Name": "Burner, Dragon Ruler of Sparks",
+      "Copies": 2
+    },
+    {
+      "Name": "Debris Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Eclipse Wyvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Flamvell Guard",
+      "Copies": 1
+    },
+    {
+      "Name": "Light and Darkness Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning, Dragon Ruler of Drafts",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Reactan, Dragon Ruler of Pebbles",
+      "Copies": 2
+    },
+    {
+      "Name": "Red-Eyes Darkness Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 3
+    },
+    {
+      "Name": "Stream, Dragon Ruler of Droplets",
+      "Copies": 2
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 2
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 3
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 2
+    },
+    {
+      "Name": "Yamata Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Sacred Sword of Seven Stars",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Rejuvenation",
+      "Copies": 3
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Orient Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Queen Dragun Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Exploder Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusilier Dragon, the Dual-Mode Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Koa'ki Meiru Drago",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Canceller",
+      "Copies": 2
+    },
+    {
+      "Name": "Tsukuyomi",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    }
+  ]
+}

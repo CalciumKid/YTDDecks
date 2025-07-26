@@ -1,0 +1,136 @@
+{
+  "Date": "December 2020",
+  "Tournament": "RD Extravaganza - Belenux",
+  "DeckName": "Subterror Guru Control",
+  "DeckId": "8735",
+  "Duelist": "Marijn Van Duivenboden",
+  "Placed": "Top 4",
+  "Archetype": "Subterror",
+  "DeckProfile": "www.youtube.com/embed/cQ4CXFewbnM",
+  "MainDeck": [
+    {
+      "Name": "Subterror Fiendess",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Guru",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Nemesis Archer",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Cave Clash",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "The Hidden City",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 2
+    },
+    {
+      "Name": "Ice Dragon's Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Final Battle",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Aussa the Earth Charmer, Immovable",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 2
+    },
+    {
+      "Name": "Fossil Warrior Skull Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 3
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 3
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

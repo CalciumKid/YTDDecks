@@ -1,0 +1,156 @@
+{
+  "Date": "July 2018",
+  "Tournament": "WCQ - European Championship",
+  "DeckName": "Paleozoic",
+  "DeckId": "7311",
+  "Duelist": "Christoph Steiner",
+  "Placed": "Top 64",
+  "Archetype": "Paleozoic",
+  "DeckProfile": "www.youtube.com/embed/_VPgP6HjkcA",
+  "MainDeck": [
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 2
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Leanchoilia",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Marrella",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Olenoides",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cat Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Mistar Boy",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 45: Crumble Logos the Prophet of Demolition",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Cursed Javelin",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 3
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    }
+  ]
+}

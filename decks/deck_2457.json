@@ -1,0 +1,180 @@
+{
+  "Date": "September 2009",
+  "Tournament": "2009 SJ Orlando",
+  "DeckName": "Blackwing",
+  "DeckId": "2457",
+  "Duelist": "Rodrigo Togores",
+  "Placed": "1st Place",
+  "Archetype": "Blackwing",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Blizzard the Far North",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Bora the Spear",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gale the Whirlwind",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Kalut the Moon Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Shura the Blue Flame",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Sirocco the Dawn",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Vayu the Emblem of Honor",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 2
+    },
+    {
+      "Name": "Plaguespreader Zombie",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Whirlwind",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Icarus Attack",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing Armed Wing",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing Armor Master",
+      "Copies": 3
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Doomcaliber Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Delta Crow - Anti Reverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 1
+    }
+  ]
+}

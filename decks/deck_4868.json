@@ -1,0 +1,164 @@
+{
+  "Date": "February 2016",
+  "Tournament": "UDS Invitational - Los Angeles",
+  "DeckName": "Phantom Knights",
+  "DeckId": "4868",
+  "Duelist": "Jerome McHale",
+  "Placed": "None Place",
+  "Archetype": "Phantom Knight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Speedroid Tri-Eyed Dice",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantum Blue Layer",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Ancient Cloak",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Ragged Gloves",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Sword",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Wing",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 2
+    },
+    {
+      "Name": "Geargiagear Gigant XG",
+      "Copies": 1
+    },
+    {
+      "Name": "HTS Psyhemuth",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-Edge Levia",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

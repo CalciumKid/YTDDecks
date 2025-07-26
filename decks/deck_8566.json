@@ -1,0 +1,168 @@
+{
+  "Date": "February 2020",
+  "Tournament": "YCS - Utrecht Netherlands",
+  "DeckName": "Pure Shaddoll",
+  "DeckId": "8566",
+  "Duelist": "Collins Amiekhamhe",
+  "Placed": "Top 32",
+  "Archetype": "Shaddoll",
+  "DeckProfile": "www.youtube.com/embed/UeHV-4FHlmM",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Naelshaddoll Ariel",
+      "Copies": 1
+    },
+    {
+      "Name": "Reeshaddoll Wendi",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Falco",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Hedgehog",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Squamata",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Corobane",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Nephe Shaddoll Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 1
+    },
+    {
+      "Name": "Resh Shaddoll Incarnation",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Core",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Earth Golem @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Apkallone",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Construct",
+      "Copies": 3
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravity Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Construct",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Scourge Invicil",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 2
+    }
+  ]
+}

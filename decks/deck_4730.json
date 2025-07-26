@@ -1,0 +1,188 @@
+{
+  "Date": "January 2016",
+  "Tournament": "Regional - Glasgow Scotland",
+  "DeckName": "Atlanteans",
+  "DeckId": "4730",
+  "Duelist": "Duelist Unknown",
+  "Placed": "Top 8",
+  "Archetype": "Mermail",
+  "DeckProfile": "www.youtube.com/embed/gLQgZcIS32Y",
+  "MainDeck": [
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 2
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 2
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 2
+    },
+    {
+      "Name": "Deep Sea Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Genex Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Genex Undine",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysslinde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Moulinglacia the Elemental Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Neptabyss, the Atlantean Prince",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-scale of the Mizuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Abyss-sphere",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 2
+    },
+    {
+      "Name": "Gungnir, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Tatsunoko",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

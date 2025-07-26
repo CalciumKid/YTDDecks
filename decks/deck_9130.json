@@ -1,0 +1,196 @@
+{
+  "Date": "August 2022",
+  "Tournament": "Yu-Gi-Oh! Championship Series Rio de Janeiro 2022",
+  "DeckName": "P.U.N.K. Tearlaments",
+  "DeckId": "9130",
+  "Duelist": "Yacine Sahli",
+  "Placed": "Top 16",
+  "Archetype": "Tearlaments",
+  "DeckProfile": "www.youtube.com/embed/vJdEJw6bJ28",
+  "MainDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "King of the Swamp",
+      "Copies": 3
+    },
+    {
+      "Name": "Noh-P.U.N.K. Deer Note",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Foxy Tune",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ogre Dance",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ze Amin",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Havnis",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Merrli",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Reinoheart",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Scheiren",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Metanoise",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Sulliek",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Ruler, the Chaotic Magical Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "F.A. Dark Dragster",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Millennium-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic End Punisher",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Riser Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kaleido-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kitkallos",
+      "Copies": 2
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

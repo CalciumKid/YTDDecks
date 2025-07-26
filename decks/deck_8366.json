@@ -1,0 +1,160 @@
+{
+  "Date": "December 2019",
+  "Tournament": "Regional - Australia",
+  "DeckName": "Subterror Guru Control",
+  "DeckId": "8366",
+  "Duelist": "Jesse 'maverick' Gale",
+  "Placed": "3rd Place",
+  "Archetype": "Subterror",
+  "DeckProfile": "www.youtube.com/embed/x9XOBGS3QVI",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Subterror Behemoth Umastryx",
+      "Copies": 1
+    },
+    {
+      "Name": "Subterror Behemoth Voltelluric",
+      "Copies": 1
+    },
+    {
+      "Name": "Subterror Fiendess",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Guru",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Nemesis Archer",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Subterror Cave Clash",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "The Hidden City",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Subterror Final Battle",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Hayate",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon Titan",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

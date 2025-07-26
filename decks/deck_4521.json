@@ -1,0 +1,184 @@
+{
+  "Date": "September 2015",
+  "Tournament": "YCS - Toronto Canada",
+  "DeckName": "Performage Nekroz",
+  "DeckId": "4521",
+  "Duelist": "Jack Ran",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "www.youtube.com/embed/IaYro152ys0",
+  "MainDeck": [
+    {
+      "Name": "Exa, Enforcer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Great Sorcerer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Brionac",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Clausolas",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Decisive Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Trishula",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Unicore",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Valkyrus",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Damage Juggler",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Hat Tricker",
+      "Copies": 2
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 1
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Shurit, Strategist of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Cycle",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Kaleidoscope",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 2
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 104: Masquerade",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Quasar Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 1
+    }
+  ]
+}

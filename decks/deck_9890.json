@@ -1,0 +1,192 @@
+{
+  "Date": "March 2024",
+  "Tournament": "YCS - Sydney Australia",
+  "DeckName": "Snake-Eye Fire King",
+  "DeckId": "9890",
+  "Duelist": "Chris Leblanc",
+  "Placed": "Top 4",
+  "Archetype": "Snake-Eye",
+  "DeckProfile": "www.youtube.com/embed/TQHdHzI2zHw",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Diabellstar the Black Witch",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire King Avatar Arvata",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire King High Avatar Kirin",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Mourner & Moonlit Chill",
+      "Copies": 2
+    },
+    {
+      "Name": "Legendary Fire King Ponix",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Sacred Fire King Garunix",
+      "Copies": 1
+    },
+    {
+      "Name": "Snake-Eye Ash",
+      "Copies": 3
+    },
+    {
+      "Name": "Snake-Eye Oak",
+      "Copies": 1
+    },
+    {
+      "Name": "Snake-Eyes Flamberge Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Snake-Eyes Poplar",
+      "Copies": 2
+    },
+    {
+      "Name": "Bonfire",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Temple of the Snake-Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire King Island",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire King Sanctuary",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Original Sinful Spoils - Snake-Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "WANTED: Seeker of Sinful Spoils",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker Heatsoul",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Promethean Princess, Bestower of Flames",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Raging Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Sunlight Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Worldsea Dragon Zealantis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Baldrake",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Mourner & Moonlit Chill",
+      "Copies": 1
+    },
+    {
+      "Name": "Snake-Eyes Flamberge Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    }
+  ]
+}

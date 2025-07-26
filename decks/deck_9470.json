@@ -1,0 +1,192 @@
+{
+  "Date": "March 2023",
+  "Tournament": "YCS - Lima Peru",
+  "DeckName": "Adventurer Spright",
+  "DeckId": "9470",
+  "Duelist": "Jhon Guerrero",
+  "Placed": "1st Place",
+  "Archetype": "Spright",
+  "DeckProfile": "www.youtube.com/embed/TQnfOYsDjv8",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dupe Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Nimble Angler",
+      "Copies": 2
+    },
+    {
+      "Name": "Nimble Beaver",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Carrot",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Jet",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Testudo erat Numen",
+      "Copies": 1
+    },
+    {
+      "Name": "Wandering Gryphon Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 3
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Smashers",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Starter",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Double Cross",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 29: Mannequin Cat",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 2: Ninja Shadow Mosquito",
+      "Copies": 1
+    },
+    {
+      "Name": "Onibimaru Soul Sweeper",
+      "Copies": 1
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 2
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 1
+    }
+  ]
+}

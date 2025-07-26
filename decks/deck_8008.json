@@ -1,0 +1,172 @@
+{
+  "Date": "June 2019",
+  "Tournament": "Regional - Bloomington",
+  "DeckName": "Cyber Dragons",
+  "DeckId": "8008",
+  "Duelist": "Kollin Martinson",
+  "Placed": "31st Place",
+  "Archetype": "Cyber",
+  "DeckProfile": "www.youtube.com/embed/zOwGxIYTpLM",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Core",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Herz",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Nachster",
+      "Copies": 2
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 2
+    },
+    {
+      "Name": "Galaxy Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Cymbal Skeleton",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Harp Horror",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Emergency",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Repair Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Revsystem",
+      "Copies": 2
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcustrated Babel",
+      "Copies": 1
+    },
+    {
+      "Name": "Overload Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Chimeratech Rampage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon Sieger",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

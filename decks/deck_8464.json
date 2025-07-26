@@ -1,0 +1,176 @@
+{
+  "Date": "February 2020",
+  "Tournament": "Regional - Auckland, New Zealand",
+  "DeckName": "Anti Meta",
+  "DeckId": "8464",
+  "Duelist": "Sam Walker",
+  "Placed": "Top 8",
+  "Archetype": "Anti-Metum",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Barrier Statue of the Torrent",
+      "Copies": 2
+    },
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Checksum Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Golden Ladybug",
+      "Copies": 1
+    },
+    {
+      "Name": "Jowgen the Spiritualist",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Marshmallon",
+      "Copies": 3
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Cauldron of the Old Man",
+      "Copies": 1
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Safe Zone",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Diplexer Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Neo-Spacian Air Hummingbird",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Meteor of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Poison of the Old Man",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Tremendous Fire",
+      "Copies": 3
+    }
+  ]
+}

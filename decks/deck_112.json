@@ -1,0 +1,164 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Nebraska",
+  "DeckName": "Dark World",
+  "DeckId": "112",
+  "Duelist": "Wyatt Matulka",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Dark World",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Beiige, Vanguard of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Broww, Huntsman of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Grapha, Dragon Lord of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Snoww, Unlight of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Trance Archfiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragged Down into the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "The Gates of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Smog",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Alucard",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 15: Gimmick Puppet Giant Grinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 22: Zombiestein",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 49: Fortune Tune",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Des Wombat",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Skull Meister",
+      "Copies": 2
+    },
+    {
+      "Name": "The End of Anubis",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    }
+  ]
+}

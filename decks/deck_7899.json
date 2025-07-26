@@ -1,0 +1,176 @@
+{
+  "Date": "June 2019",
+  "Tournament": "National Championship - UK",
+  "DeckName": "Mekk-Knight Invoked",
+  "DeckId": "7899",
+  "Duelist": "Leon Dowe Ranger",
+  "Placed": "Top 8",
+  "Archetype": "Mekk-Knight",
+  "DeckProfile": "www.youtube.com/embed/xILtuuVuF44",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Mare Mare",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Blue Sky",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Indigo Eclipse",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Purple Nightfall",
+      "Copies": 2
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Ravine",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Aleister the Invoker of Madness",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Construct",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Security Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Hey, Trunade!",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

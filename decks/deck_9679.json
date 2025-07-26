@@ -1,0 +1,200 @@
+{
+  "Date": "April 2023",
+  "Tournament": "Vilnius WCQ Regional",
+  "DeckName": "Danger! Dark World",
+  "DeckId": "9679",
+  "Duelist": "Aleksandras Šankinas",
+  "Placed": "5th Place",
+  "Archetype": "Dark World",
+  "DeckProfile": "www.youtube.com/embed/uVgJrhnkmvY",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceruli, Guru of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Chupacabra!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 1
+    },
+    {
+      "Name": "Genta, Gateman of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Grapha, Dragon Lord of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Reign-Beaux, Overking of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Sillva, Warlord of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Snoww, Unlight of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Zalamander Catalyzer",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Accession",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Archives",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 1
+    },
+    {
+      "Name": "The Gates of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Coach King Giantrainer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Grapha, Dragon Overlord of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 22: Zombiestein",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 60: Dugares the Timeless",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Security Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Sillva, Warlord of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    }
+  ]
+}

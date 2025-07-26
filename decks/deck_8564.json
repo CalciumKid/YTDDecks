@@ -1,0 +1,188 @@
+{
+  "Date": "February 2020",
+  "Tournament": "YCS - Utrecht Netherlands",
+  "DeckName": "SPYRAL",
+  "DeckId": "8564",
+  "Duelist": "Giuseppe Davide Pennino",
+  "Placed": "Top 8",
+  "Archetype": "SPYRAL",
+  "DeckProfile": "www.youtube.com/embed/C7MgznYnn48",
+  "MainDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL GEAR - Drone",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL GEAR - Last Resort",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Master Plan",
+      "Copies": 2
+    },
+    {
+      "Name": "SPYRAL Quik-Fix",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Sleeper",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Super Agent",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Popperup",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL GEAR - Big Red",
+      "Copies": 2
+    },
+    {
+      "Name": "SPYRAL MISSION - Assault",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Resort",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Where Arf Thou?",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL MISSION - Rescue",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Barricadeborg Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Recital Starling",
+      "Copies": 1
+    },
+    {
+      "Name": "Millennium-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 2
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

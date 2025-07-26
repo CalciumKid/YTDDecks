@@ -1,0 +1,176 @@
+{
+  "Date": "September 2008",
+  "Tournament": "2008 SJ Tulsa",
+  "DeckName": "Teleport Dark",
+  "DeckId": "2556",
+  "Duelist": "Nathan Kral",
+  "Placed": "5th - 8th Place",
+  "Archetype": "TeleDAD",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Krebons",
+      "Copies": 3
+    },
+    {
+      "Name": "Necro Gardna",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 3
+    },
+    {
+      "Name": "Crush Card Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 2
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 2
+    },
+    {
+      "Name": "Gaia Knight, the Force of Earth",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Valley",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombyra the Dark",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    }
+  ]
+}

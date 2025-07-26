@@ -1,0 +1,212 @@
+{
+  "Date": "March 2019",
+  "Tournament": "Regional - Cumbernauld Scotland",
+  "DeckName": "Zombie Orcust",
+  "DeckId": "7928",
+  "Duelist": "Jordan Gallacher",
+  "Placed": "1st Place",
+  "Archetype": "Zombie",
+  "DeckProfile": "www.youtube.com/embed/CUHHGOvDqkA",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Bigfoot!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Chupacabra!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Thunderbird!",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 3
+    },
+    {
+      "Name": "Doomking Balerdroch",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozuki",
+      "Copies": 3
+    },
+    {
+      "Name": "Mare Mare",
+      "Copies": 1
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 3
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcust Cymbal Skeleton",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Harp Horror",
+      "Copies": 3
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Ancient Cloak",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 1
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 3
+    },
+    {
+      "Name": "World Legacy - \"World Wand\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcustrated Return",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights' Rank-Up-Magic Launch",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 2
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Azathot",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Sucker",
+      "Copies": 2
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

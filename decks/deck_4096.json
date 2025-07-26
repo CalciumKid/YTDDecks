@@ -1,0 +1,176 @@
+{
+  "Date": "April 2015",
+  "Tournament": "Regional - Nanuet New York",
+  "DeckName": "Nekroz",
+  "DeckId": "4096",
+  "Duelist": "Tyler Prinzo",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Djinn Releaser of Rituals",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Brionac",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Clausolas",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Trishula",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Unicore",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Valkyrus",
+      "Copies": 2
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Shurit, Strategist of the Nekroz",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Cycle",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Kaleidoscope",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 2
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Divine Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Zubaba General",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    }
+  ]
+}

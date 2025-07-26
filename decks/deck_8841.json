@@ -1,0 +1,119 @@
+{
+  "Date": "February 2011",
+  "Tournament": "Regional Highpoint Victoria",
+  "DeckName": "bunny burn",
+  "DeckId": "8841",
+  "Duelist": "Robbie Richmond",
+  "Placed": "2nd Place",
+  "Archetype": "bunny burn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Des Koala",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mecha Bunny",
+      "Copies": 3
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Misfortune",
+      "Copies": 3
+    },
+    {
+      "Name": "Poison of the Old Man",
+      "Copies": 3
+    },
+    {
+      "Name": "Accumulated Fortune",
+      "Copies": 2
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Jar of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Dice Jar",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernity Guardian",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Hammer Shot",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

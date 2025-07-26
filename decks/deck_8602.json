@@ -1,0 +1,180 @@
+{
+  "Date": "February 2020",
+  "Tournament": "Regional - Istanbul",
+  "DeckName": "Zombie Control",
+  "DeckId": "8602",
+  "Duelist": "Bekir Alkim Sentürk",
+  "Placed": "9th Place",
+  "Archetype": "Zombie",
+  "DeckProfile": "www.youtube.com/embed/GnsCycnTxiY",
+  "MainDeck": [
+    {
+      "Name": "Doomking Balerdroch",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Glow-Up Bloom",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozuki",
+      "Copies": 1
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 2
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 3
+    },
+    {
+      "Name": "Shiranui Solitaire",
+      "Copies": 3
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 3
+    },
+    {
+      "Name": "Vampire Fraulein",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Sacrifice",
+      "Copies": 1
+    },
+    {
+      "Name": "Return of the Zombies",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Domination",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Avendread Savior",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragonecro Nethersoul Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Minerva, the Exalted Lightsworn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 60: Dugares the Timeless",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Zombie Necro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Riser Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Vampire Sucker",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

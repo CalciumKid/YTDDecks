@@ -1,0 +1,180 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - Omaha Nebraska",
+  "DeckName": "Paleozoic Artifact Volcanics",
+  "DeckId": "5963",
+  "Duelist": "Hunter Collins",
+  "Placed": "Top 8",
+  "Archetype": "Paleozoic",
+  "DeckProfile": "www.youtube.com/embed/z7Ml7FbZxzM",
+  "MainDeck": [
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Firestorm Guards",
+      "Copies": 2
+    },
+    {
+      "Name": "Volcanic Rocket",
+      "Copies": 2
+    },
+    {
+      "Name": "Volcanic Scattershot",
+      "Copies": 3
+    },
+    {
+      "Name": "Volcanic Shell",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Blaze Accelerator Reload",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Canadia",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Marrella",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Olenoides",
+      "Copies": 3
+    },
+    {
+      "Name": "Paleozoic Pikaia",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cat Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Moon Mirror Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Concealing Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 1
+    }
+  ]
+}

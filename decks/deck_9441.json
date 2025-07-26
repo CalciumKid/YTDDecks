@@ -1,0 +1,168 @@
+{
+  "Date": "February 2023",
+  "Tournament": "Regional - Shreveport Louisiana",
+  "DeckName": "Branded Despia",
+  "DeckId": "9441",
+  "Duelist": "Creighton Pree",
+  "Placed": "1st Place",
+  "Archetype": "Despia",
+  "DeckProfile": "www.youtube.com/embed/fItjO_aURy4",
+  "MainDeck": [
+    {
+      "Name": "Ad Libitum of Despia",
+      "Copies": 1
+    },
+    {
+      "Name": "Albion the Shrouded Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Aluber the Jester of Despia",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blazing Cartesia, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Saronir",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Tragedy",
+      "Copies": 2
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Springans Kitt",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Mercourier",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded in Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded in White",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Lost",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Opening",
+      "Copies": 3
+    },
+    {
+      "Name": "Fusion Deployment",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Retribution",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Despian Quaeritis",
+      "Copies": 1
+    },
+    {
+      "Name": "Granguignol the Dusk Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Lubellion the Searing Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Rindbrumm the Striking Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Sprind the Irondash Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Titaniklad the Ash Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Branded Banishment",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

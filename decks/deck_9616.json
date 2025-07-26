@@ -1,0 +1,136 @@
+{
+  "Date": "May 2023",
+  "Tournament": "YCS - Philadelphia Pennsylvania",
+  "DeckName": "Dinomorphia",
+  "DeckId": "9616",
+  "Duelist": "Isaac Kritz",
+  "Placed": "Top 16",
+  "Archetype": "Dinomorphia",
+  "DeckProfile": "www.youtube.com/embed/I6kO2LAmaYY",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomorphia Diplos",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomorphia Therizia",
+      "Copies": 3
+    },
+    {
+      "Name": "Miscellaneousaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Fossil Dig",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomorphia Alert",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinomorphia Brute",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinomorphia Domain",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomorphia Frenzy",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomorphia Intact",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomorphia Sonic",
+      "Copies": 1
+    },
+    {
+      "Name": "Ferret Flames",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinomorphia Kentregina",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomorphia Rexterm",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomorphia Stealthbergia",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Dolkka",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic End Punisher",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    }
+  ]
+}

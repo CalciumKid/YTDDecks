@@ -1,0 +1,176 @@
+{
+  "Date": "June 2016",
+  "Tournament": "Bulgarian WCQ National",
+  "DeckName": "Raidraptors",
+  "DeckId": "9061",
+  "Duelist": "Unknown Competitor",
+  "Placed": "1st Place",
+  "Archetype": "Raidraptor",
+  "DeckProfile": "www.youtube.com/embed/GAa4UWTwrA8",
+  "MainDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Fuzzy Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Last Strix",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Mimicry Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Pain Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Sharp Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Singing Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Tribute Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Vanishing Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Nest",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Skip Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Rank-Up-Magic Soul Shave Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Readiness",
+      "Copies": 2
+    },
+    {
+      "Name": "Raptor's Gust",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 77: The Seven Sins",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Force Strix",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Revolution Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Satellite Cannon Falcon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Ultimate Falcon",
+      "Copies": 2
+    },
+    {
+      "Name": "Wind-Up Zenmaister",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Booster Strix",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

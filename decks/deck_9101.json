@@ -1,0 +1,192 @@
+{
+  "Date": "February 2022",
+  "Tournament": "Remote Duel Yu-Gi-Oh! Championship Series North America II 2022",
+  "DeckName": "Sky Striker",
+  "DeckId": "9101",
+  "Duelist": "Amit Singh Deol",
+  "Placed": "3rd Place",
+  "Archetype": "Striker",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Roze",
+      "Copies": 1
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 2
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Maneuver - Afterburners!",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha Modules - Multirole",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Shark Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Widow Anchor",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Mobilize - Engage!",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Verte Anaconda",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Hayate",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Striker Ace - Kaina",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Zeke",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Drain",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 2
+    }
+  ]
+}

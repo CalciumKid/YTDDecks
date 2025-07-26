@@ -1,0 +1,216 @@
+{
+  "Date": "February 2018",
+  "Tournament": "Regional - Charlotte North Carolina",
+  "DeckName": "60 Card Infernoid Lightsworn Invoked",
+  "DeckId": "7124",
+  "Duelist": "Gavin Kale",
+  "Placed": "14th Place",
+  "Archetype": "Infernoid",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Attondel",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Decatron",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Devyaty",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Harmadik",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Onuncu",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Patrulea",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Seitsemas",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Sjette",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Orbital Hydralander",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "That Grass Looks Greener",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Imagination",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Vanishment",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Feast",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Tierra",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Pendulum Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Seer",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    }
+  ]
+}

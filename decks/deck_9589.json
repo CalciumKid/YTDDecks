@@ -1,0 +1,160 @@
+{
+  "Date": "May 2023",
+  "Tournament": "National Championship - Switzerland",
+  "DeckName": "Labrynth",
+  "DeckId": "9589",
+  "Duelist": "Jeremy Bays",
+  "Placed": "1st Place",
+  "Archetype": "Labrynth",
+  "DeckProfile": "www.youtube.com/embed/j6x4bctt0jo",
+  "MainDeck": [
+    {
+      "Name": "Arianna the Labrynth Servant",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Lady Labrynth of the Silver Castle",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Lovely Labrynth of the Silver Castle",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 1
+    },
+    {
+      "Name": "Wannabee!",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Big Welcome Labrynth",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Destructive Daruma Karma Cannon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Terrors of the Overroot",
+      "Copies": 1
+    },
+    {
+      "Name": "Welcome Labrynth",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 3
+    },
+    {
+      "Name": "Fossil Warrior Skull Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 2
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Mereologic Aggregator",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Arms Bucephalus II",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Lord of the Heavenly Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    }
+  ]
+}

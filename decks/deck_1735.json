@@ -1,0 +1,172 @@
+{
+  "Date": "May 2014",
+  "Tournament": "National Championship - United Kingdom",
+  "DeckName": "Infernities",
+  "DeckId": "1735",
+  "Duelist": "Tom Paine",
+  "Placed": "2nd Place",
+  "Archetype": "Infernity",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernity Archfiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernity Necromancer",
+      "Copies": 2
+    },
+    {
+      "Name": "Stygian Street Patrol",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernity Launcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Night Beam",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernity Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernity Break",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Charubin the Fire Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Spiritualism",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 3
+    },
+    {
+      "Name": "DNA Surgery",
+      "Copies": 3
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    }
+  ]
+}

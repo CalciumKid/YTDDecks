@@ -1,0 +1,240 @@
+{
+  "Date": "March 2017",
+  "Tournament": "Regional - Orebro Sweden",
+  "DeckName": "Kaiju Infernoids",
+  "DeckId": "6005",
+  "Duelist": "Par Gustavvson",
+  "Placed": "Top 8",
+  "Archetype": "Infernoid",
+  "DeckProfile": "www.youtube.com/embed/TT4ce-1CKno",
+  "MainDeck": [
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 3
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Antra",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Attondel",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Decatron",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Devyaty",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Harmadik",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Onuncu",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Patrulea",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Pirmais",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Seitsemas",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Sjette",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 2
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 2
+    },
+    {
+      "Name": "Left Arm Offering",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "That Grass Looks Greener",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Void Imagination",
+      "Copies": 2
+    },
+    {
+      "Name": "Void Vanishment",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Feast",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Tierra",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lyla, Lightsworn Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Burial from a Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Imagination",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Apocrypha",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

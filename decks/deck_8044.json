@@ -1,0 +1,212 @@
+{
+  "Date": "August 2019",
+  "Tournament": "UDS Invitational - Indianapolis",
+  "DeckName": "Warrior Orcust Guardragon",
+  "DeckId": "8044",
+  "Duelist": "Benjamin Deeter",
+  "Placed": "2nd Place",
+  "Archetype": "Orcust",
+  "DeckProfile": "www.youtube.com/embed/XoNNk8uX-vk",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue Mountain Butterspy",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Dragon Levianeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Junk Forward",
+      "Copies": 3
+    },
+    {
+      "Name": "Marauding Captain",
+      "Copies": 3
+    },
+    {
+      "Name": "Neo Space Connector",
+      "Copies": 3
+    },
+    {
+      "Name": "Neo-Spacian Aqua Dolphin",
+      "Copies": 1
+    },
+    {
+      "Name": "Omni Dragon Brotaur",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Cymbal Skeleton",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Harp Horror",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantum Red Layer",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Ancient Cloak",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 3
+    },
+    {
+      "Name": "Autonomous Action Unit",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Living Fossil",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcustrated Babel",
+      "Copies": 1
+    },
+    {
+      "Name": "Overdone Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Crescendo",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 2
+    },
+    {
+      "Name": "Guardragon Agarpain",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Seal of the Heavenly Spheres",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Longirsu, the Orcust Orchestrator",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Gnomaterial",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ]
+}

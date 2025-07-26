@@ -1,0 +1,172 @@
+{
+  "Date": "February 2018",
+  "Tournament": "YCS - Bochum Germany",
+  "DeckName": "True King Dinosaurs",
+  "DeckId": "7141",
+  "Duelist": "Kevin Semlali",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "True King Dino",
+  "DeckProfile": "www.youtube.com/embed/yfg2A9YrcUc",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Babycerasaurus",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Rex",
+      "Copies": 1
+    },
+    {
+      "Name": "Jurrac Aeolo",
+      "Copies": 1
+    },
+    {
+      "Name": "Megalosmasher X",
+      "Copies": 1
+    },
+    {
+      "Name": "Miscellaneousaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Overtex Qoatlus",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Souleating Oviraptor",
+      "Copies": 3
+    },
+    {
+      "Name": "True King Agnimazud, the Vanisher",
+      "Copies": 3
+    },
+    {
+      "Name": "True King Bahrastos, the Fathomer",
+      "Copies": 3
+    },
+    {
+      "Name": "Ultimate Conductor Tyranno",
+      "Copies": 2
+    },
+    {
+      "Name": "Double Evolution Pill",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Fossil Dig",
+      "Copies": 3
+    },
+    {
+      "Name": "Lost World",
+      "Copies": 1
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Dolkka",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "True King of All Calamities",
+      "Copies": 2
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "PSY-Framegear Epsilon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

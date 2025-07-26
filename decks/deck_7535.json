@@ -1,0 +1,188 @@
+{
+  "Date": "November 2018",
+  "Tournament": "Regional - Montreal Canada",
+  "DeckName": "Altergeist",
+  "DeckId": "7535",
+  "Duelist": "Kevin Laforest-harvey",
+  "Placed": "4th Place",
+  "Archetype": "Altergeist",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Altergeist Kunquery",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Marionetter",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Meluseek",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Multifaker",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Silquitous",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Manifestation",
+      "Copies": 2
+    },
+    {
+      "Name": "Altergeist Protocol",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Renewal",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Personal Spoofing",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Altergeist Hexstia",
+      "Copies": 2
+    },
+    {
+      "Name": "Altergeist Kidolga",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Trisbaena",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 3
+    }
+  ]
+}

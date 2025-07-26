@@ -1,0 +1,256 @@
+{
+  "Date": "September 2006",
+  "Tournament": "2006 Shonen Jump: Boston",
+  "DeckName": "5th - 8th Place",
+  "DeckId": "3039",
+  "Duelist": "Robert Ackerman",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Warrior",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber-Stein",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Assailant",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Dekoichi the Battlechanted Locomotive",
+      "Copies": 1
+    },
+    {
+      "Name": "Don Zaloog",
+      "Copies": 1
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 2
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Last Will",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber-Stein",
+      "Copies": 1
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Nimble Momonga",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 2
+    },
+    {
+      "Name": "Megamorph",
+      "Copies": 3
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    }
+  ]
+}

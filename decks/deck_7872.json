@@ -1,0 +1,156 @@
+{
+  "Date": "June 2019",
+  "Tournament": "WCQ - Oceanic",
+  "DeckName": "Altergeist",
+  "DeckId": "7872",
+  "Duelist": "Yury Milkenkov",
+  "Placed": "Top 4",
+  "Archetype": "Altergeist",
+  "DeckProfile": "www.youtube.com/embed/4bSZ4ZG5OPY",
+  "MainDeck": [
+    {
+      "Name": "Altergeist Kunquery",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Marionetter",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Meluseek",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Multifaker",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Silquitous",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Haunted Rock",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Manifestation",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Protocol",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 2
+    },
+    {
+      "Name": "Personal Spoofing",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Altergeist Hexstia",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Primebanshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Clara & Rushka, the Ventriloduo",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 2
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Sunlight Wolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    }
+  ]
+}

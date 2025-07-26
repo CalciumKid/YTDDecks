@@ -1,0 +1,196 @@
+{
+  "Date": "March 2024",
+  "Tournament": "WCQ Avrillé France",
+  "DeckName": "Branded",
+  "DeckId": "9825",
+  "Duelist": "Axel Benoit",
+  "Placed": "1st Place",
+  "Archetype": "Branded",
+  "DeckProfile": "www.youtube.com/embed/gNOB9YLiLCs",
+  "MainDeck": [
+    {
+      "Name": "Albion the Shrouded Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Aluber the Jester of Despia",
+      "Copies": 3
+    },
+    {
+      "Name": "Blazing Cartesia, the Virtuous",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Saronir",
+      "Copies": 2
+    },
+    {
+      "Name": "Despian Tragedy",
+      "Copies": 1
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 3
+    },
+    {
+      "Name": "Gimmick Puppet Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Guiding Quem, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Springans Kitt",
+      "Copies": 1
+    },
+    {
+      "Name": "The Bystial Lubellion",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Mercourier",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded in High Spirits",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded in Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Lost",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Opening",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Fusion Deployment",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Branded Retribution",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Duplication",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Albion the Sanctifire Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Luluwalilith",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Quaeritis",
+      "Copies": 1
+    },
+    {
+      "Name": "Granguignol the Dusk Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Lubellion the Searing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Rindbrumm the Striking Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sprind the Irondash Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Titaniklad the Ash Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Masquerade the Blazing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Nadir Servant",
+      "Copies": 3
+    }
+  ]
+}

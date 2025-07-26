@@ -1,0 +1,168 @@
+{
+  "Date": "August 2014",
+  "Tournament": "YGO State Championship Virginia",
+  "DeckName": "Hazy Flames",
+  "DeckId": "183",
+  "Duelist": "Christian Manalili",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Hazy Flame",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Brotherhood of the Fire Fist - Bear",
+      "Copies": 3
+    },
+    {
+      "Name": "Flamvell Firedog",
+      "Copies": 3
+    },
+    {
+      "Name": "Hazy Flame Cerbereus",
+      "Copies": 3
+    },
+    {
+      "Name": "Hazy Flame Hydra",
+      "Copies": 3
+    },
+    {
+      "Name": "Hazy Flame Peryton",
+      "Copies": 3
+    },
+    {
+      "Name": "Hazy Flame Sphynx",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Hazy Pillar",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Wiretap",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Gauntlet Launcher",
+      "Copies": 2
+    },
+    {
+      "Name": "Hazy Flame Basiltrice",
+      "Copies": 3
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 25: Force Focus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Strike Bounzer",
+      "Copies": 1
+    },
+    {
+      "Name": "Sword Breaker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 2
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Drain",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Dortmund Germany",
+  "DeckName": "Tearlaments",
+  "DeckId": "9783",
+  "Duelist": "Guillaume Venier",
+  "Placed": "Top 16",
+  "Archetype": "Tearlaments",
+  "DeckProfile": "www.youtube.com/embed/gMYcNj-MUyE",
+  "MainDeck": [
+    {
+      "Name": "Agido the Ancient Sentinel",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Denier",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 2
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Diviner of the Herald",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Helshaddoll Hollow",
+      "Copies": 1
+    },
+    {
+      "Name": "Kelbek the Ancient Vanguard",
+      "Copies": 1
+    },
+    {
+      "Name": "Keldo the Sacred Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudora the Sword Oracle",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Havnis",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kashtira",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Merrli",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Reinoheart",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Scheiren",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul of Shyama",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Heartbeat",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Scream",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Metanoise",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Sulliek",
+      "Copies": 2
+    },
+    {
+      "Name": "Trivikarma",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dangerous",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kaleido-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Cryme",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "Date": "January 2021",
+  "Tournament": "SDL WaB #6",
+  "DeckName": "XYZ Unions",
+  "DeckId": "8931",
+  "Duelist": "Bryan B",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Cannon",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "X-Head Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Y-Dragon Head",
+      "Copies": 2
+    },
+    {
+      "Name": "Z-Metal Tank",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 2
+    },
+    {
+      "Name": "Offerings to the Doomed",
+      "Copies": 2
+    },
+    {
+      "Name": "Union Hangar",
+      "Copies": 3
+    },
+    {
+      "Name": "Union Scramble",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "XY-Dragon Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "XYZ-Dragon Cannon",
+      "Copies": 2
+    },
+    {
+      "Name": "XZ-Tank Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "YZ-Tank Dragon",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Offerings to the Doomed",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "Date": "March 2016",
+  "Tournament": "Regional - Brooklyn Park Minnesota",
+  "DeckName": "Super Quantums",
+  "DeckId": "4929",
+  "Duelist": "Jacob Mosher",
+  "Placed": "Top 8",
+  "Archetype": "Super",
+  "DeckProfile": "www.youtube.com/embed/bVR_bJ-hH2E",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Garnet",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lapis",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Drawing",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Fairy Alphan",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Quantum Blue Layer",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Quantum Green Layer",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Quantum Red Layer",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Ship Magnacarrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Wonder Wand",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Aeroboros",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Quantal Mech Beast Magnaliger",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Quantal Mech King Great Magnus",
+      "Copies": 2
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Fog King",
+      "Copies": 2
+    },
+    {
+      "Name": "Kuriphoton",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Stygian Dirge",
+      "Copies": 1
+    }
+  ]
+}

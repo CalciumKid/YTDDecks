@@ -1,0 +1,152 @@
+{
+  "Date": "May 2023",
+  "Tournament": "National Championship - Switzerland",
+  "DeckName": "Eldlich",
+  "DeckId": "9590",
+  "Duelist": "Simon Tschan",
+  "Placed": "Top 16",
+  "Archetype": "Eldlich",
+  "DeckProfile": "www.youtube.com/embed/BHmynP2eooo",
+  "MainDeck": [
+    {
+      "Name": "Eldlich the Golden Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 2
+    },
+    {
+      "Name": "Cursed Eldland",
+      "Copies": 2
+    },
+    {
+      "Name": "Eldlixir of White Destiny",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Conquistador of the Golden Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlixir of Scarlet Sanguine",
+      "Copies": 3
+    },
+    {
+      "Name": "Golden Land Forever!",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Huaquero of the Golden Land",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 2
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Donner, Dagger Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Imduk the World Chalice Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Sucker",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

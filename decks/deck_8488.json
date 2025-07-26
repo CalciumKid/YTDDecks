@@ -1,0 +1,180 @@
+{
+  "Date": "February 2020",
+  "Tournament": "Regional - Reading England",
+  "DeckName": "Cyber Dragons",
+  "DeckId": "8488",
+  "Duelist": "Chris Tulio",
+  "Placed": "Top 8",
+  "Archetype": "Cyber",
+  "DeckProfile": "www.youtube.com/embed/Il4i0zZlOeE",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Core",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Herz",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Nachster",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Vier",
+      "Copies": 1
+    },
+    {
+      "Name": "Electromagnetic Turtle",
+      "Copies": 1
+    },
+    {
+      "Name": "Electromagnetic Turtle",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Emergency",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyberload Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Repair Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Revsystem",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "Overload Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Cybernetic Overflow",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Chimeratech Rampage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon Sieger",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Eternity Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Genius",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 2
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Cybernetic Overflow",
+      "Copies": 1
+    }
+  ]
+}

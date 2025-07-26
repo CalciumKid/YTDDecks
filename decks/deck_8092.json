@@ -1,0 +1,156 @@
+{
+  "Date": "September 2019",
+  "Tournament": "Regional - Omaha Nebraska",
+  "DeckName": "Kozmo",
+  "DeckId": "8092",
+  "Duelist": "Johnny Nguyen",
+  "Placed": "4th Place",
+  "Archetype": "Kozmo",
+  "DeckProfile": "www.youtube.com/embed/Vg_eftVBWPo",
+  "MainDeck": [
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Dark Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Kozmo Dark Eclipser",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Farmgirl",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Forerunner",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmoll Dark Lady",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmoll Wickedwitch",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Sliprider",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmo Soartroopers",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Strawman",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmo Tincan",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Kozmotown",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Back to the Front",
+      "Copies": 2
+    },
+    {
+      "Name": "Kozmojo",
+      "Copies": 2
+    },
+    {
+      "Name": "Storm Dragon's Return",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Furious Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 3
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 3
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 3
+    }
+  ]
+}

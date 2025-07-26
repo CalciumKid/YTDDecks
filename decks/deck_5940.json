@@ -1,0 +1,180 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - İzmir Turkey",
+  "DeckName": "Blackwing Quasar",
+  "DeckId": "5940",
+  "Duelist": "Samed Yazar",
+  "Placed": "5th Place",
+  "Archetype": "Blackwing",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gofu the Vague Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Oroshi the Squall",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 3
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 2
+    },
+    {
+      "Name": "Level Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Re-Cover",
+      "Copies": 1
+    },
+    {
+      "Name": "Synkron Resonator",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Resonator Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Blackwing - Sohaya the Rain Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 2
+    },
+    {
+      "Name": "Shooting Quasar Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Shooting Star Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Sifr Divine Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tatsunoko",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Black-Winged Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Slump",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    }
+  ]
+}

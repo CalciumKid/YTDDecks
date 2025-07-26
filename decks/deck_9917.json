@@ -1,0 +1,148 @@
+{
+  "Date": "November 2018",
+  "Tournament": "Regional Philadelphia Pennsylvania",
+  "DeckName": "Cyber Dragon",
+  "DeckId": "9917",
+  "Duelist": "Nieko Defilippis",
+  "Placed": "Top 32",
+  "Archetype": "Dragon",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Core",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Herz",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Vier",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy Soldier",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Emergency",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Repair Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Revsystem",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "Overload Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Cybernetic Overflow",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Megafleet Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Chimeratech Rampage Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon Sieger",
+      "Copies": 2
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Panzer Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Genius",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

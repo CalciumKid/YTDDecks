@@ -1,0 +1,156 @@
+{
+  "Date": "March 2023",
+  "Tournament": "YCS - Lima Peru",
+  "DeckName": "Kashtira",
+  "DeckId": "9463",
+  "Duelist": "Raphael Neven",
+  "Placed": "Top 16",
+  "Archetype": "Kashtira",
+  "DeckProfile": "www.youtube.com/embed/E3cVXCjiK7M",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Mourner & Moonlit Chill",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Riseheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Unicorn",
+      "Copies": 3
+    },
+    {
+      "Name": "Scareclaw Kashtira",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Birth",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtiratheosis",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Pressured Planet Wraitsoth",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Big Bang",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Armed, the Dragon of Annihilation",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Donner, Dagger Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Arise-Heart",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Shangri-Ira",
+      "Copies": 2
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 89: Diablosis the Mind Hacker",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 3
+    }
+  ]
+}

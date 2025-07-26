@@ -1,0 +1,172 @@
+{
+  "Date": "March 2017",
+  "Tournament": "Regional - Denmark",
+  "DeckName": "Chain Burn",
+  "DeckId": "6021",
+  "Duelist": "Joao Paulo",
+  "Placed": "Top 8",
+  "Archetype": "Chain Burn",
+  "DeckProfile": "www.youtube.com/embed/jRK1GCnHYts",
+  "MainDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Accumulated Fortune",
+      "Copies": 3
+    },
+    {
+      "Name": "Balance of Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Blazing Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimension Wall",
+      "Copies": 1
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 2
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cosmic Fortress Gol'gar",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Drill Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Evolzar Solda",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 1
+    },
+    {
+      "Name": "Majestic Red Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Roots",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sun Dragon Inti",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Unicorn",
+      "Copies": 2
+    },
+    {
+      "Name": "Voltic Bicorn",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Wall",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "Date": "October 2019",
+  "Tournament": "Pro-Play Tour Columbus",
+  "DeckName": "Infernoids",
+  "DeckId": "8244",
+  "Duelist": "Clifton Land",
+  "Placed": "Top 4",
+  "Archetype": "Infernoid",
+  "DeckProfile": "www.youtube.com/embed/hRoF56sFc8U",
+  "MainDeck": [
+    {
+      "Name": "Infernoid Antra",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Attondel",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Decatron",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Devyaty",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Harmadik",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Onuncu",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Patrulea",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Seitsemas",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Sjette",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Lair of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Imagination",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Vanishment",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Feast",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Crusadia Equimax",
+      "Copies": 2
+    },
+    {
+      "Name": "Duelittle Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 3
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Tierra",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Canceller",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ]
+}

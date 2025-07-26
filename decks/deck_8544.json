@@ -1,0 +1,176 @@
+{
+  "Date": "February 2020",
+  "Tournament": "YCS - Utrecht Netherlands",
+  "DeckName": "Mekk-Knight Shaddoll Dinosaurs",
+  "DeckId": "8544",
+  "Duelist": "Jack Verma",
+  "Placed": "Top 64",
+  "Archetype": "Shaddoll",
+  "DeckProfile": "www.youtube.com/embed/toPHPovClbE",
+  "MainDeck": [
+    {
+      "Name": "Babycerasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Rex",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Mekk-Knight Blue Sky",
+      "Copies": 2
+    },
+    {
+      "Name": "Mekk-Knight Purple Nightfall",
+      "Copies": 2
+    },
+    {
+      "Name": "Mekk-Knight Red Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Miscellaneousaurus",
+      "Copies": 3
+    },
+    {
+      "Name": "Overtex Qoatlus",
+      "Copies": 1
+    },
+    {
+      "Name": "Petiteranodon",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Hedgehog",
+      "Copies": 1
+    },
+    {
+      "Name": "Souleating Oviraptor",
+      "Copies": 3
+    },
+    {
+      "Name": "Ultimate Conductor Tyranno",
+      "Copies": 2
+    },
+    {
+      "Name": "Double Evolution Pill",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Fossil Dig",
+      "Copies": 3
+    },
+    {
+      "Name": "Lost World",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Aussa the Earth Charmer, Immovable",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Shekhinaga",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 2
+    },
+    {
+      "Name": "Evolzar Dolkka",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ]
+}

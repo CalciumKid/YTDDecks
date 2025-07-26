@@ -1,0 +1,164 @@
+{
+  "Date": "September 2016",
+  "Tournament": "Burnsville, Minnesota OTS Tournament",
+  "DeckName": "D/D/D's",
+  "DeckId": "5757",
+  "Duelist": "Jasper Steinbach",
+  "Placed": "1st Place",
+  "Archetype": "Different Dimension Demon",
+  "DeckProfile": "www.youtube.com/embed/fLl8nFbCu5w",
+  "MainDeck": [
+    {
+      "Name": "D/D Berfomet",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Oblivion King Abyss Ragnarok",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D/D Rebel King Leonidas",
+      "Copies": 2
+    },
+    {
+      "Name": "D/D Necro Slime",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Savant Kepler",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Savant Thomas",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Swirl Slime",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Swamp King",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Contract with the Witch",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "D/D/D Duo-Dawn King Kali Yuga",
+      "Copies": 2
+    },
+    {
+      "Name": "D/D/D Flame King Genghis",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D/D Oracle King d'Arc",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D/D Wave King Caesar",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Wave Oblivion King Caesar Ragnarok",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ally of Justice Quarantine",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Concealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Contract with Errors",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "October 2018",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Noble Knights",
+  "DeckId": "7454",
+  "Duelist": "Johnny Nguyen",
+  "Placed": "Top 8",
+  "Archetype": "Noble Knight",
+  "DeckProfile": "www.youtube.com/embed/17hMHkfpzEw",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Gwenhwyfar, Queen of Noble Arms",
+      "Copies": 1
+    },
+    {
+      "Name": "Merlin",
+      "Copies": 3
+    },
+    {
+      "Name": "Morgan, the Enchantress of Avalon",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Knight Borz",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Brothers",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Custennin",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Drystan",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Knight Eachtar",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Gawayn",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Iyvanne",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Medraut",
+      "Copies": 3
+    },
+    {
+      "Name": "Glory of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Heritage of the Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Arfeudutyr",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Caliburn",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Clarent",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Excaliburn",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Arms - Gallatin",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms of Destiny",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Until Noble Arms are Needed Once Again",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Artorigus, King of the Noble Knights",
+      "Copies": 3
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignoble Knight of High Laundsallyn",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Sacred Noble Knight of King Artorigus",
+      "Copies": 3
+    },
+    {
+      "Name": "Sacred Noble Knight of King Custennin",
+      "Copies": 2
+    },
+    {
+      "Name": "Topologic Gumblar Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

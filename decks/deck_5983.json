@@ -1,0 +1,168 @@
+{
+  "Date": "February 2017",
+  "Tournament": "OTS Championships",
+  "DeckName": "Satellarknight",
+  "DeckId": "5983",
+  "Duelist": "Caio Flavio C Martins",
+  "Placed": "12th Place",
+  "Archetype": "Satellarknight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Satellarknight Alsahm",
+      "Copies": 1
+    },
+    {
+      "Name": "Satellarknight Altair",
+      "Copies": 3
+    },
+    {
+      "Name": "Satellarknight Deneb",
+      "Copies": 3
+    },
+    {
+      "Name": "Satellarknight Unukalhai",
+      "Copies": 2
+    },
+    {
+      "Name": "Satellarknight Vega",
+      "Copies": 2
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Satellarknight Skybridge",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Floodgate Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Oasis of Dragon Souls",
+      "Copies": 3
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Stellarnova Alpha",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Darktellarknight Batlamyus",
+      "Copies": 3
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 86: Heroic Champion - Rhongomyniad",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Constellar Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Delteros",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Triverr",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

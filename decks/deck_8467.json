@@ -1,0 +1,192 @@
+{
+  "Date": "February 2020",
+  "Tournament": "Regional - Falkirk Scotland",
+  "DeckName": "HERO",
+  "DeckId": "8467",
+  "Duelist": "Moe Ismail",
+  "Placed": "Top 8",
+  "Archetype": "HERO",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Destiny HERO - Decider",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Plasma",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Honest Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Liquid Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Solid Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 3
+    },
+    {
+      "Name": "Evil HERO Adusted Gold",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Faris",
+      "Copies": 3
+    },
+    {
+      "Name": "Vision HERO Increase",
+      "Copies": 2
+    },
+    {
+      "Name": "Vision HERO Vyon",
+      "Copies": 2
+    },
+    {
+      "Name": "Xtra HERO Cross Crusader",
+      "Copies": 2
+    },
+    {
+      "Name": "Xtra HERO Dread Decimator",
+      "Copies": 1
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Calling",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Miracle Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Crackdown",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Destiny HERO - Dangerous",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dystopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Absolute Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Sunrise",
+      "Copies": 1
+    },
+    {
+      "Name": "Evil HERO Malicious Bane",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Trinity",
+      "Copies": 1
+    },
+    {
+      "Name": "World Chalice Guardragon Almarduke",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "Date": "April 2023",
+  "Tournament": "YCS - Los Angeles California",
+  "DeckName": "60-Card Adventurer P.U.N.K. Scareclaw",
+  "DeckId": "9552",
+  "Duelist": "Thomas Durnil",
+  "Placed": "Top 32",
+  "Archetype": "P.U.N.K.",
+  "DeckProfile": "www.youtube.com/embed/sC8SiGyEO1s",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Illusion of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Deer Note",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Foxy Tune",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ze Amin",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Scareclaw Acro",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Astra",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Belone",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Kashtira",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Reichheart",
+      "Copies": 1
+    },
+    {
+      "Name": "Visas Starfrost",
+      "Copies": 3
+    },
+    {
+      "Name": "Wandering Gryphon Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 3
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Kyoutou Waterfront",
+      "Copies": 1
+    },
+    {
+      "Name": "Pressured Planet Wraitsoth",
+      "Copies": 3
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 1
+    },
+    {
+      "Name": "Primitive Planet Reichphobia",
+      "Copies": 2
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 3
+    },
+    {
+      "Name": "Scareclaw Arrival",
+      "Copies": 1
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Small World",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Sclash",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Barricadeborg Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Cherubini, Ebon Angel of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic End Punisher",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Light-Heart",
+      "Copies": 2
+    },
+    {
+      "Name": "Scareclaw Tri-Heart",
+      "Copies": 2
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "The Zombie Vampire",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Illegal Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    }
+  ]
+}

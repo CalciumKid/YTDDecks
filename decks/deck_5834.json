@@ -1,0 +1,180 @@
+{
+  "Date": "January 2017",
+  "Tournament": "YCS - Sydney Australia",
+  "DeckName": "Frog Mermails",
+  "DeckId": "5834",
+  "Duelist": "Matt Carpenter",
+  "Placed": "63",
+  "Archetype": "Mermail",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aqua Spirit",
+      "Copies": 3
+    },
+    {
+      "Name": "Atlantean Dragoons",
+      "Copies": 2
+    },
+    {
+      "Name": "Atlantean Heavy Infantry",
+      "Copies": 1
+    },
+    {
+      "Name": "Atlantean Marksman",
+      "Copies": 1
+    },
+    {
+      "Name": "Deep Sea Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssgunde",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssmander",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssmegalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Mermail Abyssocea",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abysspike",
+      "Copies": 2
+    },
+    {
+      "Name": "Mermail Abyssteus",
+      "Copies": 3
+    },
+    {
+      "Name": "Moulinglacia the Elemental Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Neptabyss, the Atlantean Prince",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 1
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Abyss-scale of the Mizuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Moray of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Quandax",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermail Abyssgaios",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Tatsunoko",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 3
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    }
+  ]
+}

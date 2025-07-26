@@ -1,0 +1,144 @@
+{
+  "Date": "July 2016",
+  "Tournament": "WCQ - North America",
+  "DeckName": "PSY-Frames",
+  "DeckId": "5283",
+  "Duelist": "Delonte Coleman",
+  "Placed": "33rd - 64th Place",
+  "Archetype": "PSY-Frame",
+  "DeckProfile": "www.youtube.com/embed/Ib6-xFmeFmo",
+  "MainDeck": [
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Alpha",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Beta",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Delta",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Psychic Feel Zone",
+      "Copies": 2
+    },
+    {
+      "Name": "Psychic Path",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Circuit",
+      "Copies": 3
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Overload",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hyper Psychic Blaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Overmind Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic Lifetrancer",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Framelord Zeta",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "PSY-Framegear Epsilon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Tri-and-Guess",
+      "Copies": 3
+    }
+  ]
+}

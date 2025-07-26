@@ -1,0 +1,111 @@
+{
+  "Date": "June 2014",
+  "Tournament": "National Championship - Turkey",
+  "DeckName": "Chain Burn",
+  "DeckId": "1748",
+  "Duelist": "Sinan J. Ozkillic",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Chain Burn",
+  "DeckProfile": "www.youtube.com/embed/wxkmDWbKNUc",
+  "MainDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 2
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaion, the Timelord",
+      "Copies": 1
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Accumulated Fortune",
+      "Copies": 2
+    },
+    {
+      "Name": "Jar of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Legacy of Yata-Garasu",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Metaion, the Timelord",
+      "Copies": 1
+    },
+    {
+      "Name": "Wattcobra",
+      "Copies": 3
+    },
+    {
+      "Name": "Wattgiraffe",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 2
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 3
+    }
+  ]
+}

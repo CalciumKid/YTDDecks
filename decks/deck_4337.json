@@ -1,0 +1,50 @@
+{
+  "Date": "August 2015",
+  "Tournament": "ARG Metro Series Ohio",
+  "DeckName": "Nekroz",
+  "DeckId": "4337",
+  "Duelist": "Maxwell Schrack",
+  "Placed": "1st   8th Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "",
+  "MainDeck": [],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Psi-Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "Date": "June 2019",
+  "Tournament": "WCQ - North American Dragon Duel",
+  "DeckName": "Salamangreat",
+  "DeckId": "7889",
+  "Duelist": "Lucas Oswald",
+  "Placed": "1st Place",
+  "Archetype": "Salamangreat",
+  "DeckProfile": "www.youtube.com/embed/V7tJGxB6I4k",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Falco",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Fowl",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Foxy",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Gazelle",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Jack Jaguar",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Spinny",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Circle",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Sanctuary",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Rage",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Roar",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Balelynx",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Heatleo",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Miragestallio",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Sunlight Wolf",
+      "Copies": 3
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Update Jammer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Parro",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Date": "January 2017",
+  "Tournament": "Regional - Toronto Canada",
+  "DeckName": "Igknight Utopic Zexal Lock",
+  "DeckId": "5838",
+  "Duelist": "Hanko Chow",
+  "Placed": "Top 8",
+  "Archetype": "Igknight",
+  "DeckProfile": "www.youtube.com/embed/sFBpc10WSco",
+  "MainDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Igknight Gallant",
+      "Copies": 3
+    },
+    {
+      "Name": "Igknight Paladin",
+      "Copies": 3
+    },
+    {
+      "Name": "Igknight Templar",
+      "Copies": 3
+    },
+    {
+      "Name": "Igknight Veteran",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Unicorn - Kirin",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Magical Library",
+      "Copies": 3
+    },
+    {
+      "Name": "Ignition Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Rank-Up-Magic Argent Chaos Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S0: Utopic ZEXAL",
+      "Copies": 2
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Rare Fish",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dodger Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Psi-Blocker",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    }
+  ]
+}

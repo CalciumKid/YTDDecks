@@ -1,0 +1,135 @@
+{
+  "Date": "March 2008",
+  "Tournament": "2008 SJ Columbus",
+  "DeckName": "Kaiba Control",
+  "DeckId": "2686",
+  "Duelist": "Justin Gillison",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Kaiba Control",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Broww, Huntsman of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Nephthys",
+      "Copies": 1
+    },
+    {
+      "Name": "Shadowpriestess of Ohm",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Spell Economics",
+      "Copies": 1
+    },
+    {
+      "Name": "The Beginning of the End",
+      "Copies": 1
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Darklord Zerato",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Nurse Reficule the Fallen One",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Designator",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gift Card",
+      "Copies": 2
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ]
+}

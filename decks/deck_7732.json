@@ -1,0 +1,156 @@
+{
+  "Date": "May 2019",
+  "Tournament": "Regional - Exeter France",
+  "DeckName": "Mystic Mine",
+  "DeckId": "7732",
+  "Duelist": "Connor Ankers",
+  "Placed": "6th Place",
+  "Archetype": "Mystic Mine",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Lilith, Lady of Lament",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Goddess Skuld's Oracle",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 3
+    },
+    {
+      "Name": "Jar of Avarice",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernity Doom Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Junk Berserker",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Loki, Lord of the Aesir",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 3
+    },
+    {
+      "Name": "Stellarknight Delteros",
+      "Copies": 1
+    },
+    {
+      "Name": "Trident Dragion",
+      "Copies": 1
+    },
+    {
+      "Name": "Voltic Bicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Wattchimera",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Candina",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 3
+    }
+  ]
+}

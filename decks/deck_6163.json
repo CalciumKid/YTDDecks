@@ -1,0 +1,264 @@
+{
+  "Date": "March 2017",
+  "Tournament": "YCS - Guatemala City Guatemala",
+  "DeckName": "60-Card Skull Servants",
+  "DeckId": "6163",
+  "Duelist": "Tomas Bianco",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Shaddoll",
+  "DeckProfile": "www.youtube.com/embed/IUUMmIX4Wpc",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 2
+    },
+    {
+      "Name": "Holding Legs",
+      "Copies": 1
+    },
+    {
+      "Name": "King of the Skull Servants",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Falco",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Hedgehog",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Squamata",
+      "Copies": 1
+    },
+    {
+      "Name": "Shiranui Solitaire",
+      "Copies": 2
+    },
+    {
+      "Name": "Shiranui Spiritmaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Skull Servant",
+      "Copies": 2
+    },
+    {
+      "Name": "The Lady in Wight",
+      "Copies": 2
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 2
+    },
+    {
+      "Name": "Wightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Wightprince",
+      "Copies": 2
+    },
+    {
+      "Name": "Wightprincess",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Left Arm Offering",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "That Grass Looks Greener",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Spiritual Swords of Revealing Light",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragonecro Nethersoul Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Shekhinaga",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Shiranui Shogunsaga",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragonecro Nethersoul Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Shekhinaga",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Magellanica",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Spring",
+      "Copies": 3
+    }
+  ]
+}

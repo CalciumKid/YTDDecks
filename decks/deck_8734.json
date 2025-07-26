@@ -1,0 +1,152 @@
+{
+  "Date": "December 2020",
+  "Tournament": "RD Extravaganza - Belenux",
+  "DeckName": "Eldlich",
+  "DeckId": "8734",
+  "Duelist": "Youri Lansman",
+  "Placed": "Top 4",
+  "Archetype": "Eldlich",
+  "DeckProfile": "www.youtube.com/embed/uFrpClIzpps",
+  "MainDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlich the Golden Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Lilith, Lady of Lament",
+      "Copies": 2
+    },
+    {
+      "Name": "Skull Meister",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cursed Eldland",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlixir of White Destiny",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Conquistador of the Golden Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlixir of Scarlet Sanguine",
+      "Copies": 3
+    },
+    {
+      "Name": "Huaquero of the Golden Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Ice Dragon's Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 2
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Hip Hoshiningen",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 2
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mistaken Arrest",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ]
+}

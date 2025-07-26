@@ -1,0 +1,74 @@
+{
+  "Date": "July 2015",
+  "Tournament": "ARG Circuit Series Providence",
+  "DeckName": "Nekroz",
+  "DeckId": "4338",
+  "Duelist": "Steven McMearty",
+  "Placed": "1st   3rd Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Exa, Enforcer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Great Sorcerer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Brionac",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Clausolas",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Decisive Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Gungnir",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Unicore",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Valkyrus",
+      "Copies": 3
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Shurit, Strategist of the Nekroz",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

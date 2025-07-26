@@ -1,0 +1,196 @@
+{
+  "Date": "June 2013",
+  "Tournament": "Regional - Tallahassee Florida",
+  "DeckName": "Evilswarms",
+  "DeckId": "1301",
+  "Duelist": "Herman Peterson",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Evilswarm",
+  "DeckProfile": "www.youtube.com/embed/ouXkKsb0n6o",
+  "MainDeck": [
+    {
+      "Name": "Evilswarm Castor",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Heliotrope",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Kerykeion",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Mandragora",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Thunderbird",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Deck Lockdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Dress",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Infestation Pandemic",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 3
+    },
+    {
+      "Name": "Infestation Infection",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Bahamut",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Ophion",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Ouroboros",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 16: Shock Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 91: Thunder Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Bahamut",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Ophion",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Ouroboros",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Pearl",
+      "Copies": 2
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 16: Shock Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 91: Thunder Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C39: Utopia Ray",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Papilloperative",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "Date": "March 2019",
+  "Tournament": "Regional - Columbus Ohio",
+  "DeckName": "Evil Eyes",
+  "DeckId": "7884",
+  "Duelist": "Jeremiah Long",
+  "Placed": "Top 64",
+  "Archetype": "Evil Eye",
+  "DeckProfile": "www.youtube.com/embed/muZia7cqbIw",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Basilius, Familiar of the Evil Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Medusa, Watcher of the Evil Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Serziel, Watcher of the Evil Eye",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Evil Eye Domain - Pareidolia",
+      "Copies": 3
+    },
+    {
+      "Name": "Evil Eye of Selene",
+      "Copies": 3
+    },
+    {
+      "Name": "Evil Eye Repose",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Evil Eye Defeat",
+      "Copies": 2
+    },
+    {
+      "Name": "Evil Eye Retribution",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Fortress Megaclops",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 2
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Wee Witch's Apprentice",
+      "Copies": 1
+    },
+    {
+      "Name": "Zerrziel, Ruler of the Evil Eyed",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Concealing Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 2
+    },
+    {
+      "Name": "Waking the Dragon",
+      "Copies": 2
+    }
+  ]
+}

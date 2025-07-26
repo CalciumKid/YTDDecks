@@ -1,0 +1,168 @@
+{
+  "Date": "October 2022",
+  "Tournament": "Regional - Lubbock Texas",
+  "DeckName": "Runick Spright",
+  "DeckId": "9174",
+  "Duelist": "Joey Linch",
+  "Placed": "6th Place",
+  "Archetype": "Spright",
+  "DeckProfile": "www.youtube.com/embed/u0gfJ2blPHU",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Capshell",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ipiria",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 4
+    },
+    {
+      "Name": "Spright Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Carrot",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Jet",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Kitten",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Flashing Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Fountain",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Freezing Curses",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Tip",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Smashers",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Starter",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Geri the Runick Fangs",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 2
+    },
+    {
+      "Name": "Hugin the Runick Wings",
+      "Copies": 2
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Smashers",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    }
+  ]
+}

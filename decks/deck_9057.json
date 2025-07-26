@@ -1,0 +1,184 @@
+{
+  "Date": "December 2019",
+  "Tournament": "Kodama Tournament CDMX",
+  "DeckName": "Raidraptors",
+  "DeckId": "9057",
+  "Duelist": "Jaime Torres",
+  "Placed": "2nd Place",
+  "Archetype": "Raidraptor",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Fighting Daruma Doll",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Booster Strix",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Fuzzy Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Last Strix",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Mimicry Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Pain Lanius",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Sharp Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Singing Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Tribute Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Vanishing Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Skull Meister",
+      "Copies": 2
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Nest",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Skip Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Rank-Up-Magic Soul Shave Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Swallow's Nest",
+      "Copies": 1
+    },
+    {
+      "Name": "Icarus Attack",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Readiness",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Ice Beast Zerofyne",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Blade Burner Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Blaze Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Force Strix",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Revolution Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Rise Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Satellite Cannon Falcon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Ultimate Falcon",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Silent Graveyard",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 2
+    }
+  ]
+}

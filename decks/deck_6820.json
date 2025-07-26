@@ -1,0 +1,160 @@
+{
+  "Date": "June 2014",
+  "Tournament": "Regional - Madison Tennessee",
+  "DeckName": "Sylvans",
+  "DeckId": "6820",
+  "Duelist": "Brandon Pearson",
+  "Placed": "Top 8",
+  "Archetype": "Sylvan",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 2
+    },
+    {
+      "Name": "Rose Archer",
+      "Copies": 3
+    },
+    {
+      "Name": "Spore",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Hermitree",
+      "Copies": 3
+    },
+    {
+      "Name": "Sylvan Komushroomo",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Marshalleaf",
+      "Copies": 3
+    },
+    {
+      "Name": "Sylvan Princessprout",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Sagequoia",
+      "Copies": 3
+    },
+    {
+      "Name": "Miracle Fertilizer",
+      "Copies": 3
+    },
+    {
+      "Name": "Mount Sylvania",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Sylvan Charity",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Alsei, the Sylvan High Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Orea, the Sylvan High Arbiter",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    }
+  ]
+}

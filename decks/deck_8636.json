@@ -1,0 +1,184 @@
+{
+  "Date": "May 2020",
+  "Tournament": "Crush Card Cup",
+  "DeckName": "Zombie Control",
+  "DeckId": "8636",
+  "Duelist": "Dominik Gabrans",
+  "Placed": "Top 8",
+  "Archetype": "Zombie",
+  "DeckProfile": "www.youtube.com/embed/kImTD2GK2e4",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Doomking Balerdroch",
+      "Copies": 2
+    },
+    {
+      "Name": "Eldlich the Golden Lord",
+      "Copies": 2
+    },
+    {
+      "Name": "Glow-Up Bloom",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozuki",
+      "Copies": 1
+    },
+    {
+      "Name": "Jack-o-Bolan",
+      "Copies": 1
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 2
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 2
+    },
+    {
+      "Name": "Shiranui Solitaire",
+      "Copies": 2
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 3
+    },
+    {
+      "Name": "Vampire Fraulein",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Paleozoic Dinomischus",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Avendread Savior",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragonecro Nethersoul Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Earth Golem @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Sucker",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Trisbaena",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Magic Arrows",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Dragon Den Tournament",
+  "DeckName": "Poseidons Rage",
+  "DeckId": "8853",
+  "Duelist": "Ben Stanley",
+  "Placed": "3rd Place",
+  "Archetype": "Shark",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blizzard Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blizzard Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Seer",
+      "Copies": 1
+    },
+    {
+      "Name": "Green Turtle Summoner",
+      "Copies": 1
+    },
+    {
+      "Name": "Hydrotortoise, the Empowered Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Hyper-Ancient Shark Megalodon",
+      "Copies": 1
+    },
+    {
+      "Name": "Levia-Dragon - Daedalus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Sea Dragon Plesion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Ocean Dragon Lord - Neo-Daedalus",
+      "Copies": 1
+    },
+    {
+      "Name": "Poseidra, the Atlantean Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Rage of the Deep Sea",
+      "Copies": 1
+    },
+    {
+      "Name": "Shark Cruiser",
+      "Copies": 1
+    },
+    {
+      "Name": "Sharkraken",
+      "Copies": 1
+    },
+    {
+      "Name": "Suijin",
+      "Copies": 1
+    },
+    {
+      "Name": "The Tripper Mercury",
+      "Copies": 1
+    },
+    {
+      "Name": "Unshaven Angler",
+      "Copies": 2
+    },
+    {
+      "Name": "Warrior of Atlantis",
+      "Copies": 1
+    },
+    {
+      "Name": "Yomi Ship",
+      "Copies": 1
+    },
+    {
+      "Name": "A Legendary Ocean",
+      "Copies": 3
+    },
+    {
+      "Name": "Axe of Despair",
+      "Copies": 1
+    },
+    {
+      "Name": "Big Wave Small Wave",
+      "Copies": 2
+    },
+    {
+      "Name": "Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Moray of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Salvage",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Poseidon Wave",
+      "Copies": 2
+    },
+    {
+      "Name": "Tornado Wall",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 2
+    },
+    {
+      "Name": "Cat Shark",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 32: Shark Drake",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 37: Hope Woven Dragon Spider Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 73: Abyss Splash",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C73: Abyss Supra Splash",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 1
+    },
+    {
+      "Name": "Submersible Carrier Aero Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cannonball Spear Shellfish",
+      "Copies": 1
+    },
+    {
+      "Name": "Eagle Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Gazer Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Mermaid Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Orca Mega-Fortress of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Panther Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Sword Fish",
+      "Copies": 1
+    },
+    {
+      "Name": "Superancient Deepsea King Coelacanth",
+      "Copies": 1
+    },
+    {
+      "Name": "The Legendary Fisherman",
+      "Copies": 1
+    },
+    {
+      "Name": "The Legendary Fisherman III",
+      "Copies": 1
+    },
+    {
+      "Name": "Torpedo Fish",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Fish Rain",
+      "Copies": 1
+    },
+    {
+      "Name": "Negate Attack",
+      "Copies": 1
+    },
+    {
+      "Name": "Oh F!sh!",
+      "Copies": 1
+    }
+  ]
+}

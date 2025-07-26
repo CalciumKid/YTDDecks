@@ -1,0 +1,184 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship New Hampshire",
+  "DeckName": "Spellbooks",
+  "DeckId": "97",
+  "Duelist": "Nicholas Holmes",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Spellbook",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 3
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Eternity",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Fate",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Power",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of the Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Wisdom",
+      "Copies": 1
+    },
+    {
+      "Name": "The Grand Spellbook Tower",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Armored Kappa",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Evigishki Merrowgeist",
+      "Copies": 1
+    },
+    {
+      "Name": "Evil HERO Malicious Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Shining Elf",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Chain Destruction",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "Date": "March 2015",
+  "Tournament": "OTS Championships",
+  "DeckName": "Yosenju",
+  "DeckId": "4047",
+  "Duelist": "Dylan Walsh",
+  "Placed": "1st Place",
+  "Archetype": "Yosenju",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Fossil Dyna Pachycephalo",
+      "Copies": 1
+    },
+    {
+      "Name": "Yosenju Kama 1",
+      "Copies": 3
+    },
+    {
+      "Name": "Yosenju Kama 2",
+      "Copies": 3
+    },
+    {
+      "Name": "Yosenju Kama 3",
+      "Copies": 3
+    },
+    {
+      "Name": "Yosenju Magat",
+      "Copies": 2
+    },
+    {
+      "Name": "Yosenju Shinchu L",
+      "Copies": 2
+    },
+    {
+      "Name": "Yosenju Tsujik",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Wind of Mist Valley",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 3
+    },
+    {
+      "Name": "Yosenjus' Secret Move",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Delteros",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Yosenju Misak",
+      "Copies": 1
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 1
+    }
+  ]
+}

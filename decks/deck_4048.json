@@ -1,0 +1,168 @@
+{
+  "Date": "February 2015",
+  "Tournament": "OTS Championships",
+  "DeckName": "Ritual Beasts",
+  "DeckId": "4048",
+  "Duelist": "Pasquale Crociata",
+  "Placed": "1st Place",
+  "Archetype": "Beast",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Elder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Tamer Lara",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Tamer Wen",
+      "Copies": 2
+    },
+    {
+      "Name": "Spiritual Beast Apelio",
+      "Copies": 2
+    },
+    {
+      "Name": "Spiritual Beast Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Pettlephin",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Rampengu",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast's Bond",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Ambush",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Steeds",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Apelio",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Ulti-Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Ulti-Pettlephin",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Twister",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

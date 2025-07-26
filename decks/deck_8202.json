@@ -1,0 +1,120 @@
+{
+  "Date": "September 2019",
+  "Tournament": "OTS Championships - Winnipeg, Manitoba",
+  "DeckName": "Madolche",
+  "DeckId": "8202",
+  "Duelist": "Jorden Kehler",
+  "Placed": "Top 8",
+  "Archetype": "Madolche",
+  "DeckProfile": "www.youtube.com/embed/QZdGQwL-lPg",
+  "MainDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Anjelly",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Hootcake",
+      "Copies": 2
+    },
+    {
+      "Name": "Madolche Magileine",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Messengelato",
+      "Copies": 2
+    },
+    {
+      "Name": "Madolche Petingcessoeur",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Puddingcess",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Chateau",
+      "Copies": 1
+    },
+    {
+      "Name": "Madolche Ticket",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Fresh Sistart",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Puddingcess Chocolat-a-la-Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Queen Tiaramisu",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Teacher Glassouffle",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    }
+  ]
+}

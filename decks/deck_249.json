@@ -1,0 +1,192 @@
+{
+  "Date": "May 2014",
+  "Tournament": "YGO Open Orlando",
+  "DeckName": "Evilswarm",
+  "DeckId": "249",
+  "Duelist": "Jordan Mai",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Evilswarm",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Evilswarm Castor",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Heliotrope",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Kerykeion",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Mandragora",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Thunderbird",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Infestation Pandemic",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Infestation Infection",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Bahamut",
+      "Copies": 2
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Ophion",
+      "Copies": 3
+    },
+    {
+      "Name": "Evilswarm Thanatos",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 66: Master Key Beetle",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Twister",
+      "Copies": 1
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Heraldry Record",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Date": "November 2020",
+  "Tournament": "Team Net Phantom Rage Case Tournament",
+  "DeckName": "Dinosaur",
+  "DeckId": "9031",
+  "Duelist": "Rashad Jones",
+  "Placed": "1st Place",
+  "Archetype": "True King Dino",
+  "DeckProfile": "www.youtube.com/embed/wP9Z3Vm3C_w",
+  "MainDeck": [
+    {
+      "Name": "Animadorned Archosaur",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Babycerasaurus",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Miscellaneousaurus",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Petiteranodon",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Souleating Oviraptor",
+      "Copies": 3
+    },
+    {
+      "Name": "Ultimate Conductor Tyranno",
+      "Copies": 2
+    },
+    {
+      "Name": "Double Evolution Pill",
+      "Copies": 2
+    },
+    {
+      "Name": "Fossil Dig",
+      "Copies": 3
+    },
+    {
+      "Name": "Lost World",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolzar Dolkka",
+      "Copies": 3
+    },
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Pentestag",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Secure Gardna",
+      "Copies": 2
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    },
+    {
+      "Name": "Survival's End",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 2
+    },
+    {
+      "Name": "Warning Point",
+      "Copies": 2
+    }
+  ]
+}

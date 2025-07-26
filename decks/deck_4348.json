@@ -1,0 +1,168 @@
+{
+  "Date": "July 2015",
+  "Tournament": "ARG Circuit Series Charlotte",
+  "DeckName": "Nekroz",
+  "DeckId": "4348",
+  "Duelist": "Azad Deihim",
+  "Placed": "1st   16th Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dance Princess of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Exa, Enforcer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Great Sorcerer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Brionac",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Clausolas",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Decisive Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Gungnir",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Unicore",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Valkyrus",
+      "Copies": 3
+    },
+    {
+      "Name": "Shurit, Strategist of the Nekroz",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz Cycle",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz Kaleidoscope",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Ascension Sky Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Quasar Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Constellar Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Tellarknight Ptolemaeus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 2
+    }
+  ]
+}

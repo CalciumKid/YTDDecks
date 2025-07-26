@@ -1,0 +1,164 @@
+{
+  "Date": "July 2023",
+  "Tournament": "WCQ - Europe",
+  "DeckName": "Kashtira",
+  "DeckId": "9695",
+  "Duelist": "Eugenio Massi",
+  "Placed": "Top 64",
+  "Archetype": "Kashtira",
+  "DeckProfile": "www.youtube.com/embed/lrLiaYkDb10",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Riseheart",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Unicorn",
+      "Copies": 2
+    },
+    {
+      "Name": "Scareclaw Kashtira",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Birth",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtiratheosis",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Pressured Planet Wraitsoth",
+      "Copies": 3
+    },
+    {
+      "Name": "Primitive Planet Reichphobia",
+      "Copies": 1
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Big Bang",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Armed, the Dragon of Annihilation",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Goliath",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Mountain Smasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Arise-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Shangri-Ira",
+      "Copies": 3
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    }
+  ]
+}

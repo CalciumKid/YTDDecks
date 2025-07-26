@@ -1,0 +1,196 @@
+{
+  "Date": "February 2013",
+  "Tournament": "2013 YCS Bochum",
+  "DeckName": "Six Samurai",
+  "DeckId": "1919",
+  "Duelist": "Sandor Malinowski",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Six Samurai",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Elder of the Six Samurai",
+      "Copies": 2
+    },
+    {
+      "Name": "Grandmaster of the Six Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Hand of the Six Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Kagemusha of the Six Samurai",
+      "Copies": 2
+    },
+    {
+      "Name": "Legendary Six Samurai - Enishi",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Six Samurai - Kageki",
+      "Copies": 2
+    },
+    {
+      "Name": "Legendary Six Samurai - Kizan",
+      "Copies": 3
+    },
+    {
+      "Name": "Legendary Six Samurai - Mizuho",
+      "Copies": 1
+    },
+    {
+      "Name": "Shien's Squire",
+      "Copies": 1
+    },
+    {
+      "Name": "Asceticism of the Six Samurai",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gateway of the Six",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Shien's Dojo",
+      "Copies": 3
+    },
+    {
+      "Name": "Shien's Smoke Signal",
+      "Copies": 2
+    },
+    {
+      "Name": "Six Samurai United",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Double-Edged Sword Technique",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Six Samurai - Shi En",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Barkion",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Landoise",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 20: Giga-Brilliant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Shadow of the Six Samurai - Shien",
+      "Copies": 2
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Temple of the Six",
+      "Copies": 1
+    },
+    {
+      "Name": "Deep Dark Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Musakani Magatama",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "Date": "June 2013",
+  "Tournament": "Regional - Lenexa Kansas",
+  "DeckName": "Prophecy w/ Toon Table",
+  "DeckId": "1343",
+  "Duelist": "Johnny Nguyen",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Spellbook",
+  "DeckProfile": "www.youtube.com/embed/Y9dpwhM_Dbc",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "High Priestess of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Jowgen the Spiritualist",
+      "Copies": 1
+    },
+    {
+      "Name": "Justice of Prophecy",
+      "Copies": 2
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Toon Gemini Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Eternity",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Fate",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Power",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of the Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Wisdom",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook Star Hall",
+      "Copies": 1
+    },
+    {
+      "Name": "The Grand Spellbook Tower",
+      "Copies": 2
+    },
+    {
+      "Name": "Toon Table of Contents",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Arcanite Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 1
+    },
+    {
+      "Name": "Hierophant of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Shining Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tempest Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 2
+    },
+    {
+      "Name": "Retort",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    }
+  ]
+}

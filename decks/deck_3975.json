@@ -1,0 +1,176 @@
+{
+  "Date": "June 2014",
+  "Tournament": "ARGCS Milwaukee",
+  "DeckName": "Spellbooks",
+  "DeckId": "3975",
+  "Duelist": "Dalton Bousman",
+  "Placed": "1st   14th Place",
+  "Archetype": "Spellbook",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Fire Hand",
+      "Copies": 2
+    },
+    {
+      "Name": "Ice Hand",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Temperance of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "World of Prophecy",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Eternity",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Fate",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Power",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of the Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Wisdom",
+      "Copies": 1
+    },
+    {
+      "Name": "The Grand Spellbook Tower",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki Break",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Armored Kappa",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Pure Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Shining Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Retort",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

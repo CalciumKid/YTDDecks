@@ -1,0 +1,156 @@
+{
+  "Date": "October 2015",
+  "Tournament": "Regional - Danbury Connecticut",
+  "DeckName": "PSY-Frames",
+  "DeckId": "4570",
+  "Duelist": "Joe Bogli",
+  "Placed": "Top 8",
+  "Archetype": "PSY-Frame",
+  "DeckProfile": "www.youtube.com/embed/mYQ58l8zIm8",
+  "MainDeck": [
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Alpha",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Beta",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Delta",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Wind-Up Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Psychic Feel Zone",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Circuit",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Overload",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic Lifetrancer",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framelord Zeta",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 3
+    },
+    {
+      "Name": "Non-Fusion Area",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

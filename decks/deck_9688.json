@@ -1,0 +1,212 @@
+{
+  "Date": "July 2023",
+  "Tournament": "WCQ - Europe",
+  "DeckName": "Branded Despia",
+  "DeckId": "9688",
+  "Duelist": "Eldin Sadiki",
+  "Placed": "Top 8",
+  "Archetype": "Despia",
+  "DeckProfile": "www.youtube.com/embed/zzhtrRLf_04",
+  "MainDeck": [
+    {
+      "Name": "Ad Libitum of Despia",
+      "Copies": 1
+    },
+    {
+      "Name": "Albion the Shrouded Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Aluber the Jester of Despia",
+      "Copies": 3
+    },
+    {
+      "Name": "Blazing Cartesia, the Virtuous",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Saronir",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Tragedy",
+      "Copies": 1
+    },
+    {
+      "Name": "Edge Imp Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 3
+    },
+    {
+      "Name": "Gimmick Puppet Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Guiding Quem, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Springans Kitt",
+      "Copies": 1
+    },
+    {
+      "Name": "The Bystial Lubellion",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Mercourier",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded in Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Lost",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Opening",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 1
+    },
+    {
+      "Name": "Frightfur Patchwork",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Deployment",
+      "Copies": 3
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Retribution",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Duplication",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Albion the Sanctifire Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Granguignol the Dusk Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Lubellion the Searing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Dark Dragoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Rindbrumm the Striking Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sprind the Irondash Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Destructive Daruma Karma Cannon",
+      "Copies": 1
+    }
+  ]
+}

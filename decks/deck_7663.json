@@ -1,0 +1,119 @@
+{
+  "Date": "March 2019",
+  "Tournament": "Regional - Joao Pessoa Brazil",
+  "DeckName": "Prank-Kids",
+  "DeckId": "7663",
+  "Duelist": "Flávio Henrique",
+  "Placed": "10th Place",
+  "Archetype": "Prank-Kids",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Dropsies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Fansies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Lampsies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Rocksies",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Pandemonium",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Place",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Pranks",
+      "Copies": 2
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Plan",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Battle Butler",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Bow-Wow-Bark",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Dodo-Doodle-Doo",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Rip-Roarin-Roaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Rocket Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Weather Washer",
+      "Copies": 2
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

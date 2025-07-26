@@ -1,0 +1,180 @@
+{
+  "Date": "December 2016",
+  "Tournament": "Regional - Essex United Kingdom",
+  "DeckName": "Cyber Dragons",
+  "DeckId": "5774",
+  "Duelist": "Mat",
+  "Placed": "1st - 8th Place",
+  "Archetype": "Dragon",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Cyber Dinosaur",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Core",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Drei",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon Zwei",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Eltanin",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Larva",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Valley",
+      "Copies": 1
+    },
+    {
+      "Name": "Gear Golem the Moving Fortress",
+      "Copies": 1
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Oilman",
+      "Copies": 3
+    },
+    {
+      "Name": "Proto-Cyber Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reflect Bounder",
+      "Copies": 1
+    },
+    {
+      "Name": "The Light - Hex-Sealed Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Repair Plant",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Evolution Burst",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Machina Armored Unit",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Polymerization (Fusion)",
+      "Copies": 2
+    },
+    {
+      "Name": "Power Bond",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Cybernetic Hidden Technology",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Network",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Three of a Kind",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Pair Cycroid",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Prohibition",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Summon Blaster",
+      "Copies": 1
+    }
+  ]
+}

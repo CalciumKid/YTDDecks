@@ -1,0 +1,192 @@
+{
+  "Date": "November 2008",
+  "Tournament": "SJC Chicago 2008",
+  "DeckName": "TeleDAD",
+  "DeckId": "9749",
+  "Duelist": "Bobby Barone",
+  "Placed": "Top 16",
+  "Archetype": "TeleDAD",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Caius the Shadow Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Diamond Dude",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Doom Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 1
+    },
+    {
+      "Name": "Krebons",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 1
+    },
+    {
+      "Name": "Necro Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Crush Card Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 1
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Destiny HERO - Defender",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusilier Dragon, the Dual-Mode Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombyra the Dark",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    }
+  ]
+}

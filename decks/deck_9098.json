@@ -1,0 +1,188 @@
+{
+  "Date": "April 2022",
+  "Tournament": "Yu-Gi-Oh! Championship Series Charlotte 2022",
+  "DeckName": "Cyberse Eldlich",
+  "DeckId": "9098",
+  "Duelist": "Enzo Fiallos",
+  "Placed": "3rd Place",
+  "Archetype": "Destiny",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyberse Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Dotscaper",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlich the Golden Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Guardian",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Illusion of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Wandering Gryphon Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cursed Eldland",
+      "Copies": 3
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 2
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 3
+    },
+    {
+      "Name": "Conquistador of the Golden Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlixir of Scarlet Sanguine",
+      "Copies": 3
+    },
+    {
+      "Name": "Huaquero of the Golden Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Dagda",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Devotee",
+      "Copies": 2
+    },
+    {
+      "Name": "Link Disciple",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Verte Anaconda",
+      "Copies": 2
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 1
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 3
+    },
+    {
+      "Name": "Crossout Designator",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ]
+}

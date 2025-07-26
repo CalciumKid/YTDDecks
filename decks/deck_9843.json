@@ -1,0 +1,192 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Indianapolis Indiana",
+  "DeckName": "Mannadium",
+  "DeckId": "9843",
+  "Duelist": "Steven Trifunoski",
+  "Placed": "Top 4",
+  "Archetype": "Mannadium",
+  "DeckProfile": "www.youtube.com/embed/kketBcXdcss",
+  "MainDeck": [
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Meek",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Riumheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Scareclaw Kashtira",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Reichheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Visas Samsara",
+      "Copies": 3
+    },
+    {
+      "Name": "Visas Starfrost",
+      "Copies": 2
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Abscission",
+      "Copies": 2
+    },
+    {
+      "Name": "Mannadium Imaginings",
+      "Copies": 1
+    },
+    {
+      "Name": "Peaceful Planet Calarium",
+      "Copies": 3
+    },
+    {
+      "Name": "Pressured Planet Wraitsoth",
+      "Copies": 1
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 1
+    },
+    {
+      "Name": "Primitive Planet Reichphobia",
+      "Copies": 2
+    },
+    {
+      "Name": "Realm Eulogy",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Arrival",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchro Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Dis Pater",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mannadium Trisukta",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Light-Heart",
+      "Copies": 2
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Vicious Astraloud",
+      "Copies": 2
+    },
+    {
+      "Name": "Visas Amritara",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Mannadium Reframing",
+      "Copies": 1
+    }
+  ]
+}

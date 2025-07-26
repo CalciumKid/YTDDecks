@@ -1,0 +1,200 @@
+{
+  "Date": "May 2017",
+  "Tournament": "National Championship - Finland",
+  "DeckName": "Black Synchro",
+  "DeckId": "6378",
+  "Duelist": "Daniel Borgstén",
+  "Placed": "13th Place",
+  "Archetype": "Synchro",
+  "DeckProfile": "www.youtube.com/embed/2NgzF6vpgI0",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gofu the Vague Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Oroshi the Squall",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Steam the Cloak",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 3
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 2
+    },
+    {
+      "Name": "Level Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Plaguespreader Zombie",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Blackwing - Chidori the Rain Sprinkling",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Blackwing - Raikiri the Rain Shower",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Blackwing - Sohaya the Rain Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 3
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Sea Monster of Theseus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 2
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    }
+  ]
+}

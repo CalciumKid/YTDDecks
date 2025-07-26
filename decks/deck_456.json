@@ -1,0 +1,216 @@
+{
+  "Date": "April 2014",
+  "Tournament": "YCS - Las Vegas",
+  "DeckName": "Mythic Rulers",
+  "DeckId": "456",
+  "Duelist": "Destin Kespi",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Mythic Ruler",
+  "DeckProfile": "www.youtube.com/embed/FG21mjA8Vag",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 2
+    },
+    {
+      "Name": "Debris Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Flamvell Guard",
+      "Copies": 2
+    },
+    {
+      "Name": "Influence Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Tetherwolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Mythic Tree Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythic Water Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 1
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 1
+    },
+    {
+      "Name": "The White Stone of Legend",
+      "Copies": 2
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Burial from a Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Cards of Consonance",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Sacred Sword of Seven Stars",
+      "Copies": 1
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki Break",
+      "Copies": 1
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Trident Dragion",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Electric Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 2
+    },
+    {
+      "Name": "DNA Surgery",
+      "Copies": 2
+    },
+    {
+      "Name": "Infestation Terminus",
+      "Copies": 1
+    }
+  ]
+}

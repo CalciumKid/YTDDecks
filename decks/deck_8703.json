@@ -1,0 +1,176 @@
+{
+  "Date": "October 2020",
+  "Tournament": "DA Weekly Tournament #2",
+  "DeckName": "Crystal Beast Mekk-Knight",
+  "DeckId": "8703",
+  "Duelist": "Nick Anctil",
+  "Placed": "2nd Place",
+  "Archetype": "Mekk-Knight",
+  "DeckProfile": "www.youtube.com/embed/DTRoY5B39HY",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Beast Ruby Carbuncle",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Beast Sapphire Pegasus",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Blue Sky",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Indigo Eclipse",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Purple Nightfall",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Yellow Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Red-Eyes Black Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Bond",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Promise",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Rainbow Bridge",
+      "Copies": 3
+    },
+    {
+      "Name": "Red-Eyes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Conclave",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Blade Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Full Armor Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Verte Anaconda",
+      "Copies": 2
+    },
+    {
+      "Name": "Red-Eyes Dark Dragoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "May 2019",
+  "Tournament": "National Championship - Turkey",
+  "DeckName": "Artifact Salamangreat",
+  "DeckId": "7962",
+  "Duelist": "Utku Topal",
+  "Placed": "Top 8",
+  "Archetype": "Salamangreat",
+  "DeckProfile": "www.youtube.com/embed/sAOrVesKENY",
+  "MainDeck": [
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Flame Bufferlo",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Lady Debug",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Falco",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Fowl",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Foxy",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Gazelle",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Jack Jaguar",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Spinny",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion of Fire",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Circle",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Sanctuary",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Will of the Salamangreat",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Rage",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Roar",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Balelynx",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Heatleo",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Miragestallio",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Sunlight Wolf",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ]
+}

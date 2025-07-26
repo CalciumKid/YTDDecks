@@ -1,0 +1,168 @@
+{
+  "Date": "April 2022",
+  "Tournament": "Yu-Gi-Oh! Championship Series Bogota 2022",
+  "DeckName": "Branded Despia",
+  "DeckId": "9095",
+  "Duelist": "Andres Torres",
+  "Placed": "3rd Place",
+  "Archetype": "Branded",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ad Libitum of Despia",
+      "Copies": 1
+    },
+    {
+      "Name": "Albion the Shrouded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Aluber the Jester of Despia",
+      "Copies": 3
+    },
+    {
+      "Name": "Despian Comedy",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Tragedy",
+      "Copies": 3
+    },
+    {
+      "Name": "Dramaturge of Despia",
+      "Copies": 1
+    },
+    {
+      "Name": "Edge Imp Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 3
+    },
+    {
+      "Name": "Incredible Ecclesia, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Mercourier",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded in Red",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Lost",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Opening",
+      "Copies": 3
+    },
+    {
+      "Name": "Despia, Theater of the Branded",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Frightfur Patchwork",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Retribution",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Despian Proskenion",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Quaeritis",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 2
+    },
+    {
+      "Name": "Lubellion the Searing Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Masquerade the Blazing Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Sprind the Irondash Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Titaniklad the Ash Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "Date": "February 2007",
+  "Tournament": "2007 SJ St. Louis",
+  "DeckName": "Toolbox",
+  "DeckId": "2774",
+  "Duelist": "Chris Bowling",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Toolbox",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Necrofear",
+      "Copies": 3
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Future Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Overload Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Survivor",
+      "Copies": 1
+    },
+    {
+      "Name": "Des Wombat",
+      "Copies": 2
+    },
+    {
+      "Name": "Spell Canceller",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 2
+    },
+    {
+      "Name": "Return from the Different Dimension",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ]
+}

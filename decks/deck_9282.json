@@ -1,0 +1,232 @@
+{
+  "Date": "June 2022",
+  "Tournament": "National Championship - Denmark",
+  "DeckName": "60-Card Adventurer P.U.N.K. Eldlich Synchro",
+  "DeckId": "9282",
+  "Duelist": "Kristoffer Nielsen",
+  "Placed": "Top 4",
+  "Archetype": "Synchro",
+  "DeckProfile": "www.youtube.com/embed/dBnj7Q5QC7g",
+  "MainDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlich the Golden Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Illusion of Chaos",
+      "Copies": 2
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Noh-P.U.N.K. Deer Note",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Foxy Tune",
+      "Copies": 3
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ze Amin",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Roxrose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Corobane",
+      "Copies": 1
+    },
+    {
+      "Name": "Wandering Gryphon Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 3
+    },
+    {
+      "Name": "Basal Rose Shoot",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cursed Eldland",
+      "Copies": 3
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 3
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 2
+    },
+    {
+      "Name": "Conquistador of the Golden Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlixir of Scarlet Sanguine",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Dagda",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Ruler, the Chaotic Magical Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic End Punisher",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Riser Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Wonder Magician",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Token Collector",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

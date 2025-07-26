@@ -1,0 +1,196 @@
+{
+  "Date": "June 2010",
+  "Tournament": "2010 Championship Series - Chicago",
+  "DeckName": "X-Sabers",
+  "DeckId": "2403",
+  "Duelist": "Gary Miotke",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "X-Saber",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Rescue Cat",
+      "Copies": 1
+    },
+    {
+      "Name": "X-Saber Airbellum",
+      "Copies": 3
+    },
+    {
+      "Name": "X-Saber Pashuul",
+      "Copies": 2
+    },
+    {
+      "Name": "XX-Saber Boggart Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "XX-Saber Darksoul",
+      "Copies": 2
+    },
+    {
+      "Name": "XX-Saber Emmersblade",
+      "Copies": 3
+    },
+    {
+      "Name": "XX-Saber Faultroll",
+      "Copies": 2
+    },
+    {
+      "Name": "XX-Saber Fulhelmknight",
+      "Copies": 2
+    },
+    {
+      "Name": "XX-Saber Ragigura",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Cold Wave",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Saber Slash",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 2
+    },
+    {
+      "Name": "Saber Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "X-Saber Urbellum",
+      "Copies": 1
+    },
+    {
+      "Name": "X-Saber Wayne",
+      "Copies": 1
+    },
+    {
+      "Name": "XX-Saber Gottoms",
+      "Copies": 2
+    },
+    {
+      "Name": "XX-Saber Hyunlei",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Consecrated Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Hanewata",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Gottoms' Emergency Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    }
+  ]
+}

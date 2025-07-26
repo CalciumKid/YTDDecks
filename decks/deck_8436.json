@@ -1,0 +1,192 @@
+{
+  "Date": "January 2020",
+  "Tournament": "Regional - Valladolid Mexico",
+  "DeckName": "Magicians' SPYRAL",
+  "DeckId": "8436",
+  "Duelist": "Jorge Longarte",
+  "Placed": "1st Place",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/67Gq3JSzfcg",
+  "MainDeck": [
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Magicians' Souls",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL GEAR - Drone",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL GEAR - Last Resort",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Master Plan",
+      "Copies": 2
+    },
+    {
+      "Name": "SPYRAL Quik-Fix",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Sleeper",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Super Agent",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL GEAR - Big Red",
+      "Copies": 2
+    },
+    {
+      "Name": "SPYRAL MISSION - Assault",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Resort",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Where Arf Thou?",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL GEAR - Utility Wire",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL MISSION - Rescue",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Barricadeborg Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Binary Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Recital Starling",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Double Helix",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Princessprite",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

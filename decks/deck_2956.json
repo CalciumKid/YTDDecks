@@ -1,0 +1,276 @@
+{
+  "Date": "November 2006",
+  "Tournament": "2006 SJ Anaheim",
+  "DeckName": "Dark World",
+  "DeckId": "2956",
+  "Duelist": "Theeresak Poonsombat",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Dark World",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dekoichi the Battlechanted Locomotive",
+      "Copies": 2
+    },
+    {
+      "Name": "Giant Orc",
+      "Copies": 1
+    },
+    {
+      "Name": "Goldd, Wu-Lord of Dark World",
+      "Copies": 3
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 1
+    },
+    {
+      "Name": "Night Assailant",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Sillva, Warlord of Dark World",
+      "Copies": 2
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Treeborn Frog",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Lightning",
+      "Copies": 2
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Deck Devastation Virus",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 3
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusionist",
+      "Copies": 1
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 3
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Steam Gyroid",
+      "Copies": 1
+    },
+    {
+      "Name": "St. Joan",
+      "Copies": 1
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Sillva, Warlord of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Thunder Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark World Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "Date": "April 2018",
+  "Tournament": "Regional - Istanbul",
+  "DeckName": "Magical Musketeers",
+  "DeckId": "7212",
+  "Duelist": "Baris Erturer",
+  "Placed": "5th Place",
+  "Archetype": "Magical",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Eater of Millions",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Musketeer Caspar",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musketeer Doc",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Musketeer Kidbrave",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musketeer Starfire",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Cross-Domination",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Steady Hands",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Ties of the Brethren",
+      "Copies": 3
+    },
+    {
+      "Name": "Toon Table of Contents",
+      "Copies": 3
+    },
+    {
+      "Name": "Toon World",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Musket - Desperado",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Fiendish Deal",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Musket - Last Stand",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Armored Kappa",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Hyades",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Dancing Needle",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 2
+    }
+  ]
+}

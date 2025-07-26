@@ -1,0 +1,119 @@
+{
+  "Date": "March 2016",
+  "Tournament": "Regional - Toronto Canada",
+  "DeckName": "Monarch Explosion FTK",
+  "DeckId": "4914",
+  "Duelist": "Duelist Unknown",
+  "Placed": "Top 8",
+  "Archetype": "Monarch",
+  "DeckProfile": "www.youtube.com/embed/KFMGwzInlQM",
+  "MainDeck": [
+    {
+      "Name": "Blue-Eyes Toon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ehther the Heavenly Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Erebus the Underworld Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Magical Library",
+      "Copies": 1
+    },
+    {
+      "Name": "Cards from the Sky",
+      "Copies": 2
+    },
+    {
+      "Name": "Chicken Game",
+      "Copies": 3
+    },
+    {
+      "Name": "Domain of the True Monarchs",
+      "Copies": 1
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Into the Void",
+      "Copies": 3
+    },
+    {
+      "Name": "Pantheism of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 1
+    },
+    {
+      "Name": "Pseudo Space",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenacity of the Monarchs",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Toon Table of Contents",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Life Equalizer",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Explosion",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Hanewata",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    }
+  ]
+}

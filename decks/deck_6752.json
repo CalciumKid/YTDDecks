@@ -1,0 +1,159 @@
+{
+  "Date": "September 2017",
+  "Tournament": "WCQ - Witzenhausen Regional",
+  "DeckName": "SPYRALS",
+  "DeckId": "6752",
+  "Duelist": "Eugen Heidt",
+  "Placed": "1st Place",
+  "Archetype": "SPYRAL",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Gofu the Vague Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ib the World Chalice Priestess",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL GEAR - Drone",
+      "Copies": 2
+    },
+    {
+      "Name": "SPYRAL GEAR - Last Resort",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Master Plan",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Quik-Fix",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL Sleeper",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Super Agent",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL GEAR - Big Red",
+      "Copies": 3
+    },
+    {
+      "Name": "SPYRAL GEAR - Fully Armed",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL Resort",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "SPYRAL GEAR - Utility Wire",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Dullahan",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Princessprite",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sea Monster of Theseus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

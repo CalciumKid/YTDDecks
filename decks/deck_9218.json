@@ -1,0 +1,148 @@
+{
+  "Date": "August 2022",
+  "Tournament": "Regional - Fort Worth Texas",
+  "DeckName": "Exosister",
+  "DeckId": "9218",
+  "Duelist": "Stephen Bronder",
+  "Placed": "11th Place",
+  "Archetype": "Exosister",
+  "DeckProfile": "www.youtube.com/embed/xlQPk5Iu2Vg",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Elis",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Irene",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Martha",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Sophia",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Stella",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Arment",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Pax",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Returnia",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Vadis",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Asophiel",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Gibrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Kaspitell",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Mikailis",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosisters Magnifica",
+      "Copies": 2
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "January 2020",
+  "Tournament": "St Jansteen",
+  "DeckName": "Mekk-knight",
+  "DeckId": "8985",
+  "Duelist": "Ali Reza",
+  "Placed": "8th Place",
+  "Archetype": "Legacy",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ipiria",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Avram",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Blue Sky",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Green Horizon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Indigo Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Mekk-Knight of the Morning Star",
+      "Copies": 2
+    },
+    {
+      "Name": "Mekk-Knight Purple Nightfall",
+      "Copies": 3
+    },
+    {
+      "Name": "Mekk-Knight Red Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Spectrum Supreme",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Yellow Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Monk of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenyi Spirit - Vishuda",
+      "Copies": 2
+    },
+    {
+      "Name": "Galaxy Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Pinpoint Landing",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Key",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy's Memory",
+      "Copies": 3
+    },
+    {
+      "Name": "World Legacy Succession",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "World Legacy's Secret",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 90: Galaxy-Eyes Photon Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Ultimate Falcon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Waking the Dragon",
+      "Copies": 2
+    }
+  ]
+}

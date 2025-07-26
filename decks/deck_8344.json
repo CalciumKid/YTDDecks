@@ -1,0 +1,111 @@
+{
+  "Date": "November 2019",
+  "Tournament": "Regional - Santiago Dominican Republic",
+  "DeckName": "Altergeist",
+  "DeckId": "8344",
+  "Duelist": "Yorky Herrera",
+  "Placed": "Top 8",
+  "Archetype": "Altergeist",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Altergeist Kunquery",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Marionetter",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Meluseek",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Multifaker",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Silquitous",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Manifestation",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Protocol",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 3
+    },
+    {
+      "Name": "Crackdown",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Personal Spoofing",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    }
+  ]
+}

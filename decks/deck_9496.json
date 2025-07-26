@@ -1,0 +1,156 @@
+{
+  "Date": "April 2023",
+  "Tournament": "YCS - Los Angeles California",
+  "DeckName": "Runick Plunder Patroll",
+  "DeckId": "9496",
+  "Duelist": "Jacob Pieffle",
+  "Placed": "Top 64",
+  "Archetype": "Runick",
+  "DeckProfile": "www.youtube.com/embed/vsV5gyF1Cfs",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackeyes, the Plunder Patroll Seaguide",
+      "Copies": 2
+    },
+    {
+      "Name": "Bluebeard, the Plunder Patroll Shipwright",
+      "Copies": 1
+    },
+    {
+      "Name": "Goldenhair, the Newest Plunder Patroll",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Redbeard, the Plunder Patroll Matey",
+      "Copies": 1
+    },
+    {
+      "Name": "Whitebeard, the Plunder Patroll Helm",
+      "Copies": 3
+    },
+    {
+      "Name": "Plunder Patroll Shipyarrrd",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Dispelling",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Flashing Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Fountain",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Freezing Curses",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Smiting Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Tip",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Plunder Patroll Booty",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Blackbeard, the Plunder Patroll Captain",
+      "Copies": 3
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Geri the Runick Fangs",
+      "Copies": 2
+    },
+    {
+      "Name": "Hugin the Runick Wings",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Plunder Patrollship Brann",
+      "Copies": 1
+    },
+    {
+      "Name": "Plunder Patrollship Jord",
+      "Copies": 1
+    },
+    {
+      "Name": "Plunder Patrollship Lys",
+      "Copies": 2
+    },
+    {
+      "Name": "Plunder Patrollship Moerk",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 3
+    },
+    {
+      "Name": "Munin the Runick Wings",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    }
+  ]
+}

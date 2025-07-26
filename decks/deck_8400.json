@@ -1,0 +1,172 @@
+{
+  "Date": "January 2020",
+  "Tournament": "Regional - Houston Texas",
+  "DeckName": "Infernoids",
+  "DeckId": "8400",
+  "Duelist": "Christopher Corral",
+  "Placed": "12th Place",
+  "Archetype": "Infernoid",
+  "DeckProfile": "www.youtube.com/embed/JbkSme-Y7Hg",
+  "MainDeck": [
+    {
+      "Name": "Infernoid Antra",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Attondel",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Decatron",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Devyaty",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Harmadik",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Onuncu",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Patrulea",
+      "Copies": 2
+    },
+    {
+      "Name": "Infernoid Seitsemas",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernoid Sjette",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Lair of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Imagination",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Vanishment",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Void Feast",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beat Cop from the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Equimax",
+      "Copies": 1
+    },
+    {
+      "Name": "Duelittle Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 3
+    },
+    {
+      "Name": "Infernoid Tierra",
+      "Copies": 3
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 2
+    },
+    {
+      "Name": "Void Feast",
+      "Copies": 2
+    }
+  ]
+}

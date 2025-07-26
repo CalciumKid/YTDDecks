@@ -1,0 +1,180 @@
+{
+  "Date": "August 2005",
+  "Tournament": "2005 SJC Indianapolis",
+  "DeckName": "Gravekeepers",
+  "DeckId": "3095",
+  "Duelist": "Daryl Gessler",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Gravekeeper",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravekeeper's Assailant",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravekeeper's Spear Soldier",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 3
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Sinister Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Tribe-Infecting Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Delinquent Duo",
+      "Copies": 1
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 3
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Rite of Spirit",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "King Dragun",
+      "Copies": 2
+    },
+    {
+      "Name": "Flame Swordsman",
+      "Copies": 1
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Des Wombat",
+      "Copies": 2
+    },
+    {
+      "Name": "Elephant Statue of Disaster",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Neko Mane King",
+      "Copies": 2
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Pikeru's Circle of Enchantment",
+      "Copies": 1
+    }
+  ]
+}

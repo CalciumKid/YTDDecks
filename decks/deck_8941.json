@@ -1,0 +1,180 @@
+{
+  "Date": "December 2018",
+  "Tournament": "Dueling Book",
+  "DeckName": "Zombie World",
+  "DeckId": "8941",
+  "Duelist": "Just_a_mongrel",
+  "Placed": "1st Place",
+  "Archetype": "Zombie",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Doomking Balerdroch",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Glow-Up Bloom",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozuki",
+      "Copies": 3
+    },
+    {
+      "Name": "Kuribandit",
+      "Copies": 1
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 3
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 3
+    },
+    {
+      "Name": "Pyramid Turtle",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Zombie Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Shiranui Spectralsword",
+      "Copies": 1
+    },
+    {
+      "Name": "Tatsunecro",
+      "Copies": 2
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Life",
+      "Copies": 2
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie Necronize",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie Power Struggle",
+      "Copies": 2
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 68: Sanaphond the Sky Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Zombie Necro Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Sucker",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    }
+  ]
+}

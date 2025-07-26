@@ -1,0 +1,200 @@
+{
+  "Date": "March 2023",
+  "Tournament": "WCQ Regional Tirana",
+  "DeckName": "Branded Despia",
+  "DeckId": "9796",
+  "Duelist": "Mergim Maliqi",
+  "Placed": "3rd Place",
+  "Archetype": "Despia",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ad Libitum of Despia",
+      "Copies": 1
+    },
+    {
+      "Name": "Albion the Shrouded Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Aluber the Jester of Despia",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blazing Cartesia, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Baldrake",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Saronir",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Tragedy",
+      "Copies": 1
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 2
+    },
+    {
+      "Name": "Springans Kitt",
+      "Copies": 1
+    },
+    {
+      "Name": "The Bystial Lubellion",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Mercourier",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded in Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded in White",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Lost",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Opening",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Regained",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Deployment",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Branded Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Branded Retribution",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Brigrand the Glory Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Despian Quaeritis",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Granguignol the Dusk Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Lubellion the Searing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Masquerade the Blazing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Dark Dragoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Rindbrumm the Striking Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Sprind the Irondash Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Elemental HERO Storm Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Neo-Spacian Aqua Dolphin",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ]
+}

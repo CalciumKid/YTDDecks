@@ -1,0 +1,164 @@
+{
+  "Date": "May 2023",
+  "Tournament": "Regional - Catskill New York",
+  "DeckName": "Labrynth",
+  "DeckId": "9571",
+  "Duelist": "Glenson Edwards",
+  "Placed": "2nd Place",
+  "Archetype": "Labrynth",
+  "DeckProfile": "www.youtube.com/embed/4C3S1m9G8TU",
+  "MainDeck": [
+    {
+      "Name": "Arianna the Labrynth Servant",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Chandraglier",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Cooclock",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Stovie Torbie",
+      "Copies": 3
+    },
+    {
+      "Name": "Lady Labrynth of the Silver Castle",
+      "Copies": 3
+    },
+    {
+      "Name": "Lovely Labrynth of the Silver Castle",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Labyrinth",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Big Welcome Labrynth",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Welcome Labrynth",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchro Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Angel",
+      "Copies": 3
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 2
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Golden Cloud Beast - Malong",
+      "Copies": 1
+    },
+    {
+      "Name": "Mereologic Aggregator",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Arms Bucephalus II",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Keldo the Sacred Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 3
+    },
+    {
+      "Name": "Mudora the Sword Oracle",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimate Slayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Destructive Daruma Karma Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Full Force Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Ice Dragon's Prison",
+      "Copies": 1
+    }
+  ]
+}

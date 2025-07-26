@@ -1,0 +1,172 @@
+{
+  "Date": "February 2020",
+  "Tournament": "WCQ Regional - Barcelona",
+  "DeckName": "Edymion Pendulum",
+  "DeckId": "8676",
+  "Duelist": "Samuel Ricca",
+  "Placed": "Top 4",
+  "Archetype": "Pendulum",
+  "DeckProfile": "www.youtube.com/embed/BUIlKeAweSE",
+  "MainDeck": [
+    {
+      "Name": "Endymion, the Mighty Master of Magic",
+      "Copies": 3
+    },
+    {
+      "Name": "Fairy Tail - Luna",
+      "Copies": 2
+    },
+    {
+      "Name": "Magister of Endymion",
+      "Copies": 3
+    },
+    {
+      "Name": "Mythical Beast Bashilisk",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Garuda",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Jackal",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Jackal King",
+      "Copies": 3
+    },
+    {
+      "Name": "Mythical Beast Master Cerberus",
+      "Copies": 3
+    },
+    {
+      "Name": "Reflection of Endymion",
+      "Copies": 3
+    },
+    {
+      "Name": "Servant of Endymion",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Citadel of Endymion",
+      "Copies": 2
+    },
+    {
+      "Name": "Mythical Institution",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Power Mastery",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crowley, the First Propheseer",
+      "Copies": 1
+    },
+    {
+      "Name": "Day-Breaker the Shining Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Masters of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravity Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

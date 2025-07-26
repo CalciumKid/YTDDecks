@@ -1,0 +1,216 @@
+{
+  "Date": "August 2010",
+  "Tournament": "2010 Championship Series - Indianapolis",
+  "DeckName": "Gladiator Beasts GC",
+  "DeckId": "2354",
+  "Duelist": "Daniel LaMartina",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Beast",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Gladiator Beast Bestiari",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Darius",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Equeste",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Hoplomus",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Laquari",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Murmillo",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Retiari",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Samnite",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Secutor",
+      "Copies": 1
+    },
+    {
+      "Name": "Rescue Cat",
+      "Copies": 1
+    },
+    {
+      "Name": "Test Tiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cold Wave",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast's Respite",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast War Chariot",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 2
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Consecrated Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "Date": "October 2021",
+  "Tournament": "Local Tournament",
+  "DeckName": "Dogmatika Altergeist",
+  "DeckId": "9030",
+  "Duelist": "Paulo Lelis",
+  "Placed": "1st Place",
+  "Archetype": "Altergeist",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Altergeist Kunquery",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Marionetter",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Meluseek",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Multifaker",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Silquitous",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Ecclesia, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogmatika Fleurdelis, the Knighted",
+      "Copies": 1
+    },
+    {
+      "Name": "Nadir Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Manifestation",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Protocol",
+      "Copies": 2
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Personal Spoofing",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Altergeist Hexstia",
+      "Copies": 3
+    },
+    {
+      "Name": "Altergeist Primebanshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Artemis, the Magistus Moon Maiden",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 3
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Lyna the Light Charmer",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind Pegasus @Ignister",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Sacrifice",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

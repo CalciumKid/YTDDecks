@@ -1,0 +1,164 @@
+{
+  "Date": "March 2020",
+  "Tournament": "UDS - Lawrenceville Georgia",
+  "DeckName": "Turbo Kristya",
+  "DeckId": "8595",
+  "Duelist": "Joshua Tolbert",
+  "Placed": "Top 8",
+  "Archetype": "Turbo",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Angel Benten",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Perfection",
+      "Copies": 3
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Impcantation Candoll",
+      "Copies": 1
+    },
+    {
+      "Name": "Impcantation Chalislime",
+      "Copies": 2
+    },
+    {
+      "Name": "Impcantation Talismandra",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Shine Ball",
+      "Copies": 3
+    },
+    {
+      "Name": "The Agent of Creation - Venus",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Celestial Observatory",
+      "Copies": 2
+    },
+    {
+      "Name": "Dawn of the Herald",
+      "Copies": 3
+    },
+    {
+      "Name": "Extra-Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Pre-Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Sanctuary",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Hip Hoshiningen",
+      "Copies": 1
+    },
+    {
+      "Name": "Imduk the World Chalice Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 29: Mannequin Cat",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

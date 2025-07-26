@@ -1,0 +1,168 @@
+{
+  "Date": "September 2019",
+  "Tournament": "Pro-Play Tour Orlando",
+  "DeckName": "Salamangreat",
+  "DeckId": "8156",
+  "Duelist": "Jameel Noormohamed",
+  "Placed": "Top 4",
+  "Archetype": "Salamangreat",
+  "DeckProfile": "www.youtube.com/embed/4wdv7Lqxu4g",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Flame Bufferlo",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Lady Debug",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Falco",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Fowl",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Foxy",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Gazelle",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Jack Jaguar",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Spinny",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Circle",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Sanctuary",
+      "Copies": 1
+    },
+    {
+      "Name": "Will of the Salamangreat",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Rage",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Roar",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Balelynx",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Heatleo",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Miragestallio",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Sunlight Wolf",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 1
+    }
+  ]
+}

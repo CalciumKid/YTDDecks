@@ -1,0 +1,144 @@
+{
+  "Date": "June 2019",
+  "Tournament": "National Championship - Czech Republic",
+  "DeckName": "Mystic Mine",
+  "DeckId": "7778",
+  "Duelist": "Daniel Kvak",
+  "Placed": "Top 8",
+  "Archetype": "Mystic Mine",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Lilith, Lady of Lament",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 3
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 3
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 3
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 3
+    },
+    {
+      "Name": "Secure Gardna",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 3
+    },
+    {
+      "Name": "LANphorhynchus",
+      "Copies": 3
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 3
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 3
+    },
+    {
+      "Name": "Secure Gardna",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Unending Nightmare",
+      "Copies": 3
+    }
+  ]
+}

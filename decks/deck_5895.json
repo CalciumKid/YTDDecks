@@ -1,0 +1,204 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - San Diego California",
+  "DeckName": "Majespecter Metalfoes",
+  "DeckId": "5895",
+  "Duelist": "Bernardo Ambriz",
+  "Placed": "Top 8",
+  "Archetype": "Metalfoe",
+  "DeckProfile": "www.youtube.com/embed/znyxEBrretE",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gofu the Vague Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Majespecter Cat - Nekomata",
+      "Copies": 1
+    },
+    {
+      "Name": "Majespecter Raccoon - Bunbuku",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Unicorn - Kirin",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Goldriver",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Silverd",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Steelen",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Volflame",
+      "Copies": 3
+    },
+    {
+      "Name": "Raremetalfoes Bismugear",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Fullmetalfoes Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Combination",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Counter",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fullmetalfoes Alkahest",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Mithrilium",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Orichalc",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    },
+    {
+      "Name": "Vermillion Dragon Mech",
+      "Copies": 1
+    },
+    {
+      "Name": "Fullmetalfoes Alkahest",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Adamante",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Mithrilium",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Orichalc",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 2
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Psi-Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 2
+    }
+  ]
+}

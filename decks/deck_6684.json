@@ -1,0 +1,188 @@
+{
+  "Date": "August 2017",
+  "Tournament": "YCS - Rimini Italy",
+  "DeckName": "Chain Burn",
+  "DeckId": "6684",
+  "Duelist": "Sebastian Wernicke",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Chain Burn",
+  "DeckProfile": "www.youtube.com/embed/1Bnchxb3MDE",
+  "MainDeck": [
+    {
+      "Name": "Absolute King Back Jack",
+      "Copies": 2
+    },
+    {
+      "Name": "Electromagnetic Turtle",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 2
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Balance of Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Blazing Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Evolzar Laggia",
+      "Copies": 2
+    },
+    {
+      "Name": "Invoked Mechaba",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Anomalocaris",
+      "Copies": 1
+    },
+    {
+      "Name": "Paleozoic Opabinia",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Princessprite",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Drident",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoodiac Hammerkong",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "D/D/D Rebel King Leonidas",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Luna",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Tail - Snow",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 1
+    },
+    {
+      "Name": "Lazion, the Timelord",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Blazing Mirror Force",
+      "Copies": 2
+    }
+  ]
+}

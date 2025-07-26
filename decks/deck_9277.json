@@ -1,0 +1,192 @@
+{
+  "Date": "October 2022",
+  "Tournament": "YCS - Minneapolis Minnesota",
+  "DeckName": "Danger! Spright Tearlaments",
+  "DeckId": "9277",
+  "Duelist": "Owsley Tanner",
+  "Placed": "Top 32",
+  "Archetype": "Tearlaments",
+  "DeckProfile": "www.youtube.com/embed/1VfIUnoTXsY",
+  "MainDeck": [
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ipiria",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Jet",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Red",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Havnis",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Merrli",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Reinoheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Scheiren",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 3
+    },
+    {
+      "Name": "Spright Smashers",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Starter",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Sulliek",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kaleido-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kitkallos",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Rulkallos",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    }
+  ]
+}

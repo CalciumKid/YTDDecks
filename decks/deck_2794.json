@@ -1,0 +1,212 @@
+{
+  "Date": "July 2007",
+  "Tournament": "2007 SJ Phoenix",
+  "DeckName": "Destiny",
+  "DeckId": "2794",
+  "Duelist": "George Saavedra",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Destiny",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 2
+    },
+    {
+      "Name": "Megamorph",
+      "Copies": 2
+    },
+    {
+      "Name": "Metamorphosis",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Vehicroid Jumbo Drill",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Karbonala Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Steam Gyroid",
+      "Copies": 2
+    },
+    {
+      "Name": "St. Joan",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Vehicroid Jumbo Drill",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Demise, King of Armageddon",
+      "Copies": 2
+    },
+    {
+      "Name": "Doom Dozer",
+      "Copies": 2
+    },
+    {
+      "Name": "Insect Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Metal Armored Bug",
+      "Copies": 1
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 1
+    },
+    {
+      "Name": "Sonic Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Advanced Ritual Art",
+      "Copies": 2
+    }
+  ]
+}

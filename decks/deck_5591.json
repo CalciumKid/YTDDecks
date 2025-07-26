@@ -1,0 +1,168 @@
+{
+  "Date": "October 2016",
+  "Tournament": "Regional Knoxville Tennessee",
+  "DeckName": "Dark Magician",
+  "DeckId": "5591",
+  "Duelist": "Jay Collette",
+  "Placed": "Top 8",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/Vn7DIp56OKk",
+  "MainDeck": [
+    {
+      "Name": "Dark Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Dark Illusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Magician's Rod",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magical Circle",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magic Attack",
+      "Copies": 1
+    },
+    {
+      "Name": "Illusion Magic",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Eternal Soul",
+      "Copies": 3
+    },
+    {
+      "Name": "Magician Navigation",
+      "Copies": 3
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Ebon High Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Ebon Illusion Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 74: Master of Blades",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 1
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 3
+    }
+  ]
+}

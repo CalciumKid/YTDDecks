@@ -1,0 +1,232 @@
+{
+  "Date": "February 2021",
+  "Tournament": "Online Invitational",
+  "DeckName": "Magical Gates of Zefra",
+  "DeckId": "8987",
+  "Duelist": "Karl Pitt",
+  "Placed": "1st Place",
+  "Archetype": "Yang Zing",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Lamia",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D Orthros",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D Savant Kepler",
+      "Copies": 1
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Endymion, the Mighty Master of Magic",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast O-Lion",
+      "Copies": 2
+    },
+    {
+      "Name": "Mythical Beast Jackal King",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Servant of Endymion",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaddoll Zefracore",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Dragon Darkwurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Gate Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefraath",
+      "Copies": 3
+    },
+    {
+      "Name": "Zefraniu, Secret of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Zefraxi, Treasure of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Contract with the Gate",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragon Ravine",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Oracle of Zefra",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Power Mastery",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefra Providence",
+      "Copies": 3
+    },
+    {
+      "Name": "Nine Pillars of Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefra Divine Strike",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "F.A. Dawn Dragster",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Satellite Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Riser Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefra War",
+      "Copies": 1
+    }
+  ]
+}

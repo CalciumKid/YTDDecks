@@ -1,0 +1,172 @@
+{
+  "Date": "March 2023",
+  "Tournament": "OTS Championship Tirana",
+  "DeckName": "Runick Naturia",
+  "DeckId": "9809",
+  "Duelist": "Sherif Lewis",
+  "Placed": "3rd Place",
+  "Archetype": "Naturia",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Agido the Ancient Sentinel",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Kelbek the Ancient Vanguard",
+      "Copies": 1
+    },
+    {
+      "Name": "Keldo the Sacred Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudora the Sword Oracle",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Camellia",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Mole Cricket",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Sunflower",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Blessing",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Flashing Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Fountain",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Freezing Curses",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Tip",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Sacred Tree",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Donner, Dagger Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Geri the Runick Fangs",
+      "Copies": 1
+    },
+    {
+      "Name": "Hugin the Runick Wings",
+      "Copies": 2
+    },
+    {
+      "Name": "Munin the Runick Wings",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Barkion",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Supreme Sovereign - Chengying",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Kyubi - Shenshen",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Baldrake",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    }
+  ]
+}

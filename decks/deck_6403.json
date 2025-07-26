@@ -1,0 +1,147 @@
+{
+  "Date": "November 2013",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Uria, Lord of Searing Flames",
+  "DeckId": "6403",
+  "Duelist": "Kyle Dickey",
+  "Placed": "1st - 11th Place",
+  "Archetype": "Lord of Searing Flames",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Beast King Barbaros",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Uria, Lord of Searing Flames",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Cloak and Dagger",
+      "Copies": 2
+    },
+    {
+      "Name": "Curse of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Custom",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Metal Reflect Slime",
+      "Copies": 2
+    },
+    {
+      "Name": "Nightmare Wheel",
+      "Copies": 2
+    },
+    {
+      "Name": "Safe Zone",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Tiki Curse",
+      "Copies": 3
+    },
+    {
+      "Name": "Tiki Soul",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Zoma the Spirit",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Gale the Whirlwind",
+      "Copies": 1
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Prison",
+      "Copies": 1
+    }
+  ]
+}

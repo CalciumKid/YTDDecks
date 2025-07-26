@@ -1,0 +1,180 @@
+{
+  "Date": "July 2015",
+  "Tournament": "ARG Circuit Series Charlotte",
+  "DeckName": "Nekroz",
+  "DeckId": "4351",
+  "Duelist": "Nicky Reardon",
+  "Placed": "1st   16th Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aqua Spirit",
+      "Copies": 2
+    },
+    {
+      "Name": "Exa, Enforcer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Great Sorcerer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Brionac",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Clausolas",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Decisive Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Gungnir",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Unicore",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Valkyrus",
+      "Copies": 3
+    },
+    {
+      "Name": "Photon Thrasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Shurit, Strategist of the Nekroz",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz Cycle",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz Kaleidoscope",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 2
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    },
+    {
+      "Name": "Thor, Lord of the Aesir",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

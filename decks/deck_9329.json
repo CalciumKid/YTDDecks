@@ -1,0 +1,188 @@
+{
+  "Date": "November 2022",
+  "Tournament": "YCS - Pasadena California",
+  "DeckName": "Ishizu Tearlaments",
+  "DeckId": "9329",
+  "Duelist": "Marcus Carisse",
+  "Placed": "Top 32",
+  "Archetype": "Tearlaments",
+  "DeckProfile": "www.youtube.com/embed/6M5_0zcypLY",
+  "MainDeck": [
+    {
+      "Name": "Agido the Ancient Sentinel",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Kelbek the Ancient Vanguard",
+      "Copies": 2
+    },
+    {
+      "Name": "Keldo the Sacred Protector",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudora the Sword Oracle",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Havnis",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Merrli",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Reinoheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Scheiren",
+      "Copies": 3
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 2
+    },
+    {
+      "Name": "Double or Nothing!",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Heartbeat",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Scream",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Cryme",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Sulliek",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Double",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kaleido-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kitkallos",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Rulkallos",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Volcanic Scattershot",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    }
+  ]
+}

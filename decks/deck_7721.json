@@ -1,0 +1,144 @@
+{
+  "Date": "May 2019",
+  "Tournament": "Regional - Hornsby",
+  "DeckName": "Madolche",
+  "DeckId": "7721",
+  "Duelist": "Brendan Kang",
+  "Placed": "8th Place",
+  "Archetype": "Madolche",
+  "DeckProfile": "www.youtube.com/embed/wH5ZjG-zuSA",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Madolche Anjelly",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Hootcake",
+      "Copies": 2
+    },
+    {
+      "Name": "Madolche Magileine",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Messengelato",
+      "Copies": 2
+    },
+    {
+      "Name": "Madolche Petingcessoeur",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Puddingcess",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Chateau",
+      "Copies": 1
+    },
+    {
+      "Name": "Madolche Ticket",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Madolche Fresh Sistart",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Puddingcess Chocolat-a-la-Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Queen Tiaramisu",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Teacher Glassouffle",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Crackdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

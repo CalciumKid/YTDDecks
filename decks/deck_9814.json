@@ -1,0 +1,184 @@
+{
+  "Date": "November 2023",
+  "Tournament": "OTS Championship Tirana",
+  "DeckName": "Superheavy Samurai",
+  "DeckId": "9814",
+  "Duelist": "Malber Bulku",
+  "Placed": "1st Place",
+  "Archetype": "Superheavy",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ancient Gear Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinitrack Tunneller",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai General Coral",
+      "Copies": 1
+    },
+    {
+      "Name": "Superheavy Samurai Monk Big Benkei",
+      "Copies": 2
+    },
+    {
+      "Name": "Superheavy Samurai Motorbike",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Prodigy Wakaushi",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Scales",
+      "Copies": 1
+    },
+    {
+      "Name": "Superheavy Samurai Soulgaia Booster",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Soulpeacemaker",
+      "Copies": 2
+    },
+    {
+      "Name": "Superheavy Samurai Soulpiercer",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Stealthy",
+      "Copies": 1
+    },
+    {
+      "Name": "Superheavy Samurai Wagon",
+      "Copies": 3
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchro Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Ballista",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic \"Champion\" Sargas",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Genius",
+      "Copies": 1
+    },
+    {
+      "Name": "Springans Merrymaker",
+      "Copies": 1
+    },
+    {
+      "Name": "Superheavy Samurai Ninja Sarutobi",
+      "Copies": 1
+    },
+    {
+      "Name": "Tilting Entrainment",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 1
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Sauge de Fleur",
+      "Copies": 3
+    }
+  ]
+}

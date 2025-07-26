@@ -1,0 +1,204 @@
+{
+  "Date": "October 2018",
+  "Tournament": "Regional - Istanbul",
+  "DeckName": "HERO",
+  "DeckId": "7431",
+  "Duelist": "Celil Eren Kalkan",
+  "Placed": "2nd Place",
+  "Archetype": "HERO",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Plasma",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Bubbleman",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Honest Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Solid Soldier",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Shien's Squire",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Vyon",
+      "Copies": 3
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Living Fossil",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Miracle Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Acquisitiveness",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "United We Stand",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Elemental HERO Absolute Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO The Shining",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Anki",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked HERO Dian",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Gumblar Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Adoration",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Trinity",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Wattkinetic Puppeteer",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "Date": "May 2008",
+  "Tournament": "2008 SJ St Louis",
+  "DeckName": "Gladiator Beast",
+  "DeckId": "2583",
+  "Duelist": "Joseph Rechis",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Gladiator",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Gladiator Beast Bestiari",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Darius",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Hoplomus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Laquari",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Murmillo",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Secutor",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Test Tiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Cold Wave",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Proving Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 2
+    },
+    {
+      "Name": "Blue-Eyes Ultimate Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 1
+    }
+  ]
+}

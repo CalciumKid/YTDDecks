@@ -1,0 +1,164 @@
+{
+  "Date": "June 2014",
+  "Tournament": "ARGCS Milwaukee",
+  "DeckName": "Dragon Rulers",
+  "DeckId": "3964",
+  "Duelist": "Patrick Hoban",
+  "Placed": "1st   14th Place",
+  "Archetype": "Dragon",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blaster, Dragon Ruler of Infernos",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Card Trooper",
+      "Copies": 1
+    },
+    {
+      "Name": "Debris Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Flamvell Guard",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuribandit",
+      "Copies": 2
+    },
+    {
+      "Name": "Mythic Tree Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythic Water Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Redox, Dragon Ruler of Boulders",
+      "Copies": 1
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 1
+    },
+    {
+      "Name": "The White Stone of Legend",
+      "Copies": 2
+    },
+    {
+      "Name": "Tidal, Dragon Ruler of Waterfalls",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cards of Consonance",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Silver's Cry",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 2
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 15: Gimmick Puppet Giant Grinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 46: Dragluon",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 3
+    },
+    {
+      "Name": "Hope for Escape",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Universe",
+      "Copies": 3
+    }
+  ]
+}

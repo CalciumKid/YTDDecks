@@ -1,0 +1,208 @@
+{
+  "Date": "January 2017",
+  "Tournament": "Regional - Zagreb Croatia",
+  "DeckName": "Brilliant Yang Zing Metalfoes",
+  "DeckId": "5800",
+  "Duelist": "Vedran Biljan",
+  "Placed": "Top 8",
+  "Archetype": "Metalfoe",
+  "DeckProfile": "www.youtube.com/embed/PNxg-YtO3Tk",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Bixi, Water of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Galaxy Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 1
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Goldriver",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Silverd",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Steelen",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Volflame",
+      "Copies": 3
+    },
+    {
+      "Name": "Pulao, Wind of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Red-Eyed Dice",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Suanni, Fire of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Zefraniu, Secret of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Oracle of Zefra",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 1
+    },
+    {
+      "Name": "Yang Zing Path",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Combination",
+      "Copies": 1
+    },
+    {
+      "Name": "Nine Pillars of Yang Zing",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Mithrilium",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "G.B. Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Magic Arrows",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Concealing Light",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

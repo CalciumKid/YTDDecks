@@ -1,0 +1,180 @@
+{
+  "Date": "October 2022",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Runick Fabled Synchro",
+  "DeckId": "9296",
+  "Duelist": "Roman Kelley",
+  "Placed": "7th Place",
+  "Archetype": "Synchro",
+  "DeckProfile": "www.youtube.com/embed/ZWSQpcxGvxs",
+  "MainDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 2
+    },
+    {
+      "Name": "Hop Ear Squadron",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "The Fabled Cerburrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Dispelling",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Flashing Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Fountain",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Freezing Curses",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Golden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Smiting Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Tip",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Cupid Pitch",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Berserker of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Freki the Runick Fangs",
+      "Copies": 1
+    },
+    {
+      "Name": "Geri the Runick Fangs",
+      "Copies": 2
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Hugin the Runick Wings",
+      "Copies": 3
+    },
+    {
+      "Name": "Merry Melffys",
+      "Copies": 1
+    },
+    {
+      "Name": "Munin the Runick Wings",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Ravenous Crocodragon Archethys",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Inspector Boarder",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "Date": "July 2014",
+  "Tournament": "WCQ - Europe",
+  "DeckName": "Tribute Stun",
+  "DeckId": "739",
+  "Duelist": "Luis Cossio",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Tribute Stun",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Angel O7",
+      "Copies": 1
+    },
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 3
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Ruler",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Dress",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Mausoleum of the Emperor",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Photon Sanctuary",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "Safe Zone",
+      "Copies": 2
+    },
+    {
+      "Name": "The First Monarch",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Consecrated Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Mausoleum of the Emperor",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Shield Type-8",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    }
+  ]
+}

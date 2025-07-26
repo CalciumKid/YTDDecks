@@ -1,0 +1,123 @@
+{
+  "Date": "June 2007",
+  "Tournament": "2007 UK Nationals",
+  "DeckName": "Burn",
+  "DeckId": "2759",
+  "Duelist": "Mark Au",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Burn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Des Koala",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravekeeper's Spy",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Level Limit - Area B",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Accumulated Fortune",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravity Bind",
+      "Copies": 1
+    },
+    {
+      "Name": "Jar of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 2
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 3
+    },
+    {
+      "Name": "Mecha-Dog Marron",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Poison of the Old Man",
+      "Copies": 3
+    },
+    {
+      "Name": "Tremendous Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "Date": "July 2013",
+  "Tournament": "WCQ - North American Championship",
+  "DeckName": "Prophecy",
+  "DeckId": "749",
+  "Duelist": "Norberto Leon",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Spellbook",
+  "DeckProfile": "www.youtube.com/embed/TZlTJ6OIdcI",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "High Priestess of Prophecy",
+      "Copies": 2
+    },
+    {
+      "Name": "Jowgen the Spiritualist",
+      "Copies": 1
+    },
+    {
+      "Name": "Justice of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook Library of the Crescent",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Eternity",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Fate",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Power",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of the Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Wisdom",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook Star Hall",
+      "Copies": 3
+    },
+    {
+      "Name": "The Grand Spellbook Tower",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Arcanite Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Armory Arm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Shining Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tempest Magician",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Drain",
+      "Copies": 3
+    }
+  ]
+}

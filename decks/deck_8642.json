@@ -1,0 +1,172 @@
+{
+  "Date": "April 2020",
+  "Tournament": "LCS - Hartford Connecticut",
+  "DeckName": "D/D/D",
+  "DeckId": "8642",
+  "Duelist": "Elijah Green",
+  "Placed": "Top 16",
+  "Archetype": "Different Dimension Demon",
+  "DeckProfile": "www.youtube.com/embed/onRuNFVq84Y",
+  "MainDeck": [
+    {
+      "Name": "D/D/D Chaos King Apocalypse",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Oblivion King Abyss Ragnarok",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Ghost",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D Lamia",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Necro Slime",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Orthros",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D Savant Copernicus",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Savant Kepler",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Swirl Slime",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Swamp King",
+      "Copies": 1
+    },
+    {
+      "Name": "Into the Void",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Where Arf Thou?",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Abyss King Gilgamesh",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Cursed King Siegfried",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Duo-Dawn King Kali Yuga",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Flame High King Genghis",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Flame King Genghis",
+      "Copies": 2
+    },
+    {
+      "Name": "D/D/D Gust King Alexander",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Oracle King d'Arc",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Satellite Warrior",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

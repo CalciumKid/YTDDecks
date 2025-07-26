@@ -1,0 +1,188 @@
+{
+  "Date": "May 2016",
+  "Tournament": "Regional - Secaucus New Jersey",
+  "DeckName": "Majespecter Pendulum Magicians",
+  "DeckId": "5122",
+  "Duelist": "Israel Leiva",
+  "Placed": "Top 8",
+  "Archetype": "Magician",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dragonpit Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Raccoon - Bunbuku",
+      "Copies": 2
+    },
+    {
+      "Name": "Majespecter Unicorn - Kirin",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 2
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Monkeyboard",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Odd-Eyes Light Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Odd-Eyes Unicorn",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Pendulum Sorcerer",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Secondonkey",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Xiangke Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Igknight Reload",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Sky Iris",
+      "Copies": 3
+    },
+    {
+      "Name": "Summoner's Art",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Odd-Eyes Rebellion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Fog King",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Shattering Arrow",
+      "Copies": 2
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    }
+  ]
+}

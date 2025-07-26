@@ -1,0 +1,164 @@
+{
+  "Date": "August 2014",
+  "Tournament": "ARGCS Providence",
+  "DeckName": "Nordic Power",
+  "DeckId": "8448",
+  "Duelist": "Thor",
+  "Placed": "Top 30",
+  "Archetype": "Nordic",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dverg of the Nordic Alfar",
+      "Copies": 2
+    },
+    {
+      "Name": "Fenrir the Nordic Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Garmr of the Nordic Beasts",
+      "Copies": 2
+    },
+    {
+      "Name": "Guldfaxe of the Nordic Beasts",
+      "Copies": 2
+    },
+    {
+      "Name": "Jormungardr the Nordic Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Ljosalf of the Nordic Alfar",
+      "Copies": 3
+    },
+    {
+      "Name": "Mara of the Nordic Alfar",
+      "Copies": 2
+    },
+    {
+      "Name": "Svartalf of the Nordic Alfar",
+      "Copies": 2
+    },
+    {
+      "Name": "Tanngnjostr of the Nordic Beasts",
+      "Copies": 2
+    },
+    {
+      "Name": "Tanngrisnir of the Nordic Beasts",
+      "Copies": 3
+    },
+    {
+      "Name": "Tyr of the Nordic Champions",
+      "Copies": 1
+    },
+    {
+      "Name": "Valkyrie of the Nordic Ascendant",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanadis of the Nordic Ascendant",
+      "Copies": 2
+    },
+    {
+      "Name": "Nordic Relic Draupnir",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "The Nordic Lights",
+      "Copies": 2
+    },
+    {
+      "Name": "Gleipnir, the Fetters of Fenrir",
+      "Copies": 2
+    },
+    {
+      "Name": "Nordic Relic Brisingamen",
+      "Copies": 2
+    },
+    {
+      "Name": "Nordic Relic Gungnir",
+      "Copies": 2
+    },
+    {
+      "Name": "Nordic Relic Laevateinn",
+      "Copies": 2
+    },
+    {
+      "Name": "Nordic Relic Megingjord",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gullveig of the Nordic Ascendant",
+      "Copies": 3
+    },
+    {
+      "Name": "Loki, Lord of the Aesir",
+      "Copies": 2
+    },
+    {
+      "Name": "Odin, Father of the Aesir",
+      "Copies": 2
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thor, Lord of the Aesir",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Alviss of the Nordic Alfar",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Relic Mjollnir",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Odin's Eye",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "June 2022",
+  "Tournament": "National Championship - Germany",
+  "DeckName": "P.U.N.K. Therion",
+  "DeckId": "9288",
+  "Duelist": "Daniel Hartmann",
+  "Placed": "1st Place",
+  "Archetype": "P.U.N.K.",
+  "DeckProfile": "www.youtube.com/embed/OuTgsf8moRo",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Deer Note",
+      "Copies": 3
+    },
+    {
+      "Name": "Noh-P.U.N.K. Foxy Tune",
+      "Copies": 3
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ogre Dance",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ze Amin",
+      "Copies": 3
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 3
+    },
+    {
+      "Name": "Therion \"Lily\" Borea",
+      "Copies": 2
+    },
+    {
+      "Name": "Therion \"Reaper\" Fum",
+      "Copies": 1
+    },
+    {
+      "Name": "Ukiyoe-P.U.N.K. Sharakusai",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Endless Engine Argyro System",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 2
+    },
+    {
+      "Name": "Therion Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion Discolosseum",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Therion Stand Up!",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Ruler, the Chaotic Magical Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend King Calamity",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic End Punisher",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "True King of All Calamities",
+      "Copies": 1
+    },
+    {
+      "Name": "Ukiyoe-P.U.N.K. Amazing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ukiyoe-P.U.N.K. Rising Carp",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

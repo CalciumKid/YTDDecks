@@ -1,0 +1,323 @@
+{
+  "Date": "July 2019",
+  "Tournament": "h",
+  "DeckName": "hh",
+  "DeckId": "8873",
+  "Duelist": "H",
+  "Placed": "31st Place",
+  "Archetype": "Guardragon",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Dragon Collapserpent",
+      "Copies": 2
+    },
+    {
+      "Name": "Blue-Eyes Alternative White Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 4
+    },
+    {
+      "Name": "Chaos Dragon Levianeer",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Emperor Dragon - Envoy of the End",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Emperor, the Dragon of Armageddon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chronograph Sorcerer",
+      "Copies": 1
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Draconnet",
+      "Copies": 3
+    },
+    {
+      "Name": "Eclipse Wyvern",
+      "Copies": 2
+    },
+    {
+      "Name": "Endymion, the Mighty Master of Magic",
+      "Copies": 2
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy Serpent",
+      "Copies": 3
+    },
+    {
+      "Name": "Galaxy Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Guardragon Agarpain",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Pisty",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavymetalfoes Electrumite",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Dragon of Nuit",
+      "Copies": 3
+    },
+    {
+      "Name": "Hieratic Seal of the Heavenly Spheres",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Magister of Endymion",
+      "Copies": 1
+    },
+    {
+      "Name": "Omni Dragon Brotaur",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Petit Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Balelynx",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Gazelle",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Jack Jaguar",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 2
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Wee Witch's Apprentice",
+      "Copies": 1
+    },
+    {
+      "Name": "White Dragon Wyverburster",
+      "Copies": 2
+    },
+    {
+      "Name": "World Chalice Guardragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefra Metaltron",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 4
+    },
+    {
+      "Name": "Cyber Repair Plant",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Airspace - Area Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "The Melody of Awakening Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder Dragon Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Trickstar Light Stage",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Will of the Salamangreat",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Guardragon",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Succession",
+      "Copies": 1
+    },
+    {
+      "Name": "Cybernetic Overflow",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Crescendo",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 4
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "El Shaddoll Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "F.A. Dawn Dragster",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Ib the World Chalice Justiciar",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Double",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 90: Galaxy-Eyes Photon Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

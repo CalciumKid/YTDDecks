@@ -1,0 +1,288 @@
+{
+  "Date": "February 2005",
+  "Tournament": "2005 Shonen Jump Columbus",
+  "DeckName": "Chaos Hybrid",
+  "DeckId": "3166",
+  "Duelist": "Vincent Tundo",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Warrior",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Airknight Parshath",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiber Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Mad Dog of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Scientist",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 2
+    },
+    {
+      "Name": "Shining Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Sinister Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Tribe-Infecting Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Provisions",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Metamorphosis",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirage of Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Choice",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "The Forceful Sentry",
+      "Copies": 1
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki Break",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Giltia the D. Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Karbonala Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Musician King",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 1
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 2
+    },
+    {
+      "Name": "Skull Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "St. Joan",
+      "Copies": 1
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Injection Fairy Lily",
+      "Copies": 1
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Swordsman LV2",
+      "Copies": 2
+    },
+    {
+      "Name": "Sasuke Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Exile of the Wicked",
+      "Copies": 2
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Barrel Behind the Door",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    }
+  ]
+}

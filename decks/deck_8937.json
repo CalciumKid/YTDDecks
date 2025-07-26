@@ -1,0 +1,156 @@
+{
+  "Date": "January 2018",
+  "Tournament": "OTS Championships",
+  "DeckName": "Pure Cardian",
+  "DeckId": "8937",
+  "Duelist": "Luis Ricardo Labres Rohde",
+  "Placed": "1st Place",
+  "Archetype": "Flower",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Flower Cardian Cherry Blossom with Curtain",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Clover with Boar",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Maple with Deer",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Paulownia",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Paulownia with Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Peony with Butterfly",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Pine",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Pine with Crane",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Willow",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Willow with Calligrapher",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Zebra Grass",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Zebra Grass with Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Stacking",
+      "Copies": 3
+    },
+    {
+      "Name": "Recardination",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Koi Koi",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Boardefly",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Lightflare",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Lightshower",
+      "Copies": 3
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 3
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Ogre Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Gathering",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ]
+}

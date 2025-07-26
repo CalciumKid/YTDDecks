@@ -1,0 +1,184 @@
+{
+  "Date": "February 2019",
+  "Tournament": "Regional - Spain",
+  "DeckName": "Lunalight",
+  "DeckId": "7683",
+  "Duelist": "Eric Ortega",
+  "Placed": "3rd Place",
+  "Archetype": "Lunalight",
+  "DeckProfile": "www.youtube.com/embed/Pn8K9SO0xe8",
+  "MainDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Black Sheep",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Emerald Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Kaleido Chick",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Purple Butterfly",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Tiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Wolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Yellow Marten",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Luna Light Perfume",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights' Rank-Up-Magic Launch",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Serenade Dance",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Fighting Daruma Doll",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Leo Dancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Panther Dancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Azathot",
+      "Copies": 1
+    },
+    {
+      "Name": "Outer Entity Nyarla",
+      "Copies": 1
+    },
+    {
+      "Name": "Reprodocus",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Date": "October 2012",
+  "Tournament": "2012 YCS Providence",
+  "DeckName": "Gladiator Beasts",
+  "DeckId": "1994",
+  "Duelist": "Brad Pironciak",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Gladiator",
+  "DeckProfile": "www.youtube.com/embed/ZhrRxh7vtDc",
+  "MainDeck": [
+    {
+      "Name": "Gladiator Beast Bestiari",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Darius",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Equeste",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Laquari",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Murmillo",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Retiari",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Samnite",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Proving Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast War Chariot",
+      "Copies": 3
+    },
+    {
+      "Name": "Horn of the Phantom Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 2
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Essedarii",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 17: Leviathan Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Temtempo the Percussion Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "King Tiger Wanghu",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Date": "August 2014",
+  "Tournament": "YGO State Championship Oregon",
+  "DeckName": "Hand Bujins",
+  "DeckId": "195",
+  "Duelist": "Beau Butler",
+  "Placed": "2nd Place",
+  "Archetype": "Bujin",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Bujin Arasuda",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujingi Crane",
+      "Copies": 3
+    },
+    {
+      "Name": "Bujingi Hare",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujingi Quilin",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujingi Turtle",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujin Hirume",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujin Mikazuchi",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujin Yamato",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Hand",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Ice Hand",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujincarnation",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Kaiser Colosseum",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujinki Amaterasu",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Kagutsuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Bujintei Susanowo",
+      "Copies": 3
+    },
+    {
+      "Name": "Bujintei Tsukuyomi",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Starliege Paladynamo",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Debunk",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Prison",
+      "Copies": 2
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

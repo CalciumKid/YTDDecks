@@ -1,0 +1,156 @@
+{
+  "Date": "March 2023",
+  "Tournament": "YCS - Lima Peru",
+  "DeckName": "Traptrix",
+  "DeckId": "9465",
+  "Duelist": "Renato Alfaro",
+  "Placed": "Top 32",
+  "Archetype": "Traptrix",
+  "DeckProfile": "www.youtube.com/embed/TN-d-Le9n_w",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Parallel eXceed",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Arachnocampa",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Dionaea",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Mantis",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Myrmeleo",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Pudica",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrip Garden",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravedigger's Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Terrifying Trap Hole Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    },
+    {
+      "Name": "Time-Space Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Holeutea",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Aussa the Earth Charmer, Immovable",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Allomerus",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Atypus",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Cularia",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Pinguicula",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Sera",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    }
+  ]
+}

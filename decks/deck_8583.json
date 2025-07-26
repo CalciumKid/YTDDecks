@@ -1,0 +1,160 @@
+{
+  "Date": "March 2020",
+  "Tournament": "Regional - Portsmouth England",
+  "DeckName": "Magical Musketeers",
+  "DeckId": "8583",
+  "Duelist": "Nick Burgess",
+  "Placed": "Top 4",
+  "Archetype": "Magical",
+  "DeckProfile": "www.youtube.com/embed/zluEPi41s6Q",
+  "MainDeck": [
+    {
+      "Name": "Magical Musketeer Caspar",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musketeer Doc",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Musketeer Kidbrave",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musketeer Starfire",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Musket - Cross-Domination",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Crooked Crown",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Musket - Dancing Needle",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Musket - Desperado",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Last Stand",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Akashic Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Musketeer Max",
+      "Copies": 3
+    },
+    {
+      "Name": "Millennium-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Trisbaena",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Magic Arrows",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

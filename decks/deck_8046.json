@@ -1,0 +1,180 @@
+{
+  "Date": "August 2019",
+  "Tournament": "UDS Invitational - Indianapolis",
+  "DeckName": "Witchcrafter",
+  "DeckId": "8046",
+  "Duelist": "Robert Riley",
+  "Placed": "Top 64",
+  "Archetype": "Witchcrafter",
+  "DeckProfile": "www.youtube.com/embed/JG2erxRsSv4",
+  "MainDeck": [
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Witchcrafter Haine",
+      "Copies": 2
+    },
+    {
+      "Name": "Witchcrafter Madame Verre",
+      "Copies": 1
+    },
+    {
+      "Name": "Witchcrafter Pittore",
+      "Copies": 3
+    },
+    {
+      "Name": "Witchcrafter Potterie",
+      "Copies": 1
+    },
+    {
+      "Name": "Witchcrafter Schmietta",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 2
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Witchcrafter Bystreet",
+      "Copies": 1
+    },
+    {
+      "Name": "Witchcrafter Creation",
+      "Copies": 3
+    },
+    {
+      "Name": "Witchcrafter Draping",
+      "Copies": 1
+    },
+    {
+      "Name": "Witchcrafter Holiday",
+      "Copies": 3
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beat Cop from the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 3
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 2
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Beat Cop from the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "LANphorhynchus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 2
+    }
+  ]
+}

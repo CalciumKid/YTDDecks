@@ -1,0 +1,196 @@
+{
+  "Date": "January 2018",
+  "Tournament": "Regional - Atlanta Georgia",
+  "DeckName": "Ritual Beasts",
+  "DeckId": "6965",
+  "Duelist": "Hayden Hart",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Beast",
+  "DeckProfile": "www.youtube.com/embed/d6qfIsfjwQQ",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Elder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Tamer Lara",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Wen",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Apelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Pettlephin",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Rampengu",
+      "Copies": 2
+    },
+    {
+      "Name": "Spiritual Beast Tamer Winda",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Glass Bell",
+      "Copies": 2
+    },
+    {
+      "Name": "Windwitch - Ice Bell",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Snow Bell",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ambush",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Steeds",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Apelio",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Cannahawk",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Gaiapelio",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Pettlephin",
+      "Copies": 3
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Windwitch - Winter Bell",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 2
+    },
+    {
+      "Name": "Lose 1 Turn",
+      "Copies": 2
+    }
+  ]
+}

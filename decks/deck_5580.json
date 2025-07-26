@@ -1,0 +1,176 @@
+{
+  "Date": "October 2016",
+  "Tournament": "Regional Montreal Canada",
+  "DeckName": "Brethren Majespecters",
+  "DeckId": "5580",
+  "Duelist": "Matthew Aube",
+  "Placed": "Top 8",
+  "Archetype": "Majespecter",
+  "DeckProfile": "www.youtube.com/embed/3IJTyIFDACE",
+  "MainDeck": [
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Majespecter Cat - Nekomata",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Crow - Yata",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Fox - Kyubi",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Raccoon - Bunbuku",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Toad - Ogama",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Majesty's Pegasus",
+      "Copies": 3
+    },
+    {
+      "Name": "Moon Mirror Shield",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Ties of the Brethren",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Majespecter Tempest",
+      "Copies": 2
+    },
+    {
+      "Name": "Majespecter Tornado",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Quantal Mech Beast Grampulse",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Totem Bird",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Jurassic World",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 2
+    },
+    {
+      "Name": "Majespecter Tempest",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

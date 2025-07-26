@@ -1,0 +1,176 @@
+{
+  "Date": "February 2020",
+  "Tournament": "Regional - Stockton England",
+  "DeckName": "Zombie Horde",
+  "DeckId": "8529",
+  "Duelist": "John Lupin Cash",
+  "Placed": "Top 8",
+  "Archetype": "Zombie",
+  "DeckProfile": "www.youtube.com/embed/6tvTWOhCIvY",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Mothman!",
+      "Copies": 3
+    },
+    {
+      "Name": "Doomking Balerdroch",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Glow-Up Bloom",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozuki",
+      "Copies": 2
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 1
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 2
+    },
+    {
+      "Name": "Shiranui Solitaire",
+      "Copies": 3
+    },
+    {
+      "Name": "Shiranui Spiritmaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 3
+    },
+    {
+      "Name": "Vampire Fraulein",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Shiranui Style Swallow's Slash",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Avendread Savior",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragonecro Nethersoul Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Zombie Necro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Shiranui Shogunsaga",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Sucker",
+      "Copies": 2
+    },
+    {
+      "Name": "Wee Witch's Apprentice",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    }
+  ]
+}

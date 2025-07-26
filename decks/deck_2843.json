@@ -1,0 +1,118 @@
+{
+  "Date": "March 2007",
+  "Tournament": "2007 SJ Houston",
+  "DeckName": "Ratty Gadgets",
+  "DeckId": "2843",
+  "Duelist": "Paul Levitan",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Gadget",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Card Trooper",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Exiled Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Rat",
+      "Copies": 3
+    },
+    {
+      "Name": "Green Gadget",
+      "Copies": 2
+    },
+    {
+      "Name": "Injection Fairy Lily",
+      "Copies": 2
+    },
+    {
+      "Name": "Neo-Spacian Grand Mole",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Gadget",
+      "Copies": 2
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Yellow Gadget",
+      "Copies": 2
+    },
+    {
+      "Name": "Confiscation",
+      "Copies": 1
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Widespread Ruin",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

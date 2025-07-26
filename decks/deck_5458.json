@@ -1,0 +1,200 @@
+{
+  "Date": "September 2016",
+  "Tournament": "Local Legend Duelist Series September 2016",
+  "DeckName": "Pendulum Magicians",
+  "DeckId": "5458",
+  "Duelist": "Michael Cleaver",
+  "Placed": "1st Place",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/GmPBU3LX8Ms",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragonpit Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragonpulse Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Majespecter Unicorn - Kirin",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 2
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Odd-Eyes Pendulum Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Odd-Eyes Light Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Odd-Eyes Unicorn",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Pendulum Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Radish Horse",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 1
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Xiangke Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Igknight Reload",
+      "Copies": 2
+    },
+    {
+      "Name": "Odd-Eyes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Iris",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Majester Paladin, the Ascending Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Norito the Moral Leader",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Absolute Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Rebellion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Flare Metal Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Amorphage Sloth",
+      "Copies": 2
+    },
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 1
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Timebreaker Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

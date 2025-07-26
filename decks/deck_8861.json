@@ -1,0 +1,115 @@
+{
+  "Date": "October 2017",
+  "Tournament": "yugioh regionals",
+  "DeckName": "amazonness",
+  "DeckId": "8861",
+  "Duelist": "Matthew Kinghorn",
+  "Placed": "1st Place",
+  "Archetype": "Amazoness",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Amazoness Archer",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Baby Tiger",
+      "Copies": 1
+    },
+    {
+      "Name": "Amazoness Blowpiper",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Chain Master",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Fighter",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Paladin",
+      "Copies": 1
+    },
+    {
+      "Name": "Amazoness Princess",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Queen",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Sage",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Scouts",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Spy",
+      "Copies": 2
+    },
+    {
+      "Name": "Amazoness Swords Woman",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Tiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Trainee",
+      "Copies": 4
+    },
+    {
+      "Name": "Amazon of the Seas",
+      "Copies": 1
+    },
+    {
+      "Name": "The Unfriendly Amazon",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Fighting Spirit",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Heirloom",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Village",
+      "Copies": 3
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Onslaught",
+      "Copies": 3
+    },
+    {
+      "Name": "Amazoness Shamanism",
+      "Copies": 2
+    },
+    {
+      "Name": "Amazoness Willpower",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Amazoness Empress",
+      "Copies": 2
+    },
+    {
+      "Name": "Amazoness Pet Liger",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

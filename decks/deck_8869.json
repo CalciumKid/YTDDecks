@@ -1,0 +1,176 @@
+{
+  "Date": "December 2018",
+  "Tournament": "Quarterly Open Sheffield",
+  "DeckName": "Crusadia",
+  "DeckId": "8869",
+  "Duelist": "Lizzie Jackson",
+  "Placed": "13th Place",
+  "Archetype": "Crusadia",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Crusadia Arboria",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Draco",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Leonis",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Maximus",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Reclusia",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy - \"World Crown\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Crusadia Power",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusadia Revival",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusadia Vanguard",
+      "Copies": 2
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap-Iron Scarecrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Waking the Dragon",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Crusadia Equimax",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusadia Magius",
+      "Copies": 3
+    },
+    {
+      "Name": "Crusadia Regulex",
+      "Copies": 2
+    },
+    {
+      "Name": "Crusadia Spatha",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 2
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Ultimate Falcon",
+      "Copies": 2
+    },
+    {
+      "Name": "Topologic Bomber Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Crusadia Reclusia",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy - \"World Crown\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 1
+    }
+  ]
+}

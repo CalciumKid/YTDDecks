@@ -1,0 +1,180 @@
+{
+  "Date": "July 2023",
+  "Tournament": "WCQ - Europe",
+  "DeckName": "Earth Machine",
+  "DeckId": "9686",
+  "Duelist": "Petros Rousos",
+  "Placed": "Top 16",
+  "Archetype": "Earth Machine",
+  "DeckProfile": "www.youtube.com/embed/guz65FfByaA",
+  "MainDeck": [
+    {
+      "Name": "Ancient Gear Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Freight Train Derricrane",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Brutal Dozer",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Harvester",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinitrack Trencher",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinitrack Tunneller",
+      "Copies": 1
+    },
+    {
+      "Name": "Machina Citadel",
+      "Copies": 1
+    },
+    {
+      "Name": "Machina Fortress",
+      "Copies": 1
+    },
+    {
+      "Name": "Machina Gearframe",
+      "Copies": 3
+    },
+    {
+      "Name": "Machina Ruinforce",
+      "Copies": 1
+    },
+    {
+      "Name": "Machina Unclaspare",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Express Bullet Train",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Forward",
+      "Copies": 3
+    },
+    {
+      "Name": "Machina Redeployment",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Urgent Schedule",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Machina Overdrive",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Gear Ballista",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Double Headed Anger Knuckle",
+      "Copies": 1
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Earth Slicer",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Goliath",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinitrack River Stormer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Fortress Enterblathnir",
+      "Copies": 1
+    },
+    {
+      "Name": "Platinum Gadget",
+      "Copies": 1
+    },
+    {
+      "Name": "Qliphort Genius",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "Date": "March 2019",
+  "Tournament": "Regional - Budapest",
+  "DeckName": "Fur Hire Control",
+  "DeckId": "7714",
+  "Duelist": "Roland Kottyán",
+  "Placed": "35th Place",
+  "Archetype": "Fur Hire",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Beat, Bladesman Fur Hire",
+      "Copies": 3
+    },
+    {
+      "Name": "Bravo, Fighter Fur Hire",
+      "Copies": 2
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Donpa, Marksman Fur Hire",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Blue Sky",
+      "Copies": 2
+    },
+    {
+      "Name": "Mekk-Knight Indigo Eclipse",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Purple Nightfall",
+      "Copies": 2
+    },
+    {
+      "Name": "Rafale, Champion Fur Hire",
+      "Copies": 2
+    },
+    {
+      "Name": "Recon, Scout Fur Hire",
+      "Copies": 2
+    },
+    {
+      "Name": "Seal, Strategist Fur Hire",
+      "Copies": 2
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 2
+    },
+    {
+      "Name": "Kyoutou Waterfront",
+      "Copies": 3
+    },
+    {
+      "Name": "Mayhem Fur Hire",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Mecha - Hornet Drones",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "World Legacy Succession",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Folgo, Justice Fur Hire",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight of the Morning Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Spectrum Supreme",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Cavalry Centaurea",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Kagari",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Burst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    }
+  ]
+}

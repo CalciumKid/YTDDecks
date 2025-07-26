@@ -1,0 +1,200 @@
+{
+  "Date": "January 2017",
+  "Tournament": "Regional - Henderson Nevada",
+  "DeckName": "Brethren Star Seraph Rituals",
+  "DeckId": "5866",
+  "Duelist": "Brandon Ramos",
+  "Placed": "Top 8",
+  "Archetype": "Ritual",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Barrier Statue of the Heavens",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Angel Benten",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Angel Idaten",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Perfection",
+      "Copies": 3
+    },
+    {
+      "Name": "Honest",
+      "Copies": 2
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 2
+    },
+    {
+      "Name": "Saffira, Queen of Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Seraph Scepter",
+      "Copies": 3
+    },
+    {
+      "Name": "Star Seraph Sovereignty",
+      "Copies": 3
+    },
+    {
+      "Name": "Dawn of the Herald",
+      "Copies": 3
+    },
+    {
+      "Name": "Hymn of Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 1
+    },
+    {
+      "Name": "Pre-Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Sanctuary",
+      "Copies": 3
+    },
+    {
+      "Name": "Sprite's Blessing",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Ties of the Brethren",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Ouroboros",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Cheer Girl",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Constellar Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Delteros",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 1
+    },
+    {
+      "Name": "Consecrated Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Santa Claws",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Urgent Ritual Art",
+      "Copies": 2
+    }
+  ]
+}

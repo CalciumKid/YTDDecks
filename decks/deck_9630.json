@@ -1,0 +1,204 @@
+{
+  "Date": "May 2023",
+  "Tournament": "YCS - Philadelphia Pennsylvania",
+  "DeckName": "Tearlaments",
+  "DeckId": "9630",
+  "Duelist": "Nick Scarangella",
+  "Placed": "Top 16",
+  "Archetype": "Tearlaments",
+  "DeckProfile": "www.youtube.com/embed/ur4O9Fx_yaQ",
+  "MainDeck": [
+    {
+      "Name": "Agido the Ancient Sentinel",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Denier",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 2
+    },
+    {
+      "Name": "Destrudo the Lost Dragon's Frisson",
+      "Copies": 1
+    },
+    {
+      "Name": "Diviner of the Herald",
+      "Copies": 1
+    },
+    {
+      "Name": "Kelbek the Ancient Vanguard",
+      "Copies": 1
+    },
+    {
+      "Name": "Keldo the Sacred Protector",
+      "Copies": 3
+    },
+    {
+      "Name": "King of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Havnis",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kashtira",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Merrli",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Reinoheart",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Scheiren",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Primeval Planet Perlereino",
+      "Copies": 3
+    },
+    {
+      "Name": "Tearlaments Scream",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Sulliek",
+      "Copies": 3
+    },
+    {
+      "Name": "Trivikarma",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Barricadeborg Blocker",
+      "Copies": 1
+    },
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dangerous",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Grapha, Dragon Overlord of Dark World",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Kaleido-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Tearlaments Rulkallos",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Five-Rainbow Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Tearlaments Cryme",
+      "Copies": 1
+    }
+  ]
+}

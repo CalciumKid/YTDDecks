@@ -1,0 +1,160 @@
+{
+  "Date": "January 2017",
+  "Tournament": "Regional - Houston Texas",
+  "DeckName": "Supply Squad Scraps",
+  "DeckId": "5848",
+  "Duelist": "Johnny Nguyen",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Scrap",
+  "DeckProfile": "www.youtube.com/embed/_kFFD3yy-xo",
+  "MainDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Chimera",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Goblin",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Orthros",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Factory",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrapstorm",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrapyard",
+      "Copies": 2
+    },
+    {
+      "Name": "Supply Squad",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Twin Dragon",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ]
+}

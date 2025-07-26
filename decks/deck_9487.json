@@ -1,0 +1,192 @@
+{
+  "Date": "March 2023",
+  "Tournament": "Regional - Rio de Janeiro Brazil",
+  "DeckName": "Generaider",
+  "DeckId": "9487",
+  "Duelist": "Marcello Alves",
+  "Placed": "Top 8",
+  "Archetype": "Generaider",
+  "DeckProfile": "www.youtube.com/embed/_JtOhitMu7o",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Diviner of the Herald",
+      "Copies": 1
+    },
+    {
+      "Name": "Harr, Generaider Boss of Storms",
+      "Copies": 2
+    },
+    {
+      "Name": "Hela, Generaider Boss of Doom",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 2
+    },
+    {
+      "Name": "Loptr, Shadow of the Generaider Bosses",
+      "Copies": 3
+    },
+    {
+      "Name": "Mardel, Generaider Boss of Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Trias Hierarchia",
+      "Copies": 1
+    },
+    {
+      "Name": "Utgarda, Generaider Boss of Delusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Vala, Seidhr of the Generaider Bosses",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Generaider Boss Quest",
+      "Copies": 1
+    },
+    {
+      "Name": "Generaider Boss Stage",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "World Legacy Monstrosity",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    },
+    {
+      "Name": "Generaider Boss Fight",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Jormungandr, Generaider Boss of Eternity",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Laevatein, Generaider Boss of Shadows",
+      "Copies": 2
+    },
+    {
+      "Name": "Mereologic Aggregator",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Draco Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Fortress Enterblathnir",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Deck Devastation Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    }
+  ]
+}

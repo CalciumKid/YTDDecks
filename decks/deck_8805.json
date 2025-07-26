@@ -1,0 +1,135 @@
+{
+  "Date": "February 2017",
+  "Tournament": "2017 championship- pennsylvania",
+  "DeckName": "cubic",
+  "DeckId": "8805",
+  "Duelist": "Alan Mcdonald",
+  "Placed": "1st Place",
+  "Archetype": "Cubic",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Buster Gundil the Cubic Behemoth",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Nova the Dark Cubic Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Garnex the Cubic Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Duza the Meteor Cubic Vessel",
+      "Copies": 3
+    },
+    {
+      "Name": "Geira Guile the Cubic King",
+      "Copies": 1
+    },
+    {
+      "Name": "Indiora Doom Volt the Cubic Emperor",
+      "Copies": 1
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Vijam the Cubic Seed",
+      "Copies": 3
+    },
+    {
+      "Name": "Cubic Karma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cubic Wave",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Conscription",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Recurring Nightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Compulsory Escape Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Cubic Mandala",
+      "Copies": 3
+    },
+    {
+      "Name": "Cubic Rebirth",
+      "Copies": 2
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Unification of the Cubic Lords",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cairngorgon, Antiluminescent Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Nova Trinity the Dark Cubic Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 54: Lion Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

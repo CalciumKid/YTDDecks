@@ -1,0 +1,140 @@
+{
+  "Date": "January 2022",
+  "Tournament": "YCS Pasadena (IRL)",
+  "DeckName": "Common Charity - Lunalight",
+  "DeckId": "9044",
+  "Duelist": "Stevie Blunder",
+  "Placed": "1st Place",
+  "Archetype": "Lunalight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Crimson Fox",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Emerald Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Kaleido Chick",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Purple Butterfly",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Wolf",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Yellow Marten",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Luna Light Perfume",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Serenade Dance",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Evilswarm Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravekeeper's Supernaturalist",
+      "Copies": 4
+    },
+    {
+      "Name": "Lunalight Cat Dancer",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Leo Dancer",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Panther Dancer",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Sabre Dancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 2
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 4
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 4
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 4
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 4
+    }
+  ]
+}

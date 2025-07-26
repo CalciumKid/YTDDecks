@@ -1,0 +1,180 @@
+{
+  "Date": "October 2016",
+  "Tournament": "Knoxville Tennessee Regionals",
+  "DeckName": "Raidraptors",
+  "DeckId": "9056",
+  "Duelist": "Chris Hairston",
+  "Placed": "Top 8",
+  "Archetype": "Raidraptor",
+  "DeckProfile": "www.youtube.com/embed/FV4ZSRcYZMw",
+  "MainDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Booster Strix",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Fuzzy Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Last Strix",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Mimicry Lanius",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Pain Lanius",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Sharp Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Singing Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Tribute Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Vanishing Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Cattle Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Nest",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Astral Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Skip Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Rank-Up-Magic Soul Shave Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Readiness",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Ice Beast Zerofyne",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 77: The Seven Sins",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S0: Utopic ZEXAL",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Blade Burner Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Force Strix",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Revolution Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Satellite Cannon Falcon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Ultimate Falcon",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ally of Justice Cycle Reader",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Raptor's Gust",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Reborn",
+      "Copies": 1
+    }
+  ]
+}

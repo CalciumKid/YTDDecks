@@ -1,0 +1,200 @@
+{
+  "Date": "May 2016",
+  "Tournament": "Regional - Perth Australia",
+  "DeckName": "Quickdraw Synchrons",
+  "DeckId": "5056",
+  "Duelist": "Duelist Unknown",
+  "Placed": "Top 8",
+  "Archetype": "Synchro",
+  "DeckProfile": "www.youtube.com/embed/isZMh2edInU",
+  "MainDeck": [
+    {
+      "Name": "Dandylion",
+      "Copies": 1
+    },
+    {
+      "Name": "Doppelwarrior",
+      "Copies": 3
+    },
+    {
+      "Name": "Glow-Up Bulb",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Junk Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Level Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 1
+    },
+    {
+      "Name": "Quickdraw Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Quillbolt Hedgehog",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Unknown Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 2
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Tuning",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Slump",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Drill Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Junk Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Road Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Quasar Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Tatsunoko",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Drill Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Junk Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Road Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Quasar Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Tatsunoko",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ]
+}

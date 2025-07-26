@@ -1,0 +1,164 @@
+{
+  "Date": "September 2018",
+  "Tournament": "LLDS - Sheffield",
+  "DeckName": "Gusto Windwitch",
+  "DeckId": "7395",
+  "Duelist": "Lizzie Jackson",
+  "Placed": "18th Place",
+  "Archetype": "Invoked Windwitch",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Gusto Egul",
+      "Copies": 3
+    },
+    {
+      "Name": "Gusto Gulldo",
+      "Copies": 3
+    },
+    {
+      "Name": "Kamui, Hope of Gusto",
+      "Copies": 2
+    },
+    {
+      "Name": "Pilica, Descendant of Gusto",
+      "Copies": 3
+    },
+    {
+      "Name": "Winda, Priestess of Gusto",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Glass Bell",
+      "Copies": 2
+    },
+    {
+      "Name": "Windwitch - Ice Bell",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Snow Bell",
+      "Copies": 2
+    },
+    {
+      "Name": "Contact with Gusto",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Mallet",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blessings for Gusto",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Drowning Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap-Iron Scarecrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Team Buddy Force Unite!",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Sphreez",
+      "Copies": 3
+    },
+    {
+      "Name": "Greatfly",
+      "Copies": 3
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Martial Metal Marcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Windwitch - Winter Bell",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "The Winged Dragon of Ra",
+      "Copies": 1
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 2
+    },
+    {
+      "Name": "Windwitch - Glass Bell",
+      "Copies": 1
+    },
+    {
+      "Name": "Windwitch - Snow Bell",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Quill Pen of Gulldos",
+      "Copies": 2
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Waking the Dragon",
+      "Copies": 2
+    }
+  ]
+}

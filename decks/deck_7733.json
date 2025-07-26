@@ -1,0 +1,164 @@
+{
+  "Date": "May 2019",
+  "Tournament": "Regional - Seattle Washington",
+  "DeckName": "Magical Musketeers",
+  "DeckId": "7733",
+  "Duelist": "James Matson",
+  "Placed": "11th Place",
+  "Archetype": "Magical",
+  "DeckProfile": "www.youtube.com/embed/mr9_vO8C-yA",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Musketeer Caspar",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musketeer Doc",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musketeer Kidbrave",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Musketeer Starfire",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Mallet",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Musket - Cross-Domination",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Steady Hands",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Ties of the Brethren",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Musket - Crooked Crown",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Musket - Dancing Needle",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Musket - Desperado",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Last Stand",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Blackwing - Nothung the Starlight",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyberse Quantum Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Diplexer Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Mithrilium",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 30: Acid Golem of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 47: Nightmare Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Vortex Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "World Chalice Guardragon Almarduke",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Musket - Dancing Needle",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    }
+  ]
+}

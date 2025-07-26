@@ -1,0 +1,164 @@
+{
+  "Date": "March 2019",
+  "Tournament": "UDS - Las Vegas",
+  "DeckName": "Nekroz",
+  "DeckId": "7799",
+  "Duelist": "Abraham King",
+  "Placed": "19th Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "www.youtube.com/embed/xH31NVPJrAI",
+  "MainDeck": [
+    {
+      "Name": "Dance Princess of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Impcantation Bookstone",
+      "Copies": 2
+    },
+    {
+      "Name": "Impcantation Candoll",
+      "Copies": 2
+    },
+    {
+      "Name": "Impcantation Chalislime",
+      "Copies": 1
+    },
+    {
+      "Name": "Impcantation Penciplume",
+      "Copies": 2
+    },
+    {
+      "Name": "Impcantation Talismandra",
+      "Copies": 2
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Brionac",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Clausolas",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Gungnir",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Trishula",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Unicore",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Valkyrus",
+      "Copies": 3
+    },
+    {
+      "Name": "Shurit, Strategist of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Zaborg the Mega Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz Cycle",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Kaleidoscope",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Renewal of the World",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Nephthys, the Sacred Flame",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 2
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 3
+    }
+  ]
+}

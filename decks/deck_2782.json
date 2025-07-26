@@ -1,0 +1,139 @@
+{
+  "Date": "December 2007",
+  "Tournament": "2007 SJ San Mateo",
+  "DeckName": "Ritual",
+  "DeckId": "2782",
+  "Duelist": "David Rodriguez",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Ritual",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Demise, King of Armageddon",
+      "Copies": 3
+    },
+    {
+      "Name": "Doom Dozer",
+      "Copies": 3
+    },
+    {
+      "Name": "Great Maju Garzett",
+      "Copies": 2
+    },
+    {
+      "Name": "Insect Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Marshmallon",
+      "Copies": 1
+    },
+    {
+      "Name": "Metal Armored Bug",
+      "Copies": 3
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 2
+    },
+    {
+      "Name": "Sonic Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Advanced Ritual Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Megamorph",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Swing of Memories",
+      "Copies": 2
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravity Bind",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 1
+    },
+    {
+      "Name": "Level Limit - Area B",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    }
+  ]
+}

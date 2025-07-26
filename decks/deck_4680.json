@@ -1,0 +1,180 @@
+{
+  "Date": "December 2015",
+  "Tournament": "Regional - Kissimmee Florida",
+  "DeckName": "Pendulum Magicians",
+  "DeckId": "4680",
+  "Duelist": "Eric Lopez",
+  "Placed": "Top 8",
+  "Archetype": "Magician",
+  "DeckProfile": "www.youtube.com/embed/UIn1cK9C6_o",
+  "MainDeck": [
+    {
+      "Name": "Dragonpit Magician",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonpulse Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Jigabyte",
+      "Copies": 1
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Masked Chameleon",
+      "Copies": 1
+    },
+    {
+      "Name": "Oafdragon Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Damage Juggler",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Hat Tricker",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Mirror Conductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Plushfire",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 3
+    },
+    {
+      "Name": "Wisdom-Eye Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 2
+    },
+    {
+      "Name": "King of the Feral Imps",
+      "Copies": 1
+    },
+    {
+      "Name": "Majester Paladin, the Ascending Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 82: Heartlandraco",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 2
+    },
+    {
+      "Name": "Grand Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

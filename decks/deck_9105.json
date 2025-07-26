@@ -1,0 +1,164 @@
+{
+  "Date": "January 2022",
+  "Tournament": "Remote Duel Yu-Gi-Oh! Championship Series North America 2022",
+  "DeckName": "Beetrooper",
+  "DeckId": "9105",
+  "Duelist": "Andrew Hadfield",
+  "Placed": "4th Place",
+  "Archetype": "Beetrooper",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlewasp - Arbalest the Rapidfire",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlewasp - Pin the Bullseye",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlewasp - Sting the Poison",
+      "Copies": 3
+    },
+    {
+      "Name": "Beetrooper Assault Roller",
+      "Copies": 1
+    },
+    {
+      "Name": "Beetrooper Scale Bomber",
+      "Copies": 3
+    },
+    {
+      "Name": "Beetrooper Sting Lancer",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Doom Dozer",
+      "Copies": 1
+    },
+    {
+      "Name": "Gokipole",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Resonance Insect",
+      "Copies": 3
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Beetrooper Descent",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Beetrooper Armor Horn",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Beetrooper Invincible Atlas",
+      "Copies": 1
+    },
+    {
+      "Name": "Inzektor Picofalena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Verte Anaconda",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Seraphim Papillion",
+      "Copies": 2
+    },
+    {
+      "Name": "Wynn the Wind Charmer, Verdant",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Girochin Kuwagata",
+      "Copies": 1
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

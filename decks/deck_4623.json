@@ -1,0 +1,180 @@
+{
+  "Date": "November 2015",
+  "Tournament": "Regional - Winnipeg Canada",
+  "DeckName": "Performage Pendulums",
+  "DeckId": "4623",
+  "Duelist": "Duelist Unknown",
+  "Placed": "Top 8",
+  "Archetype": "Performage",
+  "DeckProfile": "www.youtube.com/embed/kcmNaiXXJRY",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Jigabyte",
+      "Copies": 3
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Masked Chameleon",
+      "Copies": 2
+    },
+    {
+      "Name": "Nefarious Archfiend Eater of Nefariousness",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Damage Juggler",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Hat Tricker",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Mirror Conductor",
+      "Copies": 2
+    },
+    {
+      "Name": "Performage Plushfire",
+      "Copies": 3
+    },
+    {
+      "Name": "Performage Trick Clown",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Partnaga",
+      "Copies": 1
+    },
+    {
+      "Name": "Vector Pendulum, the Dracoverlord",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 2
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Time-Space Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 2
+    },
+    {
+      "Name": "King of the Feral Imps",
+      "Copies": 2
+    },
+    {
+      "Name": "Majester Paladin, the Ascending Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 104: Masquerade",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 80: Rhapsody in Berserk",
+      "Copies": 1
+    },
+    {
+      "Name": "Performage Trapeze Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Samurai Cavalry of Reptier",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Deck Devastation Virus",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    }
+  ]
+}

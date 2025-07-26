@@ -1,0 +1,180 @@
+{
+  "Date": "April 2021",
+  "Tournament": "Remote Duel Extravaganza",
+  "DeckName": "Omni Heroes",
+  "DeckId": "9021",
+  "Duelist": "Drew Cordoba",
+  "Placed": "12th Place",
+  "Archetype": "HERO",
+  "DeckProfile": "www.youtube.com/embed/h2Pnh8Hp4N0",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Drawhand",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dynatag",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny HERO - Plasma",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Honest Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Liquid Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Solid Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 2
+    },
+    {
+      "Name": "Evil HERO Adusted Gold",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Faris",
+      "Copies": 3
+    },
+    {
+      "Name": "Vision HERO Increase",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Vyon",
+      "Copies": 3
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Calling",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Miracle Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Destiny HERO - Dangerous",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dystopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Absolute Zero",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Escuridao",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Great Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Sunrise",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO The Shining",
+      "Copies": 1
+    },
+    {
+      "Name": "Evil HERO Malicious Bane",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Acid",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

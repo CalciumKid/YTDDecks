@@ -1,0 +1,160 @@
+{
+  "Date": "April 2021",
+  "Tournament": "Germany Remote Duel Extravaganza-Main Event",
+  "DeckName": "Nekroz Mathmech",
+  "DeckId": "9032",
+  "Duelist": "Malte I.",
+  "Placed": "3rd Place",
+  "Archetype": "Mathmech",
+  "DeckProfile": "www.youtube.com/embed/YLYObCFjz9I",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Balancer Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Addition",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Diameter",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Multiplication",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Nabla",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathmech Sigma",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Subtraction",
+      "Copies": 3
+    },
+    {
+      "Name": "Parallel eXceed",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Superfactorial",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyberse Wicckid",
+      "Copies": 1
+    },
+    {
+      "Name": "Geomathmech Final Sigma",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Devotee",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Disciple",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Primathmech Alembertian",
+      "Copies": 2
+    },
+    {
+      "Name": "Primathmech Laplacian",
+      "Copies": 2
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 1
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

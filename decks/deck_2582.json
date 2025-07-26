@@ -1,0 +1,160 @@
+{
+  "Date": "May 2008",
+  "Tournament": "2008 SJ St Louis",
+  "DeckName": "Gladiator Beast",
+  "DeckId": "2582",
+  "Duelist": "Danny Magnin",
+  "Placed": "2nd Place",
+  "Archetype": "Gladiator",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Gladiator Beast Bestiari",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Darius",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Hoplomus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Laquari",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Murmillo",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Secutor",
+      "Copies": 1
+    },
+    {
+      "Name": "Neo-Spacian Grand Mole",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Test Tiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Proving Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 2
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Shield Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Shrink",
+      "Copies": 3
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    }
+  ]
+}

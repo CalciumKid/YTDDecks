@@ -1,0 +1,108 @@
+{
+  "Date": "June 2020",
+  "Tournament": "National Championship - Poland",
+  "DeckName": "Dragon Link",
+  "DeckId": "8759",
+  "Duelist": "Mateusz Konieczny",
+  "Placed": "1st Place",
+  "Archetype": "Dragon",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Dark Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 001",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Garnet",
+      "Copies": 3
+    },
+    {
+      "Name": "Mare Mare",
+      "Copies": 3
+    },
+    {
+      "Name": "Mecha Phantom Beast O-Lion",
+      "Copies": 3
+    },
+    {
+      "Name": "Predaplant Darlingtonia Cobra",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 3
+    },
+    {
+      "Name": "Red-Eyes Black Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Scrap Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 3
+    },
+    {
+      "Name": "Stardust Dragon/Assault Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Windwitch - Glass Bell",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Mode Activate",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adamancipator Risen - Dragite",
+      "Copies": 1
+    },
+    {
+      "Name": "A-to-Z-Dragon Buster Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Furious Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quariongandrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gnomaterial",
+      "Copies": 1
+    },
+    {
+      "Name": "Metrognome",
+      "Copies": 1
+    },
+    {
+      "Name": "Mischief of the Gnomes",
+      "Copies": 1
+    }
+  ]
+}

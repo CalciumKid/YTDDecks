@@ -1,0 +1,192 @@
+{
+  "Date": "June 2016",
+  "Tournament": "2016 YCS Providence",
+  "DeckName": "Mecha Phantom Karakuri Speedroids",
+  "DeckId": "8804",
+  "Duelist": "Vahgrant",
+  "Placed": "80th Place",
+  "Archetype": "Karakuri",
+  "DeckProfile": "www.youtube.com/embed/vCR_yrWA7Jw",
+  "MainDeck": [
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Barrel mdl 96 \"Shinkuro\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Komachi mdl 224 \"Ninishi\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Soldier mdl 236 \"Nisamu\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Strategist mdl 248 \"Nishipachi\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Watchdog mdl 313 \"Saizan\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathematician",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Megaraptor",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast O-Lion",
+      "Copies": 3
+    },
+    {
+      "Name": "Mecha Phantom Beast Tetherwolf",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Recycler",
+      "Copies": 3
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 2
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Iron Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Transmodify",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Mask of Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Shogun mdl 00 \"Burei\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Panzer Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

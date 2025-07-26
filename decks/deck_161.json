@@ -1,0 +1,180 @@
+{
+  "Date": "July 2014",
+  "Tournament": "YGO State Championship Florida",
+  "DeckName": "Ninja Hieratics",
+  "DeckId": "161",
+  "Duelist": "Chris White",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Hieratic",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragard",
+      "Copies": 2
+    },
+    {
+      "Name": "Hieratic Dragon of Eset",
+      "Copies": 3
+    },
+    {
+      "Name": "Hieratic Dragon of Nebthet",
+      "Copies": 2
+    },
+    {
+      "Name": "Hieratic Dragon of Su",
+      "Copies": 3
+    },
+    {
+      "Name": "Hieratic Dragon of Tefnuit",
+      "Copies": 3
+    },
+    {
+      "Name": "Labradorite Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Ninja Grandmaster Hanzo",
+      "Copies": 3
+    },
+    {
+      "Name": "Red-Eyes Darkness Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "A Wingbeat of Giant Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Hieratic Seal of Convocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Planter",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Ninjitsu Art of Super-Transformation",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Artifact Durendal",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 2
+    },
+    {
+      "Name": "Gauntlet Launcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Dragon King of Atum",
+      "Copies": 3
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 1
+    },
+    {
+      "Name": "Photon Strike Bounzer",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Trident Dragion",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Koa'ki Meiru Drago",
+      "Copies": 1
+    },
+    {
+      "Name": "Majesty's Fiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Double Dragon Descent",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Date": "November 2018",
+  "Tournament": "WCQ - Creil",
+  "DeckName": "Blackwing",
+  "DeckId": "7522",
+  "Duelist": "Benoit Bouloudi",
+  "Placed": "3rd Place",
+  "Archetype": "Blackwing",
+  "DeckProfile": "www.youtube.com/embed/zA-RPnJuo1E",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Auster the South Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Blizzard the Far North",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Bora the Spear",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gale the Whirlwind",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Harmattan the Dust",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Kris the Crack of Dawn",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Oroshi the Squall",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Simoon the Poison Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Steam the Cloak",
+      "Copies": 3
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Whirlwind",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Assault Blackwing - Raikiri the Rain Shower",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Blackwing - Sohaya the Rain Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing Full Armor Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Nothung the Starlight",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing Tamer - Obsidian Hawk Joe",
+      "Copies": 2
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    },
+    {
+      "Name": "Wee Witch's Apprentice",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "Date": "March 2007",
+  "Tournament": "2007 SJ Columbus",
+  "DeckName": "Gadgets",
+  "DeckId": "2867",
+  "Duelist": "Brian Long",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Gadget",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Green Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Hydrogeddon",
+      "Copies": 3
+    },
+    {
+      "Name": "Neo-Spacian Grand Mole",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Yellow Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Trader",
+      "Copies": 3
+    },
+    {
+      "Name": "Fissure",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Rush Recklessly",
+      "Copies": 1
+    },
+    {
+      "Name": "Shrink",
+      "Copies": 3
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Widespread Ruin",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Des Wombat",
+      "Copies": 1
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 3
+    },
+    {
+      "Name": "Cursed Seal of the Forbidden Spell",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 2
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ]
+}

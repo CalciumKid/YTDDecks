@@ -1,0 +1,176 @@
+{
+  "Date": "July 2009",
+  "Tournament": "2009 CA Nationals",
+  "DeckName": "GLAD",
+  "DeckId": "2514",
+  "Duelist": "Lincoln Lindo",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Gladiator",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Gladiator Beast Bestiari",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Darius",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Equeste",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Hoplomus",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Laquari",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Beast Murmillo",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Samnite",
+      "Copies": 2
+    },
+    {
+      "Name": "Rescue Cat",
+      "Copies": 2
+    },
+    {
+      "Name": "Summoner Monk",
+      "Copies": 2
+    },
+    {
+      "Name": "Test Tiger",
+      "Copies": 3
+    },
+    {
+      "Name": "X-Saber Airbellum",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 2
+    },
+    {
+      "Name": "Gladiator Proving Ground",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast War Chariot",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Arcanite Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Strike Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Heraklinos",
+      "Copies": 2
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Thought Ruler Archfiend",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gladiator Beast Retiari",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Jujitsu Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Trap Eater",
+      "Copies": 2
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror of Oaths",
+      "Copies": 2
+    }
+  ]
+}

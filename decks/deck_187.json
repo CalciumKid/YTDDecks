@@ -1,0 +1,196 @@
+{
+  "Date": "August 2014",
+  "Tournament": "YGO State Championship Rhode Island",
+  "DeckName": "Chain Burn",
+  "DeckId": "187",
+  "Duelist": "Cameron Macdonald",
+  "Placed": "2nd Place",
+  "Archetype": "HERO",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Accumulated Fortune",
+      "Copies": 3
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 1
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Knight Draco-Equiste",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Electrum",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Mudballman",
+      "Copies": 1
+    },
+    {
+      "Name": "Evil HERO Lightning Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Five-Headed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Exterio",
+      "Copies": 1
+    },
+    {
+      "Name": "Rainbow Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Knight Draco-Equiste",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Electrum",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Mudballman",
+      "Copies": 1
+    },
+    {
+      "Name": "Evil HERO Lightning Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Five-Headed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Flame Swordsman",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Exterio",
+      "Copies": 1
+    },
+    {
+      "Name": "Rainbow Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Wattcobra",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-and-Guess",
+      "Copies": 2
+    }
+  ]
+}

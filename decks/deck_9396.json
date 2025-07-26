@@ -1,0 +1,184 @@
+{
+  "Date": "April 2022",
+  "Tournament": "Regional - London England",
+  "DeckName": "Drytron",
+  "DeckId": "9396",
+  "Duelist": "Nick Burgess",
+  "Placed": "Top 8",
+  "Archetype": "Drytron",
+  "DeckProfile": "www.youtube.com/embed/jKSP5OU3LiI",
+  "MainDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Angel Benten",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Angel Idaten",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Diviner of the Herald",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Alpha Thuban",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Delta Altais",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Gamma Eltanin",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Meteonis Draconids",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Zeta Aldhibah",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Emergency",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Fafnir",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Nova",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 2
+    },
+    {
+      "Name": "Meteonis Drytron",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Dagda",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Mu Beta Fafnir",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Mirage Lights",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Verte Anaconda",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Angel Natasha",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "Date": "June 2022",
+  "Tournament": "National Championship - UK",
+  "DeckName": "Eldlich",
+  "DeckId": "9265",
+  "Duelist": "Kirk Clarke",
+  "Placed": "Top 32",
+  "Archetype": "Eldlich",
+  "DeckProfile": "www.youtube.com/embed/dqWIhVWF3d8",
+  "MainDeck": [
+    {
+      "Name": "Eldlich the Golden Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Cursed Eldland",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 3
+    },
+    {
+      "Name": "Conquistador of the Golden Land",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Eldlixir of Scarlet Sanguine",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Huaquero of the Golden Land",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Summon Limit",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Avendread Savior",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 3
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 2
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 3
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lord of the Heavenly Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

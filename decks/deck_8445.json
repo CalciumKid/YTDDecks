@@ -1,0 +1,156 @@
+{
+  "Date": "January 2020",
+  "Tournament": "Pro-Play Tour - Orlando",
+  "DeckName": "Salamangreat",
+  "DeckId": "8445",
+  "Duelist": "Joe Bogli",
+  "Placed": "Top 16",
+  "Archetype": "Salamangreat",
+  "DeckProfile": "www.youtube.com/embed/eDpubrx00BQ",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 2
+    },
+    {
+      "Name": "Flame Bufferlo",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Falco",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Fowl",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Foxy",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Gazelle",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Jack Jaguar",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Spinny",
+      "Copies": 2
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Circle",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Sanctuary",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Will of the Salamangreat",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Rage",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Roar",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Lion Emperor",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Balelynx",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Heatleo",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Pyro Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Sunlight Wolf",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

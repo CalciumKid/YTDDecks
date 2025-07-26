@@ -1,0 +1,188 @@
+{
+  "Date": "October 2013",
+  "Tournament": "Regional - San Antonio Texas",
+  "DeckName": "Karakuri Geargia",
+  "DeckId": "1575",
+  "Duelist": "Christopher Martinez",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Geargia",
+  "DeckProfile": "www.youtube.com/embed/ULUoOIIpdJM",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Geargiaccelerator",
+      "Copies": 3
+    },
+    {
+      "Name": "Geargiano",
+      "Copies": 1
+    },
+    {
+      "Name": "Geargiano Mk-II",
+      "Copies": 3
+    },
+    {
+      "Name": "Geargiarmor",
+      "Copies": 3
+    },
+    {
+      "Name": "Geargiarsenal",
+      "Copies": 3
+    },
+    {
+      "Name": "Genex Ally Birdman",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Strategist mdl 248 \"Nishipachi\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Watchdog mdl 313 \"Saizan\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Geargiagear",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Blader",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Shogun mdl 00 \"Burei\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Star Eater",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    },
+    {
+      "Name": "Overworked",
+      "Copies": 2
+    }
+  ]
+}

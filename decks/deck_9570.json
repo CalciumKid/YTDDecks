@@ -1,0 +1,160 @@
+{
+  "Date": "April 2023",
+  "Tournament": "Regional - Pasadena California",
+  "DeckName": "Mathmech",
+  "DeckId": "9570",
+  "Duelist": "Ismael Sanchez",
+  "Placed": "2nd Place",
+  "Archetype": "Mathmech",
+  "DeckProfile": "www.youtube.com/embed/Bqxs1z3Zya8",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathmech Addition",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathmech Circular",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Diameter",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Sigma",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathmech Subtraction",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Parallel eXceed",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Equation",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Small World",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Superfactorial",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyberse Wicckid",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker Heatsoul",
+      "Copies": 1
+    },
+    {
+      "Name": "G Golem Crystal Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Primathmech Alembertian",
+      "Copies": 2
+    },
+    {
+      "Name": "Primathmech Laplacian",
+      "Copies": 2
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 1
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Update Jammer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 3
+    }
+  ]
+}

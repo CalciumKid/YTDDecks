@@ -1,0 +1,184 @@
+{
+  "Date": "May 2023",
+  "Tournament": "Regional - Seattle Washington",
+  "DeckName": "Mathmech",
+  "DeckId": "9575",
+  "Duelist": "Marlon Lopez",
+  "Placed": "Top 8",
+  "Archetype": "Mathmech",
+  "DeckProfile": "www.youtube.com/embed/3bOJ1KwQ-XU",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Firewall Defenser",
+      "Copies": 3
+    },
+    {
+      "Name": "Firewall Phantom",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Mourner & Moonlit Chill",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathmech Addition",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Circular",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Diameter",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathmech Nabla",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Sigma",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Subtraction",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Parallel eXceed",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Santa Claws",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Equation",
+      "Copies": 1
+    },
+    {
+      "Name": "Small World",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Superfactorial",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyberse Desavewurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyberse Wicckid",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker Heatsoul",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon Darkfluid - Neo Tempest Terahertz",
+      "Copies": 1
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Primathmech Alembertian",
+      "Copies": 2
+    },
+    {
+      "Name": "Primathmech Laplacian",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 2
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Update Jammer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Santa Claws",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

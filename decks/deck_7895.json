@@ -1,0 +1,188 @@
+{
+  "Date": "August 2018",
+  "Tournament": "Regional - Houston Texas",
+  "DeckName": "Ritual Beasts",
+  "DeckId": "7895",
+  "Duelist": "Alex Bastian",
+  "Placed": "7th Place",
+  "Archetype": "Ritual",
+  "DeckProfile": "www.youtube.com/embed/AE4hmaUvEV0",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Tamer Elder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Tamer Lara",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Tamer Wen",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Apelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Rampengu",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Tamer Winda",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ambush",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Steeds",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Powercode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Apelio",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Cannahawk",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Gaiapelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Kimunfalcos",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Pettlephin",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Saber, the Lightning Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 2
+    },
+    {
+      "Name": "Powercode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Kimunfalcos",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Skull Meister",
+      "Copies": 2
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

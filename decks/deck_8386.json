@@ -1,0 +1,184 @@
+{
+  "Date": "December 2019",
+  "Tournament": "YCS - Milan Italy",
+  "DeckName": "HERO",
+  "DeckId": "8386",
+  "Duelist": "Sebastian Hochfellner",
+  "Placed": "Top 64",
+  "Archetype": "HERO",
+  "DeckProfile": "www.youtube.com/embed/qAVjSFaY3Pk",
+  "MainDeck": [
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dynatag",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Honest Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Solid Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 3
+    },
+    {
+      "Name": "Evil HERO Adusted Gold",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Faris",
+      "Copies": 3
+    },
+    {
+      "Name": "Vision HERO Increase",
+      "Copies": 2
+    },
+    {
+      "Name": "Vision HERO Vyon",
+      "Copies": 2
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Calling",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Destiny HERO - Dangerous",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dystopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Diplexer Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Evil HERO Malicious Bane",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Adoration",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Trinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Xtra HERO Cross Crusader",
+      "Copies": 2
+    },
+    {
+      "Name": "Xtra HERO Dread Decimator",
+      "Copies": 1
+    },
+    {
+      "Name": "Xtra HERO Wonder Driver",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

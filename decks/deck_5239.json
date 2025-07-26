@@ -1,0 +1,176 @@
+{
+  "Date": "March 2016",
+  "Tournament": "YCS - Costa Rica",
+  "DeckName": "Draco Performapals",
+  "DeckId": "5239",
+  "Duelist": "Luis Herrera",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Performapal",
+  "DeckProfile": "www.youtube.com/embed/HXTbvlt4VFI",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 3
+    },
+    {
+      "Name": "Guiding Ariadne",
+      "Copies": 3
+    },
+    {
+      "Name": "Luster Pendulum, the Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Master Pendulum, the Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Guitartle",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Lizardraw",
+      "Copies": 2
+    },
+    {
+      "Name": "Performapal Monkeyboard",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Pendulum Sorcerer",
+      "Copies": 3
+    },
+    {
+      "Name": "Performapal Silver Claw",
+      "Copies": 1
+    },
+    {
+      "Name": "Performapal Skullcrobat Joker",
+      "Copies": 1
+    },
+    {
+      "Name": "Vector Pendulum, the Dracoverlord",
+      "Copies": 2
+    },
+    {
+      "Name": "Draco Face-Off",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinoster Power, the Mighty Dracoslayer",
+      "Copies": 2
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 3
+    },
+    {
+      "Name": "King of the Feral Imps",
+      "Copies": 1
+    },
+    {
+      "Name": "Majester Paladin, the Ascending Dracoslayer",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 106: Giant Hand",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaos Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 1
+    }
+  ]
+}

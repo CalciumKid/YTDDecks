@@ -1,0 +1,160 @@
+{
+  "Date": "February 2019",
+  "Tournament": "YCS - Chicago Illinois",
+  "DeckName": "Prank-Kids",
+  "DeckId": "7598",
+  "Duelist": "Johnathan Gochenour",
+  "Placed": "Top 16",
+  "Archetype": "Prank-Kids",
+  "DeckProfile": "www.youtube.com/embed/p8eQ-MttN-w",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Dropsies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Fansies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Lampsies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Rocksies",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragondark",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragonhawk",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Pandemonium",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Place",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Pranks",
+      "Copies": 3
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Plan",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Battle Butler",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Bow-Wow-Bark",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Dodo-Doodle-Doo",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Rip-Roarin-Roaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Rocket Ride",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Weather Washer",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ]
+}

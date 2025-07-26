@@ -1,0 +1,116 @@
+{
+  "Date": "August 2020",
+  "Tournament": "National Championship - Austria",
+  "DeckName": "Beans",
+  "DeckId": "8771",
+  "Duelist": "Anthony Strange",
+  "Placed": "Top 16",
+  "Archetype": "Bean",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Bean Soldier",
+      "Copies": 3
+    },
+    {
+      "Name": "Jerry Beans Man",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Beans",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Acquisitiveness",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Benevolence",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Dichotomy",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Generosity",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Riches",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adamancipator Risen - Dragite",
+      "Copies": 3
+    },
+    {
+      "Name": "Adamancipator Risen - Leonite",
+      "Copies": 3
+    },
+    {
+      "Name": "Adamancipator Risen - Raptite",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Adamante",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ojama Black",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Green",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Pink",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Yellow",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "November 2009",
+  "Tournament": "2009 SJ Columbus",
+  "DeckName": "Blackwing",
+  "DeckId": "2484",
+  "Duelist": "Nicky Lacaille",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Blackwing",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Blizzard the Far North",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Bora the Spear",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gale the Whirlwind",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Kalut the Moon Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Shura the Blue Flame",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Sirocco the Dawn",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Vayu the Emblem of Honor",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Armed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Whirlwind",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Icarus Attack",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Dustshoot",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ally of Justice Catastor",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing Armed Wing",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing Armor Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Silverwind the Ascendant",
+      "Copies": 1
+    },
+    {
+      "Name": "Brionac, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Goyo Guardian",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Android",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Wurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Delta Crow - Anti Reverse",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror of Oaths",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Oppression",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "Date": "March 2023",
+  "Tournament": "WCQ Regional Tirana",
+  "DeckName": "Traptrix",
+  "DeckId": "9797",
+  "Duelist": "Landi Miri",
+  "Placed": "4th Place",
+  "Archetype": "Traptrix",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Parallel eXceed",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Arachnocampa",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Dionaea",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Mantis",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Myrmeleo",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Pudica",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptantalizing Tune",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrip Garden",
+      "Copies": 1
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Floodgate Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Gravedigger's Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Terrifying Trap Hole Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Holeutea",
+      "Copies": 3
+    },
+    {
+      "Name": "Traptrix Trap Hole Nightmare",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Trap Hole",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Time Thief Redoer",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Allomerus",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Atypus",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Cularia",
+      "Copies": 1
+    },
+    {
+      "Name": "Traptrix Pinguicula",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Rafflesia",
+      "Copies": 2
+    },
+    {
+      "Name": "Traptrix Sera",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

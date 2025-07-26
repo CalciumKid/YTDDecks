@@ -1,0 +1,176 @@
+{
+  "Date": "January 2014",
+  "Tournament": "YCS - Sydney Australia",
+  "DeckName": "Fire Fists",
+  "DeckId": "533",
+  "Duelist": "Jonathan Ritzau",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Fire Fist",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Brotherhood of the Fire Fist - Bear",
+      "Copies": 3
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Gorilla",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Leopard",
+      "Copies": 3
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Rooster",
+      "Copies": 2
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Spirit",
+      "Copies": 1
+    },
+    {
+      "Name": "Coach Soldier Wolfbark",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Gyokkou",
+      "Copies": 2
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Formation - Tensu",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Compulsory Evacuation Device",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Formation - Tensen",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 2
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Cardinal",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Horse Prince",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Lion Emperor",
+      "Copies": 1
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 2
+    },
+    {
+      "Name": "Bujintei Kagutsuchi",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Maestroke the Symphony Djinn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 50: Blackship of Corn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 85: Crazy Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Steelswarm Roach",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Zenmaines",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Horn of Heaven",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 3
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 3
+    },
+    {
+      "Name": "Overworked",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

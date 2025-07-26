@@ -1,0 +1,180 @@
+{
+  "Date": "December 2022",
+  "Tournament": "Regional - Buenos Aires Argentina",
+  "DeckName": "Umi Control",
+  "DeckId": "9395",
+  "Duelist": "Martin Villaroel",
+  "Placed": "Top 8",
+  "Archetype": "Control",
+  "DeckProfile": "www.youtube.com/embed/BHKdGkg2MRw",
+  "MainDeck": [
+    {
+      "Name": "Doom Kraken",
+      "Copies": 1
+    },
+    {
+      "Name": "Electric Jellyfish",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Giga Gagagigo",
+      "Copies": 1
+    },
+    {
+      "Name": "Maiden of the Aqua",
+      "Copies": 1
+    },
+    {
+      "Name": "Mega Fortress Whale",
+      "Copies": 1
+    },
+    {
+      "Name": "Ocean Dragon Lord - Kairyu-Shin",
+      "Copies": 3
+    },
+    {
+      "Name": "A Legendary Ocean",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 2
+    },
+    {
+      "Name": "Fish Sonar",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Sea Stealth II",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Ice Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Kairyu-Shin's Dark Reef",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Sea Stealth Attack",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Abyss Keeper",
+      "Copies": 2
+    },
+    {
+      "Name": "Adamancipator Risen - Dragite",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Eria the Water Charmer, Gentle",
+      "Copies": 1
+    },
+    {
+      "Name": "Evigishki Merrowgeist",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 4: Stealth Kragen",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Shizuku",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "White Aura Monoceros",
+      "Copies": 1
+    },
+    {
+      "Name": "White Aura Whale",
+      "Copies": 1
+    },
+    {
+      "Name": "Worldsea Dragon Zealantis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Numen erat Testudo",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

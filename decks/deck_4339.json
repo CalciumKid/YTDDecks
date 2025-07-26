@@ -1,0 +1,70 @@
+{
+  "Date": "July 2015",
+  "Tournament": "ARG Circuit Series Providence",
+  "DeckName": "Nekroz",
+  "DeckId": "4339",
+  "Duelist": "Jake Phinney",
+  "Placed": "1st   3rd Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Great Sorcerer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Great Sorcerer of the Nekroz",
+      "Copies": 1
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Nekroz of Brionac",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Clausolas",
+      "Copies": 2
+    },
+    {
+      "Name": "Nekroz of Decisive Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Gungnir",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Unicore",
+      "Copies": 1
+    },
+    {
+      "Name": "Nekroz of Valkyrus",
+      "Copies": 3
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Shurit, Strategist of the Nekroz",
+      "Copies": 3
+    },
+    {
+      "Name": "Tragoedia",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

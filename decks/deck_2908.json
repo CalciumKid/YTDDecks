@@ -1,0 +1,136 @@
+{
+  "Date": "June 2007",
+  "Tournament": "2007 Canadian Nationals",
+  "DeckName": "Gadget",
+  "DeckId": "2908",
+  "Duelist": "Dexter Dalit",
+  "Placed": "1st Place",
+  "Archetype": "Gadget",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Drillroid",
+      "Copies": 2
+    },
+    {
+      "Name": "Green Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Yellow Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Future Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Overload Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Shrink",
+      "Copies": 3
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Overdragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Designator",
+      "Copies": 3
+    },
+    {
+      "Name": "Twister",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 1
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    }
+  ]
+}

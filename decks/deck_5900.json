@@ -1,0 +1,164 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - Brazil",
+  "DeckName": "Darklords",
+  "DeckId": "5900",
+  "Duelist": "Ivan Astro",
+  "Placed": "Top 8",
+  "Archetype": "Darklord",
+  "DeckProfile": "www.youtube.com/embed/NLcfBbaya40",
+  "MainDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 2
+    },
+    {
+      "Name": "Darklord Amdusc",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Ixchel",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Morningstar",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Superbia",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Tezcatlipoca",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Zerato",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanity's Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Banishment of the Darklords",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Contact",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Enchantment",
+      "Copies": 1
+    },
+    {
+      "Name": "Darklord Rebellion",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "ABC-Dragon Buster",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Spirit Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Full Armor Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ]
+}

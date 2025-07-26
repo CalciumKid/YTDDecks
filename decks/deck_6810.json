@@ -1,0 +1,168 @@
+{
+  "Date": "November 2015",
+  "Tournament": "Regional - Bristol England",
+  "DeckName": "Zefra Yang Zings",
+  "DeckId": "6810",
+  "Duelist": "James Jones",
+  "Placed": "1st Place",
+  "Archetype": "Yang Zing",
+  "DeckProfile": "www.youtube.com/embed/yFCOHL7wnqQ",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Bixi, Water of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Satellarknight Zefrathuban",
+      "Copies": 1
+    },
+    {
+      "Name": "Stellarknight Zefraxciton",
+      "Copies": 1
+    },
+    {
+      "Name": "Suanni, Fire of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Zefraniu, Secret of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Zefraxi, Treasure of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Chicken Game",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Oracle of Zefra",
+      "Copies": 3
+    },
+    {
+      "Name": "Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Yang Zing Path",
+      "Copies": 1
+    },
+    {
+      "Name": "Zefra Divine Strike",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Armades, Keeper of Boundaries",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 2
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaphys Horus",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Ogre Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Taotie, Shadow of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 1
+    },
+    {
+      "Name": "Wavering Eyes",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Iron Wall",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

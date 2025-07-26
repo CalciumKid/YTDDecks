@@ -1,0 +1,176 @@
+{
+  "Date": "March 2024",
+  "Tournament": "YCS - Sydney Australia",
+  "DeckName": "Shark",
+  "DeckId": "9889",
+  "Duelist": "Joak Dom",
+  "Placed": "Top 32",
+  "Archetype": "Shark",
+  "DeckProfile": "www.youtube.com/embed/Wl5CHXYJlDo",
+  "MainDeck": [
+    {
+      "Name": "Abyss Shark",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Buzzsaw Shark",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Lifeless Leaffish",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 1
+    },
+    {
+      "Name": "Right-Hand Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Silent Angler",
+      "Copies": 2
+    },
+    {
+      "Name": "Silent Sea Nettle",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenyi Spirit - Shthana",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Remora",
+      "Copies": 2
+    },
+    {
+      "Name": "Armored Xyz",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "White Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Full-Armored Xyz",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 1
+    },
+    {
+      "Name": "Ice Barrier",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 2
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Full Armored Crystalzero Lancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Full Armored Dark Knight Lancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 103: Ragnazero",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 4: Stealth Kragen",
+      "Copies": 2
+    },
+    {
+      "Name": "Stealth Kragen Spawn",
+      "Copies": 2
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Armor Fortress",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

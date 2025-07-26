@@ -1,0 +1,172 @@
+{
+  "Date": "June 2024",
+  "Tournament": "YCS - Indianapolis Indiana",
+  "DeckName": "Melodious",
+  "DeckId": "9881",
+  "Duelist": "Joshua Ramkissoon",
+  "Placed": "Top 16",
+  "Archetype": "Melodious",
+  "DeckProfile": "www.youtube.com/embed/zFm4QVeginA",
+  "MainDeck": [
+    {
+      "Name": "Aria the Melodious Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Canon the Melodious Diva",
+      "Copies": 1
+    },
+    {
+      "Name": "Couplet the Melodious Songstress",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Refrain the Melodious Songstress",
+      "Copies": 3
+    },
+    {
+      "Name": "Shopina the Melodious Maestra",
+      "Copies": 2
+    },
+    {
+      "Name": "Sonata the Melodious Diva",
+      "Copies": 2
+    },
+    {
+      "Name": "Soprano the Melodious Songstress",
+      "Copies": 1
+    },
+    {
+      "Name": "1st Movement Solo",
+      "Copies": 3
+    },
+    {
+      "Name": "Melodious Concerto",
+      "Copies": 2
+    },
+    {
+      "Name": "Ostinato",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bacha the Melodious Maestra",
+      "Copies": 3
+    },
+    {
+      "Name": "Bloom Harmonist the Melodious Composer",
+      "Copies": 1
+    },
+    {
+      "Name": "Flowering Etoile the Melodious Magnificat",
+      "Copies": 2
+    },
+    {
+      "Name": "Gravity Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Protector of The Agents - Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Schuberta the Melodious Maestra",
+      "Copies": 2
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Starslayer TY-PHON - Sky Crisis",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Crossout Designator",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    }
+  ]
+}

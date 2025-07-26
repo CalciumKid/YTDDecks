@@ -1,0 +1,164 @@
+{
+  "Date": "January 2017",
+  "Tournament": "Regional - Henderson Nevada",
+  "DeckName": "Yang Zing Metalfoes",
+  "DeckId": "5865",
+  "Duelist": "Dillon Cohen",
+  "Placed": "Top 8",
+  "Archetype": "Metalfoe",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 1
+    },
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Bixi, Water of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Goldriver",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Silverd",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Steelen",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Volflame",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Red-Eyed Dice",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Taketomborg",
+      "Copies": 1
+    },
+    {
+      "Name": "Speedroid Terrortop",
+      "Copies": 3
+    },
+    {
+      "Name": "Suanni, Fire of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Zefraniu, Secret of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Zefraxi, Treasure of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Decision",
+      "Copies": 1
+    },
+    {
+      "Name": "Yang Zing Path",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Combination",
+      "Copies": 2
+    },
+    {
+      "Name": "Nine Pillars of Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Yang Zing Creation",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Void Ogre Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Swords of Concealing Light",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "Date": "August 2020",
+  "Tournament": "Duelist Academy August Merch Tournament",
+  "DeckName": "Crystal Beast",
+  "DeckId": "8663",
+  "Duelist": "Nick Anctil",
+  "Placed": "Top 8",
+  "Archetype": "Beast",
+  "DeckProfile": "www.youtube.com/embed/AR_gDxUXAGE",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Beast Amber Mammoth",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Beast Amethyst Cat",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Beast Cobalt Eagle",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Beast Emerald Tortoise",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Beast Ruby Carbuncle",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystal Beast Sapphire Pegasus",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Beast Topaz Tiger",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Rainbow Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Blessing",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Bond",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Promise",
+      "Copies": 3
+    },
+    {
+      "Name": "Neos Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Rainbow Bridge",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Conclave",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 3
+    },
+    {
+      "Name": "Ultimate Crystal Magic",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Daigusto Emeral",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Chidori",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Verte Anaconda",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Rainbow Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Rainbow Overdragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 2
+    },
+    {
+      "Name": "Waking the Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Witch's Strike",
+      "Copies": 2
+    }
+  ]
+}

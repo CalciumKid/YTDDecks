@@ -1,0 +1,188 @@
+{
+  "Date": "December 2018",
+  "Tournament": "Regional - St. Louis Missouri",
+  "DeckName": "World Chalice",
+  "DeckId": "8000",
+  "Duelist": "Octavio Bedolla",
+  "Placed": "8th Place",
+  "Archetype": "World",
+  "DeckProfile": "www.youtube.com/embed/7T-EJXc_Dog",
+  "MainDeck": [
+    {
+      "Name": "Archlord Kristya",
+      "Copies": 1
+    },
+    {
+      "Name": "Chosen by the World Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Crowned by the World Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Eva",
+      "Copies": 1
+    },
+    {
+      "Name": "Exodius the Ultimate Forbidden Lord",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Lee the World Chalice Fairy",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Shine Ball",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Ferret",
+      "Copies": 1
+    },
+    {
+      "Name": "The Agent of Creation - Venus",
+      "Copies": 3
+    },
+    {
+      "Name": "World Chalice Guardragon",
+      "Copies": 2
+    },
+    {
+      "Name": "World Legacy - \"World Chalice\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Mid-Breaker Field",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Transmodify",
+      "Copies": 2
+    },
+    {
+      "Name": "Tri-Wight",
+      "Copies": 3
+    },
+    {
+      "Name": "World Legacy's Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Succession",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Shade Brigandine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Auram the World Chalice Blademaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Ib the World Chalice Priestess",
+      "Copies": 1
+    },
+    {
+      "Name": "Imduk the World Chalice Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Ningirsu the World Chalice Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Gate Wizard",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Gemini Imps",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Date": "May 2014",
+  "Tournament": "National Championship - United Kingdom",
+  "DeckName": "Teleport Karakuri",
+  "DeckId": "1741",
+  "Duelist": "Benjamin Russell",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Karakuri",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Karakuri Komachi mdl 224 \"Ninishi\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Merchant mdl 177 \"Inashichi\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Ninja mdl 919 \"Kuick\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Soldier mdl 236 \"Nisamu\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Strategist mdl 248 \"Nishipachi\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Watchdog mdl 313 \"Saizan\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Psychic Commander",
+      "Copies": 2
+    },
+    {
+      "Name": "Solar Wind Jammer",
+      "Copies": 2
+    },
+    {
+      "Name": "De-Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Iron Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Karakuri Anatomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Colossal Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Dragon Knight Felgrand",
+      "Copies": 1
+    },
+    {
+      "Name": "Karakuri Shogun mdl 00 \"Burei\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Leo, the Keeper of the Sacred Tree",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Dracossack",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 2
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 2
+    },
+    {
+      "Name": "Malevolent Catastrophe",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Date": "July 2021",
+  "Tournament": "European Remote Duel YCS",
+  "DeckName": "Virtual World",
+  "DeckId": "9073",
+  "Duelist": "Robin Schrecklinger",
+  "Placed": "59 Out Of 1796 After Swis, I.E. Top 64",
+  "Archetype": "Virtual",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Hime - Nyannyan",
+      "Copies": 2
+    },
+    {
+      "Name": "Virtual World Kirin - Lili",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Mai-Hime - Lulu",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Oto-Hime - Toutou",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Roshi - Laolao",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Xiezhi - Jiji",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World City - Kauwloon",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Gate - Qinglong",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    },
+    {
+      "Name": "Virtual World Gate - Chuche",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Gate - Xuanwu",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Caliga",
+      "Copies": 1
+    },
+    {
+      "Name": "Muddy Mudragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 49: Fortune Tune",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Dark Dragoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    },
+    {
+      "Name": "Vermillion Dragon Mech",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Beast - Jiujiu",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Kyubi - Shenshen",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Phoenix - Fanfan",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ]
+}

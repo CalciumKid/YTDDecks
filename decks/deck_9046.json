@@ -1,0 +1,67 @@
+{
+  "Date": "April 2021",
+  "Tournament": "Regional - Sydney Australia",
+  "DeckName": "Aleister ftk",
+  "DeckId": "9046",
+  "Duelist": "Andrew Jerry",
+  "Placed": "3rd Place",
+  "Archetype": "Aleister ftk",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 4
+    },
+    {
+      "Name": "Black Luster Soldier - Soldier of Chaos",
+      "Copies": 4
+    },
+    {
+      "Name": "Cyber Ogre",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 4
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 4
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 4
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 4
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 4
+    },
+    {
+      "Name": "Seven Cities of the Golden Land",
+      "Copies": 4
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 4
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 4
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

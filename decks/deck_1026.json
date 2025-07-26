@@ -1,0 +1,176 @@
+{
+  "Date": "June 2014",
+  "Tournament": "Regional - Tinley Park Illinois",
+  "DeckName": "Nurse Burn",
+  "DeckId": "1026",
+  "Duelist": "Andy Witt",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Nurse Burn",
+  "DeckProfile": "www.youtube.com/embed/Vzd-i7TcYXc",
+  "MainDeck": [
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Nurse Reficule the Fallen One",
+      "Copies": 2
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Bad Reaction to Simochi",
+      "Copies": 2
+    },
+    {
+      "Name": "Gift Card",
+      "Copies": 3
+    },
+    {
+      "Name": "Hope for Escape",
+      "Copies": 3
+    },
+    {
+      "Name": "Life Equalizer",
+      "Copies": 2
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Tri-and-Guess",
+      "Copies": 2
+    },
+    {
+      "Name": "Wall of Revealing Light",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Destiny End Dragoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Evil HERO Dark Gaia",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimeratech Fortress Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny End Dragoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Evil HERO Dark Gaia",
+      "Copies": 3
+    },
+    {
+      "Name": "Gladiator Beast Gyzarus",
+      "Copies": 3
+    },
+    {
+      "Name": "Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Sand",
+      "Copies": 1
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 1
+    },
+    {
+      "Name": "Steam Gyroid",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "Full House",
+      "Copies": 2
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 2
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

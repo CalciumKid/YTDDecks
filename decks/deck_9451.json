@@ -1,0 +1,152 @@
+{
+  "Date": "May 2022",
+  "Tournament": "WCQ Regional Kaiserslautern",
+  "DeckName": "Swordsoul Tenyi",
+  "DeckId": "9451",
+  "Duelist": "Robin Schrecklinger",
+  "Placed": "2nd Place",
+  "Archetype": "Swordsoul",
+  "DeckProfile": "www.youtube.com/embed/5eTodjPXQjw",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Incredible Ecclesia, the Virtuous",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Mo Ye",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Taia",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Strategist Longyuan",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Adhara",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Ashuna",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Shthana",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenyi Spirit - Vishuda",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Emergence",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Vessel for the Dragon Cycle",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul Blackout",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adamancipator Risen - Dragite",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Berserker of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Grandmaster - Chixiao",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Supreme Sovereign - Chengying",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Monk of the Tenyi",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

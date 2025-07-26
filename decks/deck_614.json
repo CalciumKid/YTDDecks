@@ -1,0 +1,160 @@
+{
+  "Date": "March 2013",
+  "Tournament": "YCS - Austin Texas",
+  "DeckName": "Electrum Cannon OTK",
+  "DeckId": "614",
+  "Duelist": "Rob Boyajian",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Elemental",
+  "DeckProfile": "www.youtube.com/embed/96kKkwBfkB0",
+  "MainDeck": [
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Avian",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Bubbleman",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Burstinatrix",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Clayman",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Neos Alius",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Chain Material",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 2
+    },
+    {
+      "Name": "Fiendish Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Absolute Zero",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Electrum",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Escuridao",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Great Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Nova Master",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO The Shining",
+      "Copies": 3
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Banisher of the Radiance",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Snowman Eater",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder King Rai-Oh",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 3
+    }
+  ]
+}

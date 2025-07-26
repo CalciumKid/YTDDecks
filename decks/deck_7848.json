@@ -1,0 +1,107 @@
+{
+  "Date": "June 2019",
+  "Tournament": "National Championship - Canada",
+  "DeckName": "Chain Burn",
+  "DeckId": "7848",
+  "Duelist": "Shane Burkhalter",
+  "Placed": "24th Place",
+  "Archetype": "Chain Burn",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Absolute King Back Jack",
+      "Copies": 2
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Lazion, the Timelord",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 2
+    },
+    {
+      "Name": "Chain Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Balance of Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Blazing Mirror Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama Trio",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Blast",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Flame Ghost",
+      "Copies": 3
+    },
+    {
+      "Name": "Flame Swordsman",
+      "Copies": 3
+    },
+    {
+      "Name": "Humanoid Worm Drake",
+      "Copies": 3
+    },
+    {
+      "Name": "Karbonala Warrior",
+      "Copies": 3
+    },
+    {
+      "Name": "Steam Gyroid",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": []
+}

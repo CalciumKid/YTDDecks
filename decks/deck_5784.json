@@ -1,0 +1,95 @@
+{
+  "Date": "December 2016",
+  "Tournament": "Regional - Istanbul",
+  "DeckName": "Nurse Burn",
+  "DeckId": "5784",
+  "Duelist": "Doruk Senol",
+  "Placed": "2nd Place",
+  "Archetype": "HERO",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Darklord Asmodeus",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Nurse Reficule",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Superbia",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Banishment of the Darklords",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 3
+    },
+    {
+      "Name": "Into the Void",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Bad Reaction to Simochi",
+      "Copies": 3
+    },
+    {
+      "Name": "Gift Card",
+      "Copies": 3
+    },
+    {
+      "Name": "The Paths of Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-and-Guess",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Elemental HERO Air Neos",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Aqua Neos",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Dark Neos",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Flare Neos",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Storm Neos",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": []
+}

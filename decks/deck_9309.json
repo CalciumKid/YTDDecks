@@ -1,0 +1,168 @@
+{
+  "Date": "June 2022",
+  "Tournament": "National Championship - Germany",
+  "DeckName": "@Ignister",
+  "DeckId": "9309",
+  "Duelist": "Manuel Weidner",
+  "Placed": "Top 4",
+  "Archetype": "@Ignister",
+  "DeckProfile": "www.youtube.com/embed/T2KQDLc1BqQ",
+  "MainDeck": [
+    {
+      "Name": "Achichi @Ignister",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Bururu @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "Danmari @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Doyon @Ignister",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Gatchiri @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiyari @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "Pikari @Ignister",
+      "Copies": 3
+    },
+    {
+      "Name": "A.I. Contact",
+      "Copies": 1
+    },
+    {
+      "Name": "A.I.dle Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "A.I. Meet You",
+      "Copies": 3
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Ignister A.I.Land",
+      "Copies": 3
+    },
+    {
+      "Name": "Small World",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyberse Wicckid",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Infant @Ignister",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Templar @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker Heatsoul",
+      "Copies": 1
+    },
+    {
+      "Name": "Light Dragon @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 2
+    },
+    {
+      "Name": "The Arrival Cyberse @Ignister",
+      "Copies": 1
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Update Jammer",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind Pegasus @Ignister",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

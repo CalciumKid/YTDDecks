@@ -1,0 +1,148 @@
+{
+  "Date": "November 2019",
+  "Tournament": "Regional - Lenexa Kansas",
+  "DeckName": "Spellbooks",
+  "DeckId": "8325",
+  "Duelist": "Johnny Nguyen",
+  "Placed": "23rd Place",
+  "Archetype": "Spellbook",
+  "DeckProfile": "www.youtube.com/embed/2tOUw4Weg9A",
+  "MainDeck": [
+    {
+      "Name": "High Priestess of Prophecy",
+      "Copies": 1
+    },
+    {
+      "Name": "Jowgen the Spiritualist",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook Magician of Prophecy",
+      "Copies": 3
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Power of the Guardians",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Village of the Spellcasters",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Eternity",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Fate",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Knowledge",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Power",
+      "Copies": 1
+    },
+    {
+      "Name": "Spellbook of Secrets",
+      "Copies": 3
+    },
+    {
+      "Name": "Spellbook of the Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Spellbook of Wisdom",
+      "Copies": 1
+    },
+    {
+      "Name": "The Grand Spellbook Tower",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 3
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 3
+    },
+    {
+      "Name": "Predaplant Triphyoverutum",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 3
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Provisions",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm Duster",
+      "Copies": 3
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 2
+    }
+  ]
+}

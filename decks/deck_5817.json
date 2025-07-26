@@ -1,0 +1,132 @@
+{
+  "Date": "December 2016",
+  "Tournament": "World Championship - Orlando Florida",
+  "DeckName": "Galaxy Blue-Eyes White Dragon",
+  "DeckId": "5817",
+  "Duelist": "Zach Rice",
+  "Placed": "1st - 11th Place",
+  "Archetype": "Blue-Eyes",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Blue-Eyes Alternative White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Spirit of White",
+      "Copies": 3
+    },
+    {
+      "Name": "Master with Eyes of Blue",
+      "Copies": 2
+    },
+    {
+      "Name": "Protector with Eyes of Blue",
+      "Copies": 2
+    },
+    {
+      "Name": "Sage with Eyes of Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Ancients",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Legend",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Shrine",
+      "Copies": 2
+    },
+    {
+      "Name": "Mausoleum of White",
+      "Copies": 3
+    },
+    {
+      "Name": "Rank-Up-Magic Barian's Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Return of the Dragon Lords",
+      "Copies": 3
+    },
+    {
+      "Name": "Silver's Cry",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "The Melody of Awakening Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Bottomless Trap Hole",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Azure-Eyes Silver Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes Spirit Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Galaxy-Eyes Full Armor Photon Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 107: Galaxy-Eyes Tachyon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 46: Dragluon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Spark Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Prohibition",
+      "Copies": 3
+    }
+  ]
+}

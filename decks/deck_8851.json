@@ -1,0 +1,172 @@
+{
+  "Date": "December 2016",
+  "Tournament": "Tournament Norwich 2016",
+  "DeckName": "Battlin' Boxers Fist of Fire",
+  "DeckId": "8851",
+  "Duelist": "Natan Wilinski",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Battlin' Boxer",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Battleguard King",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlin' Boxer Big Bandage",
+      "Copies": 2
+    },
+    {
+      "Name": "Battlin' Boxer Counterpunch",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlin' Boxer Glassjaw",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlin' Boxer Headgeared",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlin' Boxer Rib Gardna",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlin' Boxer Shadow",
+      "Copies": 2
+    },
+    {
+      "Name": "Battlin' Boxer Sparrer",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlin' Boxer Switchitter",
+      "Copies": 3
+    },
+    {
+      "Name": "Battlin' Boxer Veil",
+      "Copies": 2
+    },
+    {
+      "Name": "Beast King Barbaros",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Challenger - Thousand Blades",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlin' Boxing Spirits",
+      "Copies": 2
+    },
+    {
+      "Name": "Burden of the Mighty",
+      "Copies": 1
+    },
+    {
+      "Name": "Magnum Shield",
+      "Copies": 2
+    },
+    {
+      "Name": "Rank-Up-Magic Barian's Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Battleguard Howling",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 1
+    },
+    {
+      "Name": "Jolt Counter",
+      "Copies": 2
+    },
+    {
+      "Name": "Last Counter",
+      "Copies": 2
+    },
+    {
+      "Name": "Memory Loss",
+      "Copies": 1
+    },
+    {
+      "Name": "Safe Zone",
+      "Copies": 2
+    },
+    {
+      "Name": "Xyz Block",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Battlin' Boxer Cheat Commissioner",
+      "Copies": 1
+    },
+    {
+      "Name": "Battlin' Boxer Lead Yoke",
+      "Copies": 3
+    },
+    {
+      "Name": "Humhumming the Key Djinn",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 105: Battlin' Boxer Star Cestus",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 58: Burner Visor",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 79: Battlin' Boxer Nova Kaiser",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 86: Heroic Champion - Rhongomyniad",
+      "Copies": 1
+    },
+    {
+      "Name": "Number C105: Battlin' Boxer Comet Cestus",
+      "Copies": 2
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Heroic Challenger - Assault Halberd",
+      "Copies": 3
+    },
+    {
+      "Name": "Back-Up Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Poisonous Winds",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Revenge",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Reborn",
+      "Copies": 2
+    }
+  ]
+}

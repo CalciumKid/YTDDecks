@@ -1,0 +1,102 @@
+{
+  "Date": "February 2007",
+  "Tournament": "2007 Richmond, VA Regionals Jan 20th",
+  "DeckName": "Gadgets",
+  "DeckId": "2884",
+  "Duelist": "Keith Dewell",
+  "Placed": "1st Place",
+  "Archetype": "Gadget",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Asura Priest",
+      "Copies": 2
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Drillroid",
+      "Copies": 2
+    },
+    {
+      "Name": "Green Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Snipe Hunter",
+      "Copies": 3
+    },
+    {
+      "Name": "Yellow Gadget",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    },
+    {
+      "Name": "Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 1
+    },
+    {
+      "Name": "Rush Recklessly",
+      "Copies": 2
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Widespread Ruin",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

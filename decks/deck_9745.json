@@ -1,0 +1,168 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Vancouver",
+  "DeckName": "Unchained Labrynth",
+  "DeckId": "9745",
+  "Duelist": "James Zhang",
+  "Placed": "Top 16",
+  "Archetype": "Labrynth",
+  "DeckProfile": "www.youtube.com/embed/gbtokuYl2zA",
+  "MainDeck": [
+    {
+      "Name": "Ariane the Labrynth Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Arianna the Labrynth Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 1
+    },
+    {
+      "Name": "Labrynth Chandraglier",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Cooclock",
+      "Copies": 3
+    },
+    {
+      "Name": "Labrynth Stovie Torbie",
+      "Copies": 3
+    },
+    {
+      "Name": "Lady Labrynth of the Silver Castle",
+      "Copies": 2
+    },
+    {
+      "Name": "Lovely Labrynth of the Silver Castle",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Tackle Crusader",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Soul of Sharvara",
+      "Copies": 1
+    },
+    {
+      "Name": "Labrynth Labyrinth",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Big Welcome Labrynth",
+      "Copies": 3
+    },
+    {
+      "Name": "Destructive Daruma Karma Cannon",
+      "Copies": 1
+    },
+    {
+      "Name": "Escape of the Unchained",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Welcome Labrynth",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chaos Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Soul Lord of Yama",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Anguish",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Soul of Rage",
+      "Copies": 2
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 2
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 2
+    },
+    {
+      "Name": "Keldo the Sacred Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 3
+    },
+    {
+      "Name": "Mudora the Sword Oracle",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Full Force Virus",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "Date": "July 2014",
+  "Tournament": "WCQ - North America",
+  "DeckName": "Too Cute Too Furious",
+  "DeckId": "726",
+  "Duelist": "Pasquale Crociata",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Frog",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Des Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Dupe Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "Flip Flop Frog",
+      "Copies": 2
+    },
+    {
+      "Name": "Gorz the Emissary of Darkness",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Mother Grizzly",
+      "Copies": 3
+    },
+    {
+      "Name": "Ronintoadin",
+      "Copies": 3
+    },
+    {
+      "Name": "Sea Lancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Swap Frog",
+      "Copies": 3
+    },
+    {
+      "Name": "T.A.D.P.O.L.E.",
+      "Copies": 1
+    },
+    {
+      "Name": "Des Croaking",
+      "Copies": 2
+    },
+    {
+      "Name": "Inferno Reckless Summon",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 3
+    },
+    {
+      "Name": "Damage Condenser",
+      "Copies": 3
+    },
+    {
+      "Name": "Needle Ceiling",
+      "Copies": 2
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Stun",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Daigusto Phoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Gachi Gachi Gantetsu",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghostrick Socuteboss",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Pure Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 12: Crimson Shadow Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 61: Volcasaurus",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 73: Abyss Splash",
+      "Copies": 1
+    },
+    {
+      "Name": "Wind-Up Arsenal Zenmaioh",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Release",
+      "Copies": 2
+    },
+    {
+      "Name": "Ceasefire",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    }
+  ]
+}

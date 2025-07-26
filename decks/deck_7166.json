@@ -1,0 +1,180 @@
+{
+  "Date": "March 2018",
+  "Tournament": "Regional - Istanbul",
+  "DeckName": "Gem-Knight FTK",
+  "DeckId": "7166",
+  "Duelist": "Michael Cem Halıcıoğlu",
+  "Placed": "1st Place",
+  "Archetype": "Gem-Knight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Block Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystal Rose",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Armadillo",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Lapis",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Obsidian",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Tourmaline",
+      "Copies": 3
+    },
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 2
+    },
+    {
+      "Name": "Predaplant Darlingtonia Cobra",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Ophrys Scorpio",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "The Winged Dragon of Ra - Sphere Mode",
+      "Copies": 1
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "True King of All Calamities",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Zirconia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Amethyst",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Phantom Quartz",
+      "Copies": 2
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "April 2020",
+  "Tournament": "LCS - Hartford Connecticut",
+  "DeckName": "Adamancipator",
+  "DeckId": "8646",
+  "Duelist": "Tristan Pugh",
+  "Placed": "2nd Place",
+  "Archetype": "Adamancipator",
+  "DeckProfile": "www.youtube.com/embed/jpW4ftfKWrs",
+  "MainDeck": [
+    {
+      "Name": "Adamancipator Analyzer",
+      "Copies": 3
+    },
+    {
+      "Name": "Adamancipator Researcher",
+      "Copies": 3
+    },
+    {
+      "Name": "Adamancipator Seeker",
+      "Copies": 3
+    },
+    {
+      "Name": "Block Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dodododwarf Gogogoglove",
+      "Copies": 3
+    },
+    {
+      "Name": "Doki Doki",
+      "Copies": 3
+    },
+    {
+      "Name": "Gigantes",
+      "Copies": 1
+    },
+    {
+      "Name": "Gogogo Gigas",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Koa'ki Meiru Guardian",
+      "Copies": 3
+    },
+    {
+      "Name": "Madolche Petingcessoeur",
+      "Copies": 3
+    },
+    {
+      "Name": "Mecha Phantom Beast O-Lion",
+      "Copies": 1
+    },
+    {
+      "Name": "Utopic Onomatopoeia",
+      "Copies": 1
+    },
+    {
+      "Name": "Zubababancho Gagagacoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Adamancipator Signs",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Onomatopaira",
+      "Copies": 2
+    },
+    {
+      "Name": "Onomatopickup",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Adamancipator Risen - Dragite",
+      "Copies": 1
+    },
+    {
+      "Name": "Adamancipator Risen - Raptite",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Gallant Granite",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Auroradon",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "June 2019",
+  "Tournament": "National Championship - France",
+  "DeckName": "Blackwing Orcust",
+  "DeckId": "7810",
+  "Duelist": "Benoît Bouloudi",
+  "Placed": "Top 128",
+  "Archetype": "Blackwing",
+  "DeckProfile": "www.youtube.com/embed/59TlyoJ9ijM",
+  "MainDeck": [
+    {
+      "Name": "Blackwing - Auster the South Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Gale the Whirlwind",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Harmattan the Dust",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Oroshi the Squall",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Simoon the Poison Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Steam the Cloak",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Zephyros the Elite",
+      "Copies": 2
+    },
+    {
+      "Name": "Danger!? Jackalope?",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger! Nessie!",
+      "Copies": 3
+    },
+    {
+      "Name": "Danger!? Tsuchinoko?",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Cymbal Skeleton",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Harp Horror",
+      "Copies": 1
+    },
+    {
+      "Name": "Orcust Knightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "World Legacy - \"World Wand\"",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Whirlwind",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Assault Blackwing - Raikiri the Rain Shower",
+      "Copies": 1
+    },
+    {
+      "Name": "Beat Cop from the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing Full Armor Master",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Nothung the Starlight",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing Tamer - Obsidian Hawk Joe",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Galatea, the Orcust Automaton",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Mermaid",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Rusty Bardiche",
+      "Copies": 1
+    },
+    {
+      "Name": "Wee Witch's Apprentice",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "The Phantom Knights of Silent Boots",
+      "Copies": 1
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Knights' Fog Blade",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    },
+    {
+      "Name": "Typhoon",
+      "Copies": 2
+    }
+  ]
+}

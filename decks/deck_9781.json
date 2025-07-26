@@ -1,0 +1,180 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Dortmund Germany",
+  "DeckName": "Branded Chimera",
+  "DeckId": "9781",
+  "Duelist": "Davide Giannoccaro",
+  "Placed": "Top 16",
+  "Archetype": "Branded",
+  "DeckProfile": "www.youtube.com/embed/yOxQuCNQp54",
+  "MainDeck": [
+    {
+      "Name": "Aluber the Jester of Despia",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Big-Winged Berfomet",
+      "Copies": 2
+    },
+    {
+      "Name": "Blazing Cartesia, the Virtuous",
+      "Copies": 1
+    },
+    {
+      "Name": "Cornfield Coatl",
+      "Copies": 3
+    },
+    {
+      "Name": "Edge Imp Chain",
+      "Copies": 2
+    },
+    {
+      "Name": "Fallen of Albaz",
+      "Copies": 2
+    },
+    {
+      "Name": "Gazelle the King of Mythical Claws",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Swordknight",
+      "Copies": 3
+    },
+    {
+      "Name": "The Light - Hex-Sealed Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Branded Opening",
+      "Copies": 3
+    },
+    {
+      "Name": "Chimera Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Frightfur Patchwork",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Deployment",
+      "Copies": 2
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Albion the Branded Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Chimera the Illusion Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Chimera the King of Phantom Beasts",
+      "Copies": 2
+    },
+    {
+      "Name": "Garura, Wings of Resonant Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Granguignol the Dusk Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardian Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Lubellion the Searing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Magnum the Reliever",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirrorjade the Iceblade Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Dark Dragoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Rindbrumm the Striking Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 3
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Masquerade the Blazing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    }
+  ]
+}

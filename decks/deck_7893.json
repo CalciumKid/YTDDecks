@@ -1,0 +1,220 @@
+{
+  "Date": "June 2019",
+  "Tournament": "Regional - Layton Utah",
+  "DeckName": "Valkyrie",
+  "DeckId": "7893",
+  "Duelist": "Korben Dias",
+  "Placed": "15th Place",
+  "Archetype": "Valkyrie",
+  "DeckProfile": "www.youtube.com/embed/quL29u_pMAQ",
+  "MainDeck": [
+    {
+      "Name": "Valkyrie Brunhilde",
+      "Copies": 1
+    },
+    {
+      "Name": "Valkyrie Dritte",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Erda",
+      "Copies": 1
+    },
+    {
+      "Name": "Valkyrie Erste",
+      "Copies": 1
+    },
+    {
+      "Name": "Valkyrie Funfte",
+      "Copies": 1
+    },
+    {
+      "Name": "Valkyrie Sechste",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Vierte",
+      "Copies": 3
+    },
+    {
+      "Name": "Valkyrie Zweite",
+      "Copies": 2
+    },
+    {
+      "Name": "Celestial Transformation",
+      "Copies": 2
+    },
+    {
+      "Name": "Downbeat",
+      "Copies": 1
+    },
+    {
+      "Name": "Final Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Galaxy Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Goddess Urd's Verdict",
+      "Copies": 3
+    },
+    {
+      "Name": "Mischief of the Time Goddess",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Ride of the Valkyries",
+      "Copies": 3
+    },
+    {
+      "Name": "Transmodify",
+      "Copies": 1
+    },
+    {
+      "Name": "Valkyrie's Embrace",
+      "Copies": 1
+    },
+    {
+      "Name": "Rise to Full Height",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borrelguard Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Hip Hoshiningen",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Princessprite",
+      "Copies": 1
+    },
+    {
+      "Name": "Topologic Trisbaena",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Galaxy Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Hey, Trunade!",
+      "Copies": 2
+    },
+    {
+      "Name": "Prohibition",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 2
+    }
+  ]
+}

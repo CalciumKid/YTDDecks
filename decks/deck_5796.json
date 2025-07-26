@@ -1,0 +1,184 @@
+{
+  "Date": "December 2016",
+  "Tournament": "Kamecon HN 2016",
+  "DeckName": "Brilliant Metalfoes Yang Zing",
+  "DeckId": "5796",
+  "Duelist": "Angelo Ham",
+  "Placed": "1st Place",
+  "Archetype": "Metalfoe",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Bixi, Water of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Sapphire",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Tourmaline",
+      "Copies": 1
+    },
+    {
+      "Name": "Jiaotu, Darkness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Metalfoes Goldriver",
+      "Copies": 1
+    },
+    {
+      "Name": "Metalfoes Silverd",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Steelen",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Volflame",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulao, Wind of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Suanni, Fire of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Zefraniu, Secret of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Zefraxi, Treasure of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Yang Zing Path",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Combination",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalfoes Counter",
+      "Copies": 1
+    },
+    {
+      "Name": "Nine Pillars of Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignister Prominence, the Blasting Dracoslayer",
+      "Copies": 1
+    },
+    {
+      "Name": "Nirvana High Paladin",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 2
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Indianapolis Indiana",
+  "DeckName": "Rikka Sunavalon",
+  "DeckId": "9850",
+  "Duelist": "Jimmy Ye",
+  "Placed": "Top 16",
+  "Archetype": "Sunavalon",
+  "DeckProfile": "www.youtube.com/embed/lYFtRUU_RMQ",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 2
+    },
+    {
+      "Name": "Mudan the Rikka Fairy",
+      "Copies": 2
+    },
+    {
+      "Name": "Primula the Rikka Fairy",
+      "Copies": 1
+    },
+    {
+      "Name": "Rikka Petal",
+      "Copies": 2
+    },
+    {
+      "Name": "Rikka Princess",
+      "Copies": 3
+    },
+    {
+      "Name": "Snowdrop the Rikka Fairy",
+      "Copies": 1
+    },
+    {
+      "Name": "Sunseed Genius Loci",
+      "Copies": 3
+    },
+    {
+      "Name": "Sunseed Twin",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion \"Lily\" Borea",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Rikka Glamour",
+      "Copies": 3
+    },
+    {
+      "Name": "Rikka Konkon",
+      "Copies": 2
+    },
+    {
+      "Name": "Small World",
+      "Copies": 3
+    },
+    {
+      "Name": "Sunvine Sowing",
+      "Copies": 2
+    },
+    {
+      "Name": "Therion Discolosseum",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 3
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 3
+    },
+    {
+      "Name": "Rikka Sheet",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Aromaseraphy Jasmine",
+      "Copies": 2
+    },
+    {
+      "Name": "Benghalancer the Resurgent",
+      "Copies": 1
+    },
+    {
+      "Name": "Rikka Queen Strenna",
+      "Copies": 2
+    },
+    {
+      "Name": "Sacred Tree Beast, Hyperyton",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Sunavalon Dryas",
+      "Copies": 3
+    },
+    {
+      "Name": "Sunavalon Melias",
+      "Copies": 1
+    },
+    {
+      "Name": "Sunvine Healer",
+      "Copies": 2
+    },
+    {
+      "Name": "Sylvan Dancepione",
+      "Copies": 1
+    },
+    {
+      "Name": "Teardrop the Rikka Queen",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cattycorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Rosewhip",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Water Art - Aoi",
+      "Copies": 1
+    }
+  ]
+}

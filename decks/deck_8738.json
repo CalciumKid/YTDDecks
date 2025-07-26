@@ -1,0 +1,172 @@
+{
+  "Date": "November 2020",
+  "Tournament": "LCS - VIII",
+  "DeckName": "Virtual World",
+  "DeckId": "8738",
+  "Duelist": "Alan Pedro",
+  "Placed": "Top 16",
+  "Archetype": "Virtual World",
+  "DeckProfile": "www.youtube.com/embed/YR6EU5hJvBc",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Hime - Nyannyan",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Kirin - Lili",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Mai-Hime - Lulu",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Roshi - Laolao",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Xiezhi - Jiji",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World City - Kauwloon",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Gate - Qinglong",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Gate - Chuche",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cloudcastle",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 75: Bamboozling Gossip Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Phantom Fortress Enterblathnir",
+      "Copies": 1
+    },
+    {
+      "Name": "Ravenous Crocodragon Archethys",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "True King of All Calamities",
+      "Copies": 1
+    },
+    {
+      "Name": "Vermillion Dragon Mech",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Beast - Jiujiu",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Kyubi - Shenshen",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Phoenix - Fanfan",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Shell - Jaja",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ]
+}

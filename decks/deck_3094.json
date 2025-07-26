@@ -1,0 +1,300 @@
+{
+  "Date": "August 2005",
+  "Tournament": "2005 SJC Indianapolis",
+  "DeckName": "Wave Motion Control",
+  "DeckId": "3094",
+  "Duelist": "Cas Stomphorst",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Warrior",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Airknight Parshath",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Luster Soldier - Envoy of the Beginning",
+      "Copies": 1
+    },
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Des Koala",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Merchant",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 3
+    },
+    {
+      "Name": "Night Assailant",
+      "Copies": 2
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Sinister Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Tribe-Infecting Virus",
+      "Copies": 1
+    },
+    {
+      "Name": "Tsukuyomi",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Delinquent Duo",
+      "Copies": 1
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 1
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Metamorphosis",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 2
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Spell Shield Type-8",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 2
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 3
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 3
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Charubin the Fire Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Flame Ghost",
+      "Copies": 3
+    },
+    {
+      "Name": "Flame Swordsman",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusionist",
+      "Copies": 2
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Giltia the D. Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Karbonala Warrior",
+      "Copies": 3
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 2
+    },
+    {
+      "Name": "Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Musician King",
+      "Copies": 2
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 3
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 3
+    },
+    {
+      "Name": "St. Joan",
+      "Copies": 1
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin-Headed Thunder Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Assailant",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "Neko Mane King",
+      "Copies": 2
+    },
+    {
+      "Name": "Swarm of Locusts",
+      "Copies": 2
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Royal Command",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 1
+    }
+  ]
+}

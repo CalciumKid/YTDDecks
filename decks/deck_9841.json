@@ -1,0 +1,176 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Indianapolis Indiana",
+  "DeckName": "Exosister",
+  "DeckId": "9841",
+  "Duelist": "Yamil Camacho",
+  "Placed": "Top 8",
+  "Archetype": "Exosister",
+  "DeckProfile": "www.youtube.com/embed/_3HtkGYl4S0",
+  "MainDeck": [
+    {
+      "Name": "Aratama",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Elis",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Irene",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Martha",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Sophia",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Stella",
+      "Copies": 2
+    },
+    {
+      "Name": "Sakitama",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Carpedivem",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Pax",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Returnia",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Vadis",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Asophiel",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Gibrine",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Kaspitell",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Mikailis",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosisters Magnifica",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Starslayer TY-PHON - Sky Crisis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

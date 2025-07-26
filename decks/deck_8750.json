@@ -1,0 +1,103 @@
+{
+  "Date": "January 2005",
+  "Tournament": "YCS - Toronto Canada",
+  "DeckName": "Electrumite Turbo",
+  "DeckId": "8750",
+  "Duelist": "Steven Trifunoski",
+  "Placed": "2nd Place",
+  "Archetype": "Turbo",
+  "DeckProfile": "www.youtube.com/embed/DnMZR-QozSU",
+  "MainDeck": [
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 4
+    },
+    {
+      "Name": "Endymion, the Mighty Master of Magic",
+      "Copies": 4
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 4
+    },
+    {
+      "Name": "Magical Abductor",
+      "Copies": 3
+    },
+    {
+      "Name": "Magister of Endymion",
+      "Copies": 1
+    },
+    {
+      "Name": "Mythical Beast Jackal King",
+      "Copies": 4
+    },
+    {
+      "Name": "Mythical Beast Master Cerberus",
+      "Copies": 4
+    },
+    {
+      "Name": "Puzzlomino, the Drop-n-Deleter",
+      "Copies": 3
+    },
+    {
+      "Name": "Reflection of Endymion",
+      "Copies": 2
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 4
+    },
+    {
+      "Name": "Servant of Endymion",
+      "Copies": 4
+    },
+    {
+      "Name": "Into the Void",
+      "Copies": 4
+    },
+    {
+      "Name": "Magical Citadel of Endymion",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 4
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 4
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Duel Dragon Token",
+      "Copies": 4
+    },
+    {
+      "Name": "Generaider Token",
+      "Copies": 2
+    },
+    {
+      "Name": "Hippo Token",
+      "Copies": 3
+    },
+    {
+      "Name": "Jurraegg Token",
+      "Copies": 3
+    },
+    {
+      "Name": "Kuriboh Token",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Token",
+      "Copies": 2
+    }
+  ]
+}

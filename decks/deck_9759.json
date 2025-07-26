@@ -1,0 +1,172 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Vancouver",
+  "DeckName": "Unchained",
+  "DeckId": "9759",
+  "Duelist": "Marcus Patel",
+  "Placed": "Top 32",
+  "Archetype": "Unchained",
+  "DeckProfile": "www.youtube.com/embed/Pu0vVt7jo8s",
+  "MainDeck": [
+    {
+      "Name": "Abominable Unchained Soul",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Vice King Requiem",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Disaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul of Sharvara",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Shyama",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Aruha",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Twins - Rakea",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Sarama",
+      "Copies": 1
+    },
+    {
+      "Name": "Abomination's Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 3
+    },
+    {
+      "Name": "Abominable Chamber of the Unchained",
+      "Copies": 3
+    },
+    {
+      "Name": "Escape of the Unchained",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "D/D/D Deviser King Deus Machinex",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Stone King Darius",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Wave High King Caesar",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Gryphon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul Lord of Yama",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Anguish",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul of Rage",
+      "Copies": 2
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    }
+  ]
+}

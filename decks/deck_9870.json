@@ -1,0 +1,184 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Indianapolis Indiana",
+  "DeckName": "Floowandereeze",
+  "DeckId": "9870",
+  "Duelist": "Jack Baum",
+  "Placed": "Top 32",
+  "Archetype": "Floowandereeze",
+  "DeckProfile": "www.youtube.com/embed/Q_vjDe9ZJwY",
+  "MainDeck": [
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Eglen",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Empen",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Robina",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Stri",
+      "Copies": 2
+    },
+    {
+      "Name": "Floowandereeze & Toccan",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze and the Advent of Adventure",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze and the Magnificent Map",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze and the Unexplored Winds",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    },
+    {
+      "Name": "Floowandereeze and the Dreaming Town",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Storm",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Recital Starling",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Azalea",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Starslayer TY-PHON - Sky Crisis",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    },
+    {
+      "Name": "Wynn the Wind Charmer, Verdant",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Storm",
+      "Copies": 2
+    }
+  ]
+}

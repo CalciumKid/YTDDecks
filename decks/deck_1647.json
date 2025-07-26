@@ -1,0 +1,127 @@
+{
+  "Date": "September 2013",
+  "Tournament": "Regional - Santo Domingo Dominican Repu",
+  "DeckName": "Final Countdown",
+  "DeckId": "1647",
+  "Duelist": "Duelist Unknown",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Final Countdown",
+  "DeckProfile": "www.youtube.com/embed/-4kCw9RBHhA",
+  "MainDeck": [
+    {
+      "Name": "Battle Fader",
+      "Copies": 3
+    },
+    {
+      "Name": "Cardcar D",
+      "Copies": 3
+    },
+    {
+      "Name": "Kuriphoton",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaion, the Timelord",
+      "Copies": 1
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 3
+    },
+    {
+      "Name": "Final Countdown",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Sarcophagus",
+      "Copies": 1
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 2
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Hope for Escape",
+      "Copies": 3
+    },
+    {
+      "Name": "Rainbow Life",
+      "Copies": 2
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder of Ruler",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Volcanic Queen",
+      "Copies": 1
+    },
+    {
+      "Name": "Emergency Provisions",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Poison of the Old Man",
+      "Copies": 2
+    },
+    {
+      "Name": "Frozen Soul",
+      "Copies": 1
+    },
+    {
+      "Name": "Just Desserts",
+      "Copies": 2
+    },
+    {
+      "Name": "Rainbow Life",
+      "Copies": 1
+    },
+    {
+      "Name": "Self-Destruct Button",
+      "Copies": 1
+    },
+    {
+      "Name": "Starlight Road",
+      "Copies": 1
+    }
+  ]
+}

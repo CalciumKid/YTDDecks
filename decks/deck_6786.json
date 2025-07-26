@@ -1,0 +1,184 @@
+{
+  "Date": "October 2017",
+  "Tournament": "Regional - Montreal Canada",
+  "DeckName": "Nurse Burn",
+  "DeckId": "6786",
+  "Duelist": "Shane Snorlax Bastien",
+  "Placed": "18th Place",
+  "Archetype": "HERO",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Darklord Ixchel",
+      "Copies": 3
+    },
+    {
+      "Name": "Darklord Nurse Reficule",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 2
+    },
+    {
+      "Name": "Banishment of the Darklords",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 3
+    },
+    {
+      "Name": "Into the Void",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Mallet",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Bad Reaction to Simochi",
+      "Copies": 2
+    },
+    {
+      "Name": "Blazing Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Gift Card",
+      "Copies": 3
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "The Paths of Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-and-Guess",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Elemental HERO Flame Wingman",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Inferno",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Plasma Vice",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Terra Firma",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO The Shining",
+      "Copies": 1
+    },
+    {
+      "Name": "Multiple Piece Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Z-ARC",
+      "Copies": 1
+    },
+    {
+      "Name": "UFOroid Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Worm Zero",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Flame Wingman",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Inferno",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Plasma Vice",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Terra Firma",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO The Shining",
+      "Copies": 1
+    },
+    {
+      "Name": "Multiple Piece Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 1
+    },
+    {
+      "Name": "Supreme King Z-ARC",
+      "Copies": 1
+    },
+    {
+      "Name": "UFOroid Fighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Worm Zero",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Taker",
+      "Copies": 3
+    },
+    {
+      "Name": "System Down",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Bad Reaction to Simochi",
+      "Copies": 1
+    }
+  ]
+}

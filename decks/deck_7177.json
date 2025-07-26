@@ -1,0 +1,168 @@
+{
+  "Date": "March 2018",
+  "Tournament": "Regional - Largs, Scotland",
+  "DeckName": "Gem-Knight FTK",
+  "DeckId": "7177",
+  "Duelist": "Andrew Irvine",
+  "Placed": "7th Place",
+  "Archetype": "Gem-Knight",
+  "DeckProfile": "www.youtube.com/embed/Meto_UhtvZc",
+  "MainDeck": [
+    {
+      "Name": "Block Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Rose",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Armadillo",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Lapis",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Obsidian",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Tourmaline",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragged Down into the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "True King of All Calamities",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Zirconia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Garnet",
+      "Copies": 1
+    },
+    {
+      "Name": "Jizukiru, the Star Destroying Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    }
+  ]
+}

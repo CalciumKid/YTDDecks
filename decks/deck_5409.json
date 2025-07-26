@@ -1,0 +1,184 @@
+{
+  "Date": "September 2016",
+  "Tournament": "Regional San Jose California",
+  "DeckName": "Raidraptors",
+  "DeckId": "5409",
+  "Duelist": "Rickey Richards",
+  "Placed": "9th - 16th Place",
+  "Archetype": "Raidraptor",
+  "DeckProfile": "www.youtube.com/embed/m-wFRZipaRU",
+  "MainDeck": [
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Photon Thrasher",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Fuzzy Lanius",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Last Strix",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Mimicry Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Raidraptor - Pain Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Sharp Lanius",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Singing Lanius",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Tribute Lanius",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Vanishing Lanius",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Nest",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Astral Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Rank-Up-Magic Skip Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Rank-Up-Magic Soul Shave Force",
+      "Copies": 2
+    },
+    {
+      "Name": "Icarus Attack",
+      "Copies": 2
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Readiness",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S0: Utopic ZEXAL",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Blade Burner Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Force Strix",
+      "Copies": 2
+    },
+    {
+      "Name": "Raidraptor - Revolution Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Satellite Cannon Falcon",
+      "Copies": 1
+    },
+    {
+      "Name": "Raidraptor - Ultimate Falcon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Chaos Trap Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    }
+  ]
+}

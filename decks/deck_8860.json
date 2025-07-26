@@ -1,0 +1,187 @@
+{
+  "Date": "May 2018",
+  "Tournament": "Third eye comics table top day",
+  "DeckName": "Dark Magician",
+  "DeckId": "8860",
+  "Duelist": "Just_a_mongrel",
+  "Placed": "1st Place",
+  "Archetype": "Magician",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Angel Trumpeter",
+      "Copies": 1
+    },
+    {
+      "Name": "Aqua Madoor",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Necromancer",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magician",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magician Girl",
+      "Copies": 1
+    },
+    {
+      "Name": "Des Feral Imp",
+      "Copies": 2
+    },
+    {
+      "Name": "Feral Imp",
+      "Copies": 1
+    },
+    {
+      "Name": "Goddess of Sweet Revenge",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Magician's Robe",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 2
+    },
+    {
+      "Name": "Opticlops",
+      "Copies": 1
+    },
+    {
+      "Name": "Pale Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "The Dragon Dwelling in the Cave",
+      "Copies": 2
+    },
+    {
+      "Name": "The Tricky",
+      "Copies": 1
+    },
+    {
+      "Name": "Vampire Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Vorse Raider",
+      "Copies": 1
+    },
+    {
+      "Name": "X-Saber Pashuul",
+      "Copies": 1
+    },
+    {
+      "Name": "Card of Sanctity",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Magic Attack",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Reflector",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Shard of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Shrink",
+      "Copies": 1
+    },
+    {
+      "Name": "Silent Doom",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Tribute to The Doomed",
+      "Copies": 1
+    },
+    {
+      "Name": "Birthright",
+      "Copies": 1
+    },
+    {
+      "Name": "Blast Held by a Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Escape from the Dark Dimension",
+      "Copies": 2
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Rising Energy",
+      "Copies": 1
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Widespread Ruin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Azure-Eyes Silver Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Escape from the Dark Dimension",
+      "Copies": 1
+    }
+  ]
+}

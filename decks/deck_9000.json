@@ -1,0 +1,132 @@
+{
+  "Date": "August 2020",
+  "Tournament": "WCQ - Australia Nationals",
+  "DeckName": "Digital Bug Gurumatika",
+  "DeckId": "9000",
+  "Duelist": "Jeff Tiedrich",
+  "Placed": "42nd Place",
+  "Archetype": "Digital",
+  "DeckProfile": "www.youtube.com/embed/ej_sxi0gtH8",
+  "MainDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Digital Bug Centibit",
+      "Copies": 3
+    },
+    {
+      "Name": "Digital Bug Cocoondenser",
+      "Copies": 3
+    },
+    {
+      "Name": "Digital Bug LEDybug",
+      "Copies": 3
+    },
+    {
+      "Name": "Digital Bug Registrider",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Ecclesia, the Virtuous",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Fleurdelis, the Knighted",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Maximus",
+      "Copies": 2
+    },
+    {
+      "Name": "Oppressed People",
+      "Copies": 2
+    },
+    {
+      "Name": "Subterror Fiendess",
+      "Copies": 1
+    },
+    {
+      "Name": "Subterror Guru",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 3
+    },
+    {
+      "Name": "Dogmatika Punishment",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload eXcharge Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Paladin",
+      "Copies": 1
+    },
+    {
+      "Name": "Digital Bug Corebage",
+      "Copies": 2
+    },
+    {
+      "Name": "Digital Bug Rhinosebus",
+      "Copies": 2
+    },
+    {
+      "Name": "Digital Bug Scaradiator",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 2
+    },
+    {
+      "Name": "El Shaddoll Apkallone",
+      "Copies": 2
+    },
+    {
+      "Name": "Martial Metal Marcher",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Achilleshield",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    }
+  ]
+}

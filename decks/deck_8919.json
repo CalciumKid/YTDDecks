@@ -1,0 +1,103 @@
+{
+  "Date": "September 2017",
+  "Tournament": "2006 Pharaoh Tour Bremen",
+  "DeckName": "Lunalights",
+  "DeckId": "8919",
+  "Duelist": "James Adams-o'toole",
+  "Placed": "7th Place",
+  "Archetype": "Lunalight",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Lunalight Black Sheep",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Blue Cat",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Purple Butterfly",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Tiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight White Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Wolf",
+      "Copies": 3
+    },
+    {
+      "Name": "Burial from a Different Dimension",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 3
+    },
+    {
+      "Name": "Fusion Recycling Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Fusion Tag",
+      "Copies": 2
+    },
+    {
+      "Name": "Luna Light Perfume",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Reincarnation Dance",
+      "Copies": 3
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dark Rebellion Xyz Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Lunalight Cat Dancer",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Leo Dancer",
+      "Copies": 3
+    },
+    {
+      "Name": "Lunalight Panther Dancer",
+      "Copies": 3
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

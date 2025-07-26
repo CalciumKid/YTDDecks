@@ -1,0 +1,50 @@
+{
+  "Date": "August 2015",
+  "Tournament": "ARG Metro Series Ohio",
+  "DeckName": "Nekroz",
+  "DeckId": "4336",
+  "Duelist": "Xavier Filice",
+  "Placed": "1st   8th Place",
+  "Archetype": "Nekroz",
+  "DeckProfile": "",
+  "MainDeck": [],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 1
+    },
+    {
+      "Name": "Puppet Plant",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaddoll Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaddoll Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Breakthrough Skill",
+      "Copies": 1
+    },
+    {
+      "Name": "Fairy Wind",
+      "Copies": 2
+    },
+    {
+      "Name": "Mind Crush",
+      "Copies": 2
+    }
+  ]
+}

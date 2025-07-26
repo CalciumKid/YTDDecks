@@ -1,0 +1,99 @@
+{
+  "Date": "September 2020",
+  "Tournament": "Cardmarket Series Paris 2020",
+  "DeckName": "Duy3hr4",
+  "DeckId": "9024",
+  "Duelist": "Arthur V",
+  "Placed": "13th Place",
+  "Archetype": "Deskbot",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Deskbot 001",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 002",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 003",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 004",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 005",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 006",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 007",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 008",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 009",
+      "Copies": 1
+    },
+    {
+      "Name": "Deskbot Base",
+      "Copies": 1
+    },
+    {
+      "Name": "Downbeat",
+      "Copies": 2
+    },
+    {
+      "Name": "Igknight Reload",
+      "Copies": 1
+    },
+    {
+      "Name": "Machine Duplication",
+      "Copies": 3
+    },
+    {
+      "Name": "Magnet Circle LV2",
+      "Copies": 2
+    },
+    {
+      "Name": "Transmodify",
+      "Copies": 2
+    },
+    {
+      "Name": "Storming Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Time Machine",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Deskbot Jet",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 3
+    },
+    {
+      "Name": "Number 11: Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 7: Lucky Straight",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": []
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "December 2018",
+  "Tournament": "YCS - Milan Italy",
+  "DeckName": "Gem-Knight FTK",
+  "DeckId": "7856",
+  "Duelist": "Vladis Baranovskis",
+  "Placed": "Top 32",
+  "Archetype": "Gem-Knight",
+  "DeckProfile": "www.youtube.com/embed/oUZeIM4Kp5I",
+  "MainDeck": [
+    {
+      "Name": "Block Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Rose",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Armadillo",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lapis",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Lazuli",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Obsidian",
+      "Copies": 3
+    },
+    {
+      "Name": "Gem-Knight Tourmaline",
+      "Copies": 3
+    },
+    {
+      "Name": "Rescue Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Brilliant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragged Down into the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Curious, the Lightsworn Dominion",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Phantom Quartz",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Brilliant Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Lady Lapis Lazuli",
+      "Copies": 2
+    },
+    {
+      "Name": "Gem-Knight Master Diamond",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Prismaura",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Seraphinite",
+      "Copies": 1
+    },
+    {
+      "Name": "Gem-Knight Zirconia",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Mid-Breaker Field",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "Date": "May 2023",
+  "Tournament": "YCS - Philadelphia Pennsylvania",
+  "DeckName": "Gold Pride",
+  "DeckId": "9628",
+  "Duelist": "Steven Logan",
+  "Placed": "Top 64",
+  "Archetype": "Gold Pride",
+  "DeckProfile": "www.youtube.com/embed/Dzv9T9U8oi0",
+  "MainDeck": [
+    {
+      "Name": "Dr. Frankenderp",
+      "Copies": 1
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Captain Carrie",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Leon",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Roller Baller",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Psychic Wheeleder",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 2
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Better Luck Next Time!",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - That Came Out of Nowhere!",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Ready Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Start Your Engines!",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adamancipator Risen - Dragite",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Pride - Chariot Carrie",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Pride - Pin Baller",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Pride - Star Leon",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 3: Cicada King",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 49: Fortune Tune",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Charubin the Fire Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Pride - Pin Baller",
+      "Copies": 2
+    },
+    {
+      "Name": "Sea Monster of Theseus",
+      "Copies": 1
+    },
+    {
+      "Name": "Sea Monster of Theseus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Mistaken Arrest",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Start Your Engines!",
+      "Copies": 1
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ]
+}

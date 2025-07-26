@@ -1,0 +1,164 @@
+{
+  "Date": "April 2022",
+  "Tournament": "Yu-Gi-Oh! Championship Series Guadalajara 2022",
+  "DeckName": "Swordsoul Tenyi",
+  "DeckId": "9092",
+  "Duelist": "Cristian Urena",
+  "Placed": "3rd Place",
+  "Archetype": "Swordsoul",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Deskbot 001",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Incredible Ecclesia, the Virtuous",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul of Mo Ye",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Taia",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Strategist Longyuan",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Adhara",
+      "Copies": 2
+    },
+    {
+      "Name": "Tenyi Spirit - Ashuna",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Shthana",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenyi Spirit - Vishuda",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavenly Dragon Circle",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Emergence",
+      "Copies": 3
+    },
+    {
+      "Name": "Vessel for the Dragon Cycle",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul Blackout",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Berserker of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Auroradon",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Grandmaster - Chixiao",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Supreme Sovereign - Chengying",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Mecha Phantom Beast Auroradon",
+      "Copies": 1
+    },
+    {
+      "Name": "Monk of the Tenyi",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Anti-Magic Arrows",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    }
+  ]
+}

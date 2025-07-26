@@ -1,0 +1,164 @@
+{
+  "Date": "April 2024",
+  "Tournament": "YCS - Raleigh North Carolina",
+  "DeckName": "Runick Plunder Patroll",
+  "DeckId": "9888",
+  "Duelist": "Douglas Haddad",
+  "Placed": "Top 16",
+  "Archetype": "Runick",
+  "DeckProfile": "www.youtube.com/embed/b4yzwyp9PSU",
+  "MainDeck": [
+    {
+      "Name": "Blackeyes, the Plunder Patroll Seaguide",
+      "Copies": 2
+    },
+    {
+      "Name": "Bluebeard, the Plunder Patroll Shipwright",
+      "Copies": 2
+    },
+    {
+      "Name": "Goldenhair, the Newest Plunder Patroll",
+      "Copies": 3
+    },
+    {
+      "Name": "Redbeard, the Plunder Patroll Matey",
+      "Copies": 1
+    },
+    {
+      "Name": "Whitebeard, the Plunder Patroll Helm",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Plunder Patroll Shipyarrrd",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Dispelling",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Flashing Fire",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Fountain",
+      "Copies": 2
+    },
+    {
+      "Name": "Runick Freezing Curses",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "Runick Smiting Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Runick Tip",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Plunder Patroll Booty",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Blackbeard, the Plunder Patroll Captain",
+      "Copies": 2
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Geri the Runick Fangs",
+      "Copies": 1
+    },
+    {
+      "Name": "Hugin the Runick Wings",
+      "Copies": 3
+    },
+    {
+      "Name": "Plunder Patrollship Brann",
+      "Copies": 2
+    },
+    {
+      "Name": "Plunder Patrollship Jord",
+      "Copies": 1
+    },
+    {
+      "Name": "Plunder Patrollship Lys",
+      "Copies": 2
+    },
+    {
+      "Name": "Plunder Patrollship Moerk",
+      "Copies": 2
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Munin the Runick Wings",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Crossout Designator",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark World Puppetry",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    }
+  ]
+}

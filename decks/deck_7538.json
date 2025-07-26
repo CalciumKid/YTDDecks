@@ -1,0 +1,140 @@
+{
+  "Date": "December 2018",
+  "Tournament": "YCS - Milan Italy",
+  "DeckName": "Prank-Kids",
+  "DeckId": "7538",
+  "Duelist": "Dinh-kha Bui",
+  "Placed": "1st Place",
+  "Archetype": "Prank-Kids",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Dropsies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Fansies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Lampsies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Rocksies",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Pandemonium",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Place",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Pranks",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Plan",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Battle Butler",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Bow-Wow-Bark",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Dodo-Doodle-Doo",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Rip-Roarin-Roaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Rocket Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Weather Washer",
+      "Copies": 2
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ]
+}

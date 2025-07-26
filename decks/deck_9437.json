@@ -1,0 +1,160 @@
+{
+  "Date": "February 2023",
+  "Tournament": "Regional - Duluth Georgia",
+  "DeckName": "Mathmech",
+  "DeckId": "9437",
+  "Duelist": "Aidan Collins",
+  "Placed": "11th Place",
+  "Archetype": "Mathmech",
+  "DeckProfile": "www.youtube.com/embed/vtYwrxorozM",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Link Infra-Flier",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Addition",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Circular",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Diameter",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Multiplication",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Nabla",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Sigma",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathmech Subtraction",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Parallel eXceed",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Equation",
+      "Copies": 1
+    },
+    {
+      "Name": "Small World",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Superfactorial",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyberse Wicckid",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker Heatsoul",
+      "Copies": 1
+    },
+    {
+      "Name": "Geomathmech Final Sigma",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Linguriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Devotee",
+      "Copies": 1
+    },
+    {
+      "Name": "Primathmech Alembertian",
+      "Copies": 2
+    },
+    {
+      "Name": "Primathmech Laplacian",
+      "Copies": 1
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 1
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Update Jammer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

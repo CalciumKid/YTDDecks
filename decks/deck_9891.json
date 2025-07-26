@@ -1,0 +1,152 @@
+{
+  "Date": "November 2023",
+  "Tournament": "YCS - Richmond Virginia",
+  "DeckName": "Unchained",
+  "DeckId": "9891",
+  "Duelist": "Matthew Narvaez",
+  "Placed": "Top 8",
+  "Archetype": "Unchained",
+  "DeckProfile": "www.youtube.com/embed/FN3WD7uliSg",
+  "MainDeck": [
+    {
+      "Name": "Abominable Unchained Soul",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D/D Vice King Requiem",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Sharvara",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Shyama",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Aruha",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Twins - Rakea",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Sarama",
+      "Copies": 1
+    },
+    {
+      "Name": "Abomination's Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Gate",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Abominable Chamber of the Unchained",
+      "Copies": 3
+    },
+    {
+      "Name": "Escape of the Unchained",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "D/D/D Deviser King Deus Machinex",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Stone King Darius",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Wave High King Caesar",
+      "Copies": 2
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 2
+    },
+    {
+      "Name": "Super Starslayer TY-PHON - Sky Crisis",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul Lord of Yama",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Soul of Anguish",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul of Rage",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    }
+  ]
+}

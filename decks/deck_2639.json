@@ -1,0 +1,139 @@
+{
+  "Date": "February 2008",
+  "Tournament": "2008 SJ Houston",
+  "DeckName": "Six Samurai",
+  "DeckId": "2639",
+  "Duelist": "Jonathan Moore",
+  "Placed": "1st Place",
+  "Archetype": "Six Samurai",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Enishi, Shien's Chancellor",
+      "Copies": 1
+    },
+    {
+      "Name": "Grandmaster of the Six Samurai",
+      "Copies": 3
+    },
+    {
+      "Name": "Great Shogun Shien",
+      "Copies": 3
+    },
+    {
+      "Name": "Spirit of the Six Samurai",
+      "Copies": 2
+    },
+    {
+      "Name": "The Six Samurai - Irou",
+      "Copies": 3
+    },
+    {
+      "Name": "The Six Samurai - Kamon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Six Samurai - Yaichi",
+      "Copies": 3
+    },
+    {
+      "Name": "The Six Samurai - Zanji",
+      "Copies": 2
+    },
+    {
+      "Name": "Brain Control",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Six Samurai United",
+      "Copies": 2
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Phoenix Wing Wind Blast",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Kinetic Soldier",
+      "Copies": 2
+    },
+    {
+      "Name": "The Six Samurai - Kamon",
+      "Copies": 1
+    },
+    {
+      "Name": "Van'Dalgyon the Dark Dragon Lord",
+      "Copies": 2
+    },
+    {
+      "Name": "Cunning of the Six Samurai",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 2
+    },
+    {
+      "Name": "Spell Shield Type-8",
+      "Copies": 1
+    }
+  ]
+}

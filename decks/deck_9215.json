@@ -1,0 +1,164 @@
+{
+  "Date": "October 2022",
+  "Tournament": "Regional - Des Moines Iowa",
+  "DeckName": "Rikka Sunavalon",
+  "DeckId": "9215",
+  "Duelist": "Khalil Horton",
+  "Placed": "14th Place",
+  "Archetype": "Rikka",
+  "DeckProfile": "www.youtube.com/embed/D_QgQBP1duw",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Lonefire Blossom",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudan the Rikka Fairy",
+      "Copies": 2
+    },
+    {
+      "Name": "Primula the Rikka Fairy",
+      "Copies": 2
+    },
+    {
+      "Name": "Rikka Petal",
+      "Copies": 3
+    },
+    {
+      "Name": "Rikka Princess",
+      "Copies": 3
+    },
+    {
+      "Name": "Snowdrop the Rikka Fairy",
+      "Copies": 1
+    },
+    {
+      "Name": "Sunseed Genius Loci",
+      "Copies": 3
+    },
+    {
+      "Name": "Sunseed Twin",
+      "Copies": 1
+    },
+    {
+      "Name": "Rikka Glamour",
+      "Copies": 3
+    },
+    {
+      "Name": "Rikka Konkon",
+      "Copies": 2
+    },
+    {
+      "Name": "Sunvine Sowing",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Rikka Sheet",
+      "Copies": 1
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Alsei, the Sylvan High Protector",
+      "Copies": 1
+    },
+    {
+      "Name": "Aromaseraphy Jasmine",
+      "Copies": 2
+    },
+    {
+      "Name": "Benghalancer the Resurgent",
+      "Copies": 1
+    },
+    {
+      "Name": "Rikka Queen Strenna",
+      "Copies": 2
+    },
+    {
+      "Name": "Sacred Tree Beast, Hyperyton",
+      "Copies": 1
+    },
+    {
+      "Name": "Sunavalon Dryas",
+      "Copies": 3
+    },
+    {
+      "Name": "Sunavalon Melias",
+      "Copies": 1
+    },
+    {
+      "Name": "Sunvine Healer",
+      "Copies": 1
+    },
+    {
+      "Name": "Sunvine Thrasher",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Dancepione",
+      "Copies": 1
+    },
+    {
+      "Name": "Teardrop the Rikka Queen",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

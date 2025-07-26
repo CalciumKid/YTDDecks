@@ -1,0 +1,164 @@
+{
+  "Date": "April 2017",
+  "Tournament": "Regional - New Zealand",
+  "DeckName": "Crystrons",
+  "DeckId": "6230",
+  "Duelist": "Brendon Paterson",
+  "Placed": "Top 8",
+  "Archetype": "Crystron",
+  "DeckProfile": "www.youtube.com/embed/p3RmSAHCKYQ",
+  "MainDeck": [
+    {
+      "Name": "Crystron Citree",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Prasiortle",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quan",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Rion",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Rosenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Smiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Sulfefnir",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Thystvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Recycler",
+      "Copies": 3
+    },
+    {
+      "Name": "Different Dimension Deepsea Trench",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Iron Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Smoke Grenade of the Thief",
+      "Copies": 3
+    },
+    {
+      "Name": "Transmodify",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Impact",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Ametrix",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quandax",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Quariongandrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity Norden",
+      "Copies": 1
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Hi-Speedroid Hagoita",
+      "Copies": 1
+    },
+    {
+      "Name": "Powered Inzektron",
+      "Copies": 1
+    },
+    {
+      "Name": "Superheavy Samurai Stealth Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Reaper & Winter Cherries",
+      "Copies": 2
+    },
+    {
+      "Name": "Jinzo",
+      "Copies": 3
+    },
+    {
+      "Name": "Silent Angler",
+      "Copies": 2
+    },
+    {
+      "Name": "System Down",
+      "Copies": 2
+    },
+    {
+      "Name": "Diamond Dust",
+      "Copies": 1
+    },
+    {
+      "Name": "Non-Fusion Area",
+      "Copies": 3
+    }
+  ]
+}

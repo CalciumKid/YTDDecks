@@ -1,0 +1,184 @@
+{
+  "Date": "August 2020",
+  "Tournament": "Yu-Gi-Oh! Remote Duel - TCG Invitational",
+  "DeckName": "Adamancipator",
+  "DeckId": "8670",
+  "Duelist": "Cameron Neal",
+  "Placed": "Top 4",
+  "Archetype": "Adamancipator",
+  "DeckProfile": "www.youtube.com/embed/D3jOOkr9ViU",
+  "MainDeck": [
+    {
+      "Name": "Adamancipator Analyzer",
+      "Copies": 3
+    },
+    {
+      "Name": "Adamancipator Researcher",
+      "Copies": 3
+    },
+    {
+      "Name": "Adamancipator Seeker",
+      "Copies": 3
+    },
+    {
+      "Name": "Angel Trumpeter",
+      "Copies": 1
+    },
+    {
+      "Name": "Block Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Destroyer Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Doki Doki",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Buster Destruction Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantes",
+      "Copies": 1
+    },
+    {
+      "Name": "Koa'ki Meiru Guardian",
+      "Copies": 3
+    },
+    {
+      "Name": "Mecha Phantom Beast O-Lion",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Tackle Crusader",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenyi Spirit - Adhara",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Unexpected Dai",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Adamancipator Risen - Raptite",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Gallant Granite",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkross",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Martial Metal Marcher",
+      "Copies": 1
+    },
+    {
+      "Name": "Union Carrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Mid-Breaker Field",
+      "Copies": 1
+    },
+    {
+      "Name": "Appointer of the Red Lotus",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

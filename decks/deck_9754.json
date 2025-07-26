@@ -1,0 +1,107 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Vancouver",
+  "DeckName": "Floowandereeze",
+  "DeckId": "9754",
+  "Duelist": "Mertjan Ozbek",
+  "Placed": "Top 32",
+  "Archetype": "Floowandereeze",
+  "DeckProfile": "www.youtube.com/embed/K5YR-EtZ5fc",
+  "MainDeck": [
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Eglen",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Empen",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Robina",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze & Stri",
+      "Copies": 1
+    },
+    {
+      "Name": "Floowandereeze & Toccan",
+      "Copies": 1
+    },
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiza the Mega Monarch",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze and the Advent of Adventure",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze and the Magnificent Map",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze and the Unexplored Winds",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Floowandereeze and the Dreaming Town",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 1
+    }
+  ]
+}

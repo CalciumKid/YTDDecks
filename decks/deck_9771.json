@@ -1,0 +1,168 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Cancun Mexico",
+  "DeckName": "Mannadium",
+  "DeckId": "9771",
+  "Duelist": "Giovanni Gonzalez",
+  "Placed": "Top 32",
+  "Archetype": "Mannadium",
+  "DeckProfile": "www.youtube.com/embed/OnqJgxhSLVI",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Elemental HERO Prisma",
+      "Copies": 2
+    },
+    {
+      "Name": "Mannadium Meek",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Riumheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Scareclaw Reichheart",
+      "Copies": 3
+    },
+    {
+      "Name": "Visas Starfrost",
+      "Copies": 2
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Mannadium Abscission",
+      "Copies": 2
+    },
+    {
+      "Name": "Mannadium Imaginings",
+      "Copies": 1
+    },
+    {
+      "Name": "Peaceful Planet Calarium",
+      "Copies": 3
+    },
+    {
+      "Name": "Primitive Planet Reichphobia",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Arrival",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Mannadium Reframing",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchro Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Bystial Dis Pater",
+      "Copies": 1
+    },
+    {
+      "Name": "Crimson Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Scareclaw Light-Heart",
+      "Copies": 2
+    },
+    {
+      "Name": "Vicious Astraloud",
+      "Copies": 3
+    },
+    {
+      "Name": "Visas Amritara",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    }
+  ]
+}

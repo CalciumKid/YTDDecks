@@ -1,0 +1,147 @@
+{
+  "Date": "February 2022",
+  "Tournament": "Master Duel",
+  "DeckName": "Exodia",
+  "DeckId": "9048",
+  "Duelist": "Justin Koch",
+  "Placed": "1st - 3rd Place",
+  "Archetype": "Exodia",
+  "DeckProfile": "www.youtube.com/embed/bw9Lt4znGhk",
+  "MainDeck": [
+    {
+      "Name": "Aroma Jar",
+      "Copies": 3
+    },
+    {
+      "Name": "Battle Fader",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue Dragon Summoner",
+      "Copies": 2
+    },
+    {
+      "Name": "Exodia the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Left Arm of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Left Leg of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Marshmallon",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Elf",
+      "Copies": 1
+    },
+    {
+      "Name": "Right Arm of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Right Leg of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 3
+    },
+    {
+      "Name": "Witch of the Black Forest",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Eruption",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "The Fang of Critias",
+      "Copies": 3
+    },
+    {
+      "Name": "Draining Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Quaking Mirror Force",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 70: Malevolent Sin",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

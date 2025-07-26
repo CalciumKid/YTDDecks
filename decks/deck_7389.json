@@ -1,0 +1,124 @@
+{
+  "Date": "September 2018",
+  "Tournament": "LLDS - Wallasey",
+  "DeckName": "Demise Phantasm Spiral",
+  "DeckId": "7389",
+  "Duelist": "Ryan Armistead",
+  "Placed": "9th Place",
+  "Archetype": "Phantasm",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Gaia Saber, the Lightning Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Megalosmasher X",
+      "Copies": 3
+    },
+    {
+      "Name": "Card of Demise",
+      "Copies": 3
+    },
+    {
+      "Name": "Fossil Dig",
+      "Copies": 3
+    },
+    {
+      "Name": "Heat Wave",
+      "Copies": 3
+    },
+    {
+      "Name": "Pacifis, the Phantasm City",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    },
+    {
+      "Name": "Metaverse",
+      "Copies": 2
+    },
+    {
+      "Name": "Phantasm Spiral Battle",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantasm Spiral Power",
+      "Copies": 3
+    },
+    {
+      "Name": "Sea Stealth Attack",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Phantasm Spiral Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Phantasm Spiral Crash",
+      "Copies": 2
+    },
+    {
+      "Name": "Battle of the Elements",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Water Art - Aoi",
+      "Copies": 3
+    }
+  ]
+}

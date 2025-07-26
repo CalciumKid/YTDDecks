@@ -1,0 +1,188 @@
+{
+  "Date": "November 2022",
+  "Tournament": "OTS Championship Tirana",
+  "DeckName": "Synchro",
+  "DeckId": "9811",
+  "Duelist": "Geralt Shkembi",
+  "Placed": "4th Place",
+  "Archetype": "Synchro",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Caligo Claw Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Converging Wills Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyberse Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Doppelwarrior",
+      "Copies": 3
+    },
+    {
+      "Name": "Fleur Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Jester Confit",
+      "Copies": 2
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Junk Converter",
+      "Copies": 3
+    },
+    {
+      "Name": "Junk Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Stardust Synchron",
+      "Copies": 3
+    },
+    {
+      "Name": "Stardust Trail",
+      "Copies": 2
+    },
+    {
+      "Name": "Synchron Carrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Arrive in Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Garden",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Illumination",
+      "Copies": 2
+    },
+    {
+      "Name": "Synchro Overtake",
+      "Copies": 3
+    },
+    {
+      "Name": "Tuning",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Celestial Double Star Shaman",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "F.A. Dawn Dragster",
+      "Copies": 1
+    },
+    {
+      "Name": "Garden Rose Maiden",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Junk Speeder",
+      "Copies": 1
+    },
+    {
+      "Name": "Junk Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic End Punisher",
+      "Copies": 1
+    },
+    {
+      "Name": "Satellite Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Shooting Majestic Star Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Kyubi - Shenshen",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder King, the Lightningstrike Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 1
+    }
+  ]
+}

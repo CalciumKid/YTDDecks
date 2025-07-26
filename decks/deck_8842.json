@@ -1,0 +1,70 @@
+{
+  "Date": "March 2018",
+  "Tournament": "2009 SJ Austin",
+  "DeckName": "Alchemy 3/ 07+1",
+  "DeckId": "8842",
+  "Duelist": "Roy Hanzberg",
+  "Placed": "13th Place",
+  "Archetype": "Alchemy 3",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "3-Hump Lacooda",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Angel O7",
+      "Copies": 3
+    },
+    {
+      "Name": "Eagle Eye",
+      "Copies": 3
+    },
+    {
+      "Name": "Pumpking the King of Ghosts",
+      "Copies": 3
+    },
+    {
+      "Name": "The Agent of Wisdom - Mercury",
+      "Copies": 3
+    },
+    {
+      "Name": "Zombyra the Dark",
+      "Copies": 3
+    },
+    {
+      "Name": "Axe of Despair",
+      "Copies": 3
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 3
+    },
+    {
+      "Name": "Alchemy Cycle",
+      "Copies": 3
+    },
+    {
+      "Name": "A Rival Appears!",
+      "Copies": 3
+    },
+    {
+      "Name": "Defense Draw",
+      "Copies": 3
+    },
+    {
+      "Name": "Prideful Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Roar of the Earthbound",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

@@ -1,0 +1,168 @@
+{
+  "Date": "October 2016",
+  "Tournament": "Regional Gosford Australia",
+  "DeckName": "PSY-Frames",
+  "DeckId": "5583",
+  "Duelist": "Michael Angel Duke",
+  "Placed": "Top 8",
+  "Archetype": "Psychic",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Kuribandit",
+      "Copies": 3
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Alpha",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Beta",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Delta",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Psychic Feel Zone",
+      "Copies": 3
+    },
+    {
+      "Name": "Psychic Path",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Circuit",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "King's Consonance",
+      "Copies": 3
+    },
+    {
+      "Name": "Psychic Overload",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic Trigger",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Overload",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Lightshower",
+      "Copies": 1
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Overmind Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic Lifetrancer",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Framelord Zeta",
+      "Copies": 2
+    },
+    {
+      "Name": "Scrap Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "The Fabled Unicore",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 2
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Lector Pendulum, the Dracoverlord",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 2
+    },
+    {
+      "Name": "Full House",
+      "Copies": 2
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    }
+  ]
+}

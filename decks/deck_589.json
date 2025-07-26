@@ -1,0 +1,78 @@
+{
+  "Date": "April 2013",
+  "Tournament": "YCS - San Diego California",
+  "DeckName": "Gishki FTK",
+  "DeckId": "589",
+  "Duelist": "Allen Pennington",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Gishki",
+  "DeckProfile": "www.youtube.com/embed/-ClmVOl9qBU",
+  "MainDeck": [
+    {
+      "Name": "Evigishki Mind Augus",
+      "Copies": 2
+    },
+    {
+      "Name": "Evigishki Soul Ogre",
+      "Copies": 2
+    },
+    {
+      "Name": "Gishki Shadow",
+      "Copies": 3
+    },
+    {
+      "Name": "Gishki Vision",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Magical Library",
+      "Copies": 2
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Cup of Ace",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark World Dealings",
+      "Copies": 1
+    },
+    {
+      "Name": "Gishki Aquamirror",
+      "Copies": 3
+    },
+    {
+      "Name": "Hand Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Mallet",
+      "Copies": 1
+    },
+    {
+      "Name": "Moray of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 1
+    },
+    {
+      "Name": "Salvage",
+      "Copies": 3
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

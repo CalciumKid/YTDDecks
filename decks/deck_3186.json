@@ -1,0 +1,228 @@
+{
+  "Date": "December 2004",
+  "Tournament": "2004 Gen Con So Cal Shonen Jump Series",
+  "DeckName": "Shonen Jump #1 - 2nd",
+  "DeckId": "3186",
+  "Duelist": "Henry Ke",
+  "Placed": "2nd Place",
+  "Archetype": "Shonen Jump #1 - 2nd",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Cannon Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Catapult Turtle",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Magician of Chaos",
+      "Copies": 1
+    },
+    {
+      "Name": "Gilasaurus",
+      "Copies": 3
+    },
+    {
+      "Name": "Magical Scientist",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Last Will",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reincarnation",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Plasma Zone",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystik Wok",
+      "Copies": 1
+    },
+    {
+      "Name": "Painful Choice",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Reload",
+      "Copies": 3
+    },
+    {
+      "Name": "Serial Spell",
+      "Copies": 3
+    },
+    {
+      "Name": "Spell Reproduction",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 3
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 3
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Empress Judge",
+      "Copies": 3
+    },
+    {
+      "Name": "Giltia the D. Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Musician King",
+      "Copies": 2
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 3
+    },
+    {
+      "Name": "Punished Eagle",
+      "Copies": 3
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 3
+    },
+    {
+      "Name": "Roaring Ocean Snake",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 3
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 3
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Jinzo",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimate Obedient Fiend",
+      "Copies": 2
+    },
+    {
+      "Name": "Creature Swap",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Last Turn",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    },
+    {
+      "Name": "Self-Destruct Button",
+      "Copies": 2
+    },
+    {
+      "Name": "Wall of Revealing Light",
+      "Copies": 1
+    }
+  ]
+}

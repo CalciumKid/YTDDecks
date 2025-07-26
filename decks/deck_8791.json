@@ -1,0 +1,183 @@
+{
+  "Date": "February 2017",
+  "Tournament": "ETSYGOTCG",
+  "DeckName": "Chaos Dragon",
+  "DeckId": "8791",
+  "Duelist": "Thomas Mccurry",
+  "Placed": "3rd Place",
+  "Archetype": "Red-Eyes",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Alexandrite Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Dragon's Chick",
+      "Copies": 2
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Decoy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Exploder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Lord of D.",
+      "Copies": 1
+    },
+    {
+      "Name": "Luster Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Malefic Red-Eyes B. Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Meteor Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes B. Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Red-Eyes Darkness Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Darkness Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Wyvern",
+      "Copies": 1
+    },
+    {
+      "Name": "Summoned Skull",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Rules",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Luster Ritual",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Ravine",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Substitute",
+      "Copies": 1
+    },
+    {
+      "Name": "Mountain",
+      "Copies": 3
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Stamping Destruction",
+      "Copies": 2
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "The Flute of Summoning Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Birthright",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Capture Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Archfiend Black Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Master Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Five-Headed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Sun Dragon Overlord of Heliopolis",
+      "Copies": 1
+    },
+    {
+      "Name": "Meteor Black Comet Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Neo Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Archfiend Black Skull Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon Master Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Five-Headed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Meteor Black Comet Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Neo Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Luster Soldier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

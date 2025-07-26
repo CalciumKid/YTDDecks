@@ -1,0 +1,172 @@
+{
+  "Date": "September 2022",
+  "Tournament": "Yu-Gi-Oh! Championship Series Niagara Falls 2022",
+  "DeckName": "Mathmech",
+  "DeckId": "9125",
+  "Duelist": "Collin Cleaves",
+  "Placed": "Top 32",
+  "Archetype": "Mathmech",
+  "DeckProfile": "www.youtube.com/embed/FJxwJ_zYjHo",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "Mathmech Addition",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Circular",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Diameter",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Multiplication",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Nabla",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Sigma",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Subtraction",
+      "Copies": 3
+    },
+    {
+      "Name": "Parallel eXceed",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Crosswipe",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Equation",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Mathmech Induction",
+      "Copies": 1
+    },
+    {
+      "Name": "Mathmech Superfactorial",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyberse Wicckid",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker Heatsoul",
+      "Copies": 1
+    },
+    {
+      "Name": "Geomathmech Final Sigma",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Devotee",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Disciple",
+      "Copies": 1
+    },
+    {
+      "Name": "Primathmech Alembertian",
+      "Copies": 2
+    },
+    {
+      "Name": "Primathmech Laplacian",
+      "Copies": 2
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 1
+    },
+    {
+      "Name": "Transcode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Update Jammer",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Alpha, the Master of Beasts",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Silent Graveyard",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

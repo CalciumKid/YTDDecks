@@ -1,0 +1,95 @@
+{
+  "Date": "April 2017",
+  "Tournament": "YCS - Dallas Texas",
+  "DeckName": "Superheavy Samurai",
+  "DeckId": "8859",
+  "Duelist": "Luke Allen",
+  "Placed": "2nd Place",
+  "Archetype": "Superheavy",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Magic Hole Golem",
+      "Copies": 2
+    },
+    {
+      "Name": "Superheavy Samurai Battleball",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Big Benkei",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Flutist",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai General Coral",
+      "Copies": 2
+    },
+    {
+      "Name": "Superheavy Samurai General Jade",
+      "Copies": 2
+    },
+    {
+      "Name": "Superheavy Samurai Gigagloves",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Magnet",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Scales",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Soulbuster Gauntlet",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Soulfire Suit",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Soulpeacemaker",
+      "Copies": 2
+    },
+    {
+      "Name": "Superheavy Samurai Soulpiercer",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Trumpeter",
+      "Copies": 3
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Leviair the Sea Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Superheavy Samurai Ninja Sarutobi",
+      "Copies": 1
+    },
+    {
+      "Name": "Superheavy Samurai Ogre Shutendoji",
+      "Copies": 2
+    },
+    {
+      "Name": "Superheavy Samurai Stealth Ninja",
+      "Copies": 3
+    },
+    {
+      "Name": "Superheavy Samurai Warlord Susanowo",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": []
+}

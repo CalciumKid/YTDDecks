@@ -1,0 +1,160 @@
+{
+  "Date": "October 2023",
+  "Tournament": "YCS - Dortmund Germany",
+  "DeckName": "Spright Purrely",
+  "DeckId": "9786",
+  "Duelist": "Sebastien Ma",
+  "Placed": "Top 8",
+  "Archetype": "Spright",
+  "DeckProfile": "www.youtube.com/embed/JYicWxFYqBc",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nimble Angler",
+      "Copies": 3
+    },
+    {
+      "Name": "Nimble Beaver",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrely",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrelyly",
+      "Copies": 2
+    },
+    {
+      "Name": "Spright Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Jet",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "My Friend Purrely",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrely Delicious Memory",
+      "Copies": 1
+    },
+    {
+      "Name": "Purrely Happy Memory",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrely Pretty Memory",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrely Sleepy Memory",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Purrelyeap!?",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Double Cross",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Epurrely Beauty",
+      "Copies": 2
+    },
+    {
+      "Name": "Epurrely Happiness",
+      "Copies": 2
+    },
+    {
+      "Name": "Epurrely Noir",
+      "Copies": 1
+    },
+    {
+      "Name": "Epurrely Plump",
+      "Copies": 1
+    },
+    {
+      "Name": "Expurrely Noir",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic Spright",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 29: Mannequin Cat",
+      "Copies": 1
+    },
+    {
+      "Name": "Sky Striker Ace - Azalea",
+      "Copies": 1
+    },
+    {
+      "Name": "Slacker Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Spright Sprind",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Enemy Controller",
+      "Copies": 3
+    }
+  ]
+}

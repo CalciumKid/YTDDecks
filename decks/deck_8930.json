@@ -1,0 +1,72 @@
+{
+  "Date": "March 2020",
+  "Tournament": "YCS - Rio de Janeiro Brazil",
+  "DeckName": "YEP Pot",
+  "DeckId": "8930",
+  "Duelist": "Nadhir Mussolini",
+  "Placed": "69th Place",
+  "Archetype": "YEP Pot",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Pot of The Forbidden",
+      "Copies": 4
+    },
+    {
+      "Name": "Sky Striker Ace - Raye",
+      "Copies": 4
+    },
+    {
+      "Name": "Spirit of the Pot of Greed",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Acquisitiveness",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Avarice",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Generosity",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Greed",
+      "Copies": 4
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 4
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Gravekeeper's Supernaturalist",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Pot of Greed",
+      "Copies": 4
+    }
+  ]
+}

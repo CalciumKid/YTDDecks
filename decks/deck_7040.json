@@ -1,0 +1,168 @@
+{
+  "Date": "February 2018",
+  "Tournament": "Yu-Gi-Oh! Day",
+  "DeckName": "Noble Knights",
+  "DeckId": "7040",
+  "Duelist": "Johnny Nguyen",
+  "Placed": "1st Place",
+  "Archetype": "Noble Knight",
+  "DeckProfile": "www.youtube.com/embed/r4e9HaY-s3o",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Gwenhwyfar, Queen of Noble Arms",
+      "Copies": 2
+    },
+    {
+      "Name": "Merlin",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Borz",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Brothers",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Knight Drystan",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Gawayn",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Knight Medraut",
+      "Copies": 3
+    },
+    {
+      "Name": "Glory of the Noble Knights",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Arfeudutyr",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Caliburn",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Arms - Excaliburn",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Arms - Gallatin",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms of Destiny",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Scolding",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Artorigus, King of the Noble Knights",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia Prime",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Sacred Noble Knight of King Artorigus",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Lance",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

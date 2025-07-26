@@ -1,0 +1,224 @@
+{
+  "Date": "May 2023",
+  "Tournament": "YCS - Philadelphia Pennsylvania",
+  "DeckName": "60-Card P.U.N.K. Gold Pride",
+  "DeckId": "9634",
+  "Duelist": "Bobby Kenny",
+  "Placed": "Top 64",
+  "Archetype": "P.U.N.K.",
+  "DeckProfile": "www.youtube.com/embed/wbUTptptyQ0",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gagaku-P.U.N.K. Wa Gon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Pride - Captain Carrie",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Leon",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Roller Baller",
+      "Copies": 2
+    },
+    {
+      "Name": "Joruri-P.U.N.K. Madame Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Deer Note",
+      "Copies": 2
+    },
+    {
+      "Name": "Noh-P.U.N.K. Foxy Tune",
+      "Copies": 3
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ogre Dance",
+      "Copies": 3
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ze Amin",
+      "Copies": 3
+    },
+    {
+      "Name": "Psychic Tracker",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Ukiyoe-P.U.N.K. Sharakusai",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Spirit's Mastery",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Gold Pride - Better Luck Next Time!",
+      "Copies": 2
+    },
+    {
+      "Name": "P.U.N.K. JAM Extreme Session",
+      "Copies": 1
+    },
+    {
+      "Name": "Small World",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Pride - Start Your Engines!",
+      "Copies": 2
+    },
+    {
+      "Name": "Joruri-P.U.N.K. Dangerous Gabu",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Adamancipator Risen - Dragite",
+      "Copies": 1
+    },
+    {
+      "Name": "Aussa the Earth Charmer, Immovable",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Pride - Chariot Carrie",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Pride - Pin Baller",
+      "Copies": 1
+    },
+    {
+      "Name": "Gold Pride - Star Leon",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 75: Bamboozling Gossip Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Psychic End Punisher",
+      "Copies": 1
+    },
+    {
+      "Name": "P.U.N.K. JAM Dragon Drive",
+      "Copies": 1
+    },
+    {
+      "Name": "Ukiyoe-P.U.N.K. Amazing Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Ukiyoe-P.U.N.K. Rising Carp",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Archfiend Eccentrick",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "Gold Pride - Nytro Head",
+      "Copies": 1
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ]
+}

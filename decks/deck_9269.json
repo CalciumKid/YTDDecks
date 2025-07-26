@@ -1,0 +1,180 @@
+{
+  "Date": "June 2022",
+  "Tournament": "National Championship - Hungary",
+  "DeckName": "Fluffals",
+  "DeckId": "9269",
+  "Duelist": "Molnár Bence Tivadar",
+  "Placed": "Top 16",
+  "Archetype": "Fluffal",
+  "DeckProfile": "www.youtube.com/embed/h4PygUGaa1Y",
+  "MainDeck": [
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Edge Imp Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Edge Imp Sabres",
+      "Copies": 1
+    },
+    {
+      "Name": "Edge Imp Scythe",
+      "Copies": 1
+    },
+    {
+      "Name": "Fluffal Bear",
+      "Copies": 2
+    },
+    {
+      "Name": "Fluffal Dog",
+      "Copies": 3
+    },
+    {
+      "Name": "Fluffal Dolphin",
+      "Copies": 1
+    },
+    {
+      "Name": "Fluffal Penguin",
+      "Copies": 3
+    },
+    {
+      "Name": "Fluffal Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Fluffal Wings",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Frightfur Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Frightfur Patchwork",
+      "Copies": 3
+    },
+    {
+      "Name": "Frightfur Repair",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Penguins Garden",
+      "Copies": 2
+    },
+    {
+      "Name": "Toy Vendor",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Dagda",
+      "Copies": 1
+    },
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Cross-Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Frightfur Cruel Whale",
+      "Copies": 2
+    },
+    {
+      "Name": "Frightfur Kraken",
+      "Copies": 1
+    },
+    {
+      "Name": "Frightfur Sabre-Tooth",
+      "Copies": 1
+    },
+    {
+      "Name": "Frightfur Tiger",
+      "Copies": 1
+    },
+    {
+      "Name": "Millennium-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

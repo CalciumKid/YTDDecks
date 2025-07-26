@@ -1,0 +1,200 @@
+{
+  "Date": "February 2020",
+  "Tournament": "Regional - Quito Ecuador",
+  "DeckName": "Rokket",
+  "DeckId": "8492",
+  "Duelist": "Carlos Hernandez",
+  "Placed": "Top 8",
+  "Archetype": "Rokket",
+  "DeckProfile": "www.youtube.com/embed/Oe4DLNBlrf8",
+  "MainDeck": [
+    {
+      "Name": "Absorouter Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "Black Dragon Collapserpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Dragon Levianeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Magnarokket Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Metalrokket Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Red-Eyes Darkness Metal Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Rokket Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Rokket Tracer",
+      "Copies": 3
+    },
+    {
+      "Name": "Silverrokket Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Starliege Seyfert",
+      "Copies": 3
+    },
+    {
+      "Name": "Tempest, Dragon Ruler of Storms",
+      "Copies": 1
+    },
+    {
+      "Name": "White Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Boot Sector Launch",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Ravine",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragon's Mirror",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Quick Launch",
+      "Copies": 3
+    },
+    {
+      "Name": "Return of the Dragon Lords",
+      "Copies": 1
+    },
+    {
+      "Name": "World Legacy Guardragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Furious Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Savage Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dillingerous Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Berserker of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Dragunity Knight - Romulus",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Elpy",
+      "Copies": 1
+    },
+    {
+      "Name": "Guardragon Pisty",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Seal of the Heavenly Spheres",
+      "Copies": 1
+    },
+    {
+      "Name": "Quadborrel Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Striker Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    },
+    {
+      "Name": "Wee Witch's Apprentice",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Mind Control",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Guardragon Cataclysm",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

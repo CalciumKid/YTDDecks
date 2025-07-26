@@ -1,0 +1,160 @@
+{
+  "Date": "September 2022",
+  "Tournament": "Yu-Gi-Oh! Championship Series Niagara Falls 2022",
+  "DeckName": "Exosister",
+  "DeckId": "9118",
+  "Duelist": "Ryan Yu",
+  "Placed": "Top 32",
+  "Archetype": "Exosister",
+  "DeckProfile": "www.youtube.com/embed/-vbbLR6HLoI",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Elis",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Irene",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Martha",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Sophia",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Stella",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosister Carpedivem",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Pax",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 2
+    },
+    {
+      "Name": "Necrovalley",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Returnia",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Vadis",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Day-Breaker the Shining Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Asophiel",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Gibrine",
+      "Copies": 1
+    },
+    {
+      "Name": "Exosister Kaspitell",
+      "Copies": 2
+    },
+    {
+      "Name": "Exosister Mikailis",
+      "Copies": 3
+    },
+    {
+      "Name": "Exosisters Magnifica",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

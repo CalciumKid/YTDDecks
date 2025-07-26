@@ -1,0 +1,200 @@
+{
+  "Date": "March 2017",
+  "Tournament": "WCQ - Brest France",
+  "DeckName": "Blackwing Artifact",
+  "DeckId": "6197",
+  "Duelist": "Benoît Bouloudi",
+  "Placed": "13th Place",
+  "Archetype": "Blackwing",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Artifact Beagalltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Moralltach",
+      "Copies": 1
+    },
+    {
+      "Name": "Artifact Scythe",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Blizzard the Far North",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackwing - Bora the Spear",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Decay the Ill Wind",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Gale the Whirlwind",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Gladius the Midnight Sun",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Harmattan the Dust",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing - Kalut the Moon Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Kris the Crack of Dawn",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Oroshi the Squall",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Pinaki the Waxing Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Artifact Ignition",
+      "Copies": 3
+    },
+    {
+      "Name": "Black Whirlwind",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 2
+    },
+    {
+      "Name": "Artifact Sanctum",
+      "Copies": 3
+    },
+    {
+      "Name": "Icarus Attack",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Assault Blackwing - Chidori the Rain Sprinkling",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Blackwing - Raikiri the Rain Shower",
+      "Copies": 1
+    },
+    {
+      "Name": "Assault Blackwing - Sohaya the Rain Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackwing - Nothung the Starlight",
+      "Copies": 2
+    },
+    {
+      "Name": "Blackwing Tamer - Obsidian Hawk Joe",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Pleiades",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Hi-Speedroid Chanbara",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimaya Tzolkin",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 1
+    },
+    {
+      "Name": "Dogoran, the Mad Flame Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Radian, the Multidimensional Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Interrupted Kaiju Slumber",
+      "Copies": 3
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 2
+    }
+  ]
+}

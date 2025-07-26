@@ -1,0 +1,176 @@
+{
+  "Date": "June 2023",
+  "Tournament": "Regional - Louisville Kentucky",
+  "DeckName": "Yang Zing Swordsoul Tenyi",
+  "DeckId": "9662",
+  "Duelist": "Andrew Johnson",
+  "Placed": "10th Place",
+  "Archetype": "Yang Zing",
+  "DeckProfile": "www.youtube.com/embed/aTBoKVtEbdY",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Bi'an, Earth of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Chiwen, Light of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Incredible Ecclesia, the Virtuous",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Mo Ye",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Taia",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Strategist Longyuan",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Adhara",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Ashuna",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Shthana",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenyi Spirit - Vishuda",
+      "Copies": 2
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavenly Dragon Circle",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Emergence",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul Sacred Summit",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Nine Pillars of Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Blackout",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Denglong, First of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Berserker of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaman of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Grandmaster - Chixiao",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Supreme Sovereign - Chengying",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Monk of the Tenyi",
+      "Copies": 2
+    },
+    {
+      "Name": "Shaman of the Tenyi",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Santa Claws",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 2
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

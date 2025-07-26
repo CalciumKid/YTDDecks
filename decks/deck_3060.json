@@ -1,0 +1,143 @@
+{
+  "Date": "February 2006",
+  "Tournament": "2006 Pharoah Tour Italy",
+  "DeckName": "1st Place",
+  "DeckId": "3060",
+  "Duelist": "William Vizzini",
+  "Placed": "1st Place",
+  "Archetype": "1st Place",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Cyber Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber-Stein",
+      "Copies": 3
+    },
+    {
+      "Name": "Iron Blacksmith Kotetsu",
+      "Copies": 2
+    },
+    {
+      "Name": "Magician of Faith",
+      "Copies": 1
+    },
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 3
+    },
+    {
+      "Name": "Peten the Dark Clown",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Level Limit - Area B",
+      "Copies": 2
+    },
+    {
+      "Name": "Lightning Vortex",
+      "Copies": 1
+    },
+    {
+      "Name": "Limiter Removal",
+      "Copies": 1
+    },
+    {
+      "Name": "Megamorph",
+      "Copies": 3
+    },
+    {
+      "Name": "Messenger of Peace",
+      "Copies": 2
+    },
+    {
+      "Name": "Poison of the Old Man",
+      "Copies": 3
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Draining Shield",
+      "Copies": 3
+    },
+    {
+      "Name": "Gravity Bind",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Big Eye",
+      "Copies": 2
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Extermination",
+      "Copies": 2
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Secret Barrel",
+      "Copies": 1
+    },
+    {
+      "Name": "Self-Destruct Button",
+      "Copies": 1
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 2
+    }
+  ]
+}

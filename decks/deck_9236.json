@@ -1,0 +1,204 @@
+{
+  "Date": "June 2022",
+  "Tournament": "National Championship - UK",
+  "DeckName": "Drytron",
+  "DeckId": "9236",
+  "Duelist": "Nick Burgess",
+  "Placed": "1st Place",
+  "Archetype": "Drytron",
+  "DeckProfile": "www.youtube.com/embed/FXAzSCgbkZ8",
+  "MainDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Angel Benten",
+      "Copies": 2
+    },
+    {
+      "Name": "Cyber Angel Idaten",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Angel Natasha",
+      "Copies": 1
+    },
+    {
+      "Name": "Diviner of the Herald",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Alpha Thuban",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Delta Altais",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Gamma Eltanin",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Meteonis Draconids",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Zeta Aldhibah",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Ruler",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Emergency",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Fafnir",
+      "Copies": 2
+    },
+    {
+      "Name": "Drytron Nova",
+      "Copies": 2
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Meteonis Drytron",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Sanctuary",
+      "Copies": 1
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Mu Beta Fafnir",
+      "Copies": 2
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Mirage Lights",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyna the Light Charmer, Lustrous",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Magikey Mechmusket - Batosbuster",
+      "Copies": 1
+    },
+    {
+      "Name": "Necroworld Banshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Zombie World",
+      "Copies": 1
+    },
+    {
+      "Name": "Magikey Unlocking",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "Date": "January 2021",
+  "Tournament": "Remote Duel Extravaganza",
+  "DeckName": "Drytrons",
+  "DeckId": "8746",
+  "Duelist": "Esteban Velasques",
+  "Placed": "2nd Place",
+  "Archetype": "Drytron",
+  "DeckProfile": "www.youtube.com/embed/PjDWtyvWz9E",
+  "MainDeck": [
+    {
+      "Name": "Cyber Angel Benten",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Angel Natasha",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Petit Angel",
+      "Copies": 1
+    },
+    {
+      "Name": "Dawn Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Alpha Thuban",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Delta Altais",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Gamma Eltanin",
+      "Copies": 1
+    },
+    {
+      "Name": "Drytron Zeta Aldhibah",
+      "Copies": 3
+    },
+    {
+      "Name": "Eva",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Orange Light",
+      "Copies": 3
+    },
+    {
+      "Name": "Herald of Purple Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Ultimateness",
+      "Copies": 1
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Emergency",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Fafnir",
+      "Copies": 3
+    },
+    {
+      "Name": "Drytron Nova",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Chalice",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 2
+    },
+    {
+      "Name": "Preparation of Rites",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Elder Entity N'tss",
+      "Copies": 1
+    },
+    {
+      "Name": "Geonator Transverser",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of Mirage Lights",
+      "Copies": 1
+    },
+    {
+      "Name": "Herald of the Arc Light",
+      "Copies": 1
+    },
+    {
+      "Name": "I:P Masquerena",
+      "Copies": 1
+    },
+    {
+      "Name": "Kikinagashi Fucho",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mekk-Knight Crusadia Avramax",
+      "Copies": 1
+    },
+    {
+      "Name": "Relinquished Anima",
+      "Copies": 1
+    },
+    {
+      "Name": "Union Carrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Odd-Eyes Gravity Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

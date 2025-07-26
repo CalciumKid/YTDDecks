@@ -1,0 +1,152 @@
+{
+  "Date": "October 2019",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Fluffals",
+  "DeckId": "8277",
+  "Duelist": "David Vasquez",
+  "Placed": "11th Place",
+  "Archetype": "Fluffal",
+  "DeckProfile": "www.youtube.com/embed/NRFFJLeSTF4",
+  "MainDeck": [
+    {
+      "Name": "Edge Imp Chain",
+      "Copies": 3
+    },
+    {
+      "Name": "Edge Imp Sabres",
+      "Copies": 1
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 3
+    },
+    {
+      "Name": "Fluffal Bear",
+      "Copies": 3
+    },
+    {
+      "Name": "Fluffal Cat",
+      "Copies": 1
+    },
+    {
+      "Name": "Fluffal Dog",
+      "Copies": 3
+    },
+    {
+      "Name": "Fluffal Owl",
+      "Copies": 1
+    },
+    {
+      "Name": "Fluffal Penguin",
+      "Copies": 2
+    },
+    {
+      "Name": "Fluffal Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Fluffal Wings",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Frightfur Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Frightfur Patchwork",
+      "Copies": 3
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Toy Vendor",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Frightfur Kraken",
+      "Copies": 2
+    },
+    {
+      "Name": "Frightfur Sabre-Tooth",
+      "Copies": 2
+    },
+    {
+      "Name": "Frightfur Sheep",
+      "Copies": 1
+    },
+    {
+      "Name": "Frightfur Tiger",
+      "Copies": 2
+    },
+    {
+      "Name": "Frightfur Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Linkuriboh",
+      "Copies": 1
+    },
+    {
+      "Name": "Mudragon of the Swamp",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Lambda",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Violet Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Shared Ride",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Different Dimension Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Necro Fusion",
+      "Copies": 3
+    }
+  ]
+}

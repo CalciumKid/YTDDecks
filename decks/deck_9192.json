@@ -1,0 +1,216 @@
+{
+  "Date": "August 2022",
+  "Tournament": "Regional - Edison New Jersey",
+  "DeckName": "Ogdoadic",
+  "DeckId": "9192",
+  "Duelist": "Savage Pete",
+  "Placed": "Top 32",
+  "Archetype": "Ogdoadic",
+  "DeckProfile": "www.youtube.com/embed/UA2eInA5Imo",
+  "MainDeck": [
+    {
+      "Name": "Aleirtt, the Ogdoadic Dark",
+      "Copies": 2
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 2
+    },
+    {
+      "Name": "Keurse, the Ogdoadic Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Nauya, the Ogdoadic Remnant",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Night Sword Serpent",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Deer Note",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Foxy Tune",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ogre Dance",
+      "Copies": 1
+    },
+    {
+      "Name": "Noh-P.U.N.K. Ze Amin",
+      "Copies": 1
+    },
+    {
+      "Name": "Nunu, the Ogdoadic Remnant",
+      "Copies": 3
+    },
+    {
+      "Name": "Ogdoabyss, the Ogdoadic Overlord",
+      "Copies": 1
+    },
+    {
+      "Name": "Plaguespreader Zombie",
+      "Copies": 1
+    },
+    {
+      "Name": "Reptilianne Coatl",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion \"Empress\" Alasia",
+      "Copies": 2
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 1
+    },
+    {
+      "Name": "Zohah, the Ogdoadic Boundless",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Crossout Designator",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Ogdoadic Serpent Strike",
+      "Copies": 1
+    },
+    {
+      "Name": "Ogdoadic Water Lily",
+      "Copies": 3
+    },
+    {
+      "Name": "Snake Rain",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion Discolosseum",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Ruler, the Chaotic Magical Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Coach King Giantrainer",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Geomathmech Final Sigma",
+      "Copies": 1
+    },
+    {
+      "Name": "King of the Feral Imps",
+      "Copies": 2
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 68: Sanaphond the Sky Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Selene, Queen of the Master Magicians",
+      "Copies": 1
+    },
+    {
+      "Name": "The Zombie Vampire",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Granadora",
+      "Copies": 1
+    },
+    {
+      "Name": "Lava Golem",
+      "Copies": 3
+    },
+    {
+      "Name": "Deck Devastation Virus",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 3
+    }
+  ]
+}

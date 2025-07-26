@@ -1,0 +1,172 @@
+{
+  "Date": "July 2024",
+  "Tournament": "WCQ - Europe",
+  "DeckName": "Ritual Beasts",
+  "DeckId": "9949",
+  "Duelist": "Herman Hansson",
+  "Placed": "Top 64",
+  "Archetype": "Ritual",
+  "DeckProfile": "www.youtube.com/embed/khbkS5ifSM8",
+  "MainDeck": [
+    {
+      "Name": "Archnemeses Protos",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Nemeses Corridor",
+      "Copies": 1
+    },
+    {
+      "Name": "Nemeses Flag",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Elder",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Tamer Lara",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Wen",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Apelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Cannahawk",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Rampengu",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Tamer Lara",
+      "Copies": 3
+    },
+    {
+      "Name": "Spiritual Beast Tamer Winda",
+      "Copies": 1
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Inheritance",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Ritual Beast Steeds",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Apollousa, Bow of the Goddess",
+      "Copies": 1
+    },
+    {
+      "Name": "Infernal Flame Banshee",
+      "Copies": 1
+    },
+    {
+      "Name": "Link Spider",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Apelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Cannahawk",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Gaiapelio",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Ulti-Kimunfalcos",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Nochiudrago",
+      "Copies": 2
+    },
+    {
+      "Name": "Ritual Beast Ulti-Reirautari",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Fantastical Dragon Phantazmay",
+      "Copies": 2
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Ritual Beast Tamer Zeframpilica",
+      "Copies": 1
+    },
+    {
+      "Name": "Spiritual Beast Pettlephin",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 3
+    },
+    {
+      "Name": "Dominus Purge",
+      "Copies": 3
+    },
+    {
+      "Name": "Macro Cosmos",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "Date": "March 2020",
+  "Tournament": "YCS - Rio de Janeiro Brazil",
+  "DeckName": "Krawler Pendulum",
+  "DeckId": "8997",
+  "Duelist": "Steven Trifunoski",
+  "Placed": "161st Place",
+  "Archetype": "Krawler",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Black Fang Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Halqifibrax",
+      "Copies": 4
+    },
+    {
+      "Name": "Deus X-Krawler",
+      "Copies": 3
+    },
+    {
+      "Name": "Dharma-Eye Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Girsu, the Orcust Mekk-Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Krawler Axon",
+      "Copies": 3
+    },
+    {
+      "Name": "Krawler Dendrite",
+      "Copies": 3
+    },
+    {
+      "Name": "Krawler Glial",
+      "Copies": 3
+    },
+    {
+      "Name": "Krawler Ranvier",
+      "Copies": 3
+    },
+    {
+      "Name": "Krawler Receptor",
+      "Copies": 3
+    },
+    {
+      "Name": "Krawler Spine",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Golden Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Pendulum Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Extravagance",
+      "Copies": 3
+    },
+    {
+      "Name": "The Monarchs Erupt",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

@@ -1,0 +1,136 @@
+{
+  "Date": "April 2023",
+  "Tournament": "Regional - Richmond Virginia",
+  "DeckName": "Marincess",
+  "DeckId": "9568",
+  "Duelist": "Shannon Long",
+  "Placed": "4th Place",
+  "Archetype": "Marincess",
+  "DeckProfile": "www.youtube.com/embed/eHjZZPFFfiE",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Blue Tang",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Mandarin",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Pascalus",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Sea Horse",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Springirl",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Battle Ocean",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Dive",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Wave",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Marincess Aqua Argonaut",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Blue Slug",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Coral Anemone",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Coral Triangle",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Crystal Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Great Bubble Reef",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Marbled Rock",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Sea Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 1
+    },
+    {
+      "Name": "Worldsea Dragon Zealantis",
+      "Copies": 2
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

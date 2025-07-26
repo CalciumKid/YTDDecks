@@ -1,0 +1,132 @@
+{
+  "Date": "August 2020",
+  "Tournament": "WCQ - Australia Nationals",
+  "DeckName": "Burning Abyss (No Traps)",
+  "DeckId": "8764",
+  "Duelist": "Octavian Morosan",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Burning Abyss",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Alich, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Barbar, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Cagna, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Calcab, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Draghig, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Farfa, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Graff, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Libic, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Rhinotaurus",
+      "Copies": 3
+    },
+    {
+      "Name": "Rubic, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarm, Malebranche of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Bus From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Sekka's Light",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beatrice, Lady of the Eternal",
+      "Copies": 3
+    },
+    {
+      "Name": "Dante, Pilgrim of the Burning Abyss",
+      "Copies": 3
+    },
+    {
+      "Name": "Dante, Traveler of the Burning Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Drill Driver Vespenato",
+      "Copies": 2
+    },
+    {
+      "Name": "Firewall eXceed Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 69: Heraldry Crest",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Assault Warrior",
+      "Copies": 2
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 1
+    },
+    {
+      "Name": "Virgil, Rock Star of the Burning Abyss",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Gamma The Magnet Warrior",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Rest",
+      "Copies": 3
+    },
+    {
+      "Name": "Mystical Wind Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Mischief of the Gnomes",
+      "Copies": 3
+    }
+  ]
+}

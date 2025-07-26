@@ -1,0 +1,144 @@
+{
+  "Date": "November 2018",
+  "Tournament": "Dueling Book Free-For-All Matches",
+  "DeckName": "Blue-Eyes White Dragon",
+  "DeckId": "8900",
+  "Duelist": "Just_a_mongrel",
+  "Placed": "1st Place",
+  "Archetype": "Blue-Eyes",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes Alternative White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Blue-Eyes White Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Spirit of White",
+      "Copies": 2
+    },
+    {
+      "Name": "Maiden with Eyes of Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Master with Eyes of Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Protector with Eyes of Blue",
+      "Copies": 1
+    },
+    {
+      "Name": "Sage with Eyes of Blue",
+      "Copies": 3
+    },
+    {
+      "Name": "The King of D.",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Ancients",
+      "Copies": 3
+    },
+    {
+      "Name": "The White Stone of Legend",
+      "Copies": 2
+    },
+    {
+      "Name": "Bingo Machine, Go!!!",
+      "Copies": 2
+    },
+    {
+      "Name": "Cards of Consonance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragon Revival Rhapsody",
+      "Copies": 1
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "The Melody of Awakening Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Trade-In",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Bribe",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Azure-Eyes Silver Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Blade Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Galaxy-Eyes Cipher Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Neo Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 68: Sanaphond the Sky Prison",
+      "Copies": 1
+    },
+    {
+      "Name": "Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Neo Blue-Eyes Ultimate Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bingo Machine, Go!!!",
+      "Copies": 1
+    },
+    {
+      "Name": "Burst Stream of Destruction",
+      "Copies": 3
+    },
+    {
+      "Name": "Fusion Sage",
+      "Copies": 3
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "The Flute of Summoning Dragon",
+      "Copies": 1
+    }
+  ]
+}

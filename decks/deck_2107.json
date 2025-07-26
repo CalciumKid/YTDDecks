@@ -1,0 +1,119 @@
+{
+  "Date": "August 2012",
+  "Tournament": "2012 World Championship",
+  "DeckName": "Exodia",
+  "DeckId": "2107",
+  "Duelist": "Jarel Winston",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Exodia",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Exodia the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Left Arm of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Left Leg of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Right Arm of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Right Leg of the Forbidden One",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Swift Scarecrow",
+      "Copies": 3
+    },
+    {
+      "Name": "One Day of Peace",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 3
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Accumulated Fortune",
+      "Copies": 2
+    },
+    {
+      "Name": "Gift Card",
+      "Copies": 2
+    },
+    {
+      "Name": "Hope for Escape",
+      "Copies": 3
+    },
+    {
+      "Name": "Jar of Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Legacy of Yata-Garasu",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Waboku",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "Gemini Imps",
+      "Copies": 2
+    },
+    {
+      "Name": "Volcanic Queen",
+      "Copies": 2
+    },
+    {
+      "Name": "Closed Forest",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Taker",
+      "Copies": 2
+    },
+    {
+      "Name": "Twister",
+      "Copies": 2
+    },
+    {
+      "Name": "The Transmigration Prophecy",
+      "Copies": 1
+    }
+  ]
+}

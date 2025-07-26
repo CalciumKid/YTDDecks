@@ -1,0 +1,188 @@
+{
+  "Date": "February 2017",
+  "Tournament": "Regional - İzmir Turkey",
+  "DeckName": "D/D/D's",
+  "DeckId": "5985",
+  "Duelist": "Emre Canyurt",
+  "Placed": "2nd Place",
+  "Archetype": "Different Dimension Demon",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "D/D/D Oblivion King Abyss Ragnarok",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Lamia",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Necro Slime",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Orthros",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D Savant Copernicus",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Savant Kepler",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Savant Thomas",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D Swirl Slime",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Swamp King",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Where Arf Thou?",
+      "Copies": 2
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "Clear Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Cursed King Siegfried",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Dragonbane King Beowulf",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Duo-Dawn King Kali Yuga",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Flame King Genghis",
+      "Copies": 2
+    },
+    {
+      "Name": "D/D/D Gust King Alexander",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Oracle King d'Arc",
+      "Copies": 2
+    },
+    {
+      "Name": "Formula Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "Copies": 1
+    },
+    {
+      "Name": "T.G. Hyper Librarian",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Chaos Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Flying \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Kumongous, the Sticky String Kaiju",
+      "Copies": 2
+    },
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "System Down",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Contract with Errors",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Contract with the Witch",
+      "Copies": 1
+    },
+    {
+      "Name": "Pendulum Hole",
+      "Copies": 2
+    }
+  ]
+}

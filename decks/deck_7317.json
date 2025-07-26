@@ -1,0 +1,107 @@
+{
+  "Date": "August 2017",
+  "Tournament": "YCS - Secaucus New Jersey",
+  "DeckName": "Skull Servants",
+  "DeckId": "7317",
+  "Duelist": "Dillon Johnson",
+  "Placed": "2nd Place",
+  "Archetype": "Skull Servant",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Armageddon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Battle Fader",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Grepher",
+      "Copies": 1
+    },
+    {
+      "Name": "Gozuki",
+      "Copies": 3
+    },
+    {
+      "Name": "King of the Skull Servants",
+      "Copies": 3
+    },
+    {
+      "Name": "Mezuki",
+      "Copies": 2
+    },
+    {
+      "Name": "Peropero Cerperus",
+      "Copies": 1
+    },
+    {
+      "Name": "Raiden, Hand of the Lightsworn",
+      "Copies": 2
+    },
+    {
+      "Name": "Ryko, Lightsworn Hunter",
+      "Copies": 1
+    },
+    {
+      "Name": "Skull Servant",
+      "Copies": 3
+    },
+    {
+      "Name": "The Lady in Wight",
+      "Copies": 3
+    },
+    {
+      "Name": "Uni-Zombie",
+      "Copies": 3
+    },
+    {
+      "Name": "Wightmare",
+      "Copies": 2
+    },
+    {
+      "Name": "Wightprince",
+      "Copies": 3
+    },
+    {
+      "Name": "Wightprincess",
+      "Copies": 2
+    },
+    {
+      "Name": "Charge of the Light Brigade",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D.R. - Different Dimension Reincarnation",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reasoning",
+      "Copies": 1
+    },
+    {
+      "Name": "Needlebug Nest",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Beelze of the Diabolic Dragons",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Sylvan Princessprite",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

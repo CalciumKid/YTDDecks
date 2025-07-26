@@ -1,0 +1,164 @@
+{
+  "Date": "July 2024",
+  "Tournament": "WCQ - Europe",
+  "DeckName": "Tenpai Dragon",
+  "DeckId": "9840",
+  "Duelist": "Esteban Re",
+  "Placed": "1st Place",
+  "Archetype": "Tenpai",
+  "DeckProfile": "www.youtube.com/embed/ZvWZLzAA_5c",
+  "MainDeck": [
+    {
+      "Name": "Dimension Shifter",
+      "Copies": 3
+    },
+    {
+      "Name": "Mulcharmy Purulia",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenpai Dragon Chundra",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenpai Dragon Fadra",
+      "Copies": 2
+    },
+    {
+      "Name": "Tenpai Dragon Genroku",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenpai Dragon Paidra",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangen Kaimen",
+      "Copies": 3
+    },
+    {
+      "Name": "Sangen Summoning",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Duelittle Chimera",
+      "Copies": 1
+    },
+    {
+      "Name": "Hieratic Seal of the Heavenly Spheres",
+      "Copies": 1
+    },
+    {
+      "Name": "Hiita the Fire Charmer, Ablaze",
+      "Copies": 1
+    },
+    {
+      "Name": "Kuibelt the Blade Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Odd-Eyes Meteorburst Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Promethean Princess, Bestower of Flames",
+      "Copies": 1
+    },
+    {
+      "Name": "Ruddy Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Samurai Destroyer",
+      "Copies": 1
+    },
+    {
+      "Name": "Sangenpai Bident Dragion",
+      "Copies": 2
+    },
+    {
+      "Name": "Sangenpai Transcendent Dragion",
+      "Copies": 1
+    },
+    {
+      "Name": "S:P Little Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Striker Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Trident Dragion",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 3
+    },
+    {
+      "Name": "Koa'ki Meiru Drago",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 3
+    },
+    {
+      "Name": "Rivalry of Warlords",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 2
+    }
+  ]
+}

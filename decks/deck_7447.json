@@ -1,0 +1,160 @@
+{
+  "Date": "February 2018",
+  "Tournament": "ARG 2018 Yugioh Winter OH State Championship",
+  "DeckName": "Ancient Gear Draco",
+  "DeckId": "7447",
+  "Duelist": "Cassie Nibrud",
+  "Placed": "17th-32nd Place",
+  "Archetype": "Ancient",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ancient Gear Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Gadget",
+      "Copies": 2
+    },
+    {
+      "Name": "Ancient Gear Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Hunting Hound",
+      "Copies": 2
+    },
+    {
+      "Name": "Ancient Gear Reactor Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Ancient Gear Wyvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinomight Knight, the True Dracofighter",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignis Heat, the True Dracowarrior",
+      "Copies": 2
+    },
+    {
+      "Name": "Majesty Maiden, the True Dracocaster",
+      "Copies": 2
+    },
+    {
+      "Name": "Metaltron XII, the True Dracombatant",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Catapult",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Gear Fusion",
+      "Copies": 2
+    },
+    {
+      "Name": "Disciples of the True Dracophoenix",
+      "Copies": 2
+    },
+    {
+      "Name": "Dragonic Diagram",
+      "Copies": 3
+    },
+    {
+      "Name": "Future Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Geartown",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 2
+    },
+    {
+      "Name": "True Draco Heritage",
+      "Copies": 2
+    },
+    {
+      "Name": "Ancient Gear Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "True Draco Apocalypse",
+      "Copies": 2
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Gear Howitzer",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Gear Megaton Golem",
+      "Copies": 1
+    },
+    {
+      "Name": "Borrelsword Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Chaos Ancient Gear Giant",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 1
+    },
+    {
+      "Name": "Missus Radiant",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 35: Ravenous Tarantula",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    }
+  ]
+}

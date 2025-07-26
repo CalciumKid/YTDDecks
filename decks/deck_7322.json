@@ -1,0 +1,176 @@
+{
+  "Date": "August 2018",
+  "Tournament": "Regional - Omaha Nebraska",
+  "DeckName": "Six Samurai",
+  "DeckId": "7322",
+  "Duelist": "Jeremy Bader",
+  "Placed": "1st Place",
+  "Archetype": "Six Samurai",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Grandmaster of the Six Samurai",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Six Samurai - Kageki",
+      "Copies": 3
+    },
+    {
+      "Name": "Legendary Six Samurai - Kizan",
+      "Copies": 3
+    },
+    {
+      "Name": "Legendary Six Samurai - Mizuho",
+      "Copies": 2
+    },
+    {
+      "Name": "Legendary Six Samurai - Shinai",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Six Samurai - Fuma",
+      "Copies": 2
+    },
+    {
+      "Name": "Secret Six Samurai - Hatsume",
+      "Copies": 1
+    },
+    {
+      "Name": "Secret Six Samurai - Kizaru",
+      "Copies": 3
+    },
+    {
+      "Name": "Broken Bamboo Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Cursed Bamboo Sword",
+      "Copies": 3
+    },
+    {
+      "Name": "Divine Sword - Phoenix Blade",
+      "Copies": 1
+    },
+    {
+      "Name": "Gateway of the Six",
+      "Copies": 1
+    },
+    {
+      "Name": "Golden Bamboo Sword",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Moon Mirror Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Shien's Dojo",
+      "Copies": 2
+    },
+    {
+      "Name": "Shien's Smoke Signal",
+      "Copies": 3
+    },
+    {
+      "Name": "Six Samurai United",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Isolde, Two Tales of the Noble Knights",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Legendary Six Samurai - Shi En",
+      "Copies": 1
+    },
+    {
+      "Name": "M-X-Saber Invoker",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 75: Bamboozling Gossip Shadow",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 86: Heroic Champion - Rhongomyniad",
+      "Copies": 1
+    },
+    {
+      "Name": "Saryuja Skull Dread",
+      "Copies": 2
+    },
+    {
+      "Name": "Summon Sorceress",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 3
+    },
+    {
+      "Name": "Great Shogun Shien",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 1
+    }
+  ]
+}

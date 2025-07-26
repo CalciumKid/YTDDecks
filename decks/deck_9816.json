@@ -1,0 +1,168 @@
+{
+  "Date": "November 2023",
+  "Tournament": "OTS Championship Tirana",
+  "DeckName": "Marincess",
+  "DeckId": "9816",
+  "Duelist": "Andri Cela",
+  "Placed": "3rd Place",
+  "Archetype": "Marincess",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Blue Tang",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Mandarin",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Pascalus",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Sea Horse",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Sleepy Maiden",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Springirl",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Crosswipe",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Battle Ocean",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Dive",
+      "Copies": 2
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Wave",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Aqua Argonaut",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Blue Slug",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Coral Anemone",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Coral Triangle",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Crystal Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Great Bubble Reef",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Marbled Rock",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Sea Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Worldsea Dragon Zealantis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Cynet Crosswipe",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 3
+    }
+  ]
+}

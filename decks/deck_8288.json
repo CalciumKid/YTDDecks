@@ -1,0 +1,152 @@
+{
+  "Date": "October 2019",
+  "Tournament": "Regional - Detroit Michigan",
+  "DeckName": "Invoked Prank-Kids",
+  "DeckId": "8288",
+  "Duelist": "Andrew Stonum",
+  "Placed": "30th Place",
+  "Archetype": "Prank-Kids",
+  "DeckProfile": "www.youtube.com/embed/I5_pYS0e-5c",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Dropsies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Fansies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Lampsies",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Rocksies",
+      "Copies": 3
+    },
+    {
+      "Name": "Demise of the Land",
+      "Copies": 1
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 3
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 2
+    },
+    {
+      "Name": "Magical Meltdown",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Pandemonium",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Place",
+      "Copies": 3
+    },
+    {
+      "Name": "Prank-Kids Pranks",
+      "Copies": 2
+    },
+    {
+      "Name": "Set Rotation",
+      "Copies": 1
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Plan",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Purgatrio",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Battle Butler",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Bow-Wow-Bark",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Dodo-Doodle-Doo",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Rip-Roarin-Roaster",
+      "Copies": 1
+    },
+    {
+      "Name": "Prank-Kids Rocket Ride",
+      "Copies": 2
+    },
+    {
+      "Name": "Prank-Kids Weather Washer",
+      "Copies": 2
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Denko Sekka",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Galaxy Cyclone",
+      "Copies": 3
+    }
+  ]
+}

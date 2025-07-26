@@ -1,0 +1,180 @@
+{
+  "Date": "July 2023",
+  "Tournament": "OTS Championship Tirana",
+  "DeckName": "Vanquish Soul",
+  "DeckId": "9808",
+  "Duelist": "Tedi Islami",
+  "Placed": "3rd Place",
+  "Archetype": "Vanquish Soul",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 3
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 2
+    },
+    {
+      "Name": "Kashtira Riseheart",
+      "Copies": 1
+    },
+    {
+      "Name": "Retaliating \"C\"",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanquish Soul Caesar Valius",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanquish Soul Dr. Mad Love",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanquish Soul Heavy Borger",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanquish Soul Pantera",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanquish Soul Pluton HG",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanquish Soul Razen",
+      "Copies": 3
+    },
+    {
+      "Name": "Heritage of the Chalice",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Stake your Soul!",
+      "Copies": 3
+    },
+    {
+      "Name": "Vanquish Soul - Continue?",
+      "Copies": 2
+    },
+    {
+      "Name": "Vanquish Soul Dust Devil",
+      "Copies": 1
+    },
+    {
+      "Name": "There Can Be Only One",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accesscode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Dharc the Dark Charmer, Gloomy",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gigantic \"Champion\" Sargas",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Arise-Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Cerberus",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Rock of the Vanquisher",
+      "Copies": 2
+    },
+    {
+      "Name": "Sky Striker Ace - Azalea",
+      "Copies": 1
+    },
+    {
+      "Name": "Springans Merrymaker",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 1
+    },
+    {
+      "Name": "Change of Heart",
+      "Copies": 1
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Eradicator Epidemic Virus",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    }
+  ]
+}

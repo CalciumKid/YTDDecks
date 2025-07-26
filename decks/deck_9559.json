@@ -1,0 +1,156 @@
+{
+  "Date": "April 2023",
+  "Tournament": "YCS - Los Angeles California",
+  "DeckName": "Marincess",
+  "DeckId": "9559",
+  "Duelist": "Josh Kippenberg",
+  "Placed": "Top 64",
+  "Archetype": "Marincess",
+  "DeckProfile": "www.youtube.com/embed/c40KLY4hTCU",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Blue Tang",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Pascalus",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Sea Horse",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Sleepy Maiden",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Springirl",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Cynet Mining",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Battle Ocean",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Dive",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Gozen Match",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Marincess Wave",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Aqua Argonaut",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Blue Slug",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Coral Anemone",
+      "Copies": 2
+    },
+    {
+      "Name": "Marincess Coral Triangle",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Great Bubble Reef",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Marbled Rock",
+      "Copies": 1
+    },
+    {
+      "Name": "Marincess Sea Angel",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 4: Stealth Kragen",
+      "Copies": 1
+    },
+    {
+      "Name": "Splash Mage",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    },
+    {
+      "Name": "Worldsea Dragon Zealantis",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Kurikara Divincarnate",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    }
+  ]
+}

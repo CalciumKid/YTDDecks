@@ -1,0 +1,196 @@
+{
+  "Date": "March 2017",
+  "Tournament": "Regional - Istanbul",
+  "DeckName": "Crystron",
+  "DeckId": "6144",
+  "Duelist": "Berkay Gündar",
+  "Placed": "1st Place",
+  "Archetype": "Crystron",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Crystron Citree",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Prasiortle",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quan",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Rion",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Rosenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Smiger",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Sulfefnir",
+      "Copies": 3
+    },
+    {
+      "Name": "Crystron Thystvern",
+      "Copies": 3
+    },
+    {
+      "Name": "Ghost Ogre & Snow Rabbit",
+      "Copies": 1
+    },
+    {
+      "Name": "Jet Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Quickdraw Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Scrap Recycler",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    },
+    {
+      "Name": "Starlight Junktion",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 2
+    },
+    {
+      "Name": "Crystron Entry",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Impact",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Strike",
+      "Copies": 3
+    },
+    {
+      "Name": "Solemn Warning",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Accel Synchron",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Moonlight Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystal Wing Synchro Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Ametrix",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quandax",
+      "Copies": 1
+    },
+    {
+      "Name": "Crystron Quariongandrax",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Infinity",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon Nova",
+      "Copies": 1
+    },
+    {
+      "Name": "Powered Inzektron",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framelord Omega",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Superheavy Samurai Stealth Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Trishula, Dragon of the Ice Barrier",
+      "Copies": 1
+    },
+    {
+      "Name": "Vermillion Dragon Mech",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Gameciel, the Sea Turtle Kaiju",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 1
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Light-Imprisoning Mirror",
+      "Copies": 2
+    },
+    {
+      "Name": "Lost Wind",
+      "Copies": 3
+    },
+    {
+      "Name": "Shadow-Imprisoning Mirror",
+      "Copies": 2
+    }
+  ]
+}

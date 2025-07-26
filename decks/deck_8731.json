@@ -1,0 +1,164 @@
+{
+  "Date": "December 2020",
+  "Tournament": "LCS - IX",
+  "DeckName": "Virtual World",
+  "DeckId": "8731",
+  "Duelist": "Daniel Heffernan",
+  "Placed": "Top 4",
+  "Archetype": "Virtual World",
+  "DeckProfile": "www.youtube.com/embed/GEl_oNDsbLQ",
+  "MainDeck": [
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Hime - Nyannyan",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Kirin - Lili",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Mai-Hime - Lulu",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Roshi - Laolao",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Xiezhi - Jiji",
+      "Copies": 3
+    },
+    {
+      "Name": "Emergency Teleport",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial Goods",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World City - Kauwloon",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Gate - Qinglong",
+      "Copies": 3
+    },
+    {
+      "Name": "Virtual World Gate - Chuche",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Cloudcastle",
+      "Copies": 1
+    },
+    {
+      "Name": "Constellar Ptolemy M7",
+      "Copies": 1
+    },
+    {
+      "Name": "Coral Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Beyond",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 75: Bamboozling Gossip Shadow",
+      "Copies": 1
+    },
+    {
+      "Name": "Ravenous Crocodragon Archethys",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Charge Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "The Phantom Knights of Break Sword",
+      "Copies": 1
+    },
+    {
+      "Name": "True King of All Calamities",
+      "Copies": 2
+    },
+    {
+      "Name": "Vermillion Dragon Mech",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Beast - Jiujiu",
+      "Copies": 1
+    },
+    {
+      "Name": "Virtual World Kyubi - Shenshen",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Dinowrestler Pankratops",
+      "Copies": 1
+    },
+    {
+      "Name": "Ghost Belle & Haunted Mansion",
+      "Copies": 2
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "World Dino Wrestling",
+      "Copies": 1
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

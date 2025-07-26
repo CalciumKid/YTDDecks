@@ -1,0 +1,140 @@
+{
+  "Date": "December 2022",
+  "Tournament": "Regional - Madison Tennessee",
+  "DeckName": "Adventurer Plunder Patroll",
+  "DeckId": "9372",
+  "Duelist": "Cody Makela",
+  "Placed": "1st Place",
+  "Archetype": "Plunder Patroll",
+  "DeckProfile": "www.youtube.com/embed/FVbZKvfNPaA",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Blackeyes, the Plunder Patroll Seaguide",
+      "Copies": 2
+    },
+    {
+      "Name": "Bluebeard, the Plunder Patroll Shipwright",
+      "Copies": 3
+    },
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Goldenhair, the Newest Plunder Patroll",
+      "Copies": 3
+    },
+    {
+      "Name": "Illegal Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Redbeard, the Plunder Patroll Matey",
+      "Copies": 2
+    },
+    {
+      "Name": "Water Enchantress of the Temple",
+      "Copies": 3
+    },
+    {
+      "Name": "Whitebeard, the Plunder Patroll Helm",
+      "Copies": 3
+    },
+    {
+      "Name": "Dracoback, the Rideable Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Fateful Adventure",
+      "Copies": 1
+    },
+    {
+      "Name": "Plunder Patroll Shipyarrrd",
+      "Copies": 3
+    },
+    {
+      "Name": "Rite of Aramesir",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Bahamut Shark",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Blackbeard, the Plunder Patroll Captain",
+      "Copies": 3
+    },
+    {
+      "Name": "Plunder Patrollship Brann",
+      "Copies": 2
+    },
+    {
+      "Name": "Plunder Patrollship Lys",
+      "Copies": 3
+    },
+    {
+      "Name": "Plunder Patrollship Moerk",
+      "Copies": 3
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Toadally Awesome",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Saronir",
+      "Copies": 2
+    },
+    {
+      "Name": "Ghost Sister & Spooky Dogwood",
+      "Copies": 3
+    },
+    {
+      "Name": "Wandering Gryphon Rider",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Destructive Daruma Karma Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    }
+  ]
+}

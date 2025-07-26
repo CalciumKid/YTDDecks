@@ -1,0 +1,139 @@
+{
+  "Date": "March 2007",
+  "Tournament": "Regional - Blue Bell Pennsylvania",
+  "DeckName": "Demise OTK",
+  "DeckId": "7667",
+  "Duelist": "Adam Hamre",
+  "Placed": "3rd - 4th Place",
+  "Archetype": "Demise OTK",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Demise, King of Armageddon",
+      "Copies": 3
+    },
+    {
+      "Name": "Doom Dozer",
+      "Copies": 3
+    },
+    {
+      "Name": "Insect Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Manju of the Ten Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Metal Armored Bug",
+      "Copies": 1
+    },
+    {
+      "Name": "Neo Bug",
+      "Copies": 2
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Senju of the Thousand Hands",
+      "Copies": 3
+    },
+    {
+      "Name": "Sonic Bird",
+      "Copies": 2
+    },
+    {
+      "Name": "Advanced Ritual Art",
+      "Copies": 3
+    },
+    {
+      "Name": "Contract with the Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Megamorph",
+      "Copies": 2
+    },
+    {
+      "Name": "My Body as a Shield",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Scapegoat",
+      "Copies": 1
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 1
+    },
+    {
+      "Name": "Gravity Bind",
+      "Copies": 1
+    },
+    {
+      "Name": "Magic Cylinder",
+      "Copies": 1
+    },
+    {
+      "Name": "Mirror Force",
+      "Copies": 1
+    },
+    {
+      "Name": "Ring of Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Threatening Roar",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": [
+    {
+      "Name": "D.D. Crow",
+      "Copies": 2
+    },
+    {
+      "Name": "Des Wombat",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Swords of Revealing Light",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 1
+    },
+    {
+      "Name": "Pulling the Rug",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    }
+  ]
+}

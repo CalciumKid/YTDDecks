@@ -1,0 +1,90 @@
+{
+  "Date": "June 2006",
+  "Tournament": "2006 US Nationals",
+  "DeckName": "Life Equalizer",
+  "DeckId": "2932",
+  "Duelist": "Vincent Tundo",
+  "Placed": "17th - 32nd Place",
+  "Archetype": "Life Equalizer",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Royal Magical Library",
+      "Copies": 3
+    },
+    {
+      "Name": "Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Archfiend's Oath",
+      "Copies": 3
+    },
+    {
+      "Name": "Card Destruction",
+      "Copies": 1
+    },
+    {
+      "Name": "Card Shuffle",
+      "Copies": 2
+    },
+    {
+      "Name": "Convulsion of Nature",
+      "Copies": 3
+    },
+    {
+      "Name": "Giant Trunade",
+      "Copies": 3
+    },
+    {
+      "Name": "Graceful Charity",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Level Limit - Area B",
+      "Copies": 1
+    },
+    {
+      "Name": "Magical Mallet",
+      "Copies": 2
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reload",
+      "Copies": 2
+    },
+    {
+      "Name": "Spell Reproduction",
+      "Copies": 3
+    },
+    {
+      "Name": "Toon Table of Contents",
+      "Copies": 3
+    },
+    {
+      "Name": "Toon World",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 2
+    },
+    {
+      "Name": "Blasting the Ruins",
+      "Copies": 1
+    },
+    {
+      "Name": "Life Equalizer",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [],
+  "SideDeck": []
+}

@@ -1,0 +1,444 @@
+{
+  "Date": "December 2005",
+  "Tournament": "2005 Shonen Jump San Francisco",
+  "DeckName": "5th-8th Place",
+  "DeckId": "3125",
+  "Duelist": "Manuel De Oliveira",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Warrior",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Breaker the Magical Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Cyber Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Assailant",
+      "Copies": 2
+    },
+    {
+      "Name": "D.D. Survivor",
+      "Copies": 1
+    },
+    {
+      "Name": "D.D. Warrior Lady",
+      "Copies": 1
+    },
+    {
+      "Name": "Don Zaloog",
+      "Copies": 2
+    },
+    {
+      "Name": "Mobius the Frost Monarch",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Swordsman LV2",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Tomato",
+      "Copies": 2
+    },
+    {
+      "Name": "Sangan",
+      "Copies": 1
+    },
+    {
+      "Name": "Spirit Reaper",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavy Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Nobleman of Crossout",
+      "Copies": 1
+    },
+    {
+      "Name": "Premature Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 2
+    },
+    {
+      "Name": "Smashing Ground",
+      "Copies": 3
+    },
+    {
+      "Name": "Snatch Steal",
+      "Copies": 1
+    },
+    {
+      "Name": "Call of the Haunted",
+      "Copies": 1
+    },
+    {
+      "Name": "Dust Tornado",
+      "Copies": 2
+    },
+    {
+      "Name": "Sakuretsu Armor",
+      "Copies": 3
+    },
+    {
+      "Name": "Torrential Tribute",
+      "Copies": 1
+    },
+    {
+      "Name": "Widespread Ruin",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Cyber Blader",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Paladin",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 3
+    },
+    {
+      "Name": "Mokey Mokey King",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 3
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Robolady",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Roboyarou",
+      "Copies": 3
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 3
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "UFOroid Fighter",
+      "Copies": 3
+    },
+    {
+      "Name": "XY-Dragon Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "XYZ-Dragon Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "XZ-Tank Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "YZ-Tank Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Bickuribox",
+      "Copies": 3
+    },
+    {
+      "Name": "Charubin the Fire Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Blader",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber End Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Saurus",
+      "Copies": 3
+    },
+    {
+      "Name": "Cyber Twin Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Balter the Terrible",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Blade the Dragon Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Darkfire Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Flare Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Paladin",
+      "Copies": 3
+    },
+    {
+      "Name": "Deepsea Shark",
+      "Copies": 3
+    },
+    {
+      "Name": "Dragoness the Wicked Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Empress Judge",
+      "Copies": 3
+    },
+    {
+      "Name": "Fiend Skull Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Flame Ghost",
+      "Copies": 3
+    },
+    {
+      "Name": "Flame Swordsman",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Wolf",
+      "Copies": 3
+    },
+    {
+      "Name": "Fusionist",
+      "Copies": 3
+    },
+    {
+      "Name": "Gaia the Dragon Champion",
+      "Copies": 3
+    },
+    {
+      "Name": "Gatling Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Giltia the D. Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Humanoid Worm Drake",
+      "Copies": 3
+    },
+    {
+      "Name": "Kaminari Attack",
+      "Copies": 3
+    },
+    {
+      "Name": "Karbonala Warrior",
+      "Copies": 3
+    },
+    {
+      "Name": "King Dragun",
+      "Copies": 3
+    },
+    {
+      "Name": "Kwagar Hercules",
+      "Copies": 3
+    },
+    {
+      "Name": "Labyrinth Tank",
+      "Copies": 3
+    },
+    {
+      "Name": "Metal Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Mokey Mokey King",
+      "Copies": 3
+    },
+    {
+      "Name": "Musician King",
+      "Copies": 3
+    },
+    {
+      "Name": "Ojama King",
+      "Copies": 3
+    },
+    {
+      "Name": "Punished Eagle",
+      "Copies": 3
+    },
+    {
+      "Name": "Rabid Horseman",
+      "Copies": 3
+    },
+    {
+      "Name": "Reaper on the Nightmare",
+      "Copies": 3
+    },
+    {
+      "Name": "Roaring Ocean Snake",
+      "Copies": 3
+    },
+    {
+      "Name": "Ryu Senshi",
+      "Copies": 3
+    },
+    {
+      "Name": "Sanwitch",
+      "Copies": 3
+    },
+    {
+      "Name": "Skull Knight",
+      "Copies": 3
+    },
+    {
+      "Name": "Steam Gyroid",
+      "Copies": 3
+    },
+    {
+      "Name": "St. Joan",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Robolady",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Roboyarou",
+      "Copies": 3
+    },
+    {
+      "Name": "The Last Warrior from Another Planet",
+      "Copies": 3
+    },
+    {
+      "Name": "Thousand Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Thousand-Eyes Restrict",
+      "Copies": 1
+    },
+    {
+      "Name": "Twin-Headed Thunder Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "UFOroid Fighter",
+      "Copies": 3
+    },
+    {
+      "Name": "XY-Dragon Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "XYZ-Dragon Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "XZ-Tank Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "YZ-Tank Dragon",
+      "Copies": 3
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Kycoo the Ghost Destroyer",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystic Swordsman LV2",
+      "Copies": 1
+    },
+    {
+      "Name": "Stealth Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Level Limit - Area B",
+      "Copies": 2
+    },
+    {
+      "Name": "Wave-Motion Cannon",
+      "Copies": 3
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 1
+    },
+    {
+      "Name": "Solemn Judgment",
+      "Copies": 3
+    }
+  ]
+}

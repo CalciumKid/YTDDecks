@@ -1,0 +1,156 @@
+{
+  "Date": "May 2022",
+  "Tournament": "Regional - Wisconsin",
+  "DeckName": "Swordsoul",
+  "DeckId": "9830",
+  "Duelist": "John Baker",
+  "Placed": "1st place Place",
+  "Archetype": "Swordsoul",
+  "DeckProfile": "www.youtube.com/embed/o8vT_TCi0hw?si=xV8RPsPMNbteuLlj",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D.D. Crow",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Mo Ye",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Taia",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Strategist Longyuan",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Adhara",
+      "Copies": 2
+    },
+    {
+      "Name": "Tenyi Spirit - Ashuna",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Shthana",
+      "Copies": 1
+    },
+    {
+      "Name": "Tenyi Spirit - Vishuda",
+      "Copies": 3
+    },
+    {
+      "Name": "Called by the Grave",
+      "Copies": 1
+    },
+    {
+      "Name": "Heavenly Dragon Circle",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Emergence",
+      "Copies": 3
+    },
+    {
+      "Name": "Vessel for the Dragon Cycle",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul Blackout",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Adamancipator Risen - Dragite",
+      "Copies": 1
+    },
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Berserker of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaman of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Grandmaster - Chixiao",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Supreme Sovereign - Chengying",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Monk of the Tenyi",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaman of the Tenyi",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Anti-Spell Fragrance",
+      "Copies": 3
+    },
+    {
+      "Name": "Dimensional Barrier",
+      "Copies": 2
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Date": "November 2019",
+  "Tournament": "Regional - Sao Paulo Brazil",
+  "DeckName": "HERO",
+  "DeckId": "8338",
+  "Duelist": "Nícolas Rangel",
+  "Placed": "Top 8",
+  "Archetype": "HERO",
+  "DeckProfile": "www.youtube.com/embed/t_TDCS1vbuA",
+  "MainDeck": [
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Celestial",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dynatag",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Malicious",
+      "Copies": 3
+    },
+    {
+      "Name": "Destiny HERO - Plasma",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Honest Neos",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Shadow Mist",
+      "Copies": 2
+    },
+    {
+      "Name": "Elemental HERO Solid Soldier",
+      "Copies": 1
+    },
+    {
+      "Name": "Elemental HERO Stratos",
+      "Copies": 3
+    },
+    {
+      "Name": "Vision HERO Faris",
+      "Copies": 3
+    },
+    {
+      "Name": "Vision HERO Increase",
+      "Copies": 2
+    },
+    {
+      "Name": "Vision HERO Vyon",
+      "Copies": 2
+    },
+    {
+      "Name": "Xtra HERO Cross Crusader",
+      "Copies": 2
+    },
+    {
+      "Name": "Xtra HERO Dread Decimator",
+      "Copies": 1
+    },
+    {
+      "Name": "Xtra HERO Wonder Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "A Hero Lives",
+      "Copies": 1
+    },
+    {
+      "Name": "E - Emergency Call",
+      "Copies": 3
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Fusion Destiny",
+      "Copies": 3
+    },
+    {
+      "Name": "Mask Change",
+      "Copies": 3
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Polymerization",
+      "Copies": 1
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Polymerization",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Destiny HERO - Dangerous",
+      "Copies": 1
+    },
+    {
+      "Name": "Destiny HERO - Dystopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Anki",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Dark Law",
+      "Copies": 2
+    },
+    {
+      "Name": "Masked HERO Dian",
+      "Copies": 1
+    },
+    {
+      "Name": "Masked HERO Divine Wind",
+      "Copies": 1
+    },
+    {
+      "Name": "Predaplant Dragostapelia",
+      "Copies": 1
+    },
+    {
+      "Name": "Starving Venom Fusion Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Adoration",
+      "Copies": 1
+    },
+    {
+      "Name": "Vision HERO Trinity",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Artifact Lancea",
+      "Copies": 3
+    },
+    {
+      "Name": "Gnomaterial",
+      "Copies": 2
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 2
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 3
+    }
+  ]
+}

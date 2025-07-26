@@ -1,0 +1,115 @@
+{
+  "Date": "January 2018",
+  "Tournament": "WCQ - Joinville Santa Catarina",
+  "DeckName": "Pure Cardian",
+  "DeckId": "6952",
+  "Duelist": "Luis Ricardo Labres Rohde",
+  "Placed": "Top 8",
+  "Archetype": "Flower Cardian",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Flower Cardian Cherry Blossom with Curtain",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Clover with Boar",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Maple with Deer",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Paulownia",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Paulownia with Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Peony with Butterfly",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Pine",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Pine with Crane",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Willow",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Cardian Willow with Calligrapher",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Zebra Grass",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Zebra Grass with Moon",
+      "Copies": 1
+    },
+    {
+      "Name": "Allure of Darkness",
+      "Copies": 3
+    },
+    {
+      "Name": "Flower Stacking",
+      "Copies": 3
+    },
+    {
+      "Name": "Recardination",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Super Koi Koi",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Borreload Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Decode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Encode Talker",
+      "Copies": 1
+    },
+    {
+      "Name": "Firewall Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Flower Cardian Boardefly",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Lightflare",
+      "Copies": 2
+    },
+    {
+      "Name": "Flower Cardian Lightshower",
+      "Copies": 3
+    },
+    {
+      "Name": "Proxy Dragon",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": []
+}

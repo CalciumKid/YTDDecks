@@ -1,0 +1,184 @@
+{
+  "Date": "November 2022",
+  "Tournament": "Regional - Winnipeg Canada",
+  "DeckName": "Earth Machine",
+  "DeckId": "9350",
+  "Duelist": "Cody Roulette",
+  "Placed": "2nd Place",
+  "Archetype": "Machine",
+  "DeckProfile": "www.youtube.com/embed/EX5WhmZQziw",
+  "MainDeck": [
+    {
+      "Name": "Ancient Gear Box",
+      "Copies": 1
+    },
+    {
+      "Name": "Flying Pegasus Railroad Stampede",
+      "Copies": 3
+    },
+    {
+      "Name": "Heavy Freight Train Derricrane",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Anchor Drill",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Brutal Dozer",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinitrack Harvester",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinitrack Trencher",
+      "Copies": 2
+    },
+    {
+      "Name": "Infinitrack Tunneller",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Machina Citadel",
+      "Copies": 1
+    },
+    {
+      "Name": "Machina Fortress",
+      "Copies": 1
+    },
+    {
+      "Name": "Machina Metalcruncher",
+      "Copies": 3
+    },
+    {
+      "Name": "Super Express Bullet Train",
+      "Copies": 1
+    },
+    {
+      "Name": "Therion \"King\" Regulus",
+      "Copies": 3
+    },
+    {
+      "Name": "Vernusylph of the Awakening Forests",
+      "Copies": 3
+    },
+    {
+      "Name": "Vernusylph of the Flourishing Hills",
+      "Copies": 3
+    },
+    {
+      "Name": "Vernusylph of the Misting Seedlings",
+      "Copies": 3
+    },
+    {
+      "Name": "Vernusylph of the Thawing Mountains",
+      "Copies": 2
+    },
+    {
+      "Name": "Heavy Forward",
+      "Copies": 3
+    },
+    {
+      "Name": "Machina Redeployment",
+      "Copies": 3
+    },
+    {
+      "Name": "Therion Discolosseum",
+      "Copies": 3
+    },
+    {
+      "Name": "Urgent Schedule",
+      "Copies": 3
+    },
+    {
+      "Name": "Machina Overdrive",
+      "Copies": 2
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Gear Ballista",
+      "Copies": 1
+    },
+    {
+      "Name": "Dingirsu, the Orcust of the Evening Star",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Double Headed Anger Knuckle",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Gear Gigant X",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Earth Slicer",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinitrack Goliath",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinitrack River Stormer",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Phoenix",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Gustav Max",
+      "Copies": 1
+    },
+    {
+      "Name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Barrier Statue of the Drought",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Silent Graveyard",
+      "Copies": 3
+    },
+    {
+      "Name": "Skill Drain",
+      "Copies": 3
+    }
+  ]
+}

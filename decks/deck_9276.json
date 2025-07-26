@@ -1,0 +1,168 @@
+{
+  "Date": "January 2022",
+  "Tournament": "Regional - London England",
+  "DeckName": "Ancient Warriors",
+  "DeckId": "9276",
+  "Duelist": "Ping Xiao",
+  "Placed": "5th Place",
+  "Archetype": "Ancient",
+  "DeckProfile": "www.youtube.com/embed/5q10gOtvUHA",
+  "MainDeck": [
+    {
+      "Name": "Ancient Warriors - Ingenious Zhuge Kong",
+      "Copies": 2
+    },
+    {
+      "Name": "Ancient Warriors - Loyal Guan Yun",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Warriors - Masterful Sun Mou",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Warriors - Rebellious Lu Feng",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Warriors - Valiant Zhang De",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Warriors - Virtuous Liu Xuan",
+      "Copies": 3
+    },
+    {
+      "Name": "Dynatherium",
+      "Copies": 1
+    },
+    {
+      "Name": "Gadarla, the Mystery Dust Kaiju",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Warriors Saga - Three Visits",
+      "Copies": 3
+    },
+    {
+      "Name": "Double or Nothing!",
+      "Copies": 1
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Lightning Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Small World",
+      "Copies": 3
+    },
+    {
+      "Name": "Terraforming",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Ancient Warriors Oath - Double Dragon Lords",
+      "Copies": 3
+    },
+    {
+      "Name": "Brotherhood of the Fire Fist - Tiger King",
+      "Copies": 1
+    },
+    {
+      "Name": "Castel, the Skyblaster Musketeer",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 39: Utopia Double",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "Copies": 1
+    },
+    {
+      "Name": "Number S39: Utopia the Lightning",
+      "Copies": 1
+    },
+    {
+      "Name": "Pentestag",
+      "Copies": 1
+    },
+    {
+      "Name": "Tornado Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Underclock Taker",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 3
+    },
+    {
+      "Name": "Cosmic Cyclone",
+      "Copies": 2
+    },
+    {
+      "Name": "Evenly Matched",
+      "Copies": 3
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    }
+  ]
+}

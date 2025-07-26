@@ -1,0 +1,192 @@
+{
+  "Date": "March 2014",
+  "Tournament": "Regional - Tulsa Oklahoma",
+  "DeckName": "Noble Knights",
+  "DeckId": "1159",
+  "Duelist": "Johnny Nguyen",
+  "Placed": "5th - 8th Place",
+  "Archetype": "Noble Knight",
+  "DeckProfile": "www.youtube.com/embed/KDi4l1A3ZyU",
+  "MainDeck": [
+    {
+      "Name": "Effect Veiler",
+      "Copies": 2
+    },
+    {
+      "Name": "Gwenhwyfar, Queen of Noble Arms",
+      "Copies": 2
+    },
+    {
+      "Name": "Honest",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Knight Borz",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Drystan",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Gawayn",
+      "Copies": 3
+    },
+    {
+      "Name": "Noble Knight Gwalchavad",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Knight Medraut",
+      "Copies": 3
+    },
+    {
+      "Name": "Kaiser Colosseum",
+      "Copies": 2
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Arms - Arfeudutyr",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms - Caliburn",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Arms - Excaliburn",
+      "Copies": 2
+    },
+    {
+      "Name": "Noble Arms - Gallatin",
+      "Copies": 1
+    },
+    {
+      "Name": "Noble Arms of Destiny",
+      "Copies": 2
+    },
+    {
+      "Name": "Pot of Duality",
+      "Copies": 2
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 1
+    },
+    {
+      "Name": "Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Upstart Goblin",
+      "Copies": 3
+    },
+    {
+      "Name": "Reckless Greed",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Abyss Dweller",
+      "Copies": 1
+    },
+    {
+      "Name": "Artorigus, King of the Noble Knights",
+      "Copies": 2
+    },
+    {
+      "Name": "Blade Armor Ninja",
+      "Copies": 1
+    },
+    {
+      "Name": "Diamond Dire Wolf",
+      "Copies": 1
+    },
+    {
+      "Name": "Evilswarm Exciton Knight",
+      "Copies": 1
+    },
+    {
+      "Name": "Gagaga Cowboy",
+      "Copies": 1
+    },
+    {
+      "Name": "Gaia Dragon, the Thunder Charger",
+      "Copies": 1
+    },
+    {
+      "Name": "Heroic Champion - Excalibur",
+      "Copies": 1
+    },
+    {
+      "Name": "Ignoble Knight of High Laundsallyn",
+      "Copies": 1
+    },
+    {
+      "Name": "Lavalval Chain",
+      "Copies": 1
+    },
+    {
+      "Name": "Number 101: Silent Honor ARK",
+      "Copies": 1
+    },
+    {
+      "Name": "Sacred Noble Knight of King Artorigus",
+      "Copies": 2
+    },
+    {
+      "Name": "Starliege Paladynamo",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Morphing Jar",
+      "Copies": 1
+    },
+    {
+      "Name": "Tragoedia",
+      "Copies": 2
+    },
+    {
+      "Name": "Dark Hole",
+      "Copies": 1
+    },
+    {
+      "Name": "Dimensional Fissure",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystical Space Typhoon",
+      "Copies": 1
+    },
+    {
+      "Name": "Storm",
+      "Copies": 1
+    },
+    {
+      "Name": "Mistake",
+      "Copies": 2
+    },
+    {
+      "Name": "Royal Decree",
+      "Copies": 3
+    },
+    {
+      "Name": "Soul Drain",
+      "Copies": 1
+    },
+    {
+      "Name": "Vanity's Emptiness",
+      "Copies": 2
+    }
+  ]
+}

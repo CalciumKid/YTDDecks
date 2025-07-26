@@ -1,0 +1,172 @@
+{
+  "Date": "January 2022",
+  "Tournament": "Remote Duel Yu-Gi-Oh! Championship Series North America 2022",
+  "DeckName": "Tri-Brigade Lyrilusc",
+  "DeckId": "9104",
+  "Duelist": "Marjanco Gorgievski",
+  "Placed": "3rd Place",
+  "Archetype": "Lyrilusc",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Barrier Statue of the Stormwinds",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Beryl Canary",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyrilusc - Celestine Wagtail",
+      "Copies": 2
+    },
+    {
+      "Name": "Lyrilusc - Cobalt Sparrow",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyrilusc - Sapphire Swallow",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Turquoise Warbler",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-Brigade Fraktall",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-Brigade Kerass",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Kitt",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Nervall",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Ruler No More",
+      "Copies": 3
+    },
+    {
+      "Name": "Fire Formation - Tenki",
+      "Copies": 1
+    },
+    {
+      "Name": "Foolish Burial",
+      "Copies": 1
+    },
+    {
+      "Name": "Forbidden Droplet",
+      "Copies": 3
+    },
+    {
+      "Name": "Lyrilusc - Bird Call",
+      "Copies": 3
+    },
+    {
+      "Name": "One for One",
+      "Copies": 1
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Where Arf Thou?",
+      "Copies": 3
+    },
+    {
+      "Name": "Tri-Brigade Oath",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Ancient Warriors Oath - Double Dragon Lords",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Downerd Magician",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie Conductor",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Assembled Nightingale",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Ensemblue Robin",
+      "Copies": 1
+    },
+    {
+      "Name": "Lyrilusc - Recital Starling",
+      "Copies": 2
+    },
+    {
+      "Name": "Number 39: Utopia Roots",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Draco Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Number F0: Utopic Future",
+      "Copies": 1
+    },
+    {
+      "Name": "Salamangreat Almiraj",
+      "Copies": 1
+    },
+    {
+      "Name": "Simorgh, Bird of Sovereignty",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Ferrijit the Barren Blossom",
+      "Copies": 1
+    },
+    {
+      "Name": "Tri-Brigade Shuraig the Ominous Omen",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Mist Valley Apex Avian",
+      "Copies": 1
+    },
+    {
+      "Name": "Mystic Mine",
+      "Copies": 3
+    },
+    {
+      "Name": "Twin Twisters",
+      "Copies": 3
+    },
+    {
+      "Name": "Harpie's Feather Storm",
+      "Copies": 3
+    },
+    {
+      "Name": "Red Reboot",
+      "Copies": 1
+    },
+    {
+      "Name": "Trap Trick",
+      "Copies": 3
+    }
+  ]
+}

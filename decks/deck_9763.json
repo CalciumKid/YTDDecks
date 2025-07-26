@@ -1,0 +1,172 @@
+{
+  "Date": "September 2023",
+  "Tournament": "YCS - Cancun Mexico",
+  "DeckName": "Unchained",
+  "DeckId": "9763",
+  "Duelist": "Aditya Dharap",
+  "Placed": "Top 8",
+  "Archetype": "Unchained",
+  "DeckProfile": "www.youtube.com/embed/DOH5JdWbalQ",
+  "MainDeck": [
+    {
+      "Name": "Abominable Unchained Soul",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "D/D/D Vice King Requiem",
+      "Copies": 1
+    },
+    {
+      "Name": "Fiendish Rhino Warrior",
+      "Copies": 1
+    },
+    {
+      "Name": "Kashtira Fenrir",
+      "Copies": 3
+    },
+    {
+      "Name": "Tour Guide From the Underworld",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Sharvara",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Soul of Shyama",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Aruha",
+      "Copies": 3
+    },
+    {
+      "Name": "Unchained Twins - Rakea",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Twins - Sarama",
+      "Copies": 1
+    },
+    {
+      "Name": "Abomination's Prison",
+      "Copies": 3
+    },
+    {
+      "Name": "Book of Eclipse",
+      "Copies": 3
+    },
+    {
+      "Name": "Dark Contract with the Gate",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Prosperity",
+      "Copies": 3
+    },
+    {
+      "Name": "Triple Tactics Talent",
+      "Copies": 1
+    },
+    {
+      "Name": "Triple Tactics Thrust",
+      "Copies": 1
+    },
+    {
+      "Name": "Wailing of the Unchained Souls",
+      "Copies": 1
+    },
+    {
+      "Name": "Abominable Chamber of the Unchained",
+      "Copies": 2
+    },
+    {
+      "Name": "Escape of the Unchained",
+      "Copies": 3
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "D/D/D Deviser King Deus Machinex",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Stone King Darius",
+      "Copies": 1
+    },
+    {
+      "Name": "D/D/D Wave High King Caesar",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Evil★Twin's Trouble Sunny",
+      "Copies": 1
+    },
+    {
+      "Name": "Knightmare Unicorn",
+      "Copies": 1
+    },
+    {
+      "Name": "Muckraker From the Underworld",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Abomination",
+      "Copies": 1
+    },
+    {
+      "Name": "Unchained Soul Lord of Yama",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Soul of Anguish",
+      "Copies": 2
+    },
+    {
+      "Name": "Unchained Soul of Rage",
+      "Copies": 2
+    },
+    {
+      "Name": "Underworld Goddess of the Closed World",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Bystial Druiswurm",
+      "Copies": 2
+    },
+    {
+      "Name": "Bystial Magnamhut",
+      "Copies": 2
+    },
+    {
+      "Name": "Evil★Twins Ki-sikil & Lil-la",
+      "Copies": 1
+    },
+    {
+      "Name": "Harpie's Feather Duster",
+      "Copies": 1
+    },
+    {
+      "Name": "Ultimate Slayer",
+      "Copies": 3
+    },
+    {
+      "Name": "Xyz Encore",
+      "Copies": 3
+    },
+    {
+      "Name": "Magic Deflector",
+      "Copies": 3
+    }
+  ]
+}

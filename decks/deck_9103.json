@@ -1,0 +1,148 @@
+{
+  "Date": "January 2022",
+  "Tournament": "Remote Duel Yu-Gi-Oh! Championship Series North America 2022",
+  "DeckName": "Swordsoul Tenyi",
+  "DeckId": "9103",
+  "Duelist": "Walter Jule",
+  "Placed": "2nd Place",
+  "Archetype": "Tenyi",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Archnemeses Protos",
+      "Copies": 1
+    },
+    {
+      "Name": "Ash Blossom & Joyous Spring",
+      "Copies": 3
+    },
+    {
+      "Name": "Effect Veiler",
+      "Copies": 3
+    },
+    {
+      "Name": "Incredible Ecclesia, the Virtuous",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Mo Ye",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul of Taia",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Strategist Longyuan",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Adhara",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Ashuna",
+      "Copies": 3
+    },
+    {
+      "Name": "Tenyi Spirit - Vishuda",
+      "Copies": 3
+    },
+    {
+      "Name": "Pot of Desires",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul Emergence",
+      "Copies": 3
+    },
+    {
+      "Name": "Vessel for the Dragon Cycle",
+      "Copies": 3
+    },
+    {
+      "Name": "Imperial Order",
+      "Copies": 1
+    },
+    {
+      "Name": "Infinite Impermanence",
+      "Copies": 3
+    },
+    {
+      "Name": "Swordsoul Blackout",
+      "Copies": 1
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Baronne de Fleur",
+      "Copies": 1
+    },
+    {
+      "Name": "Baxia, Brightness of the Yang Zing",
+      "Copies": 2
+    },
+    {
+      "Name": "Chaofeng, Phantom of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "Copies": 1
+    },
+    {
+      "Name": "Draco Berserker of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Gallant Granite",
+      "Copies": 1
+    },
+    {
+      "Name": "Shaman of the Tenyi",
+      "Copies": 1
+    },
+    {
+      "Name": "Swordsoul Grandmaster - Chixiao",
+      "Copies": 2
+    },
+    {
+      "Name": "Swordsoul Supreme Sovereign - Chengying",
+      "Copies": 1
+    },
+    {
+      "Name": "Yazi, Evil of the Yang Zing",
+      "Copies": 1
+    },
+    {
+      "Name": "Monk of the Tenyi",
+      "Copies": 3
+    },
+    {
+      "Name": "Shaman of the Tenyi",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Droll & Lock Bird",
+      "Copies": 3
+    },
+    {
+      "Name": "Nibiru, the Primal Being",
+      "Copies": 2
+    },
+    {
+      "Name": "PSY-Frame Driver",
+      "Copies": 1
+    },
+    {
+      "Name": "PSY-Framegear Gamma",
+      "Copies": 3
+    },
+    {
+      "Name": "Token Collector",
+      "Copies": 3
+    }
+  ]
+}

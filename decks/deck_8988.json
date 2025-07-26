@@ -1,0 +1,200 @@
+{
+  "Date": "August 2020",
+  "Tournament": "National Championship - Australia (Aug 2020)",
+  "DeckName": "Might of the King",
+  "DeckId": "8988",
+  "Duelist": "Jack Atlas",
+  "Placed": "10th Place",
+  "Archetype": "Red",
+  "DeckProfile": "",
+  "MainDeck": [
+    {
+      "Name": "Aleister the Invoker",
+      "Copies": 3
+    },
+    {
+      "Name": "Apocatequil",
+      "Copies": 1
+    },
+    {
+      "Name": "Barrier Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Dark Resonator",
+      "Copies": 3
+    },
+    {
+      "Name": "Force Resonator",
+      "Copies": 1
+    },
+    {
+      "Name": "Goblindbergh",
+      "Copies": 3
+    },
+    {
+      "Name": "Knightmare Goblin",
+      "Copies": 1
+    },
+    {
+      "Name": "Life Stream Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Maxx \"C\"",
+      "Copies": 4
+    },
+    {
+      "Name": "Mirror Resonator",
+      "Copies": 3
+    },
+    {
+      "Name": "Naturia Beast",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Resonator",
+      "Copies": 4
+    },
+    {
+      "Name": "Red Sprinter",
+      "Copies": 4
+    },
+    {
+      "Name": "Synkron Resonator",
+      "Copies": 3
+    },
+    {
+      "Name": "Tyler the Great Warrior",
+      "Copies": 4
+    },
+    {
+      "Name": "Vice Dragon",
+      "Copies": 2
+    },
+    {
+      "Name": "Instant Fusion",
+      "Copies": 1
+    },
+    {
+      "Name": "Invocation",
+      "Copies": 4
+    },
+    {
+      "Name": "Monster Reborn",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Vase",
+      "Copies": 3
+    },
+    {
+      "Name": "Reinforcement of the Army",
+      "Copies": 4
+    },
+    {
+      "Name": "Resonator Call",
+      "Copies": 4
+    },
+    {
+      "Name": "True King's Return",
+      "Copies": 4
+    }
+  ],
+  "ExtraDeck": [
+    {
+      "Name": "Hot Red Dragon Archfiend Abyss",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend Bane",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend King Calamity",
+      "Copies": 1
+    },
+    {
+      "Name": "Invoked Raidjin",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend",
+      "Copies": 4
+    },
+    {
+      "Name": "Red Nova Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Rising Dragon",
+      "Copies": 3
+    },
+    {
+      "Name": "Scarlight Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Stardust Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Thunder Dragon Colossus",
+      "Copies": 1
+    }
+  ],
+  "SideDeck": [
+    {
+      "Name": "Absolute King Back Jack",
+      "Copies": 3
+    },
+    {
+      "Name": "Ancient Fairy Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black Rose Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Black-Winged Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Duel Link Dragon, the Duel Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Eldlich the Golden Lord",
+      "Copies": 1
+    },
+    {
+      "Name": "Hot Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Majestic Red Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Power Tool Dragon",
+      "Copies": 1
+    },
+    {
+      "Name": "Red Dragon Archfiend/Assault Mode",
+      "Copies": 1
+    },
+    {
+      "Name": "Tyrant Red Dragon Archfiend",
+      "Copies": 1
+    },
+    {
+      "Name": "Raigeki",
+      "Copies": 1
+    },
+    {
+      "Name": "Soul Charge",
+      "Copies": 1
+    }
+  ]
+}
